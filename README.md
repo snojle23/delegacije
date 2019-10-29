@@ -1,3 +1,2 @@
 # delegacije
-Delegacije za sodit
-ali kej dela
+Program za štetje delegacij
