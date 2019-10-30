@@ -4,7 +4,6 @@ const http = require('http');
 const fs = require('fs');
 
   const getNewJson = function(){
-       console.log("sadsad");
     let req = http.get("http://delegacije.sinusiks.net/ext/ahl-ebel.php", function(res){
         
             let data = '',
@@ -15,8 +14,8 @@ const fs = require('fs');
             });
             res.on('end', function() {
                 json_data_url = JSON.parse(data);
-                magic(json_data_url);
-        
+                const ena = magic(json_data_url);
+                return ena;
             });
         });
         
@@ -33,15 +32,17 @@ function magic(json_data_url){
      
         json_data_url.forEach(element => {
             //console.log(p);
-           json_tekme = preveriJson(element.referee, element.location, element.date,json_tekme);
+           json_tekme = preveriJson(element.referee, element.location, element.date,element.competition,json_tekme);
         });
         fs.writeFileSync("json/tekme.json",JSON.stringify(json_tekme),(err) => {
             if (err) throw err;
             console.log('The file has been saved!');
+            
           });
+          
     };
 
-function preveriJson(sodnik,lokacija,datum,json_tekme){
+function preveriJson(sodnik,lokacija,datum,liga,json_tekme){
     let check = 0;
     json_tekme.forEach(datumJson => {
         
@@ -57,7 +58,7 @@ function preveriJson(sodnik,lokacija,datum,json_tekme){
             });
             if(check2 == 0){
                 let sodniki={ime:sodnik};
-                let lok = {lokacija:lokacija, sodniki:[sodniki]}
+                let lok = {lokacija:lokacija,liga:liga, sodniki:[sodniki]}
                 datumJson.lokacije.push(lok);
             }
             check = 1;
@@ -67,7 +68,7 @@ function preveriJson(sodnik,lokacija,datum,json_tekme){
     if(check == 0){
     //dodaj nov datum
         let sodniki={ime:sodnik};
-        let lok = {lokacija:lokacija, sodniki:[sodniki]}
+        let lok = {lokacija:lokacija,liga:liga, sodniki:[sodniki]}
         let novDatum={datum:datum,lokacije:[lok]};
 
         json_tekme.push(novDatum);   
