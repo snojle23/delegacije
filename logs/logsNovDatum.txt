@@ -1,5 +1,3 @@
 [Wed Oct 30 2019 02:11:54 GMT+0100 (GMT+01:00)] Nov datum dodan v AHL_DAT. Datum:2019-11-07
 [Wed Oct 30 2019 02:11:54 GMT+0100 (GMT+01:00)] Nov datum dodan v AHL_DAT. Datum:2019-11-09
-[Wed Oct 30 2019 02:11:54 GMT+0100 (GMT+01:00)] Nov datum dodan v AHL_DAT. Datum:2019-11-03
-[Wed Oct 30 2019 02:11:54 GMT+0100 (GMT+01:00)] Nov datum dodan v AHL_DAT. Datum:2019-11-19
 [Wed Oct 30 2019 02:15:01 GMT+0100 (GMT+01:00)] Nov datum dodan v AHL_DAT. Datum:2019-11-09

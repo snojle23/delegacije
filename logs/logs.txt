@@ -37,3 +37,23 @@
 [Wed Oct 30 2019 02:35:49 GMT+0100 (GMT+01:00)] Sodnik SNOJ uspesno zamenjal HOLZER Lokacija: Eishalle Dornbirn, Datum: 2019-10-30
 [Wed Oct 30 2019 02:37:23 GMT+0100 (GMT+01:00)] Sodnik Snoj uspesno zamenjal SNOJ Lokacija: Eishalle Dornbirn, Datum: 2019-10-30
 [Wed Oct 30 2019 02:38:08 GMT+0100 (GMT+01:00)] Sodnik HOLZER uspesno zamenjal Snoj Lokacija: Eishalle Dornbirn, Datum: 2019-10-30
+[Thu Oct 31 2019 14:23:22 GMT+0100 (GMT+01:00)] Sodnik PAHOR uspesno zamenjal PODLESNIK Lokacija: Eishalle Zell am See, Datum: 2019-11-02
+[Thu Oct 31 2019 14:23:22 GMT+0100 (GMT+01:00)] Sodnik GIACOMOZZI uspesno zamenjal BENVEGNU Lokacija: Pranives Wolkenstein, Datum: 2019-11-02
+[Thu Oct 31 2019 14:23:22 GMT+0100 (GMT+01:00)] Sodnik VIRTA uspesno zamenjal GIACOMOZZI Lokacija: Pranives Wolkenstein, Datum: 2019-11-02
+[Thu Oct 31 2019 18:38:58 GMT+0100 (GMT+01:00)] Nov sodnikHEJDUK uspesno dodan 
+[Thu Oct 31 2019 18:38:58 GMT+0100 (GMT+01:00)] Nov sodnikRAMPIR uspesno dodan 
+[Thu Oct 31 2019 18:38:58 GMT+0100 (GMT+01:00)] Nov sodnikSIR uspesno dodan 
+[Thu Oct 31 2019 18:38:58 GMT+0100 (GMT+01:00)] Nov sodnikLEDERER uspesno dodan 
+[Thu Oct 31 2019 18:38:58 GMT+0100 (GMT+01:00)] Nov sodnikBAUER uspesno dodan 
+[Thu Oct 31 2019 18:40:08 GMT+0100 (GMT+01:00)] Nov sodnikHEJDUK uspesno dodan 
+[Thu Oct 31 2019 18:40:08 GMT+0100 (GMT+01:00)] Nov sodnikRAMPIR uspesno dodan 
+[Thu Oct 31 2019 18:40:08 GMT+0100 (GMT+01:00)] Nov sodnikSIR uspesno dodan 
+[Thu Oct 31 2019 18:40:08 GMT+0100 (GMT+01:00)] Nov sodnikLEDERER uspesno dodan 
+[Thu Oct 31 2019 18:40:08 GMT+0100 (GMT+01:00)] Nov sodnikBAUER uspesno dodan 
+[Fri Nov 01 2019 17:18:07 GMT+0100 (GMT+01:00)] Nov sodnikHLAVATY uspesno dodan 
+[Fri Nov 01 2019 17:18:07 GMT+0100 (GMT+01:00)] Nov sodnikSTOLC uspesno dodan 
+[Fri Nov 01 2019 17:18:07 GMT+0100 (GMT+01:00)] Nov sodnikTSCHREPITSCH uspesno dodan 
+[Fri Nov 01 2019 18:28:14 GMT+0100 (GMT+01:00)] Nov sodnikPICHLER uspesno dodan 
+[Sat Nov 02 2019 17:01:13 GMT+0100 (GMT+01:00)] Sodnik BAJT uspesno zamenjal DURCHNER Lokacija: Ledena dvorana Podmežakla, Datum: 2019-11-02
+[Sat Nov 02 2019 17:01:13 GMT+0100 (GMT+01:00)] Sodnik JAVORNIK uspesno zamenjal MARCHARDT Lokacija: Ledena dvorana Podmežakla, Datum: 2019-11-02
+[Sat Nov 02 2019 17:01:13 GMT+0100 (GMT+01:00)] Sodnik LAZZERI uspesno zamenjal KUMMER Lokacija: Eishalle Zell am See, Datum: 2019-11-02
