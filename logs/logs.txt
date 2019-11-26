@@ -57,3 +57,148 @@
 [Sat Nov 02 2019 17:01:13 GMT+0100 (GMT+01:00)] Sodnik BAJT uspesno zamenjal DURCHNER Lokacija: Ledena dvorana Podmežakla, Datum: 2019-11-02
 [Sat Nov 02 2019 17:01:13 GMT+0100 (GMT+01:00)] Sodnik JAVORNIK uspesno zamenjal MARCHARDT Lokacija: Ledena dvorana Podmežakla, Datum: 2019-11-02
 [Sat Nov 02 2019 17:01:13 GMT+0100 (GMT+01:00)] Sodnik LAZZERI uspesno zamenjal KUMMER Lokacija: Eishalle Zell am See, Datum: 2019-11-02
+[Tue Nov 05 2019 20:02:21 GMT+0100 (GMT+01:00)] Sodnik GAMPER uspesno zamenjal BERNEKER Lokacija: Feldkirch Vorarlberghalle, Datum: 2019-11-07
+[Tue Nov 05 2019 20:02:21 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-12
+[Tue Nov 05 2019 20:02:21 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-14
+[Tue Nov 05 2019 20:02:21 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-14
+[Tue Nov 05 2019 20:02:21 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-14
+[Tue Nov 05 2019 20:02:21 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-14
+[Tue Nov 05 2019 20:02:21 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-14
+[Tue Nov 05 2019 20:02:21 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-16
+[Tue Nov 05 2019 20:02:21 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-16
+[Tue Nov 05 2019 20:02:21 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-16
+[Tue Nov 05 2019 20:02:21 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-16
+[Tue Nov 05 2019 20:02:21 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-16
+[Tue Nov 05 2019 20:02:21 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-16
+[Tue Nov 05 2019 20:02:21 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-16
+[Tue Nov 05 2019 20:02:21 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-16
+[Tue Nov 05 2019 20:02:21 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-16
+[Tue Nov 05 2019 20:02:21 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-17
+[Tue Nov 05 2019 20:02:21 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-17
+[Tue Nov 05 2019 20:02:21 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-17
+[Tue Nov 05 2019 20:02:21 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-19
+[Tue Nov 05 2019 20:02:21 GMT+0100 (GMT+01:00)] Nov sodnikSIEGEL uspesno dodan 
+[Tue Nov 05 2019 20:03:30 GMT+0100 (GMT+01:00)] Sodnik GAMPER uspesno zamenjal BERNEKER Lokacija: Feldkirch Vorarlberghalle, Datum: 2019-11-07
+[Tue Nov 05 2019 20:03:30 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-12
+[Tue Nov 05 2019 20:03:30 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-14
+[Tue Nov 05 2019 20:03:30 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-14
+[Tue Nov 05 2019 20:03:30 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-14
+[Tue Nov 05 2019 20:03:30 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-14
+[Tue Nov 05 2019 20:03:30 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-14
+[Tue Nov 05 2019 20:03:31 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-16
+[Tue Nov 05 2019 20:03:31 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-16
+[Tue Nov 05 2019 20:03:31 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-16
+[Tue Nov 05 2019 20:03:31 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-16
+[Tue Nov 05 2019 20:03:31 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-16
+[Tue Nov 05 2019 20:03:31 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-16
+[Tue Nov 05 2019 20:03:31 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-16
+[Tue Nov 05 2019 20:03:31 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-16
+[Tue Nov 05 2019 20:03:31 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-16
+[Tue Nov 05 2019 20:03:31 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-17
+[Tue Nov 05 2019 20:03:31 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-17
+[Tue Nov 05 2019 20:03:31 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-17
+[Tue Nov 05 2019 20:03:31 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-19
+[Tue Nov 05 2019 20:03:31 GMT+0100 (GMT+01:00)] Nov sodnikSIEGEL uspesno dodan 
+[Thu Nov 07 2019 23:22:09 GMT+0100 (GMT+01:00)] Sodnik HOLZER uspesno zamenjal STOLC Lokacija: Feldkirch Vorarlberghalle, Datum: 2019-11-07
+[Wed Nov 13 2019 18:09:54 GMT+0100 (GMT+01:00)] Nov sodnikMARTIN uspesno dodan 
+[Wed Nov 13 2019 18:09:54 GMT+0100 (GMT+01:00)] Nov sodnikTSCHERRIG uspesno dodan 
+[Wed Nov 13 2019 18:09:54 GMT+0100 (GMT+01:00)] Nov sodnikSCHWENK uspesno dodan 
+[Fri Nov 15 2019 08:57:46 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-21
+[Fri Nov 15 2019 08:57:46 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-21
+[Fri Nov 15 2019 08:57:46 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-21
+[Fri Nov 15 2019 08:57:46 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-21
+[Fri Nov 15 2019 08:57:46 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-21
+[Fri Nov 15 2019 08:57:46 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-21
+[Fri Nov 15 2019 08:57:46 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-21
+[Fri Nov 15 2019 08:57:46 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-23
+[Fri Nov 15 2019 08:57:46 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-23
+[Fri Nov 15 2019 08:57:46 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-23
+[Fri Nov 15 2019 08:57:46 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-23
+[Fri Nov 15 2019 08:57:46 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-23
+[Fri Nov 15 2019 08:57:46 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-23
+[Fri Nov 15 2019 08:57:46 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-23
+[Fri Nov 15 2019 08:57:46 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-23
+[Fri Nov 15 2019 08:57:46 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-23
+[Fri Nov 15 2019 08:57:46 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-24
+[Fri Nov 15 2019 08:57:46 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-24
+[Fri Nov 15 2019 08:57:46 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-25
+[Fri Nov 15 2019 08:57:46 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-26
+[Fri Nov 15 2019 08:57:46 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-26
+[Fri Nov 15 2019 08:57:46 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-27
+[Fri Nov 15 2019 08:57:46 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-27
+[Fri Nov 15 2019 08:57:46 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-28
+[Fri Nov 15 2019 08:57:46 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-28
+[Fri Nov 15 2019 08:57:46 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-28
+[Fri Nov 15 2019 08:57:46 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-28
+[Fri Nov 15 2019 08:57:46 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-28
+[Fri Nov 15 2019 08:57:46 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-28
+[Fri Nov 15 2019 08:57:46 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-30
+[Fri Nov 15 2019 08:57:46 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-30
+[Fri Nov 15 2019 08:57:46 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-30
+[Fri Nov 15 2019 08:57:46 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-30
+[Fri Nov 15 2019 08:57:46 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-30
+[Fri Nov 15 2019 08:57:46 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-30
+[Fri Nov 15 2019 08:57:46 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-30
+[Fri Nov 15 2019 08:57:46 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-30
+[Fri Nov 15 2019 08:57:46 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-12-01
+[Sat Nov 16 2019 08:39:28 GMT+0100 (GMT+01:00)] Sodnik PACE uspesno zamenjal MARTIN Lokacija: Lustenau Rheinhalle, Datum: 2019-11-16
+[Sat Nov 16 2019 08:39:42 GMT+0100 (GMT+01:00)] Sodnik PACE uspesno zamenjal MARTIN Lokacija: Lustenau Rheinhalle, Datum: 2019-11-16
+[Sat Nov 16 2019 15:31:26 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-11-21
+[Sat Nov 16 2019 15:31:26 GMT+0100 (GMT+01:00)] Nov sodnikGATOL uspesno dodan 
+[Tue Nov 19 2019 17:53:11 GMT+0100 (GMT+01:00)] Sodnik HOLZER uspesno zamenjal RIGONI Lokacija: Stadio Olympico, Datum: 2019-11-30
+[Tue Nov 19 2019 17:53:11 GMT+0100 (GMT+01:00)] Sodnik RIGONI uspesno zamenjal SCHWEIGHOFER Lokacija: Stadio Olympico, Datum: 2019-11-30
+[Tue Nov 19 2019 17:53:11 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-12-05
+[Tue Nov 19 2019 17:53:11 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-12-05
+[Tue Nov 19 2019 17:53:11 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-12-05
+[Tue Nov 19 2019 17:53:11 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-12-05
+[Tue Nov 19 2019 17:53:11 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-12-05
+[Tue Nov 19 2019 17:53:11 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-12-07
+[Tue Nov 19 2019 17:53:11 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-12-07
+[Tue Nov 19 2019 17:53:11 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-12-07
+[Tue Nov 19 2019 17:53:11 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-12-07
+[Tue Nov 19 2019 17:53:11 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-12-07
+[Tue Nov 19 2019 17:53:11 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-12-11
+[Tue Nov 19 2019 17:53:11 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-12-14
+[Tue Nov 19 2019 17:53:11 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-12-14
+[Tue Nov 19 2019 17:53:11 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-12-14
+[Tue Nov 19 2019 17:53:11 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-12-14
+[Tue Nov 19 2019 17:53:11 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-12-14
+[Tue Nov 19 2019 17:53:11 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-12-14
+[Tue Nov 19 2019 17:53:11 GMT+0100 (GMT+01:00)] Nov sodnikEISL uspesno dodan 
+[Tue Nov 19 2019 20:04:02 GMT+0100 (GMT+01:00)] Sodnik BENVEGNU uspesno zamenjal GIACOMOZZI Lokacija: Kitzbühel Sportpark, Datum: 2019-11-21
+[Tue Nov 19 2019 20:04:02 GMT+0100 (GMT+01:00)] Sodnik GIACOMOZZI uspesno zamenjal LAZZERI Lokacija: Kitzbühel Sportpark, Datum: 2019-11-21
+[Tue Nov 19 2019 20:04:02 GMT+0100 (GMT+01:00)] Sodnik LAZZERI uspesno zamenjal BENVEGNU Lokacija: Stadio Olympico, Datum: 2019-11-21
+[Tue Nov 19 2019 20:04:02 GMT+0100 (GMT+01:00)] Sodnik MARKIZETI uspesno zamenjal BERGANT Lokacija: Eissporthalle Linz, Datum: 2019-11-23
+[Tue Nov 19 2019 20:04:02 GMT+0100 (GMT+01:00)] Sodnik EISL uspesno zamenjal MARKIZETI Lokacija: Weihenstephan Arena, Datum: 2019-11-23
+[Tue Nov 19 2019 20:04:02 GMT+0100 (GMT+01:00)] Sodnik SCHAUER uspesno zamenjal GIACOMOZZI Lokacija: Rienzstadion Bruneck, Datum: 2019-11-23
+[Tue Nov 19 2019 20:04:02 GMT+0100 (GMT+01:00)] Sodnik STOLC uspesno zamenjal SCHAUER Lokacija: Rienzstadion Bruneck, Datum: 2019-11-23
+[Tue Nov 19 2019 20:04:02 GMT+0100 (GMT+01:00)] Nov sodnikSTOLC uspesno dodan 
+[Wed Nov 20 2019 21:03:55 GMT+0100 (GMT+01:00)] Nov sodnikHEBEISEN uspesno dodan 
+[Fri Nov 22 2019 08:36:32 GMT+0100 (GMT+01:00)] Sodnik WIDMANN uspesno zamenjal LENDL Lokacija: Klagenfurt Stadthalle, Datum: 2019-11-28
+[Fri Nov 22 2019 08:36:32 GMT+0100 (GMT+01:00)] Sodnik LEGA uspesno zamenjal HOLZER Lokacija: Dornbirn Messestadion, Datum: 2019-12-07
+[Fri Nov 22 2019 08:36:32 GMT+0100 (GMT+01:00)] Sodnik SCHAUER uspesno zamenjal LEGA Lokacija: Dornbirn Messestadion, Datum: 2019-12-07
+[Fri Nov 22 2019 08:36:32 GMT+0100 (GMT+01:00)] Sodnik LENDL uspesno zamenjal WIDMANN Lokacija: Eishalle Zell am See, Datum: 2019-12-14
+[Fri Nov 22 2019 08:36:32 GMT+0100 (GMT+01:00)] Nov sodnikKIS-KIRALY uspesno dodan 
+[Sat Nov 23 2019 21:03:53 GMT+0100 (GMT+01:00)] Sodnik KAINBERGER uspesno zamenjal HOLZER Lokacija: Eisarena Salzburg, Datum: 2019-11-28
+[Sat Nov 23 2019 21:03:53 GMT+0100 (GMT+01:00)] Sodnik LEGAT uspesno zamenjal KAINBERGER Lokacija: Eisarena Salzburg, Datum: 2019-11-28
+[Sat Nov 23 2019 21:03:53 GMT+0100 (GMT+01:00)] Sodnik HOLZER uspesno zamenjal LEGAT Lokacija: Klagenfurt Stadthalle, Datum: 2019-11-28
+[Mon Nov 25 2019 18:58:54 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-12-17
+[Mon Nov 25 2019 18:58:54 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-12-17
+[Mon Nov 25 2019 18:58:54 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-12-17
+[Mon Nov 25 2019 18:58:54 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-12-19
+[Mon Nov 25 2019 18:58:54 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-12-19
+[Mon Nov 25 2019 18:58:54 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-12-19
+[Mon Nov 25 2019 18:58:54 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-12-19
+[Mon Nov 25 2019 18:58:54 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-12-20
+[Mon Nov 25 2019 18:58:54 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-12-20
+[Mon Nov 25 2019 18:58:54 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-12-21
+[Mon Nov 25 2019 18:58:54 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-12-21
+[Mon Nov 25 2019 18:58:54 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-12-21
+[Mon Nov 25 2019 18:58:54 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-12-21
+[Mon Nov 25 2019 18:58:54 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-12-21
+[Mon Nov 25 2019 18:58:54 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-12-21
+[Mon Nov 25 2019 18:58:54 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-12-23
+[Mon Nov 25 2019 18:58:54 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2019-12-23
+[Tue Nov 26 2019 07:29:06 GMT+0100 (GMT+01:00)] Nov sodnikRIGONI uspesno dodan 
+[Tue Nov 26 2019 07:29:06 GMT+0100 (GMT+01:00)] Nov sodnikKOPETZ uspesno dodan 
+[Tue Nov 26 2019 07:29:06 GMT+0100 (GMT+01:00)] Nov sodnikRIECKEN uspesno dodan 

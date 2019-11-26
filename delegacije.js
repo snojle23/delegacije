@@ -130,7 +130,7 @@ function magic(json_data) {
                                             pattern:'darkVertical',
                                             fgColor:{argb:'FFFF0000'}
                                           };
-                                        console.log("Sodniku" +seznamAhl[o] +" se je izbrisal datum iz AHL sheme. Datum:"+ datee);
+                                        console.log("Sodniku " +seznamAhl[o] +" se je izbrisal datum iz AHL sheme. Datum:"+ datee);
                                     }
                                     roow++;
                                 }
@@ -157,7 +157,7 @@ function updateAhlSchema(datum1, ahl_dat, ahl_dat_string,cell) {
         ahl_dat.getRow(3).getCell(cell).value = datum1;
         let today = new Date();
         fs.appendFileSync("logs/logsNovDatum.txt", "[" + today + "] " + "Nov datum dodan v AHL_DAT. Datum:" + datum1 + "\n");
-        console.log("Nov datum dodan v AHL_DAT shemo");
+        console.log("Nov datum dodan v AHL_DAT shemo" + today);
     }
 
     let countRow = 4;
@@ -219,7 +219,7 @@ function dodajDatumSodnik(worksheet, countCell, datum, sodnik) {
     while (1) {
         if (worksheet.getRow(countRow).getCell(countCell).value == null) {
             worksheet.getRow(countRow).getCell(countCell).value = datum;
-            console.log(" za sodnika " + sodnik + "dodan nov datum" + datum);
+            console.log(" za sodnika " + sodnik + " dodan nov datum " + datum + " [EBEL]");
             return;
         }
         else if (worksheet.getRow(countRow).getCell(countCell).value == datum) {
@@ -285,7 +285,7 @@ function dodajSodnikomDatum(worksheet, list, datum){
             rowSudija++;
         }
         worksheet.getRow(rowSudija).getCell(cellSodnik).value = datum;
-        console.log("Za sodnika " + sodnik+ " dodan nov datum: "+datum);
+        console.log("Za sodnika " + sodnik+ " dodan nov datum: "+datum + " [AHL]" );
 
     });
 }
