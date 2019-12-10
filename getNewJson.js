@@ -3,7 +3,7 @@
 const http = require('http');
 const fs = require('fs');
 
-  const getNewJson = function(){
+
     let req = http.get("http://delegacije.sinusiks.net/ext/ahl-ebel.php", function(res){
         
             let data = '',
@@ -21,8 +21,10 @@ const fs = require('fs');
         
         req.on('error', function(e) {
             console.log(e.message);
+            
         });
-    }
+        return "done";
+
 
 function magic(json_data_url){
     //
