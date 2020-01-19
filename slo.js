@@ -15,8 +15,9 @@ function odpriExcel() {
         let countGSlo = 0;
         let countLSlo = 0;
 
-        let countGAu = 0;
-        let countLAu = 0;
+        //zard tega k ma Julija eno kot glavni
+        let countGAu = 1;
+        let countLAu = -1;
         let holzerL;
         let holzerG;
         let huberG;

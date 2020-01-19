@@ -111,9 +111,7 @@ function magic(json_data) {
                             if(!tekma){
                                 zaDodat.push(sodnikNovDatum);
                                 
-                            }
-                           
-                            
+                            }              
                         });
                         let o;
                         for(o=0; o<seznamAhl.length; o++ ){
@@ -125,16 +123,16 @@ function magic(json_data) {
                                 while((zbrisat = workAHL.getRow(roow).getCell(cellSodnik).value )!= null){
                                     if(zbrisat == datee){
                                         workAHL.getRow(roow).getCell(cellSodnik).value="zbrisano";
-                                        workAHL.getRow(roow).getCell(cellSodnik).fill = {
-                                            type: 'pattern',
-                                            pattern:'darkVertical',
-                                            fgColor:{argb:'FFFF0000'}
-                                          };
+                                        // workAHL.getRow(roow).getCell(cellSodnik).fill = {
+                                        //     type: 'pattern',
+                                        //     pattern:'solid',
+                                        //     fgColor:{argb:'cccccc'}
+                                        //   };
                                         console.log("Sodniku " +seznamAhl[o] +" se je izbrisal datum iz AHL sheme. Datum:"+ datee);
+                                        return;
                                     }
                                     roow++;
                                 }
-
                             }
                         }
 
