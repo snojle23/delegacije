@@ -253,3 +253,112 @@
 [Sat Dec 07 2019 22:58:08 GMT+0100 (GMT+01:00)] Sodnik DE ZORDO uspesno zamenjal BASSO Lokacija: Kitzbühel Sportpark, Datum: 2019-12-19
 [Sat Dec 07 2019 22:58:08 GMT+0100 (GMT+01:00)] Sodnik VIRTA uspesno zamenjal BENVEGNU Lokacija: Rienzstadion Bruneck, Datum: 2019-12-21
 [Sat Dec 07 2019 22:58:08 GMT+0100 (GMT+01:00)] Sodnik WALLNER uspesno zamenjal VIRTA Lokacija: Rienzstadion Bruneck, Datum: 2019-12-21
+[Fri Dec 13 2019 08:47:47 GMT+0100 (GMT+01:00)] Sodnik GIACOMOZZI uspesno zamenjal HOLZER Lokacija: Feldkirch Vorarlberghalle, Datum: 2019-12-14
+[Fri Dec 13 2019 08:47:47 GMT+0100 (GMT+01:00)] Nov sodnikMULLER uspesno dodan EBEL
+[Fri Dec 13 2019 08:47:47 GMT+0100 (GMT+01:00)] Nov sodnikFUCHS uspesno dodan EBEL
+[Fri Dec 13 2019 08:47:48 GMT+0100 (GMT+01:00)] Nov sodnikRUETZ uspesno dodan EBEL
+[Fri Dec 13 2019 08:47:48 GMT+0100 (GMT+01:00)] Nov sodnikVIRTA uspesno dodan EBEL
+[Fri Dec 13 2019 08:47:48 GMT+0100 (GMT+01:00)] Nov sodnikSTEFIK uspesno dodan EBEL
+[Sat Dec 14 2019 16:25:35 GMT+0100 (GMT+01:00)] Sodnik GAMPER uspesno zamenjal PINIE Lokacija: Dornbirn Messestadion, Datum: 2019-12-14
+[Sat Dec 14 2019 16:25:35 GMT+0100 (GMT+01:00)] Sodnik PINIE uspesno zamenjal GAMPER Lokacija: Stadio Olympico, Datum: 2019-12-14
+[Mon Dec 16 2019 18:26:19 GMT+0100 (GMT+01:00)] Sodnik PIRAS uspesno zamenjal JAVORNIK Lokacija: Hala Tivoli Ljubljana, Datum: 2019-12-21
+[Mon Dec 16 2019 18:26:19 GMT+0100 (GMT+01:00)] Sodnik SNOJ uspesno zamenjal PIRAS Lokacija: Hala Tivoli Ljubljana, Datum: 2019-12-21
+[Wed Dec 18 2019 13:07:47 GMT+0100 (GMT+01:00)] Sodnik RUETZ uspesno zamenjal WIDMANN Lokacija: Dornbirn Messestadion, Datum: 2019-12-26
+[Wed Dec 18 2019 13:07:47 GMT+0100 (GMT+01:00)] Sodnik WIDMANN uspesno zamenjal PODLESNIK Lokacija: Lustenau Rheinhalle, Datum: 2019-12-26
+[Wed Dec 18 2019 21:21:56 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-01-02
+[Wed Dec 18 2019 21:21:56 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-01-02
+[Wed Dec 18 2019 21:21:56 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-01-02
+[Wed Dec 18 2019 21:21:56 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-01-02
+[Wed Dec 18 2019 21:21:56 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-01-02
+[Wed Dec 18 2019 21:21:56 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-01-02
+[Wed Dec 18 2019 21:21:56 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-01-02
+[Wed Dec 18 2019 21:21:56 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-01-02
+[Wed Dec 18 2019 21:21:56 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-01-02
+[Wed Dec 18 2019 21:21:56 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-01-04
+[Wed Dec 18 2019 21:21:56 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-01-04
+[Wed Dec 18 2019 21:21:56 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-01-04
+[Wed Dec 18 2019 21:21:56 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-01-04
+[Wed Dec 18 2019 21:21:56 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-01-04
+[Wed Dec 18 2019 21:21:56 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-01-04
+[Wed Dec 18 2019 21:21:56 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-01-04
+[Wed Dec 18 2019 21:21:56 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-01-06
+[Wed Dec 18 2019 21:21:56 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-01-06
+[Wed Dec 18 2019 21:21:56 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-01-06
+[Wed Dec 18 2019 21:21:56 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-01-06
+[Wed Dec 18 2019 21:21:56 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-01-06
+[Wed Dec 18 2019 21:21:56 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-01-06
+[Wed Dec 18 2019 21:21:56 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-01-06
+[Wed Dec 18 2019 21:21:56 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-01-06
+[Wed Dec 18 2019 21:21:56 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-01-09
+[Wed Dec 18 2019 21:21:56 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-01-09
+[Wed Dec 18 2019 21:21:56 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-01-09
+[Wed Dec 18 2019 21:21:56 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-01-09
+[Wed Dec 18 2019 21:21:56 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-01-09
+[Wed Dec 18 2019 21:21:56 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-01-09
+[Wed Dec 18 2019 21:21:56 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-01-09
+[Wed Dec 18 2019 21:21:56 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-01-10
+[Wed Dec 18 2019 21:21:56 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-01-11
+[Wed Dec 18 2019 21:21:56 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-01-11
+[Wed Dec 18 2019 21:21:56 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-01-11
+[Wed Dec 18 2019 21:21:56 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-01-11
+[Wed Dec 18 2019 21:21:56 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-01-11
+[Wed Dec 18 2019 21:21:56 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-01-11
+[Wed Dec 18 2019 21:21:56 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-01-11
+[Wed Dec 18 2019 21:21:56 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-01-12
+[Fri Dec 20 2019 17:17:44 GMT+0100 (GMT+01:00)] Sodnik CRISTELI uspesno zamenjal RIGONI Lokacija: Rienzstadion Bruneck, Datum: 2020-01-04
+[Fri Dec 20 2019 17:17:44 GMT+0100 (GMT+01:00)] Sodnik RIGONI uspesno zamenjal SLAVIERO Lokacija: Rienzstadion Bruneck, Datum: 2020-01-04
+[Fri Dec 20 2019 17:17:44 GMT+0100 (GMT+01:00)] Sodnik GIACOMOZZI uspesno zamenjal CRISTELI Lokacija: Pala Hodegart, Datum: 2020-01-06
+[Fri Dec 20 2019 17:17:44 GMT+0100 (GMT+01:00)] Sodnik SLAVIERO uspesno zamenjal GIACOMOZZI Lokacija: Pala Hodegart, Datum: 2020-01-06
+[Fri Dec 20 2019 17:17:44 GMT+0100 (GMT+01:00)] Sodnik MANTOVANI uspesno zamenjal MARTIN Lokacija: Lustenau Rheinhalle, Datum: 2020-01-09
+[Fri Dec 20 2019 17:17:44 GMT+0100 (GMT+01:00)] Sodnik MARTIN uspesno zamenjal RIGONI Lokacija: Lustenau Rheinhalle, Datum: 2020-01-09
+[Mon Dec 23 2019 22:49:38 GMT+0100 (GMT+01:00)] Sodnik JAVORNIK uspesno zamenjal MARKIZETI Lokacija: Pala Hodegart, Datum: 2019-12-30
+[Mon Dec 23 2019 22:49:38 GMT+0100 (GMT+01:00)] Sodnik MOIDL uspesno zamenjal BASSO Lokacija: Feldkirch Vorarlberghalle, Datum: 2020-01-04
+[Mon Dec 23 2019 22:49:38 GMT+0100 (GMT+01:00)] Sodnik PIRAS uspesno zamenjal MOIDL Lokacija: Feldkirch Vorarlberghalle, Datum: 2020-01-04
+[Sat Jan 04 2020 11:14:43 GMT+0100 (GMT+01:00)] Sodnik MARKIZETI uspesno zamenjal BERGANT Lokacija: Hala Tivoli Ljubljana, Datum: 2020-01-09
+[Sat Jan 04 2020 11:14:43 GMT+0100 (GMT+01:00)] Sodnik BERGANT uspesno zamenjal MARKIZETI Lokacija: Stadio Olympico, Datum: 2020-01-09
+[Sun Jan 05 2020 19:32:01 GMT+0100 (GMT+01:00)] Sodnik JAVORNIK uspesno zamenjal KAINBERGER Lokacija: Ledena dvorana Podmežakla, Datum: 2020-01-06
+[Sun Jan 05 2020 19:32:01 GMT+0100 (GMT+01:00)] Sodnik KAINBERGER uspesno zamenjal WIMMLER Lokacija: Ledena dvorana Podmežakla, Datum: 2020-01-06
+[Wed Jan 08 2020 20:01:01 GMT+0100 (GMT+01:00)] Sodnik FICHTNER uspesno zamenjal RUETZ Lokacija: Eissporthalle Linz, Datum: 2020-01-09
+[Wed Jan 08 2020 20:01:01 GMT+0100 (GMT+01:00)] Sodnik LEGAT uspesno zamenjal MARCHARDT Lokacija: Eissporthalle Linz, Datum: 2020-01-09
+[Wed Jan 08 2020 20:01:01 GMT+0100 (GMT+01:00)] Sodnik MARCHARDT uspesno zamenjal WEISS Lokacija: Eissporthalle Linz, Datum: 2020-01-09
+[Wed Jan 08 2020 20:01:01 GMT+0100 (GMT+01:00)] Sodnik PIRAS uspesno zamenjal PACE Lokacija: Stadio del Ghiaccio Gianmario Scola, Datum: 2020-01-09
+[Wed Jan 08 2020 20:01:01 GMT+0100 (GMT+01:00)] Sodnik BEDANA uspesno zamenjal BERGANT Lokacija: Stadio Olympico, Datum: 2020-01-09
+[Wed Jan 08 2020 20:01:01 GMT+0100 (GMT+01:00)] Sodnik BERGANT uspesno zamenjal SLAVIERO Lokacija: Stadio Olympico, Datum: 2020-01-09
+[Wed Jan 08 2020 20:01:01 GMT+0100 (GMT+01:00)] Sodnik BAJT uspesno zamenjal LESNIAK Lokacija: Klagenfurt Stadthalle, Datum: 2020-01-11
+[Wed Jan 08 2020 20:01:01 GMT+0100 (GMT+01:00)] Sodnik RIECKEN uspesno zamenjal LEGAT Lokacija: Eisarena Salzburg, Datum: 2020-01-11
+[Wed Jan 08 2020 20:01:01 GMT+0100 (GMT+01:00)] Sodnik WEISS uspesno zamenjal RIECKEN Lokacija: Eisarena Salzburg, Datum: 2020-01-11
+[Wed Jan 08 2020 20:01:01 GMT+0100 (GMT+01:00)] Sodnik LESNIAK uspesno zamenjal BAJT Lokacija: Rienzstadion Bruneck, Datum: 2020-01-11
+[Wed Jan 08 2020 20:01:01 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-01-12
+[Wed Jan 08 2020 20:01:01 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-01-14
+[Wed Jan 08 2020 20:01:01 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-01-14
+[Wed Jan 08 2020 20:01:01 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-01-15
+[Wed Jan 08 2020 20:01:01 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-01-16
+[Wed Jan 08 2020 20:01:01 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-01-17
+[Wed Jan 08 2020 20:01:01 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-01-18
+[Wed Jan 08 2020 20:01:01 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-01-18
+[Wed Jan 08 2020 20:01:01 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-01-18
+[Wed Jan 08 2020 20:01:01 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-01-18
+[Wed Jan 08 2020 20:01:01 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-01-18
+[Wed Jan 08 2020 20:01:01 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-01-18
+[Wed Jan 08 2020 20:01:01 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-01-18
+[Wed Jan 08 2020 20:01:01 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-01-18
+[Wed Jan 08 2020 20:01:01 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-01-18
+[Fri Jan 10 2020 16:46:56 GMT+0100 (GMT+01:00)] Sodnik SNOJ uspesno zamenjal JAVORNIK Lokacija: Eishalle Asiago, Datum: 2020-01-12
+[Sun Jan 12 2020 13:37:44 GMT+0100 (GMT+01:00)] Sodnik BERGANT uspesno zamenjal BEDANA Lokacija: Pranives Wolkenstein, Datum: 2020-01-12
+[Sun Jan 12 2020 13:37:44 GMT+0100 (GMT+01:00)] Sodnik PIRAS uspesno zamenjal BERGANT Lokacija: Pranives Wolkenstein, Datum: 2020-01-12
+[Sun Jan 12 2020 13:37:44 GMT+0100 (GMT+01:00)] Sodnik HOLZER uspesno zamenjal MARCHARDT Lokacija: Hala Tivoli Ljubljana, Datum: 2020-01-14
+[Thu Jan 16 2020 18:41:31 GMT+0100 (GMT+01:00)] Nov sodnikWIMMLER uspesno dodan 
+[Thu Jan 16 2020 18:41:31 GMT+0100 (GMT+01:00)] Sodnik HOLZER uspesno zamenjal LEGA Lokacija: Dornbirn Messestadion, Datum: 2020-01-18
+[Thu Jan 16 2020 18:41:31 GMT+0100 (GMT+01:00)] Sodnik LEGA uspesno zamenjal WALLNER Lokacija: Dornbirn Messestadion, Datum: 2020-01-18
+[Thu Jan 16 2020 18:41:31 GMT+0100 (GMT+01:00)] Sodnik VIRTA uspesno zamenjal WIDMANN Lokacija: Pala Hodegart, Datum: 2020-01-18
+[Thu Jan 16 2020 18:41:31 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-01-23
+[Thu Jan 16 2020 18:41:31 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-01-23
+[Thu Jan 16 2020 18:41:48 GMT+0100 (GMT+01:00)] Nov sodnikWIMMLER uspesno dodan 
+[Thu Jan 16 2020 18:41:48 GMT+0100 (GMT+01:00)] Sodnik HOLZER uspesno zamenjal LEGA Lokacija: Dornbirn Messestadion, Datum: 2020-01-18
+[Thu Jan 16 2020 18:41:48 GMT+0100 (GMT+01:00)] Sodnik LEGA uspesno zamenjal WALLNER Lokacija: Dornbirn Messestadion, Datum: 2020-01-18
+[Thu Jan 16 2020 18:41:48 GMT+0100 (GMT+01:00)] Sodnik VIRTA uspesno zamenjal WIDMANN Lokacija: Pala Hodegart, Datum: 2020-01-18
+[Thu Jan 16 2020 18:41:48 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-01-23
+[Thu Jan 16 2020 18:41:48 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-01-23
+[Sun Jan 19 2020 00:23:00 GMT+0100 (GMT+01:00)] Sodnik MOSCHEN uspesno zamenjal PAHOR Lokacija: Stadio del Ghiaccio Gianmario Scola, Datum: 2020-01-18
+[Sun Jan 19 2020 00:23:00 GMT+0100 (GMT+01:00)] Sodnik BASSO uspesno zamenjal MARKIZETI Lokacija: Stadio del Ghiaccio Gianmario Scola, Datum: 2020-01-18
+[Sun Jan 19 2020 00:23:00 GMT+0100 (GMT+01:00)] Sodnik DE ZORDO uspesno zamenjal SNOJ Lokacija: Stadio del Ghiaccio Gianmario Scola, Datum: 2020-01-18
