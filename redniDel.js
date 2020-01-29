@@ -5,7 +5,7 @@ const fs = require('fs')
 function odpriExcel() {
     var workbook = new exceljs.Workbook();
 
-    workbook.xlsx.readFile('data/AHLdelegacije.xlsx').then(workbook => {
+    workbook.xlsx.readFile('data/AHLdelegacije - Konec rednega.xlsx').then(workbook => {
 
 
 
@@ -18,12 +18,6 @@ function odpriExcel() {
         //zard tega k ma Julija eno kot glavni
         let countGAu = 1;
         let countLAu = -1;
-        let holzerL;
-        let holzerG;
-        let huberG;
-        let huberL;
-        let brataG;
-        let brataL;
         let countGIta = 0;
         let countLIta = 0;
         let reisiG;
@@ -57,6 +51,7 @@ function odpriExcel() {
                     const vrni = prestej(worksheet, count);
                     reisiG = vrni.glavni;
                     reisiL = vrni.linic;
+                    console.log("g:",reisiG,"L",reisiL);
                 }
             }
             else if (worksheet.getRow(1).getCell(count).value == "ita") {
@@ -67,26 +62,6 @@ function odpriExcel() {
                 else if (worksheet.getRow(3).getCell(count).fill.fgColor.argb == "FF00B0F0") {
                     countLIta += worksheet.getRow(2).getCell(count).value.result;
                 }
-                else if (worksheet.getRow(3).getCell(count).value = "GIACOMOZZI") {
-                    const vrni = prestej(worksheet, count);
-                    brataG = vrni.glavni || 0;
-                    brataL = vrni.linic || 0;
-                }
-            }
-            else if (worksheet.getRow(1).getCell(count).value == "au?") {
-                if (worksheet.getRow(3).getCell(count).value == "HOLZER") {
-
-                    const vrni = prestej(worksheet, count);
-                    holzerG = vrni.glavni || 0;
-                    holzerL = vrni.linic || 0;
-
-                }
-                else if (worksheet.getRow(3).getCell(count).value == "HUBER") {
-
-                    const vrni = prestej(worksheet, count);
-                    huberG = vrni.glavni || 0;
-                    huberL = vrni.linic || 0;
-                }
             }
             else if (count > 200) {
                 return 1;
@@ -95,10 +70,10 @@ function odpriExcel() {
             count++;
 
         }
-        const vsiAvstriciGlavni = (countGAu + reisiG +holzerG + huberG -1);
-        const vsiAvstriciLiniski = (countLAu + reisiL +holzerL + huberL);
-        const vsiItaljaniGlavni = (countGIta + brataG);
-        const vsiItaljaniLinici = (countLIta + brataL);
+        const vsiAvstriciGlavni = (countGAu + reisiG -1);
+        const vsiAvstriciLiniski = (countLAu + reisiL);
+        const vsiItaljaniGlavni = (countGIta );
+        const vsiItaljaniLinici = (countLIta );
         const vsiGlavni = (vsiAvstriciGlavni + vsiItaljaniGlavni + countGSlo);
         const vsiLinici = (vsiAvstriciLiniski + vsiItaljaniLinici + countLSlo)
 
