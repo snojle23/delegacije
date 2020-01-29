@@ -380,3 +380,4 @@
 [Thu Jan 23 2020 15:35:14 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-02-01
 [Thu Jan 23 2020 15:35:14 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-02-01
 [Thu Jan 23 2020 15:35:14 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-02-01
+[Tue Jan 28 2020 15:30:32 GMT+0100 (GMT+01:00)] Nov sodnikPEARCE uspesno dodan 
