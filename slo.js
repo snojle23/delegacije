@@ -53,7 +53,7 @@ function odpriExcel() {
                 else if (worksheet.getRow(3).getCell(count).fill.fgColor.argb == "FF00B0F0") {
                     countLAu += worksheet.getRow(2).getCell(count).value.result;
                 }
-                else if( worksheet.getRow(3).getCell(count).value = "REISINGER"){
+                else if( worksheet.getRow(3).getCell(count).value == "REISINGER"){
                     const vrni = prestej(worksheet, count);
                     reisiG = vrni.glavni;
                     reisiL = vrni.linic;

@@ -1,4 +1,0 @@
-funciton getRowSodnik(){
-
-    
-}

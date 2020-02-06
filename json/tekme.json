@@ -1,247 +1,78 @@
 [{
-    "datum": "2020-02-01",
+    "datum": "2020-02-11",
     "lokacije": [{
-        "lokacija": "Eishalle Zell am See",
+        "lokacija": "Eisarena Salzburg",
         "liga": "AHL",
         "sodniki": [{
-            "ime": "DURCHNER"
+            "ime": "FAJDIGA"
         }, {
-            "ime": "SCHAUER"
+            "ime": "PAHOR"
         }, {
-            "ime": "MATTHEY"
+            "ime": "BERGANT"
         }, {
-            "ime": "REISINGER"
+            "ime": "MIKLIC"
         }]
     }, {
-        "lokacija": "Rienzstadion Bruneck",
+        "lokacija": "Eishalle Feldkirch",
         "liga": "AHL",
         "sodniki": [{
-            "ime": "LEGA"
+            "ime": "HOLZER"
         }, {
-            "ime": "STEFENELLI"
-        }, {
-            "ime": "TERRAGNI"
-        }, {
-            "ime": "VIGNOLO"
-        }]
-    }, {
-        "lokacija": "Lustenau Rheinhalle",
-        "liga": "AHL",
-        "sodniki": [{
             "ime": "LAZZERI"
         }, {
-            "ime": "WALLNER"
+            "ime": "MARTIN"
+        }, {
+            "ime": "RIGONI"
+        }]
+    }, {
+        "lokacija": "Eishalle Lustenau",
+        "liga": "AHL",
+        "sodniki": [{
+            "ime": "GAMPER"
+        }, {
+            "ime": "LEGA"
         }, {
             "ime": "DE ZORDO"
         }, {
-            "ime": "RINKER"
-        }, {
-            "ime": "MATHIS"
+            "ime": "MANTOVANI"
         }]
     }, {
-        "lokacija": "Pala Hodegart",
+        "lokacija": "Eishalle Zell am See",
         "liga": "AHL",
         "sodniki": [{
-            "ime": "KUMMER"
+            "ime": "LEHNER"
         }, {
             "ime": "LESNIAK"
         }, {
             "ime": "JAVORNIK"
         }, {
-            "ime": "PUFF"
+            "ime": "SCHONAKLENER"
         }]
     }, {
-        "lokacija": "Stadio Olympico",
-        "liga": "AHL",
-        "sodniki": [{
-            "ime": "VIRTA"
-        }, {
-            "ime": "WIDMANN"
-        }, {
-            "ime": "CRISTELI"
-        }, {
-            "ime": "HOLZER"
-        }, {
-            "ime": "PIANEZZE"
-        }]
-    }, {
-        "lokacija": "Pranives Wolkenstein",
+        "lokacija": "Eishalle Canazei",
         "liga": "AHL",
         "sodniki": [{
             "ime": "BENVEGNU"
         }, {
-            "ime": "GIACOMOZZI"
+            "ime": "PINIE"
         }, {
             "ime": "KAINBERGER"
         }, {
             "ime": "WIMMLER"
         }]
     }, {
-        "lokacija": "Arena Ritten",
+        "lokacija": "Eishalle Sterzing",
         "liga": "AHL",
         "sodniki": [{
-            "ime": "GAMPER"
+            "ime": "HUBER"
         }, {
-            "ime": "PINIE"
+            "ime": "STEFENELLI"
         }, {
-            "ime": "MARTIN"
+            "ime": "EISL"
         }, {
             "ime": "PACE"
         }]
     }, {
-        "lokacija": "Ledena dvorana Podmežakla",
-        "liga": "AHL",
-        "sodniki": [{
-            "ime": "BAJT"
-        }, {
-            "ime": "FICHTNER"
-        }, {
-            "ime": "MARKIZETI"
-        }, {
-            "ime": "WEISS"
-        }]
-    }, {
-        "lokacija": "Weihenstephan Arena",
-        "liga": "AHL",
-        "sodniki": [{
-            "ime": "MOSCHEN"
-        }, {
-            "ime": "REZEK"
-        }, {
-            "ime": "SLAVIERO"
-        }, {
-            "ime": "SNOJ"
-        }]
-    }]
-}, {
-    "datum": "2020-01-31",
-    "lokacije": [{
-        "lokacija": "Hostan Arena",
-        "liga": "EBEL",
-        "sodniki": [{
-            "ime": "PIRAGIC"
-        }, {
-            "ime": "SIEGEL"
-        }, {
-            "ime": "HRIBAR"
-        }, {
-            "ime": "TSCHREPITSCH"
-        }]
-    }, {
-        "lokacija": "Eisarena Salzburg",
-        "liga": "EBEL",
-        "sodniki": [{
-            "ime": "SMETANA"
-        }, {
-            "ime": "STOLC"
-        }, {
-            "ime": "RIECKEN"
-        }, {
-            "ime": "SEEWALD"
-        }]
-    }, {
-        "lokacija": "KeineSorgenEisarena",
-        "liga": "EBEL",
-        "sodniki": [{
-            "ime": "GRUBER"
-        }, {
-            "ime": "NIKOLIC"
-        }, {
-            "ime": "BÄRNTHALER"
-        }, {
-            "ime": "SPARER"
-        }]
-    }, {
-        "lokacija": "Stadthalle Villach",
-        "liga": "EBEL",
-        "sodniki": [{
-            "ime": "NIKOLIC"
-        }, {
-            "ime": "TRILAR"
-        }, {
-            "ime": "REZEK"
-        }, {
-            "ime": "SCHAUER"
-        }]
-    }, {
-        "lokacija": "Eishalle Wien-Kagran",
-        "liga": "EBEL",
-        "sodniki": [{
-            "ime": "OFNER"
-        }, {
-            "ime": "STERNAT"
-        }, {
-            "ime": "NAGY"
-        }, {
-            "ime": "VACZI"
-        }]
-    }]
-}, {
-    "datum": "2020-02-02",
-    "lokacije": [{
-        "lokacija": "Eishalle Dornbirn",
-        "liga": "EBEL",
-        "sodniki": [{
-            "ime": "NIKOLIC"
-        }, {
-            "ime": "STOLC"
-        }, {
-            "ime": "MARTIN"
-        }, {
-            "ime": "SCHAUER"
-        }]
-    }, {
-        "lokacija": "Merkur Eisstadion Graz",
-        "liga": "EBEL",
-        "sodniki": [{
-            "ime": "KINCSES"
-        }, {
-            "ime": "PIRAGIC"
-        }, {
-            "ime": "HRIBAR"
-        }, {
-            "ime": "SOOS"
-        }]
-    }, {
-        "lokacija": "Klagenfurter Stadthalle",
-        "liga": "EBEL",
-        "sodniki": [{
-            "ime": "BULOVEC"
-        }, {
-            "ime": "ZRNIC"
-        }, {
-            "ime": "NOTHEGGER"
-        }, {
-            "ime": "SEEWALD"
-        }]
-    }, {
-        "lokacija": "Olympiastadion Innsbruck",
-        "liga": "EBEL",
-        "sodniki": [{
-            "ime": "BERNEKER"
-        }, {
-            "ime": "NIKOLIC"
-        }, {
-            "ime": "PARDATSCHER"
-        }, {
-            "ime": "RIGONI"
-        }]
-    }, {
-        "lokacija": "Gabor Ocskay Eisarena",
-        "liga": "EBEL",
-        "sodniki": [{
-            "ime": "BALUSKA"
-        }, {
-            "ime": "SMETANA"
-        }, {
-            "ime": "GATOL"
-        }, {
-            "ime": "KASPAR"
-        }]
-    }]
-}, {
-    "datum": "2020-02-11",
-    "lokacije": [{
         "lokacija": "Stadthalle Villach",
         "liga": "EBEL",
         "sodniki": [{
@@ -252,18 +83,6 @@
             "ime": "BÄRNTHALER"
         }, {
             "ime": "REZEK"
-        }]
-    }, {
-        "lokacija": "Olympiastadion Innsbruck",
-        "liga": "EBEL",
-        "sodniki": [{
-            "ime": "SIEGEL"
-        }, {
-            "ime": "SMETANA"
-        }, {
-            "ime": "SCHAUER"
-        }, {
-            "ime": "TSCHREPITSCH"
         }]
     }, {
         "lokacija": "KeineSorgenEisarena",
@@ -278,6 +97,18 @@
             "ime": "SEEWALD"
         }]
     }, {
+        "lokacija": "Olympiastadion Innsbruck",
+        "liga": "EBEL",
+        "sodniki": [{
+            "ime": "SIEGEL"
+        }, {
+            "ime": "SMETANA"
+        }, {
+            "ime": "SCHAUER"
+        }, {
+            "ime": "TSCHREPITSCH"
+        }]
+    }, {
         "lokacija": "Eiswelle Bozen",
         "liga": "EBEL",
         "sodniki": [{
@@ -288,6 +119,207 @@
             "ime": "BEDYNEK"
         }, {
             "ime": "PARDATSCHER"
+        }]
+    }]
+}, {
+    "datum": "2020-02-13",
+    "lokacije": [{
+        "lokacija": "KeineSorgen EisArena",
+        "liga": "AHL",
+        "sodniki": [{
+            "ime": "OREL"
+        }, {
+            "ime": "WIDMANN"
+        }, {
+            "ime": "HOLZER"
+        }, {
+            "ime": "MATTHEY"
+        }]
+    }, {
+        "lokacija": "Eisarena Salzburg",
+        "liga": "AHL",
+        "sodniki": [{
+            "ime": "LESNIAK"
+        }, {
+            "ime": "REZEK"
+        }, {
+            "ime": "BEDYNEK"
+        }, {
+            "ime": "REISINGER"
+        }]
+    }, {
+        "lokacija": "Hala Tivoli",
+        "liga": "AHL",
+        "sodniki": [{
+            "ime": "FICHTNER"
+        }, {
+            "ime": "RUETZ"
+        }, {
+            "ime": "LEGAT"
+        }, {
+            "ime": "RINKER"
+        }]
+    }, {
+        "lokacija": "Eishalle Dornbirn",
+        "liga": "AHL",
+        "sodniki": [{
+            "ime": "GAMPER"
+        }, {
+            "ime": "HUBER"
+        }, {
+            "ime": "DE ZORDO"
+        }, {
+            "ime": "SLAVIERO"
+        }]
+    }, {
+        "lokacija": "Eishalle Zell am See",
+        "liga": "AHL",
+        "sodniki": [{
+            "ime": "DURCHNER"
+        }, {
+            "ime": "KUMMER"
+        }, {
+            "ime": "MARCHARDT"
+        }, {
+            "ime": "RIECKEN"
+        }]
+    }, {
+        "lokacija": "Eishalle Bruneck",
+        "liga": "AHL",
+        "sodniki": [{
+            "ime": "GIACOMOZZI"
+        }, {
+            "ime": "WALLNER"
+        }, {
+            "ime": "CRISTELI"
+        }, {
+            "ime": "HUBER"
+        }]
+    }, {
+        "lokacija": "Eishalle Ritten",
+        "liga": "AHL",
+        "sodniki": [{
+            "ime": "LAZZERI"
+        }, {
+            "ime": "MOSCHEN"
+        }, {
+            "ime": "BEDANA"
+        }, {
+            "ime": "PIRAS"
+        }]
+    }]
+}, {
+    "datum": "2020-02-14",
+    "lokacije": [{
+        "lokacija": "Klagenfurter Stadthalle",
+        "liga": "AHL",
+        "sodniki": [{
+            "ime": "BAJT"
+        }, {
+            "ime": "PODLESNIK"
+        }, {
+            "ime": "BERGANT"
+        }, {
+            "ime": "SCHWEIGHOFER"
+        }]
+    }]
+}, {
+    "datum": "2020-02-15",
+    "lokacije": [{
+        "lokacija": "Eishalle Wien Kagran",
+        "liga": "AHL",
+        "sodniki": [{
+            "ime": "KUMMER"
+        }, {
+            "ime": "REZEK"
+        }, {
+            "ime": "SCHONAKLENER"
+        }, {
+            "ime": "SCHWEIGHOFER"
+        }]
+    }, {
+        "lokacija": "Eishalle Jesenice",
+        "liga": "AHL",
+        "sodniki": [{
+            "ime": "FAJDIGA"
+        }, {
+            "ime": "LAZZERI"
+        }, {
+            "ime": "CRISTELI"
+        }, {
+            "ime": "SNOJ"
+        }]
+    }, {
+        "lokacija": "KeineSorgen EisArena",
+        "liga": "AHL",
+        "sodniki": [{
+            "ime": "LOICHT"
+        }, {
+            "ime": "WALLNER"
+        }, {
+            "ime": "EISL"
+        }, {
+            "ime": "LEGAT"
+        }]
+    }, {
+        "lokacija": "Sportpark Kitzbühel",
+        "liga": "AHL",
+        "sodniki": [{
+            "ime": "MOSCHEN"
+        }, {
+            "ime": "VIRTA"
+        }, {
+            "ime": "PACE"
+        }, {
+            "ime": "WIMMLER"
+        }]
+    }, {
+        "lokacija": "Eishalle Gröden",
+        "liga": "AHL",
+        "sodniki": [{
+            "ime": "RUETZ"
+        }, {
+            "ime": "STEFENELLI"
+        }, {
+            "ime": "BEDANA"
+        }, {
+            "ime": "HUBER"
+        }]
+    }, {
+        "lokacija": "Eishalle Asiago",
+        "liga": "AHL",
+        "sodniki": [{
+            "ime": "BENVEGNU"
+        }, {
+            "ime": "PAHOR"
+        }, {
+            "ime": "MARKIZETI"
+        }, {
+            "ime": "PIRAS"
+        }]
+    }, {
+        "lokacija": "Eishalle Cortina",
+        "liga": "AHL",
+        "sodniki": [{
+            "ime": "GAMPER"
+        }, {
+            "ime": "PINIE"
+        }, {
+            "ime": "RIGONI"
+        }, {
+            "ime": "RINKER"
+        }]
+    }, {
+        "lokacija": "Eishalle Canazei",
+        "liga": "AHL",
+        "sodniki": [{
+            "ime": "GIACOMOZZI"
+        }, {
+            "ime": "LEGA"
+        }, {
+            "ime": "BASSO"
+        }, {
+            "ime": "VIGNOLO"
         }]
     }]
 }, {

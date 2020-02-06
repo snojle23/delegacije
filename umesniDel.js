@@ -1,26 +1,26 @@
-"use strict";
+const { dodajSodnikomDatum,
+    getAllSudije,
+    seznamSodnikovNaDatum,
+    dodajDatumSodnik,
+    updateAhlSchema,
+    vrniCellOdDatuma,
+    vrniRowOdDatuma} = require('./delegacije');
 
-const { vrniCellSodnik } = require("./vrniCellSodnik");
-const { preveriAliObstajaDatum } = require("./preveriAliObstajaDatum");
+    const { vrniCellSodnik } = require("./vrniCellSodnik");
+    
+    
+    const exceljs = require('exceljs');
+    const fs = require('fs')
+    
+    
+    //console.log(datoteka);
 
-
-
-const exceljs = require('exceljs');
-const fs = require('fs')
-
-
-//console.log(datoteka);
-
-let json_data = JSON.parse(fs.readFileSync("json/tekme.json", 'utf8'));
-//const kaj = magic(json_data);
-
-
-function delegacije(json_data) {
+    
+function magicUmesni(json_data) {
     let workbook = new exceljs.Workbook();
-    workbook.xlsx.readFile('data/AHLdelegacije.xlsx')
+    workbook.xlsx.readFile('data/AHLdelegacijeUmesni.xlsx')
         .then(workbook => {
             let workAHL = workbook.getWorksheet('AHL');
-            let workEBEL = workbook.getWorksheet('EBEL');
             let workAHL_DAT = workbook.getWorksheet('AHL_DAT');
             let workAHL_DAT_STRING = workbook.getWorksheet('AHL_DAT_STRING');
             let noviDatumi = [];
@@ -49,32 +49,19 @@ function delegacije(json_data) {
                             workAHL_DAT_STRING.getRow(rowDate).getCell(cellDate).value = sestavljenString;
                             let today = new Date();
                             fs.appendFileSync("logs/logs.txt", "[" + today + "] " + "Nov datum dodan v delegacije. Datum:" + datum + "\n");
-
                         } else {
-                            //poglej ce je kaksen sodnik zamenal in  ga prepisi
+                            //poglej ce je kaksen sodnik zamenal in ga prepisi
                             let str = workAHL_DAT_STRING.getRow(rowDate).getCell(cellDate).value.split(";");
                             var j;
                             for (j = 0; j < 4; j++) {
                                 if (sodniki[j].ime != str[j + 1]) {
-                                    console.log(sodniki[j].ime + "je zamenjal " + str[j + 1]);
                                     let today = new Date();
                                     fs.appendFileSync("logs/logs.txt", "[" + today + "] " + "Sodnik " + sodniki[j].ime + " uspesno zamenjal " + str[j + 1] + " Lokacija: " + str[0] + ", Datum: " + datum + "\n");
                                 }
                             }
                             workAHL_DAT_STRING.getRow(rowDate).getCell(cellDate).value = sestavljenString;
                         }
-
-
-
                     }
-                    else { //ebel DONE
-                        var t;
-                        for (t = 0; t < 4; t++) {
-                            let sodnikCell = vrniCellSodnik(workEBEL, sodniki[t].ime);
-                            dodajDatumSodnik(workEBEL, sodnikCell, datum, sodniki[t].ime)
-                        }
-                    }
-
                     
                 })
                 if(ahlDatum){
@@ -127,7 +114,6 @@ function delegacije(json_data) {
                                         //     pattern:'solid',
                                         //     fgColor:{argb:'cccccc'}
                                         //   };
-                                        console.log("Sodniku " +seznamAhl[o] +" se je izbrisal datum iz AHL sheme. Datum:"+ datee);
                                         return;
                                     }
                                     roow++;
@@ -142,151 +128,10 @@ function delegacije(json_data) {
                        // console.log("seznam AHL:" +seznamAhl)
                     }
                 });
-                console.log("konec delegacij.js");""
-            workbook.xlsx.writeFile('data/AHLdelegacije.xlsx');
+            console.log("umesni zakljucen");
+            workbook.xlsx.writeFile('data/AHLdelegacijeUmesni.xlsx');
         });
-
 }
-
-function updateAhlSchema(datum1, ahl_dat, ahl_dat_string,cell) {
-
-    if (ahl_dat.getRow(3).getCell(cell).value == null) {
-        ahl_dat.getRow(3).getCell(cell).value = datum1;
-        let today = new Date();
-        fs.appendFileSync("logs/logsNovDatum.txt", "[" + today + "] " + "Nov datum dodan v AHL_DAT. Datum:" + datum1 + "\n");
-        console.log("Nov datum dodan v AHL_DAT shemo" + today);
-    }
-
-    let countRow = 4;
-    let countRowS = 4;
-    while (ahl_dat_string.getRow(countRowS).getCell(cell).value != null) {
-
-        let str = ahl_dat_string.getRow(countRowS).getCell(cell).value.split(";");
-        var l;
-        for (l = 1; l < 5; l++) {
-            ahl_dat.getRow(countRow).getCell(cell).value = null;
-            ahl_dat.getRow(countRow).getCell(cell).value = str[l];
-            countRow++;
-        }
-        countRowS++;
-    }
-}
-
-function vrniCellOdDatuma(worksheet, datum) {
-
-    let countCell = 1;
-    while (1) {
-        if (worksheet.getRow(3).getCell(countCell).value == datum) {
-            return countCell;
-        }
-        if (worksheet.getRow(3).getCell(countCell).value == null) {
-            worksheet.getRow(3).getCell(countCell).value = datum;
-            return countCell;
-        }
-        countCell++;
-    }
-    return countCell;
-
-};
-function vrniRowOdDatuma(worksheet, countCell, hala) {
-
-    let countRow = 4;
-    while (1) {
-        if (worksheet.getRow(countRow).getCell(countCell).value == null) {
-            return countRow;
-        }
-        else {
-            let hh = worksheet.getRow(countRow).getCell(countCell).value
-            let str = hh.split(";");
-            if (str[0] == hala) {
-                return countRow;
-            }
-        }
-        countRow++;
-    }
-    return countRow;
-
-};
-
-function dodajDatumSodnik(worksheet, countCell, datum, sodnik) {
-    let countRow = 4;
-    while (1) {
-        if (worksheet.getRow(countRow).getCell(countCell).value == null) {
-            worksheet.getRow(countRow).getCell(countCell).value = datum;
-            console.log(" za sodnika " + sodnik + " dodan nov datum " + datum + " [EBEL]");
-            return;
-        }
-        else if (worksheet.getRow(countRow).getCell(countCell).value == datum) {
-            return;
-        }
-        countRow++;
-    }
-}
-
-function date(worksheet, datum){
-    let cell = 1
-    let d;
-    while((d = worksheet.getRow(3).getCell(cell).value) != null){
-        if(new Date(d) > datum ){
-            return cell-1;
-        }
-
-        cell ++;
-    }
-
-    return cell-1;
-}
-
-function seznamSodnikovNaDatum(worksheetAHL_DAT, cell){
-    let row=4
-    let seznam=[];
-    let v;
-    while((v = worksheetAHL_DAT.getRow(row).getCell(cell).value) != null){
-        seznam.push(v);
-        row++;
-    }
-return seznam;
-
-}
-
-function getAllSudije(worksheet, datum){
-    let cellSodnik =1;
-    let sudija;
-    let list = [];
-
-    while((sudija=worksheet.getRow(3).getCell(cellSodnik).value) != null ){
-        let rowSudija = 4;
-        let datu;
-        while((datu = worksheet.getRow(rowSudija).getCell(cellSodnik).value) != null){
-            if(datu == datum){
-                list.push(sudija);
-            }
-            rowSudija++; 
-        }
-        cellSodnik++;
-    }
-    return list;
-}
-
-function dodajSodnikomDatum(worksheet, list, datum){
-    list.forEach(sodnik => {
-        let cellSodnik = vrniCellSodnik(worksheet,sodnik);
-        let rowSudija = 4
-        while(worksheet.getRow(rowSudija).getCell(cellSodnik).value != null){
-            rowSudija++;
-        }
-        worksheet.getRow(rowSudija).getCell(cellSodnik).value = datum;
-        console.log("Za sodnika " + sodnik+ " dodan nov datum: "+datum + " [AHL]" );
-    });
-}
-
 module.exports = {
-    dodajSodnikomDatum,
-    getAllSudije,
-    seznamSodnikovNaDatum,
-    dodajDatumSodnik,
-    updateAhlSchema,
-    vrniCellOdDatuma,
-    vrniRowOdDatuma,
-    delegacije
-}
+    magicUmesni
+};
