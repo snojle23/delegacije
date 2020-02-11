@@ -7,8 +7,6 @@ function odpriExcel() {
 
     workbook.xlsx.readFile('data/AHLdelegacije.xlsx').then(workbook => {
 
-
-
         let worksheet = workbook.getWorksheet('AHL');
 
         var count = 1;
@@ -129,8 +127,6 @@ function odpriExcel() {
     )
 }
 
-
-
 odpriExcel();
 function prestej(work, cell) {
     let row = 4
@@ -150,4 +146,7 @@ function prestej(work, cell) {
         linic: linic,
         glavni: glavni
     }
+}
+module.exports = {
+    prestej
 }

@@ -1,6 +1,7 @@
 const exceljs = require('exceljs');
 const { vrniCellSodnik } = require("./vrniCellSodnik");
 const excel = 'data/AHLdelegacijeUmesni.xlsx';
+const {prestej} = require('./slo');
 
 let master = [];
 let a = [];
@@ -28,6 +29,7 @@ function statistika() {
             count++;
         }
         izpisi(sudija);
+        dodatnaStatistika(sudija);
     });
 };
 
@@ -140,9 +142,9 @@ function izpisi(worksheet){
     });
 
     b.forEach(imeSodnika => {
-
         const cell = vrniCellSodnik(worksheet, imeSodnika);
         const drzava = worksheet.getRow(1).getCell(cell).value;
+
         if(drzava == "slo"){
             secondSlo++;
             prestejSlo(imeSodnika, "secondB");
@@ -254,3 +256,119 @@ function prestejSlo(imeSodnika, grupa){
     }
     
 }
+
+
+function dodatnaStatistika(worksheet) {
+
+        var count = 1; //stevec za stet po excelu
+        let countGSlo = 0;
+        let countLSlo = 0;
+
+        //zard tega k ma Julija eno kot glavni
+        let countGAu = 0;
+        let countLAu = 0;
+        let holzerL;
+        let holzerG;
+        let huberG;
+        let huberL;
+        let brataG;
+        let brataL;
+        let countGIta = 0;
+        let countLIta = 0;
+
+        let stGlavnihSlo=0;
+        let stLinijaSlo=0;
+        console.log('\n'+ "---------------------------------------------------------"+'\n');
+        while (worksheet.getRow(3).getCell(count).value != null) {
+
+            if (worksheet.getRow(1).getCell(count).value == "slo") {
+                if (worksheet.getRow(3).getCell(count).fill.fgColor.argb == "FFFF0000") {
+                    let r = worksheet.getRow(2).getCell(count).value.result || 0;
+                    countGSlo += r;
+                    stGlavnihSlo++;
+                    console.log(worksheet.getRow(3).getCell(count).value+ '\t' + " stevilo tekem: "+ '\t' +worksheet.getRow(2).getCell(count).value.result)
+                }
+                else if (worksheet.getRow(3).getCell(count).fill.fgColor.argb == "FF00B0F0") {
+                    countLSlo += worksheet.getRow(2).getCell(count).value.result;
+                    stLinijaSlo++;
+                    console.log(worksheet.getRow(3).getCell(count).value+'\t' + " stevilo tekem: "+ '\t' +worksheet.getRow(2).getCell(count).value.result)
+                }
+            }
+            else if (worksheet.getRow(1).getCell(count).value == "au") {
+                if (worksheet.getRow(3).getCell(count).fill.fgColor.argb == "FFFF0000") {
+                    let r = worksheet.getRow(2).getCell(count).value.result || 0;
+                    countGAu += r;
+                }
+                else if (worksheet.getRow(3).getCell(count).fill.fgColor.argb == "FF00B0F0") {
+                    let r = worksheet.getRow(2).getCell(count).value.result || 0;
+                    countLAu += r;
+                }
+            }
+            else if (worksheet.getRow(1).getCell(count).value == "ita") {
+                if (worksheet.getRow(3).getCell(count).fill.fgColor.argb == "FFFF0000") {
+                    countGIta += worksheet.getRow(2).getCell(count).value.result;
+                    //  console.log(countGlavniIta);
+                }
+                else if (worksheet.getRow(3).getCell(count).fill.fgColor.argb == "FF00B0F0") {
+                    let r = worksheet.getRow(2).getCell(count).value.result || 0;
+                    countLIta += r;
+                }
+                else if (worksheet.getRow(3).getCell(count).value = "GIACOMOZZI") {
+                    const vrni = prestej(worksheet, count);
+                    brataG = vrni.glavni || 0;
+                    brataL = vrni.linic || 0;
+                }
+            }
+            else if (worksheet.getRow(1).getCell(count).value == "au?") {
+                if (worksheet.getRow(3).getCell(count).value == "HOLZER") {
+
+                    const vrni = prestej(worksheet, count);
+                    holzerG = vrni.glavni || 0;
+                    holzerL = vrni.linic || 0;
+
+                }
+                else if (worksheet.getRow(3).getCell(count).value == "HUBER") {
+
+                    const vrni = prestej(worksheet, count);
+                    huberG = vrni.glavni || 0;
+                    huberL = vrni.linic || 0;
+                }
+            }
+            else if (count > 200) {
+                return 1;
+
+            }
+            count++;
+
+        }
+        const vsiAvstriciGlavni = (countGAu  +holzerG + huberG);
+        const vsiAvstriciLiniski = (countLAu  +holzerL + huberL);
+        const vsiItaljaniGlavni = (countGIta + brataG);
+        const vsiItaljaniLinici = (countLIta + brataL);
+        const vsiGlavni = (vsiAvstriciGlavni + vsiItaljaniGlavni + countGSlo);
+        const vsiLinici = (vsiAvstriciLiniski + vsiItaljaniLinici + countLSlo)
+
+        console.log('\n'+ "---------------------------------------------------------"+'\n');
+        console.log("Slovenci: Glavni: " + countGSlo+" Linijski: " + countLSlo);
+        console.log("St glavnih slo: " + stGlavnihSlo + '\n' +"st linicov: "+ stLinijaSlo );
+        console.log('\n'+ "---------------------------------------------------------"+'\n');
+        console.log("Avstrici: Glavni: " + vsiAvstriciGlavni+" Linijski: " + vsiAvstriciLiniski);
+        console.log('\n'+ "---------------------------------------------------------"+'\n');
+        console.log("Italjani: Glavni: " + vsiItaljaniGlavni+" Linijski : " + vsiItaljaniLinici );
+        console.log( "---------------------------------------------------------");
+        console.log("vsi glavni " +'\t' + vsiGlavni)
+        console.log("vsi liniski " + '\t' +vsiLinici)
+        let vsi = vsiAvstriciLiniski + vsiItaljaniLinici + countLSlo + vsiAvstriciGlavni + vsiItaljaniGlavni + countGSlo;
+        let stTekem = vsi / 4;
+
+        console.log("delegacij "+'\t'+ vsi +  '\n'+"tekem: "+'\t' +'\t' + stTekem)
+        console.log("---------------------------------------------------------"+'\n');
+        console.log("slovenci: " +'\t' + (countLSlo + countGSlo) / vsi);
+        //console.log("Liniski proc.:"+ '\t' +(countLSlo)/vsiLinici);
+        //console.log("Glavni procent:"+ '\t' +(countGSlo)/vsiGlavni);
+        console.log( "---------------------------------------------------------");
+        console.log("avstici " + '\t' +(vsiAvstriciLiniski + vsiAvstriciGlavni) / vsi);
+        console.log( "---------------------------------------------------------");
+        console.log("italjani " +'\t' +(vsiItaljaniGlavni + vsiItaljaniLinici) / vsi);
+        console.log( "---------------------------------------------------------");
+    }
