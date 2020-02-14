@@ -257,7 +257,6 @@ function prestejSlo(imeSodnika, grupa){
     
 }
 
-
 function dodatnaStatistika(worksheet) {
 
         var count = 1; //stevec za stet po excelu
