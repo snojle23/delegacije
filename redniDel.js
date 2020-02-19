@@ -6,9 +6,6 @@ function odpriExcel() {
     var workbook = new exceljs.Workbook();
 
     workbook.xlsx.readFile('data/AHLdelegacije - Konec rednega.xlsx').then(workbook => {
-
-
-
         let worksheet = workbook.getWorksheet('AHL');
 
         var count = 1;
