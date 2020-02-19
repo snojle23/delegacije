@@ -624,3 +624,63 @@
 [Tue Feb 18 2020 07:06:11 GMT+0100 (GMT+01:00)] Sodnik SLAVIERO uspesno zamenjal MARTIN Lokacija: Eishalle Sterzing, Datum: 2020-02-22
 [Tue Feb 18 2020 07:06:11 GMT+0100 (GMT+01:00)] Sodnik MARTIN uspesno zamenjal PUFF Lokacija: Eishalle Gröden, Datum: 2020-02-23
 [Tue Feb 18 2020 07:06:11 GMT+0100 (GMT+01:00)] Sodnik PUFF uspesno zamenjal SLAVIERO Lokacija: Eishalle Gröden, Datum: 2020-02-23
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Sodnik BENVEGNU uspesno zamenjal KUMMER Lokacija: Eishalle Gröden, Datum: 2020-02-23
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Sodnik PACE uspesno zamenjal MARTIN Lokacija: Eishalle Gröden, Datum: 2020-02-23
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Sodnik LEGA uspesno zamenjal LOICHT Lokacija: Eishalle Feldkirch, Datum: 2020-02-23
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Sodnik LOICHT uspesno zamenjal VIRTA Lokacija: Eishalle Feldkirch, Datum: 2020-02-23
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-02-25
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-02-25
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-02-25
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-02-25
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-02-25
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-02-25
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-02-25
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-02-25
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-02-27
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-02-27
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-02-27
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-02-27
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-02-27
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-02-27
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-02-27
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-02-27
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-02-27
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-02-29
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-02-29
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-02-29
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-02-29
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-02-29
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-02-29
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-02-29
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-02-29
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-02-29
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Sodnik BENVEGNU uspesno zamenjal KUMMER Lokacija: Eishalle Gröden, Datum: 2020-02-23
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Sodnik PACE uspesno zamenjal MARTIN Lokacija: Eishalle Gröden, Datum: 2020-02-23
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Sodnik LEGA uspesno zamenjal LOICHT Lokacija: Eishalle Feldkirch, Datum: 2020-02-23
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Sodnik LOICHT uspesno zamenjal VIRTA Lokacija: Eishalle Feldkirch, Datum: 2020-02-23
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-02-25
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-02-25
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-02-25
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-02-25
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-02-25
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-02-25
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-02-25
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-02-25
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-02-27
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-02-27
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-02-27
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-02-27
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-02-27
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-02-27
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-02-27
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-02-27
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-02-27
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-02-29
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-02-29
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-02-29
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-02-29
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-02-29
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-02-29
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-02-29
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-02-29
+[Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-02-29
