@@ -6,6 +6,75 @@ const {prestej} = require('./slo');
 let master = [];
 let a = [];
 let b = [];
+let sloSodniki = [
+    {
+        ime: "SNOJ",
+        master: 0,
+        secondA: 0,
+        secondB: 0
+    },
+    {
+        ime: "REZEK",
+        master: 0,
+        secondA: 0,
+        secondB: 0
+    },
+    {
+        ime: "PAHOR",
+        master: 0,
+        secondA: 0,
+        secondB: 0
+    },
+    {
+        ime: "LESNIAK",
+        master: 0,
+        secondA: 0,
+        secondB: 0
+    },
+    {
+        ime: "FAJDIGA",
+        master: 0,
+        secondA: 0,
+        secondB: 0
+    },
+    {
+        ime: "BAJT",
+        master: 0,
+        secondA: 0,
+        secondB: 0
+    },
+    {
+        ime: "MARKIZETI",
+        master: 0,
+        secondA: 0,
+        secondB: 0
+    },
+    {
+        ime: "JAVORNIK",
+        master: 0,
+        secondA: 0,
+        secondB: 0
+    },
+    {
+        ime: "BERGANT",
+        master: 0,
+        secondA: 0,
+        secondB: 0
+    },
+    {
+        ime: "MIKLIC",
+        master: 0,
+        secondA: 0,
+        secondB: 0
+    },
+    {
+        ime: "BULOVEC",
+        master: 0,
+        secondA: 0,
+        secondB: 0
+    }
+];
+let vsiSodniki = [];
 
 statistika();
 
@@ -16,6 +85,7 @@ function statistika() {
     
         let worksheet = workbook.getWorksheet('AHL_DAT_STRING');
         let sudija = workbook.getWorksheet('AHL');
+        getAllNames(sudija);
         let count = 1;
         // cez use datume
         while (worksheet.getRow(3).getCell(count).value != null) {
@@ -113,6 +183,7 @@ function izpisi(worksheet){
 
         const cell = vrniCellSodnik(worksheet, imeSodnika);
         const drzava = worksheet.getRow(1).getCell(cell).value;
+        prestejVse(imeSodnika, "master")
         if(drzava == "slo"){
             masterSlo++;
             prestejSlo(imeSodnika, "master");
@@ -123,12 +194,14 @@ function izpisi(worksheet){
         if(drzava == "au" || drzava == "au?"){
             masterAut++;
         }
+        
     });
 
     a.forEach(imeSodnika => {
 
         const cell = vrniCellSodnik(worksheet, imeSodnika);
         const drzava = worksheet.getRow(1).getCell(cell).value;
+        prestejVse(imeSodnika, "secondA")
         if(drzava == "slo"){
             secondSlo++;
             prestejSlo(imeSodnika, "secondA");
@@ -144,7 +217,7 @@ function izpisi(worksheet){
     b.forEach(imeSodnika => {
         const cell = vrniCellSodnik(worksheet, imeSodnika);
         const drzava = worksheet.getRow(1).getCell(cell).value;
-
+        prestejVse(imeSodnika, "secondB")
         if(drzava == "slo"){
             secondSlo++;
             prestejSlo(imeSodnika, "secondB");
@@ -173,76 +246,11 @@ function izpisi(worksheet){
     console.log("italjani: " + secondIta + " procenti :" + (secondIta/secondAll))
     console.log("\n");
     console.log(sloSodniki);
+    console.log("-------------VSI SODNIKI-------------");
+    console.log(vsiSodniki);
 }
 
-let sloSodniki = [
-    {
-        ime: "SNOJ",
-        master: 0,
-        secondA: 0,
-        secondB: 0
-    },
-    {
-        ime: "REZEK",
-        master: 0,
-        secondA: 0,
-        secondB: 0
-    },
-    {
-        ime: "PAHOR",
-        master: 0,
-        secondA: 0,
-        secondB: 0
-    },
-    {
-        ime: "LESNIAK",
-        master: 0,
-        secondA: 0,
-        secondB: 0
-    },
-    {
-        ime: "FAJDIGA",
-        master: 0,
-        secondA: 0,
-        secondB: 0
-    },
-    {
-        ime: "BAJT",
-        master: 0,
-        secondA: 0,
-        secondB: 0
-    },
-    {
-        ime: "MARKIZETI",
-        master: 0,
-        secondA: 0,
-        secondB: 0
-    },
-    {
-        ime: "JAVORNIK",
-        master: 0,
-        secondA: 0,
-        secondB: 0
-    },
-    {
-        ime: "BERGANT",
-        master: 0,
-        secondA: 0,
-        secondB: 0
-    },
-    {
-        ime: "MIKLIC",
-        master: 0,
-        secondA: 0,
-        secondB: 0
-    },
-    {
-        ime: "BULOVEC",
-        master: 0,
-        secondA: 0,
-        secondB: 0
-    }
-]
+
 function prestejSlo(imeSodnika, grupa){
     const s = sloSodniki.findIndex(i => i.ime === imeSodnika);
     if(grupa == "master"){
@@ -256,7 +264,19 @@ function prestejSlo(imeSodnika, grupa){
     }
     
 }
-
+function prestejVse(imeSodnika, grupa){
+    const s = vsiSodniki.findIndex(i => i.ime === imeSodnika);
+    if(grupa == "master"){
+        vsiSodniki[s].master +=1;
+    }
+    else if (grupa === "secondA"){
+        vsiSodniki[s].secondA +=1;
+    }
+    else if (grupa === "secondB"){
+        vsiSodniki[s].secondB +=1;
+    }
+    
+}
 function dodatnaStatistika(worksheet) {
 
         var count = 1; //stevec za stet po excelu
@@ -370,4 +390,17 @@ function dodatnaStatistika(worksheet) {
         console.log( "---------------------------------------------------------");
         console.log("italjani " +'\t' +(vsiItaljaniGlavni + vsiItaljaniLinici) / vsi);
         console.log( "---------------------------------------------------------");
+}
+function getAllNames(worksheet){
+    let count =1;
+    while (worksheet.getRow(3).getCell(count).value != null) {
+            const obj = {
+                    ime: worksheet.getRow(3).getCell(count).value,
+                    master: 0,
+                    secondA: 0,
+                    secondB: 0
+                }
+            vsiSodniki.push(obj);
+        count ++;
     }
+}
