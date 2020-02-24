@@ -98,6 +98,9 @@ function statistika() {
             }
             count++;
         }
+        console.log('\n'+'\n'+'\n'+ "---------------------------------------------------------"+'');
+        console.log(''+ "---------------------------------------------------------"+'');
+        console.log(''+ "---------------------------------------------------------"+'\n');
         izpisi(sudija);
         dodatnaStatistika(sudija);
     });
@@ -283,7 +286,7 @@ function dodatnaStatistika(worksheet) {
         let countGSlo = 0;
         let countLSlo = 0;
 
-        //zard tega k ma Julija eno kot glavni
+
         let countGAu = 0;
         let countLAu = 0;
         let holzerL;
@@ -297,6 +300,7 @@ function dodatnaStatistika(worksheet) {
 
         let stGlavnihSlo=0;
         let stLinijaSlo=0;
+        console.log('\n'+ "---------------------------------------------------------"+'\n');
         console.log('\n'+ "---------------------------------------------------------"+'\n');
         while (worksheet.getRow(3).getCell(count).value != null) {
 

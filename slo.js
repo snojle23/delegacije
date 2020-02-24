@@ -1,7 +1,7 @@
 const exceljs = require('exceljs');
 const fs = require('fs')
 
-
+odpriExcel();
 function odpriExcel() {
     var workbook = new exceljs.Workbook();
 
@@ -127,7 +127,8 @@ function odpriExcel() {
     )
 }
 
-odpriExcel();
+
+
 function prestej(work, cell) {
     let row = 4
     let linic = 0;
