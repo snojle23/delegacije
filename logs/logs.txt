@@ -684,3 +684,11 @@
 [Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-02-29
 [Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-02-29
 [Wed Feb 19 2020 17:15:57 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-02-29
+[Fri Feb 21 2020 11:39:55 GMT+0100 (GMT+01:00)] Sodnik EISL uspesno zamenjal RINKER Lokacija: Eisarena Salzburg, Datum: 2020-02-25
+[Fri Feb 21 2020 11:39:55 GMT+0100 (GMT+01:00)] Sodnik MARTIN uspesno zamenjal EISL Lokacija: Eishalle Dornbirn, Datum: 2020-02-25
+[Fri Feb 21 2020 11:39:55 GMT+0100 (GMT+01:00)] Sodnik RINKER uspesno zamenjal MARTIN Lokacija: Eishalle Dornbirn, Datum: 2020-02-25
+[Fri Feb 21 2020 11:39:55 GMT+0100 (GMT+01:00)] Sodnik EISL uspesno zamenjal RINKER Lokacija: Eisarena Salzburg, Datum: 2020-02-25
+[Fri Feb 21 2020 11:39:55 GMT+0100 (GMT+01:00)] Sodnik MARTIN uspesno zamenjal EISL Lokacija: Eishalle Dornbirn, Datum: 2020-02-25
+[Fri Feb 21 2020 11:39:55 GMT+0100 (GMT+01:00)] Sodnik RINKER uspesno zamenjal MARTIN Lokacija: Eishalle Dornbirn, Datum: 2020-02-25
+[Sun Feb 23 2020 17:52:36 GMT+0100 (GMT+01:00)] Sodnik BAJT uspesno zamenjal PODLESNIK Lokacija: Sportpark Kitzbühel, Datum: 2020-02-25
+[Sun Feb 23 2020 17:52:36 GMT+0100 (GMT+01:00)] Sodnik BAJT uspesno zamenjal PODLESNIK Lokacija: Sportpark Kitzbühel, Datum: 2020-02-25
