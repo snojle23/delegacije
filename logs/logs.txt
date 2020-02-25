@@ -692,3 +692,60 @@
 [Fri Feb 21 2020 11:39:55 GMT+0100 (GMT+01:00)] Sodnik RINKER uspesno zamenjal MARTIN Lokacija: Eishalle Dornbirn, Datum: 2020-02-25
 [Sun Feb 23 2020 17:52:36 GMT+0100 (GMT+01:00)] Sodnik BAJT uspesno zamenjal PODLESNIK Lokacija: Sportpark Kitzbühel, Datum: 2020-02-25
 [Sun Feb 23 2020 17:52:36 GMT+0100 (GMT+01:00)] Sodnik BAJT uspesno zamenjal PODLESNIK Lokacija: Sportpark Kitzbühel, Datum: 2020-02-25
+[Mon Feb 24 2020 09:00:40 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-03-02
+[Mon Feb 24 2020 09:00:40 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-03-02
+[Mon Feb 24 2020 09:00:40 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-03-02
+[Mon Feb 24 2020 09:00:40 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-03-02
+[Mon Feb 24 2020 09:00:40 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-03-02
+[Mon Feb 24 2020 09:00:40 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-03-02
+[Mon Feb 24 2020 09:00:40 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-03-02
+[Mon Feb 24 2020 09:00:40 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-03-02
+[Mon Feb 24 2020 09:00:40 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-03-02
+[Mon Feb 24 2020 09:00:40 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-03-04
+[Mon Feb 24 2020 09:00:40 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-03-04
+[Mon Feb 24 2020 09:00:40 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-03-04
+[Mon Feb 24 2020 09:00:40 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-03-04
+[Mon Feb 24 2020 09:00:40 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-03-04
+[Mon Feb 24 2020 09:00:40 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-03-04
+[Mon Feb 24 2020 09:00:40 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-03-04
+[Mon Feb 24 2020 09:00:40 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-03-04
+[Mon Feb 24 2020 09:00:40 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-03-04
+[Mon Feb 24 2020 09:00:40 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-03-02
+[Mon Feb 24 2020 09:00:40 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-03-02
+[Mon Feb 24 2020 09:00:40 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-03-02
+[Mon Feb 24 2020 09:00:40 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-03-02
+[Mon Feb 24 2020 09:00:40 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-03-02
+[Mon Feb 24 2020 09:00:40 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-03-02
+[Mon Feb 24 2020 09:00:40 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-03-02
+[Mon Feb 24 2020 09:00:40 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-03-02
+[Mon Feb 24 2020 09:00:40 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-03-02
+[Mon Feb 24 2020 09:00:40 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-03-04
+[Mon Feb 24 2020 09:00:40 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-03-04
+[Mon Feb 24 2020 09:00:40 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-03-04
+[Mon Feb 24 2020 09:00:40 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-03-04
+[Mon Feb 24 2020 09:00:40 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-03-04
+[Mon Feb 24 2020 09:00:40 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-03-04
+[Mon Feb 24 2020 09:00:40 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-03-04
+[Mon Feb 24 2020 09:00:40 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-03-04
+[Mon Feb 24 2020 09:00:40 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-03-04
+[Tue Feb 25 2020 09:55:39 GMT+0100 (GMT+01:00)] Sodnik REZEK uspesno zamenjal GIACOMOZZI Lokacija: Eishalle Cortina, Datum: 2020-02-25
+[Tue Feb 25 2020 09:55:39 GMT+0100 (GMT+01:00)] Sodnik STEFENELLI uspesno zamenjal REZEK Lokacija: Eishalle Cortina, Datum: 2020-02-25
+[Tue Feb 25 2020 09:55:39 GMT+0100 (GMT+01:00)] Sodnik DURCHNER uspesno zamenjal GAMPER Lokacija: Eisarena Salzburg, Datum: 2020-02-27
+[Tue Feb 25 2020 09:55:39 GMT+0100 (GMT+01:00)] Sodnik GAMPER uspesno zamenjal SCHAUER Lokacija: Eishalle Lustenau, Datum: 2020-02-27
+[Tue Feb 25 2020 09:55:39 GMT+0100 (GMT+01:00)] Sodnik DE ZORDO uspesno zamenjal SLAVIERO Lokacija: Eishalle Ritten, Datum: 2020-02-27
+[Tue Feb 25 2020 09:55:39 GMT+0100 (GMT+01:00)] Sodnik MANTOVANI uspesno zamenjal DE ZORDO Lokacija: Eishalle Asiago, Datum: 2020-02-27
+[Tue Feb 25 2020 09:55:39 GMT+0100 (GMT+01:00)] Sodnik SLAVIERO uspesno zamenjal MANTOVANI Lokacija: Eishalle Asiago, Datum: 2020-02-27
+[Tue Feb 25 2020 09:55:39 GMT+0100 (GMT+01:00)] Sodnik GATOL uspesno zamenjal MARKIZETI Lokacija: Eishalle Jesenice, Datum: 2020-02-29
+[Tue Feb 25 2020 09:55:39 GMT+0100 (GMT+01:00)] Sodnik MARKIZETI uspesno zamenjal WEISS Lokacija: Eishalle Jesenice, Datum: 2020-02-29
+[Tue Feb 25 2020 09:55:39 GMT+0100 (GMT+01:00)] Sodnik EISL uspesno zamenjal KAINBERGER Lokacija: Eishalle Lustenau, Datum: 2020-02-29
+[Tue Feb 25 2020 09:55:39 GMT+0100 (GMT+01:00)] Nov sodnikKAINBERGER uspesno dodan 
+[Tue Feb 25 2020 09:55:39 GMT+0100 (GMT+01:00)] Sodnik REZEK uspesno zamenjal GIACOMOZZI Lokacija: Eishalle Cortina, Datum: 2020-02-25
+[Tue Feb 25 2020 09:55:39 GMT+0100 (GMT+01:00)] Sodnik STEFENELLI uspesno zamenjal REZEK Lokacija: Eishalle Cortina, Datum: 2020-02-25
+[Tue Feb 25 2020 09:55:39 GMT+0100 (GMT+01:00)] Sodnik DURCHNER uspesno zamenjal GAMPER Lokacija: Eisarena Salzburg, Datum: 2020-02-27
+[Tue Feb 25 2020 09:55:39 GMT+0100 (GMT+01:00)] Sodnik GAMPER uspesno zamenjal SCHAUER Lokacija: Eishalle Lustenau, Datum: 2020-02-27
+[Tue Feb 25 2020 09:55:39 GMT+0100 (GMT+01:00)] Sodnik DE ZORDO uspesno zamenjal SLAVIERO Lokacija: Eishalle Ritten, Datum: 2020-02-27
+[Tue Feb 25 2020 09:55:39 GMT+0100 (GMT+01:00)] Sodnik MANTOVANI uspesno zamenjal DE ZORDO Lokacija: Eishalle Asiago, Datum: 2020-02-27
+[Tue Feb 25 2020 09:55:39 GMT+0100 (GMT+01:00)] Sodnik SLAVIERO uspesno zamenjal MANTOVANI Lokacija: Eishalle Asiago, Datum: 2020-02-27
+[Tue Feb 25 2020 09:55:39 GMT+0100 (GMT+01:00)] Sodnik GATOL uspesno zamenjal MARKIZETI Lokacija: Eishalle Jesenice, Datum: 2020-02-29
+[Tue Feb 25 2020 09:55:39 GMT+0100 (GMT+01:00)] Sodnik MARKIZETI uspesno zamenjal WEISS Lokacija: Eishalle Jesenice, Datum: 2020-02-29
+[Tue Feb 25 2020 09:55:39 GMT+0100 (GMT+01:00)] Sodnik EISL uspesno zamenjal KAINBERGER Lokacija: Eishalle Lustenau, Datum: 2020-02-29
