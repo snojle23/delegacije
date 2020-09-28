@@ -3,8 +3,7 @@
 const http = require('http');
 const fs = require('fs');
 
-
-    let req = http.get("http://delegacije.sinusiks.net/ext/ahl-ebel.php", function(res){
+const req = http.get("http://delegacije.sinusiks.net/ext/ahl-ebel.php", function(res){
         
             let data = '',
             json_data_url;
@@ -21,7 +20,6 @@ const fs = require('fs');
         
         req.on('error', function(e) {
             console.log(e.message);
-            
         });
         return "done";
 
@@ -30,18 +28,14 @@ function magic(json_data_url){
     //
     fs.writeFileSync("json/tekme.json",'[]');
     let json_tekme=JSON.parse(fs.readFileSync("json/tekme.json",'utf8'));
-   
-     
         json_data_url.forEach(element => {
             //console.log(p);
-           json_tekme = preveriJson(element.referee, element.location, element.date,element.competition,json_tekme);
+        json_tekme = preveriJson(element.referee, element.location, element.date,element.competition,json_tekme);
         });
         fs.writeFileSync("json/tekme.json",JSON.stringify(json_tekme),(err) => {
             if (err) throw err;
             console.log('The file has been saved!');
-            
-          });
-          
+        });
     };
 
 function preveriJson(sodnik,lokacija,datum,liga,json_tekme){
