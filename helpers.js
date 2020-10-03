@@ -110,7 +110,7 @@ function updateDatesInExcel(noviDatumi, mainWorkbook, DAT, DAT_STRING, isAHL ){
             }
 
             if(zaDodat.length>0){
-                dodajSodnikomDatum(mainWorkbook, zaDodat, datee);
+                dodajSodnikomDatum(mainWorkbook, zaDodat, datee, isAHL);
             }
             //  console.log(" sodniki : "+seznam);
             // console.log("seznam AHL:" +seznamAhl)

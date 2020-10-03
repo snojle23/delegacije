@@ -1,0 +1,13 @@
+[Thu Oct 01 2020 08:53:56 GMT+0200 (GMT+02:00)] Sodnik PODLESNIK uspesno zamenjal RUETZ Lokacija: Eisarena Salzburg, Datum: 2020-10-10
+[Fri Oct 02 2020 15:07:13 GMT+0200 (GMT+02:00)] Sodnik LAZZERI uspesno zamenjal BENVEGNU Lokacija: Eishalle Gröden, Datum: 2020-10-03
+[Fri Oct 02 2020 15:07:13 GMT+0200 (GMT+02:00)] Sodnik PINIE uspesno zamenjal STEFENELLI Lokacija: Eishalle Gröden, Datum: 2020-10-03
+[Fri Oct 02 2020 15:07:13 GMT+0200 (GMT+02:00)] Sodnik BASSO uspesno zamenjal PACE Lokacija: Eishalle Gröden, Datum: 2020-10-03
+[Fri Oct 02 2020 15:07:13 GMT+0200 (GMT+02:00)] Sodnik MANTOVANI uspesno zamenjal CRISTELI Lokacija: Eishalle Sterzing, Datum: 2020-10-03
+[Fri Oct 02 2020 15:07:13 GMT+0200 (GMT+02:00)] Sodnik RIGONI uspesno zamenjal MANTOVANI Lokacija: Eishalle Sterzing, Datum: 2020-10-03
+[Fri Oct 02 2020 15:07:13 GMT+0200 (GMT+02:00)] Sodnik LINESMAN uspesno zamenjal CRISTELI Lokacija: Eishalle Ritten, Datum: 2020-10-08
+[Fri Oct 02 2020 15:07:13 GMT+0200 (GMT+02:00)] Sodnik HEAD uspesno zamenjal BENVEGNU Lokacija: Eishalle Cortina, Datum: 2020-10-08
+[Fri Oct 02 2020 15:07:13 GMT+0200 (GMT+02:00)] Sodnik HEAD uspesno zamenjal STEFENELLI Lokacija: Eishalle Cortina, Datum: 2020-10-08
+[Fri Oct 02 2020 15:07:13 GMT+0200 (GMT+02:00)] Sodnik LINESMAN uspesno zamenjal PACE Lokacija: Eishalle Cortina, Datum: 2020-10-08
+[Fri Oct 02 2020 15:07:13 GMT+0200 (GMT+02:00)] Sodnik LINESMAN uspesno zamenjal CRISTELI Lokacija: Eishalle Ritten, Datum: 2020-10-10
+[Fri Oct 02 2020 15:07:13 GMT+0200 (GMT+02:00)] Sodnik HEAD uspesno zamenjal BENVEGNU Lokacija: Eishalle Asiago, Datum: 2020-10-10
+[Fri Oct 02 2020 15:07:13 GMT+0200 (GMT+02:00)] Sodnik HEAD uspesno zamenjal STEFENELLI Lokacija: Eishalle Asiago, Datum: 2020-10-10
