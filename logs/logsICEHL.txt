@@ -118,3 +118,18 @@
 [Thu Oct 01 2020 08:53:56 GMT+0200 (GMT+02:00)] Nov sodnikLAZZERI uspesno dodan 
 [Fri Oct 02 2020 15:07:13 GMT+0200 (GMT+02:00)] Nov sodnikLINESMAN uspesno dodan 
 [Fri Oct 02 2020 15:07:13 GMT+0200 (GMT+02:00)] Nov sodnikHEAD uspesno dodan 
+[Sun Oct 04 2020 16:01:50 GMT+0200 (GMT+02:00)] Nov datum dodan v delegacije. Datum:2020-10-16
+[Sun Oct 04 2020 16:01:50 GMT+0200 (GMT+02:00)] Nov datum dodan v ICEHL_DAT. Datum:2020-10-16
+[Sun Oct 04 2020 16:01:50 GMT+0200 (GMT+02:00)] Nov datum dodan v delegacije. Datum:2020-10-16
+[Sun Oct 04 2020 16:01:50 GMT+0200 (GMT+02:00)] Nov datum dodan v delegacije. Datum:2020-10-16
+[Sun Oct 04 2020 16:01:50 GMT+0200 (GMT+02:00)] Nov datum dodan v delegacije. Datum:2020-10-16
+[Sun Oct 04 2020 16:01:50 GMT+0200 (GMT+02:00)] Nov datum dodan v delegacije. Datum:2020-10-16
+[Sun Oct 04 2020 16:01:50 GMT+0200 (GMT+02:00)] Nov datum dodan v delegacije. Datum:2020-10-18
+[Sun Oct 04 2020 16:01:50 GMT+0200 (GMT+02:00)] Nov datum dodan v ICEHL_DAT. Datum:2020-10-18
+[Sun Oct 04 2020 16:01:50 GMT+0200 (GMT+02:00)] Nov datum dodan v delegacije. Datum:2020-10-18
+[Sun Oct 04 2020 16:01:50 GMT+0200 (GMT+02:00)] Nov datum dodan v delegacije. Datum:2020-10-18
+[Sun Oct 04 2020 16:01:50 GMT+0200 (GMT+02:00)] Nov datum dodan v delegacije. Datum:2020-10-18
+[Sun Oct 04 2020 16:01:50 GMT+0200 (GMT+02:00)] Nov datum dodan v delegacije. Datum:2020-10-18
+[Sun Oct 04 2020 16:01:50 GMT+0200 (GMT+02:00)] Nov sodnikBENVEGNU uspesno dodan 
+[Sun Oct 04 2020 16:01:50 GMT+0200 (GMT+02:00)] Nov sodnikDE ZORDO uspesno dodan 
+[Sun Oct 04 2020 16:01:50 GMT+0200 (GMT+02:00)] Nov sodnikMANTOVANI uspesno dodan 
