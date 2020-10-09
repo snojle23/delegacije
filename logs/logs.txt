@@ -18,3 +18,9 @@
 [Tue Oct 06 2020 13:18:44 GMT+0200 (GMT+02:00)] Sodnik DE ZORDO uspesno zamenjal LINESMAN Lokacija: Eishalle Cortina, Datum: 2020-10-08
 [Tue Oct 06 2020 13:18:44 GMT+0200 (GMT+02:00)] Sodnik BASSO uspesno zamenjal LINESMAN Lokacija: Eishalle Ritten, Datum: 2020-10-10
 [Tue Oct 06 2020 13:18:44 GMT+0200 (GMT+02:00)] Sodnik CRISTELI uspesno zamenjal SLAVIERO Lokacija: Eishalle Ritten, Datum: 2020-10-10
+[Thu Oct 08 2020 10:07:14 GMT+0200 (GMT+02:00)] Sodnik BEDANA uspesno zamenjal CRISTELI Lokacija: Eishalle Ritten, Datum: 2020-10-10
+[Thu Oct 08 2020 10:07:14 GMT+0200 (GMT+02:00)] Sodnik SEEWALD uspesno zamenjal KONTSCHIEDER Lokacija: Linz AG Eisarena, Datum: 2020-10-09
+[Thu Oct 08 2020 10:07:14 GMT+0200 (GMT+02:00)] Sodnik KONTSCHIEDER uspesno zamenjal SEEWALD Lokacija: Eishalle KagranEins, Datum: 2020-10-18
+[Fri Oct 09 2020 08:59:58 GMT+0200 (GMT+02:00)] Sodnik PIRAGIC uspesno zamenjal SMETANA Lokacija: Klagenfurter Stadthalle, Datum: 2020-10-09
+[Fri Oct 09 2020 08:59:58 GMT+0200 (GMT+02:00)] Sodnik STERNAT uspesno zamenjal SMETANA Lokacija: Stadthalle Villach, Datum: 2020-10-11
+[Fri Oct 09 2020 08:59:58 GMT+0200 (GMT+02:00)] Sodnik TRILAR uspesno zamenjal STERNAT Lokacija: Stadthalle Villach, Datum: 2020-10-11
