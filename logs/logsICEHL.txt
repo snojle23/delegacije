@@ -133,3 +133,22 @@
 [Sun Oct 04 2020 16:01:50 GMT+0200 (GMT+02:00)] Nov sodnikBENVEGNU uspesno dodan 
 [Sun Oct 04 2020 16:01:50 GMT+0200 (GMT+02:00)] Nov sodnikDE ZORDO uspesno dodan 
 [Sun Oct 04 2020 16:01:50 GMT+0200 (GMT+02:00)] Nov sodnikMANTOVANI uspesno dodan 
+[Fri Oct 09 2020 16:23:20 GMT+0200 (GMT+02:00)] Nov sodnikSPIEGEL uspesno dodan 
+[Fri Oct 09 2020 16:23:20 GMT+0200 (GMT+02:00)] Nov sodnikBRUNNER uspesno dodan 
+[Fri Oct 09 2020 16:23:20 GMT+0200 (GMT+02:00)] Nov sodnikLOICHT uspesno dodan 
+[Fri Oct 09 2020 16:23:20 GMT+0200 (GMT+02:00)] Nov sodnikMATTHEY uspesno dodan 
+[Fri Oct 09 2020 16:23:20 GMT+0200 (GMT+02:00)] Nov sodnikVOICAN uspesno dodan 
+[Fri Oct 09 2020 16:23:20 GMT+0200 (GMT+02:00)] Nov sodnikBAJT uspesno dodan 
+[Fri Oct 09 2020 16:23:20 GMT+0200 (GMT+02:00)] Nov sodnikLESNIAK uspesno dodan 
+[Fri Oct 09 2020 16:23:20 GMT+0200 (GMT+02:00)] Nov sodnikBERGANT uspesno dodan 
+[Fri Oct 09 2020 16:23:20 GMT+0200 (GMT+02:00)] Nov sodnikJAVORNIK uspesno dodan 
+[Fri Oct 09 2020 16:23:20 GMT+0200 (GMT+02:00)] Nov sodnikEGGER uspesno dodan 
+[Fri Oct 09 2020 16:23:20 GMT+0200 (GMT+02:00)] Nov sodnikFLEISCHMANN uspesno dodan 
+[Fri Oct 09 2020 16:23:20 GMT+0200 (GMT+02:00)] Nov sodnikPAHOR uspesno dodan 
+[Fri Oct 09 2020 16:23:20 GMT+0200 (GMT+02:00)] Nov sodnikARLIC uspesno dodan 
+[Fri Oct 09 2020 16:23:20 GMT+0200 (GMT+02:00)] Nov sodnikBIZALJ uspesno dodan 
+[Fri Oct 09 2020 16:23:20 GMT+0200 (GMT+02:00)] Nov sodnikVIGNOLO uspesno dodan 
+[Fri Oct 09 2020 16:23:20 GMT+0200 (GMT+02:00)] Nov sodnikOREL uspesno dodan 
+[Fri Oct 09 2020 16:23:20 GMT+0200 (GMT+02:00)] Nov sodnikPÖTSCHER uspesno dodan 
+[Fri Oct 09 2020 16:23:20 GMT+0200 (GMT+02:00)] Nov sodnikSCHWEIGHOFER uspesno dodan 
+[Fri Oct 09 2020 16:23:20 GMT+0200 (GMT+02:00)] Nov sodnikEISL uspesno dodan 

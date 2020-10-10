@@ -24,3 +24,4 @@
 [Fri Oct 09 2020 08:59:58 GMT+0200 (GMT+02:00)] Sodnik PIRAGIC uspesno zamenjal SMETANA Lokacija: Klagenfurter Stadthalle, Datum: 2020-10-09
 [Fri Oct 09 2020 08:59:58 GMT+0200 (GMT+02:00)] Sodnik STERNAT uspesno zamenjal SMETANA Lokacija: Stadthalle Villach, Datum: 2020-10-11
 [Fri Oct 09 2020 08:59:58 GMT+0200 (GMT+02:00)] Sodnik TRILAR uspesno zamenjal STERNAT Lokacija: Stadthalle Villach, Datum: 2020-10-11
+[Fri Oct 09 2020 16:23:20 GMT+0200 (GMT+02:00)] Sodnik NEMETH uspesno zamenjal MUZSIK Lokacija: Gabor Ocskay Eisarena, Datum: 2020-10-09
