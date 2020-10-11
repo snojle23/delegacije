@@ -152,3 +152,5 @@
 [Fri Oct 09 2020 16:23:20 GMT+0200 (GMT+02:00)] Nov sodnikPÖTSCHER uspesno dodan 
 [Fri Oct 09 2020 16:23:20 GMT+0200 (GMT+02:00)] Nov sodnikSCHWEIGHOFER uspesno dodan 
 [Fri Oct 09 2020 16:23:20 GMT+0200 (GMT+02:00)] Nov sodnikEISL uspesno dodan 
+[Sat Oct 10 2020 15:01:10 GMT+0200 (GMT+02:00)] Nov datum dodan v delegacije. Datum:2020-10-13
+[Sat Oct 10 2020 15:01:10 GMT+0200 (GMT+02:00)] Nov datum dodan v ICEHL_DAT. Datum:2020-10-13

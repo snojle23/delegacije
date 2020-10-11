@@ -25,3 +25,6 @@
 [Fri Oct 09 2020 08:59:58 GMT+0200 (GMT+02:00)] Sodnik STERNAT uspesno zamenjal SMETANA Lokacija: Stadthalle Villach, Datum: 2020-10-11
 [Fri Oct 09 2020 08:59:58 GMT+0200 (GMT+02:00)] Sodnik TRILAR uspesno zamenjal STERNAT Lokacija: Stadthalle Villach, Datum: 2020-10-11
 [Fri Oct 09 2020 16:23:20 GMT+0200 (GMT+02:00)] Sodnik NEMETH uspesno zamenjal MUZSIK Lokacija: Gabor Ocskay Eisarena, Datum: 2020-10-09
+[Sat Oct 10 2020 15:01:10 GMT+0200 (GMT+02:00)] Sodnik LAZZERI uspesno zamenjal BENVEGNU Lokacija: Eishalle Dornbirn, Datum: 2020-10-16
+[Sun Oct 11 2020 15:11:16 GMT+0200 (GMT+02:00)] Sodnik NEMETH uspesno zamenjal MUZSIK Lokacija: Gabor Ocskay Eisarena, Datum: 2020-10-11
+[Sun Oct 11 2020 15:11:16 GMT+0200 (GMT+02:00)] Sodnik VACZI uspesno zamenjal NEMETH Lokacija: Gabor Ocskay Eisarena, Datum: 2020-10-11
