@@ -28,3 +28,9 @@
 [Sat Oct 10 2020 15:01:10 GMT+0200 (GMT+02:00)] Sodnik LAZZERI uspesno zamenjal BENVEGNU Lokacija: Eishalle Dornbirn, Datum: 2020-10-16
 [Sun Oct 11 2020 15:11:16 GMT+0200 (GMT+02:00)] Sodnik NEMETH uspesno zamenjal MUZSIK Lokacija: Gabor Ocskay Eisarena, Datum: 2020-10-11
 [Sun Oct 11 2020 15:11:16 GMT+0200 (GMT+02:00)] Sodnik VACZI uspesno zamenjal NEMETH Lokacija: Gabor Ocskay Eisarena, Datum: 2020-10-11
+[Tue Oct 13 2020 09:23:01 GMT+0200 (GMT+02:00)] Sodnik PAGON uspesno zamenjal BIZALJ Lokacija: Hala Tivoli, Datum: 2020-10-17
+[Tue Oct 13 2020 09:23:01 GMT+0200 (GMT+02:00)] Sodnik DE ZORDO uspesno zamenjal VIGNOLO Lokacija: Eishalle Gröden, Datum: 2020-10-17
+[Wed Oct 14 2020 14:38:40 GMT+0200 (GMT+02:00)] Sodnik STERNAT uspesno zamenjal SMETANA Lokacija: Linz AG Eisarena, Datum: 2020-10-16
+[Wed Oct 14 2020 14:38:40 GMT+0200 (GMT+02:00)] Sodnik STERNAT uspesno zamenjal SMETANA Lokacija: Eishalle KagranEins, Datum: 2020-10-18
+[Wed Oct 14 2020 14:38:40 GMT+0200 (GMT+02:00)] Sodnik RENCZ uspesno zamenjal KINCSES Lokacija: Gabor Ocskay Eisarena, Datum: 2020-10-18
+[Wed Oct 14 2020 14:38:40 GMT+0200 (GMT+02:00)] Sodnik SOOS uspesno zamenjal RENCZ Lokacija: Gabor Ocskay Eisarena, Datum: 2020-10-18
