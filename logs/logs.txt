@@ -34,3 +34,18 @@
 [Wed Oct 14 2020 14:38:40 GMT+0200 (GMT+02:00)] Sodnik STERNAT uspesno zamenjal SMETANA Lokacija: Eishalle KagranEins, Datum: 2020-10-18
 [Wed Oct 14 2020 14:38:40 GMT+0200 (GMT+02:00)] Sodnik RENCZ uspesno zamenjal KINCSES Lokacija: Gabor Ocskay Eisarena, Datum: 2020-10-18
 [Wed Oct 14 2020 14:38:40 GMT+0200 (GMT+02:00)] Sodnik SOOS uspesno zamenjal RENCZ Lokacija: Gabor Ocskay Eisarena, Datum: 2020-10-18
+[Wed Oct 14 2020 19:11:03 GMT+0200 (GMT+02:00)] Sodnik ZRNIC uspesno zamenjal STERNAT Lokacija: Linz AG Eisarena, Datum: 2020-10-16
+[Wed Oct 14 2020 19:11:03 GMT+0200 (GMT+02:00)] Sodnik LAZZERI uspesno zamenjal TRILAR Lokacija: Eiswelle Bozen, Datum: 2020-10-16
+[Wed Oct 14 2020 19:11:03 GMT+0200 (GMT+02:00)] Sodnik RIGONI uspesno zamenjal ZGONC Lokacija: Eiswelle Bozen, Datum: 2020-10-16
+[Wed Oct 14 2020 19:11:03 GMT+0200 (GMT+02:00)] Sodnik PIRAGIC uspesno zamenjal SIEGEL Lokacija: Eishalle KagranEins, Datum: 2020-10-18
+[Wed Oct 14 2020 19:11:03 GMT+0200 (GMT+02:00)] Sodnik SIEGEL uspesno zamenjal STERNAT Lokacija: Eishalle KagranEins, Datum: 2020-10-18
+[Wed Oct 14 2020 19:11:03 GMT+0200 (GMT+02:00)] Sodnik VIRTA uspesno zamenjal TRILAR Lokacija: Klagenfurter Stadthalle, Datum: 2020-10-18
+[Wed Oct 14 2020 19:11:03 GMT+0200 (GMT+02:00)] Sodnik ZRNIC uspesno zamenjal VIRTA Lokacija: Klagenfurter Stadthalle, Datum: 2020-10-18
+[Wed Oct 14 2020 19:11:03 GMT+0200 (GMT+02:00)] Sodnik MIKLIC uspesno zamenjal ZGONC Lokacija: Klagenfurter Stadthalle, Datum: 2020-10-18
+[Wed Oct 14 2020 19:11:03 GMT+0200 (GMT+02:00)] Sodnik NAGY uspesno zamenjal RENCZ Lokacija: Gabor Ocskay Eisarena, Datum: 2020-10-18
+[Wed Oct 14 2020 19:11:03 GMT+0200 (GMT+02:00)] Sodnik RENCZ uspesno zamenjal SOOS Lokacija: Gabor Ocskay Eisarena, Datum: 2020-10-18
+[Thu Oct 15 2020 16:54:27 GMT+0200 (GMT+02:00)] Sodnik DURCHNER uspesno zamenjal SIEGEL Lokacija: Linz AG Eisarena, Datum: 2020-10-16
+[Thu Oct 15 2020 16:54:28 GMT+0200 (GMT+02:00)] Sodnik SIEGEL uspesno zamenjal ZRNIC Lokacija: Linz AG Eisarena, Datum: 2020-10-16
+[Thu Oct 15 2020 16:54:28 GMT+0200 (GMT+02:00)] Sodnik VIRTA uspesno zamenjal LAZZERI Lokacija: Eiswelle Bozen, Datum: 2020-10-16
+[Thu Oct 15 2020 16:54:28 GMT+0200 (GMT+02:00)] Sodnik ZRNIC uspesno zamenjal VIRTA Lokacija: Eiswelle Bozen, Datum: 2020-10-16
+[Thu Oct 15 2020 16:54:28 GMT+0200 (GMT+02:00)] Sodnik MUZSIK uspesno zamenjal VACZI Lokacija: Gabor Ocskay Eisarena, Datum: 2020-10-18
