@@ -49,3 +49,5 @@
 [Thu Oct 15 2020 16:54:28 GMT+0200 (GMT+02:00)] Sodnik VIRTA uspesno zamenjal LAZZERI Lokacija: Eiswelle Bozen, Datum: 2020-10-16
 [Thu Oct 15 2020 16:54:28 GMT+0200 (GMT+02:00)] Sodnik ZRNIC uspesno zamenjal VIRTA Lokacija: Eiswelle Bozen, Datum: 2020-10-16
 [Thu Oct 15 2020 16:54:28 GMT+0200 (GMT+02:00)] Sodnik MUZSIK uspesno zamenjal VACZI Lokacija: Gabor Ocskay Eisarena, Datum: 2020-10-18
+[Fri Oct 16 2020 19:55:31 GMT+0200 (GMT+02:00)] Sodnik Fleischmann uspesno zamenjal FLEISCHMANN Lokacija: Eishalle Cortina, Datum: 2020-10-22
+[Fri Oct 16 2020 19:55:31 GMT+0200 (GMT+02:00)] Sodnik Fleischmann uspesno zamenjal FLEISCHMANN Lokacija: Eishalle Sterzing, Datum: 2020-10-24

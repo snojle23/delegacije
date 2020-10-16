@@ -46,7 +46,7 @@ function writeToExcel(DAT_STRING, lokacije, liga, datum){
         let str = DAT_STRING.getRow(rowDate).getCell(cellDate).value.split(";");
         for (let j = 0; j < 4; j++) {
             if (sodniki[j].ime != str[j + 1]) {
-                console.log(sodniki[j].ime + "je zamenjal " + str[j + 1]);
+                console.log(sodniki[j].ime + " je zamenjal " + str[j + 1]);
                 let today = new Date();
                 fs.appendFileSync("logs/logs.txt", "[" + today + "] " + "Sodnik " + sodniki[j].ime + " uspesno zamenjal " + str[j + 1] + " Lokacija: " + str[0] + ", Datum: " + datum + "\n");
             }
@@ -246,7 +246,7 @@ function getAllSudije(worksheet, datum){
 
 function dodajSodnikomDatum(worksheet, list, datum, isAHL){
     list.forEach(sodnik => {
-        let cellSodnik = vrniCellSodnik(worksheet,sodnik);
+        let cellSodnik = vrniCellSodnik(worksheet, sodnik, isAHL);
         let rowSudija = 4
         while(worksheet.getRow(rowSudija).getCell(cellSodnik).value != null){
             rowSudija++;
