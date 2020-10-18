@@ -51,3 +51,4 @@
 [Thu Oct 15 2020 16:54:28 GMT+0200 (GMT+02:00)] Sodnik MUZSIK uspesno zamenjal VACZI Lokacija: Gabor Ocskay Eisarena, Datum: 2020-10-18
 [Fri Oct 16 2020 19:55:31 GMT+0200 (GMT+02:00)] Sodnik Fleischmann uspesno zamenjal FLEISCHMANN Lokacija: Eishalle Cortina, Datum: 2020-10-22
 [Fri Oct 16 2020 19:55:31 GMT+0200 (GMT+02:00)] Sodnik Fleischmann uspesno zamenjal FLEISCHMANN Lokacija: Eishalle Sterzing, Datum: 2020-10-24
+[Sat Oct 17 2020 21:40:16 GMT+0200 (GMT+02:00)] Sodnik SMETANA uspesno zamenjal HRONSKY Lokacija: Ondrej Nepala Arena, Datum: 2020-10-20

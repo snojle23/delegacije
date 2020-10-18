@@ -4,7 +4,7 @@
   "main": "index.js",
   "requires": true,
   "scripts": {
-    "get-data": "node getNewJson.js",
+    "get-data": "getNewJson.js",
     "delegacije": "node start",
     "d": "node start.js"
   },
