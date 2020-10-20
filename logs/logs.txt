@@ -52,3 +52,22 @@
 [Fri Oct 16 2020 19:55:31 GMT+0200 (GMT+02:00)] Sodnik Fleischmann uspesno zamenjal FLEISCHMANN Lokacija: Eishalle Cortina, Datum: 2020-10-22
 [Fri Oct 16 2020 19:55:31 GMT+0200 (GMT+02:00)] Sodnik Fleischmann uspesno zamenjal FLEISCHMANN Lokacija: Eishalle Sterzing, Datum: 2020-10-24
 [Sat Oct 17 2020 21:40:16 GMT+0200 (GMT+02:00)] Sodnik SMETANA uspesno zamenjal HRONSKY Lokacija: Ondrej Nepala Arena, Datum: 2020-10-20
+[Sun Oct 18 2020 19:01:09 GMT+0200 (GMT+02:00)] Sodnik JEDLICKA uspesno zamenjal DURMIS Lokacija: Ondrej Nepala Arena, Datum: 2020-10-20
+[Sun Oct 18 2020 19:01:09 GMT+0200 (GMT+02:00)] Sodnik KASPAR uspesno zamenjal JEDLICKA Lokacija: Ondrej Nepala Arena, Datum: 2020-10-20
+[Tue Oct 20 2020 09:14:48 GMT+0200 (GMT+02:00)] Sodnik MARTIN uspesno zamenjal BASSO Lokacija: Olympiastadion Innsbruck, Datum: 2020-10-24
+[Tue Oct 20 2020 09:14:48 GMT+0200 (GMT+02:00)] Sodnik SPARER uspesno zamenjal RIGONI Lokacija: Olympiastadion Innsbruck, Datum: 2020-10-24
+[Tue Oct 20 2020 09:14:48 GMT+0200 (GMT+02:00)] Sodnik FICHTNER uspesno zamenjal SMETANA Lokacija: Ondrej Nepala Arena, Datum: 2020-10-20
+[Tue Oct 20 2020 09:14:48 GMT+0200 (GMT+02:00)] Sodnik JEDLICKA uspesno zamenjal DURMIS Lokacija: Ondrej Nepala Arena, Datum: 2020-10-23
+[Tue Oct 20 2020 09:14:48 GMT+0200 (GMT+02:00)] Sodnik KASPAR uspesno zamenjal JEDLICKA Lokacija: Ondrej Nepala Arena, Datum: 2020-10-23
+[Tue Oct 20 2020 09:14:48 GMT+0200 (GMT+02:00)] Sodnik OFNER uspesno zamenjal BULOVEC Lokacija: Stadthalle Villach, Datum: 2020-10-23
+[Tue Oct 20 2020 09:14:48 GMT+0200 (GMT+02:00)] Sodnik SIEGEL uspesno zamenjal ZRNIC Lokacija: Stadthalle Villach, Datum: 2020-10-23
+[Tue Oct 20 2020 09:14:48 GMT+0200 (GMT+02:00)] Sodnik GATOL uspesno zamenjal HRIBAR Lokacija: Stadthalle Villach, Datum: 2020-10-23
+[Tue Oct 20 2020 09:14:48 GMT+0200 (GMT+02:00)] Sodnik PIRAGIC uspesno zamenjal BENVEGNU Lokacija: Eiswelle Bozen, Datum: 2020-10-23
+[Tue Oct 20 2020 09:14:48 GMT+0200 (GMT+02:00)] Sodnik RUETZ uspesno zamenjal PIRAGIC Lokacija: Eiswelle Bozen, Datum: 2020-10-23
+[Tue Oct 20 2020 09:14:48 GMT+0200 (GMT+02:00)] Sodnik PARDATSCHER uspesno zamenjal RIGONI Lokacija: Eiswelle Bozen, Datum: 2020-10-23
+[Tue Oct 20 2020 09:14:48 GMT+0200 (GMT+02:00)] Sodnik RIGONI uspesno zamenjal ZGONC Lokacija: Eiswelle Bozen, Datum: 2020-10-23
+[Tue Oct 20 2020 09:14:48 GMT+0200 (GMT+02:00)] Sodnik PIRAGIC uspesno zamenjal GRUBER Lokacija: Eisarena Salzburg, Datum: 2020-10-25
+[Tue Oct 20 2020 09:14:48 GMT+0200 (GMT+02:00)] Sodnik RUETZ uspesno zamenjal PIRAGIC Lokacija: Eisarena Salzburg, Datum: 2020-10-25
+[Tue Oct 20 2020 09:14:48 GMT+0200 (GMT+02:00)] Sodnik BERNEKER uspesno zamenjal ROHATSCH Lokacija: Eishalle Dornbirn, Datum: 2020-10-25
+[Tue Oct 20 2020 09:14:48 GMT+0200 (GMT+02:00)] Sodnik ROHATSCH uspesno zamenjal VIRTA Lokacija: Eishalle Dornbirn, Datum: 2020-10-25
+[Tue Oct 20 2020 09:14:48 GMT+0200 (GMT+02:00)] Sodnik MIKLIC uspesno zamenjal ZGONC Lokacija: Klagenfurter Stadthalle, Datum: 2020-10-25
