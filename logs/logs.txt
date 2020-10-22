@@ -91,3 +91,6 @@
 [Wed Oct 21 2020 08:36:16 GMT+0200 (GMT+02:00)] Sodnik LINESMAN uspesno zamenjal RIGONI Lokacija: Eishalle Asiago, Datum: 2020-10-24
 [Wed Oct 21 2020 08:36:16 GMT+0200 (GMT+02:00)] Sodnik BASSO uspesno zamenjal PARDATSCHER Lokacija: Eiswelle Bozen, Datum: 2020-10-23
 [Wed Oct 21 2020 08:36:16 GMT+0200 (GMT+02:00)] Sodnik PARDATSCHER uspesno zamenjal RIGONI Lokacija: Eiswelle Bozen, Datum: 2020-10-23
+[Wed Oct 21 2020 14:32:35 GMT+0200 (GMT+02:00)] Sodnik DE ZORDO uspesno zamenjal LINESMAN Lokacija: Eishalle Ritten, Datum: 2020-10-22
+[Wed Oct 21 2020 14:32:35 GMT+0200 (GMT+02:00)] Sodnik CRISTELI uspesno zamenjal LINESMAN Lokacija: Eishalle Asiago, Datum: 2020-10-24
+[Wed Oct 21 2020 14:32:35 GMT+0200 (GMT+02:00)] Sodnik FLEISCHMANN uspesno zamenjal LINESMAN Lokacija: Eishalle Asiago, Datum: 2020-10-24
