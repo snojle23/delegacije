@@ -45,21 +45,28 @@ async function delegacije(json_data) {
             if(ahlDatum){
                 let cell = vrniCellOdDatuma(workAHL_DAT_STRING, datum);
                 updateAhlSchema(datum, workAHL_DAT, workAHL_DAT_STRING, cell, true);
-                noviDatumiAHL.push(datum);
+                if(!noviDatumiAHL.includes(datum)){
+                    noviDatumiAHL.push(datum);
+                }
             }
             if(icehlDatum){
                 let cell = vrniCellOdDatuma(workICEHL_DAT_STRING, datum);
                 updateAhlSchema(datum, workICEHL_DAT, workICEHL_DAT_STRING, cell, false);
-                noviDatumiICEHL.push(datum);
+                if(!noviDatumiICEHL.includes(datum)){
+                    noviDatumiICEHL.push(datum);
+                }
             }
         })
     })
     // console.log(noviDatumi);
-    updateDatesInExcel(noviDatumiAHL, workAHL, workAHL_DAT, workAHL_DAT_STRING, true);
-    updateDatesInExcel(noviDatumiICEHL, workICEHL, workICEHL_DAT, workICEHL_DAT_STRING);
+    updateDatesInExcel(noviDatumiAHL, workAHL, workAHL_DAT, workAHL_DAT_STRING, true, json_data);
+    updateDatesInExcel(noviDatumiICEHL, workICEHL, workICEHL_DAT, workICEHL_DAT_STRING, false, json_data);
     console.log("konec delegacij.js");
     await workbook.xlsx.writeFile('data/AHLdelegacije.xlsx');
     await iceHLWB.xlsx.writeFile('data/ICEHLdelegacije.xlsx');
+
+    // preveri če je kaj zbrisano
+    
 }
 
 

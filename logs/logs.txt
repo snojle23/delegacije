@@ -94,3 +94,5 @@
 [Wed Oct 21 2020 14:32:35 GMT+0200 (GMT+02:00)] Sodnik DE ZORDO uspesno zamenjal LINESMAN Lokacija: Eishalle Ritten, Datum: 2020-10-22
 [Wed Oct 21 2020 14:32:35 GMT+0200 (GMT+02:00)] Sodnik CRISTELI uspesno zamenjal LINESMAN Lokacija: Eishalle Asiago, Datum: 2020-10-24
 [Wed Oct 21 2020 14:32:35 GMT+0200 (GMT+02:00)] Sodnik FLEISCHMANN uspesno zamenjal LINESMAN Lokacija: Eishalle Asiago, Datum: 2020-10-24
+[Sat Oct 24 2020 10:19:59 GMT+0200 (GMT+02:00)] Sodnik JAVORNIK uspesno zamenjal ARLIC Lokacija: Hala Tivoli, Datum: 2020-10-24
+[Sat Oct 24 2020 10:19:59 GMT+0200 (GMT+02:00)] Sodnik SNOJ uspesno zamenjal JAVORNIK Lokacija: Hala Tivoli, Datum: 2020-10-24

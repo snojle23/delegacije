@@ -55,7 +55,8 @@ function writeToExcel(DAT_STRING, lokacije, liga, datum){
     }
 }
 
-function updateDatesInExcel(noviDatumi, mainWorkbook, DAT, DAT_STRING, isAHL ){
+function updateDatesInExcel(noviDatumi, mainWorkbook, DAT, DAT_STRING, isAHL, jsonDate ){
+ 
     noviDatumi.forEach(datee => {
         let cell = vrniCellOdDatuma(DAT_STRING, datee);
         const seznam =  seznamSodnikovNaDatum(DAT,cell);
@@ -115,7 +116,33 @@ function updateDatesInExcel(noviDatumi, mainWorkbook, DAT, DAT_STRING, isAHL ){
             //  console.log(" sodniki : "+seznam);
             // console.log("seznam AHL:" +seznamAhl)
         }
+
+        const gamesPerDateExcel= getGamesPerDate(DAT_STRING, datee);
+        const gamesInJson = jsonDate.find(d => d.datum === datee).lokacije.length;
+
+        if(gamesPerDateExcel !== gamesInJson){
+            if(isAHL){
+                console.log(` Staro število tekem na datum: ${datee}: ${gamesPerDateExcel}\n nove tekme: ${gamesInJson}`)
+
+            }else{
+                console.log(`excel ${gamesPerDateExcel}; nove tekme: ${gamesInJson} na datum: ${datee}`)
+
+            }
+        }
     });
+}
+
+//
+function getGamesPerDate(worksheet, date){
+    let cell = vrniCellOdDatuma(worksheet, date);
+    let countCell = 0;
+    let rowNumber = 4;
+    while (worksheet.getRow(rowNumber).getCell(cell).value != null) {
+        rowNumber++;
+        countCell++;
+    }
+
+    return countCell;
 }
 
 function updateAhlSchema(datum1, ahl_dat, ahl_dat_string, cell, isAhl) {
@@ -130,7 +157,6 @@ function updateAhlSchema(datum1, ahl_dat, ahl_dat_string, cell, isAhl) {
             fs.appendFileSync("logs/logsICEHL.txt", "[" + today + "] " + "Nov datum dodan v ICEHL_DAT. Datum:" + datum1 + "\n");
             console.log("Nov datum dodan v ICEHL_DAT shemo" + today);
         }
-
     }
 
     let countRow = 4;
