@@ -96,3 +96,9 @@
 [Wed Oct 21 2020 14:32:35 GMT+0200 (GMT+02:00)] Sodnik FLEISCHMANN uspesno zamenjal LINESMAN Lokacija: Eishalle Asiago, Datum: 2020-10-24
 [Sat Oct 24 2020 10:19:59 GMT+0200 (GMT+02:00)] Sodnik JAVORNIK uspesno zamenjal ARLIC Lokacija: Hala Tivoli, Datum: 2020-10-24
 [Sat Oct 24 2020 10:19:59 GMT+0200 (GMT+02:00)] Sodnik SNOJ uspesno zamenjal JAVORNIK Lokacija: Hala Tivoli, Datum: 2020-10-24
+[Wed Oct 28 2020 10:00:02 GMT+0100 (GMT+01:00)] Sodnik PAGON uspesno zamenjal ARLIC Lokacija: Eishalle Jesenice, Datum: 2020-11-01
+[Wed Oct 28 2020 10:00:02 GMT+0100 (GMT+01:00)] Sodnik SNOJ uspesno zamenjal JAVORNIK Lokacija: Eishalle Jesenice, Datum: 2020-11-01
+[Thu Oct 29 2020 08:47:12 GMT+0100 (GMT+01:00)] Sodnik WALLNER uspesno zamenjal LEHNER Lokacija: Linz AG Eisarena, Datum: 2020-10-31
+[Thu Oct 29 2020 08:47:12 GMT+0100 (GMT+01:00)] Sodnik LAZZERI uspesno zamenjal GIACOMOZZI Lokacija: Eishalle Gröden, Datum: 2020-11-05
+[Thu Oct 29 2020 08:47:12 GMT+0100 (GMT+01:00)] Sodnik STEFENELLI uspesno zamenjal LAZZERI Lokacija: Eishalle Gröden, Datum: 2020-11-05
+[Thu Oct 29 2020 08:47:12 GMT+0100 (GMT+01:00)] Sodnik GIACOMOZZI uspesno zamenjal STEFENELLI Lokacija: Eishalle Asiago, Datum: 2020-11-07
