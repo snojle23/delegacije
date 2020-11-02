@@ -101,3 +101,4 @@
 [Wed Oct 28 2020 10:00:02 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-11-07
 [Wed Oct 28 2020 10:00:02 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-11-07
 [Wed Oct 28 2020 10:00:02 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-11-08
+[Sat Oct 31 2020 14:25:04 GMT+0100 (GMT+01:00)] Nov sodnikHEINRICHER uspesno dodan 
