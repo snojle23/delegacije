@@ -118,7 +118,8 @@ function updateDatesInExcel(noviDatumi, mainWorkbook, DAT, DAT_STRING, isAHL, js
         }
 
         const gamesPerDateExcel= getGamesPerDate(DAT_STRING, datee);
-        const gamesInJson = jsonDate.find(d => d.datum === datee).lokacije.length;
+        const locations = jsonDate.find(d => d.datum === datee).lokacije;
+        const gamesInJson = countLocation(locations, isAHL);
 
         if(gamesPerDateExcel !== gamesInJson){
             if(isAHL){
@@ -290,6 +291,21 @@ function dodajSodnikomDatum(worksheet, list, datum, isAHL){
             }
         }
     });
+}
+
+function countLocation(lokacije, isAHL) {
+    let count = 0;
+    if(!lokacije){
+        return 0;
+    }
+    const find = isAHL ? "AHL" : "ICEHL"
+    lokacije.forEach(lok => {
+        if(lok.liga === find){
+            count++;
+        }
+    });
+
+    return count;
 }
 
 module.exports = {

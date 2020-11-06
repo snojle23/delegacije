@@ -103,3 +103,4 @@
 [Thu Oct 29 2020 08:47:12 GMT+0100 (GMT+01:00)] Sodnik STEFENELLI uspesno zamenjal LAZZERI Lokacija: Eishalle Gröden, Datum: 2020-11-05
 [Thu Oct 29 2020 08:47:12 GMT+0100 (GMT+01:00)] Sodnik GIACOMOZZI uspesno zamenjal STEFENELLI Lokacija: Eishalle Asiago, Datum: 2020-11-07
 [Sat Oct 31 2020 14:25:00 GMT+0100 (GMT+01:00)] Sodnik HEINRICHER uspesno zamenjal KUMMER Lokacija: Linz AG Eisarena, Datum: 2020-10-31
+[Fri Nov 06 2020 10:45:14 GMT+0100 (GMT+01:00)] Sodnik BEDYNEK uspesno zamenjal LINESMAN Lokacija: Klagenfurter Stadthalle, Datum: 2020-11-09

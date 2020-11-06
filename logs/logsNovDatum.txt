@@ -28,3 +28,6 @@
 [Wed Oct 28 2020 10:00:02 GMT+0100 (GMT+01:00)] Nov datum dodan v AHL_DAT. Datum:2020-11-05
 [Wed Oct 28 2020 10:00:02 GMT+0100 (GMT+01:00)] Nov datum dodan v AHL_DAT. Datum:2020-11-07
 [Wed Oct 28 2020 10:00:02 GMT+0100 (GMT+01:00)] Nov datum dodan v AHL_DAT. Datum:2020-11-08
+[Thu Nov 05 2020 15:00:01 GMT+0100 (GMT+01:00)] Nov datum dodan v AHL_DAT. Datum:2020-11-12
+[Thu Nov 05 2020 15:00:01 GMT+0100 (GMT+01:00)] Nov datum dodan v AHL_DAT. Datum:2020-11-14
+[Thu Nov 05 2020 15:00:01 GMT+0100 (GMT+01:00)] Nov datum dodan v AHL_DAT. Datum:2020-11-15

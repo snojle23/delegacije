@@ -8,3 +8,14 @@
 [Sat Oct 24 2020 10:19:59 GMT+0200 (GMT+02:00)] Nov datum dodan v ICEHL_DAT. Datum:2020-10-24
 [Sat Oct 24 2020 10:19:59 GMT+0200 (GMT+02:00)] Nov datum dodan v delegacije. Datum:2020-10-25
 [Sat Oct 24 2020 10:19:59 GMT+0200 (GMT+02:00)] Nov datum dodan v ICEHL_DAT. Datum:2020-10-25
+[Thu Nov 05 2020 15:00:01 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-11-08
+[Thu Nov 05 2020 15:00:01 GMT+0100 (GMT+01:00)] Nov datum dodan v ICEHL_DAT. Datum:2020-11-08
+[Thu Nov 05 2020 22:19:02 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-11-09
+[Thu Nov 05 2020 22:19:02 GMT+0100 (GMT+01:00)] Nov datum dodan v ICEHL_DAT. Datum:2020-11-09
+[Thu Nov 05 2020 22:19:02 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-11-10
+[Thu Nov 05 2020 22:19:02 GMT+0100 (GMT+01:00)] Nov datum dodan v ICEHL_DAT. Datum:2020-11-10
+[Thu Nov 05 2020 22:19:02 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-11-11
+[Thu Nov 05 2020 22:19:02 GMT+0100 (GMT+01:00)] Nov datum dodan v ICEHL_DAT. Datum:2020-11-11
+[Thu Nov 05 2020 22:19:02 GMT+0100 (GMT+01:00)] Nov sodnikLINESMAN uspesno dodan 
+[Fri Nov 06 2020 10:45:14 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-11-12
+[Fri Nov 06 2020 10:45:14 GMT+0100 (GMT+01:00)] Nov datum dodan v ICEHL_DAT. Datum:2020-11-12
