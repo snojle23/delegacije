@@ -123,10 +123,10 @@ function updateDatesInExcel(noviDatumi, mainWorkbook, DAT, DAT_STRING, isAHL, js
 
         if(gamesPerDateExcel !== gamesInJson){
             if(isAHL){
-                console.log(` Staro število tekem na datum: ${datee}: ${gamesPerDateExcel}\n nove tekme: ${gamesInJson}`)
+                console.log(` Staro število tekem za AHL na datum: ${datee}: ${gamesPerDateExcel}\n nove tekme: ${gamesInJson}`)
 
             }else{
-                console.log(`excel ${gamesPerDateExcel}; nove tekme: ${gamesInJson} na datum: ${datee}`)
+                console.log(` Staro število tekem za ICEHL na datum: ${gamesPerDateExcel}; nove tekme: ${gamesInJson}`)
 
             }
         }
