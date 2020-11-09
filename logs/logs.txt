@@ -104,3 +104,15 @@
 [Thu Oct 29 2020 08:47:12 GMT+0100 (GMT+01:00)] Sodnik GIACOMOZZI uspesno zamenjal STEFENELLI Lokacija: Eishalle Asiago, Datum: 2020-11-07
 [Sat Oct 31 2020 14:25:00 GMT+0100 (GMT+01:00)] Sodnik HEINRICHER uspesno zamenjal KUMMER Lokacija: Linz AG Eisarena, Datum: 2020-10-31
 [Fri Nov 06 2020 10:45:14 GMT+0100 (GMT+01:00)] Sodnik BEDYNEK uspesno zamenjal LINESMAN Lokacija: Klagenfurter Stadthalle, Datum: 2020-11-09
+[Sat Nov 07 2020 15:11:10 GMT+0100 (GMT+01:00)] Sodnik GIACOMOZZI uspesno zamenjal EGGER Lokacija: Eishalle Asiago, Datum: 2020-11-07
+[Sat Nov 07 2020 15:11:10 GMT+0100 (GMT+01:00)] Sodnik LAZZERI uspesno zamenjal GIACOMOZZI Lokacija: Eishalle Asiago, Datum: 2020-11-07
+[Sat Nov 07 2020 15:11:10 GMT+0100 (GMT+01:00)] Sodnik GRUBER uspesno zamenjal PIRAGIC Lokacija: Merkur Eisstadion Graz, Datum: 2020-11-08
+[Sat Nov 07 2020 15:11:10 GMT+0100 (GMT+01:00)] Sodnik STERNAT uspesno zamenjal PIRAGIC Lokacija: Klagenfurter Stadthalle, Datum: 2020-11-09
+[Sat Nov 07 2020 15:11:10 GMT+0100 (GMT+01:00)] Sodnik GRUBER uspesno zamenjal PIRAGIC Lokacija: Stadthalle Villach, Datum: 2020-11-10
+[Sat Nov 07 2020 19:35:04 GMT+0100 (GMT+01:00)] Sodnik SMETANA uspesno zamenjal GRUBER Lokacija: Merkur Eisstadion Graz, Datum: 2020-11-08
+[Sat Nov 07 2020 19:35:04 GMT+0100 (GMT+01:00)] Sodnik STERNAT uspesno zamenjal SMETANA Lokacija: Merkur Eisstadion Graz, Datum: 2020-11-08
+[Sat Nov 07 2020 19:35:04 GMT+0100 (GMT+01:00)] Sodnik BULOVEC uspesno zamenjal GRUBER Lokacija: Klagenfurter Stadthalle, Datum: 2020-11-09
+[Sun Nov 08 2020 17:35:29 GMT+0100 (GMT+01:00)] Sodnik GRUBER uspesno zamenjal OFNER Lokacija: Klagenfurter Stadthalle, Datum: 2020-11-12
+[Sun Nov 08 2020 17:35:29 GMT+0100 (GMT+01:00)] Sodnik OFNER uspesno zamenjal STERNAT Lokacija: Klagenfurter Stadthalle, Datum: 2020-11-12
+[Sun Nov 08 2020 17:35:29 GMT+0100 (GMT+01:00)] Sodnik SMETANA uspesno zamenjal GRUBER Lokacija: Stadthalle Villach, Datum: 2020-11-10
+[Sun Nov 08 2020 17:35:29 GMT+0100 (GMT+01:00)] Sodnik STERNAT uspesno zamenjal SMETANA Lokacija: Stadthalle Villach, Datum: 2020-11-10
