@@ -116,3 +116,6 @@
 [Sun Nov 08 2020 17:35:29 GMT+0100 (GMT+01:00)] Sodnik OFNER uspesno zamenjal STERNAT Lokacija: Klagenfurter Stadthalle, Datum: 2020-11-12
 [Sun Nov 08 2020 17:35:29 GMT+0100 (GMT+01:00)] Sodnik SMETANA uspesno zamenjal GRUBER Lokacija: Stadthalle Villach, Datum: 2020-11-10
 [Sun Nov 08 2020 17:35:29 GMT+0100 (GMT+01:00)] Sodnik STERNAT uspesno zamenjal SMETANA Lokacija: Stadthalle Villach, Datum: 2020-11-10
+[Tue Nov 10 2020 17:57:23 GMT+0100 (GMT+01:00)] Sodnik OFNER uspesno zamenjal GRUBER Lokacija: Klagenfurter Stadthalle, Datum: 2020-11-12
+[Tue Nov 10 2020 17:57:23 GMT+0100 (GMT+01:00)] Sodnik STERNAT uspesno zamenjal OFNER Lokacija: Klagenfurter Stadthalle, Datum: 2020-11-12
+[Tue Nov 10 2020 18:59:49 GMT+0100 (GMT+01:00)] Sodnik PIRAS uspesno zamenjal VIGNOLO Lokacija: Eishalle Canazei, Datum: 2020-11-14
