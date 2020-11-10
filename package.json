@@ -1,6 +1,13 @@
 {
+  "name": "delegacije",
+  "version": "1.0.0",
+  "main": "index.js",
   "requires": true,
-  "lockfileVersion": 1,
+  "scripts": {
+    "get-data": "getNewJson.js",
+    "delegacije": "node start",
+    "d": "node start.js"
+  },
   "dependencies": {
     "@fast-csv/format": {
       "version": "4.3.1",

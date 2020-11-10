@@ -1,0 +1,121 @@
+[Thu Oct 01 2020 08:53:56 GMT+0200 (GMT+02:00)] Sodnik PODLESNIK uspesno zamenjal RUETZ Lokacija: Eisarena Salzburg, Datum: 2020-10-10
+[Fri Oct 02 2020 15:07:13 GMT+0200 (GMT+02:00)] Sodnik LAZZERI uspesno zamenjal BENVEGNU Lokacija: Eishalle Gröden, Datum: 2020-10-03
+[Fri Oct 02 2020 15:07:13 GMT+0200 (GMT+02:00)] Sodnik PINIE uspesno zamenjal STEFENELLI Lokacija: Eishalle Gröden, Datum: 2020-10-03
+[Fri Oct 02 2020 15:07:13 GMT+0200 (GMT+02:00)] Sodnik BASSO uspesno zamenjal PACE Lokacija: Eishalle Gröden, Datum: 2020-10-03
+[Fri Oct 02 2020 15:07:13 GMT+0200 (GMT+02:00)] Sodnik MANTOVANI uspesno zamenjal CRISTELI Lokacija: Eishalle Sterzing, Datum: 2020-10-03
+[Fri Oct 02 2020 15:07:13 GMT+0200 (GMT+02:00)] Sodnik RIGONI uspesno zamenjal MANTOVANI Lokacija: Eishalle Sterzing, Datum: 2020-10-03
+[Fri Oct 02 2020 15:07:13 GMT+0200 (GMT+02:00)] Sodnik LINESMAN uspesno zamenjal CRISTELI Lokacija: Eishalle Ritten, Datum: 2020-10-08
+[Fri Oct 02 2020 15:07:13 GMT+0200 (GMT+02:00)] Sodnik HEAD uspesno zamenjal BENVEGNU Lokacija: Eishalle Cortina, Datum: 2020-10-08
+[Fri Oct 02 2020 15:07:13 GMT+0200 (GMT+02:00)] Sodnik HEAD uspesno zamenjal STEFENELLI Lokacija: Eishalle Cortina, Datum: 2020-10-08
+[Fri Oct 02 2020 15:07:13 GMT+0200 (GMT+02:00)] Sodnik LINESMAN uspesno zamenjal PACE Lokacija: Eishalle Cortina, Datum: 2020-10-08
+[Fri Oct 02 2020 15:07:13 GMT+0200 (GMT+02:00)] Sodnik LINESMAN uspesno zamenjal CRISTELI Lokacija: Eishalle Ritten, Datum: 2020-10-10
+[Fri Oct 02 2020 15:07:13 GMT+0200 (GMT+02:00)] Sodnik HEAD uspesno zamenjal BENVEGNU Lokacija: Eishalle Asiago, Datum: 2020-10-10
+[Fri Oct 02 2020 15:07:13 GMT+0200 (GMT+02:00)] Sodnik HEAD uspesno zamenjal STEFENELLI Lokacija: Eishalle Asiago, Datum: 2020-10-10
+[Tue Oct 06 2020 13:18:44 GMT+0200 (GMT+02:00)] Sodnik MANTOVANI uspesno zamenjal LINESMAN Lokacija: Eishalle Ritten, Datum: 2020-10-08
+[Tue Oct 06 2020 13:18:44 GMT+0200 (GMT+02:00)] Sodnik GIACOMOZZI uspesno zamenjal HEAD Lokacija: Eishalle Cortina, Datum: 2020-10-08
+[Tue Oct 06 2020 13:18:44 GMT+0200 (GMT+02:00)] Sodnik MOSCHEN uspesno zamenjal HEAD Lokacija: Eishalle Cortina, Datum: 2020-10-08
+[Tue Oct 06 2020 13:18:44 GMT+0200 (GMT+02:00)] Sodnik BEDANA uspesno zamenjal DE ZORDO Lokacija: Eishalle Cortina, Datum: 2020-10-08
+[Tue Oct 06 2020 13:18:44 GMT+0200 (GMT+02:00)] Sodnik DE ZORDO uspesno zamenjal LINESMAN Lokacija: Eishalle Cortina, Datum: 2020-10-08
+[Tue Oct 06 2020 13:18:44 GMT+0200 (GMT+02:00)] Sodnik BASSO uspesno zamenjal LINESMAN Lokacija: Eishalle Ritten, Datum: 2020-10-10
+[Tue Oct 06 2020 13:18:44 GMT+0200 (GMT+02:00)] Sodnik CRISTELI uspesno zamenjal SLAVIERO Lokacija: Eishalle Ritten, Datum: 2020-10-10
+[Thu Oct 08 2020 10:07:14 GMT+0200 (GMT+02:00)] Sodnik BEDANA uspesno zamenjal CRISTELI Lokacija: Eishalle Ritten, Datum: 2020-10-10
+[Thu Oct 08 2020 10:07:14 GMT+0200 (GMT+02:00)] Sodnik SEEWALD uspesno zamenjal KONTSCHIEDER Lokacija: Linz AG Eisarena, Datum: 2020-10-09
+[Thu Oct 08 2020 10:07:14 GMT+0200 (GMT+02:00)] Sodnik KONTSCHIEDER uspesno zamenjal SEEWALD Lokacija: Eishalle KagranEins, Datum: 2020-10-18
+[Fri Oct 09 2020 08:59:58 GMT+0200 (GMT+02:00)] Sodnik PIRAGIC uspesno zamenjal SMETANA Lokacija: Klagenfurter Stadthalle, Datum: 2020-10-09
+[Fri Oct 09 2020 08:59:58 GMT+0200 (GMT+02:00)] Sodnik STERNAT uspesno zamenjal SMETANA Lokacija: Stadthalle Villach, Datum: 2020-10-11
+[Fri Oct 09 2020 08:59:58 GMT+0200 (GMT+02:00)] Sodnik TRILAR uspesno zamenjal STERNAT Lokacija: Stadthalle Villach, Datum: 2020-10-11
+[Fri Oct 09 2020 16:23:20 GMT+0200 (GMT+02:00)] Sodnik NEMETH uspesno zamenjal MUZSIK Lokacija: Gabor Ocskay Eisarena, Datum: 2020-10-09
+[Sat Oct 10 2020 15:01:10 GMT+0200 (GMT+02:00)] Sodnik LAZZERI uspesno zamenjal BENVEGNU Lokacija: Eishalle Dornbirn, Datum: 2020-10-16
+[Sun Oct 11 2020 15:11:16 GMT+0200 (GMT+02:00)] Sodnik NEMETH uspesno zamenjal MUZSIK Lokacija: Gabor Ocskay Eisarena, Datum: 2020-10-11
+[Sun Oct 11 2020 15:11:16 GMT+0200 (GMT+02:00)] Sodnik VACZI uspesno zamenjal NEMETH Lokacija: Gabor Ocskay Eisarena, Datum: 2020-10-11
+[Tue Oct 13 2020 09:23:01 GMT+0200 (GMT+02:00)] Sodnik PAGON uspesno zamenjal BIZALJ Lokacija: Hala Tivoli, Datum: 2020-10-17
+[Tue Oct 13 2020 09:23:01 GMT+0200 (GMT+02:00)] Sodnik DE ZORDO uspesno zamenjal VIGNOLO Lokacija: Eishalle Gröden, Datum: 2020-10-17
+[Wed Oct 14 2020 14:38:40 GMT+0200 (GMT+02:00)] Sodnik STERNAT uspesno zamenjal SMETANA Lokacija: Linz AG Eisarena, Datum: 2020-10-16
+[Wed Oct 14 2020 14:38:40 GMT+0200 (GMT+02:00)] Sodnik STERNAT uspesno zamenjal SMETANA Lokacija: Eishalle KagranEins, Datum: 2020-10-18
+[Wed Oct 14 2020 14:38:40 GMT+0200 (GMT+02:00)] Sodnik RENCZ uspesno zamenjal KINCSES Lokacija: Gabor Ocskay Eisarena, Datum: 2020-10-18
+[Wed Oct 14 2020 14:38:40 GMT+0200 (GMT+02:00)] Sodnik SOOS uspesno zamenjal RENCZ Lokacija: Gabor Ocskay Eisarena, Datum: 2020-10-18
+[Wed Oct 14 2020 19:11:03 GMT+0200 (GMT+02:00)] Sodnik ZRNIC uspesno zamenjal STERNAT Lokacija: Linz AG Eisarena, Datum: 2020-10-16
+[Wed Oct 14 2020 19:11:03 GMT+0200 (GMT+02:00)] Sodnik LAZZERI uspesno zamenjal TRILAR Lokacija: Eiswelle Bozen, Datum: 2020-10-16
+[Wed Oct 14 2020 19:11:03 GMT+0200 (GMT+02:00)] Sodnik RIGONI uspesno zamenjal ZGONC Lokacija: Eiswelle Bozen, Datum: 2020-10-16
+[Wed Oct 14 2020 19:11:03 GMT+0200 (GMT+02:00)] Sodnik PIRAGIC uspesno zamenjal SIEGEL Lokacija: Eishalle KagranEins, Datum: 2020-10-18
+[Wed Oct 14 2020 19:11:03 GMT+0200 (GMT+02:00)] Sodnik SIEGEL uspesno zamenjal STERNAT Lokacija: Eishalle KagranEins, Datum: 2020-10-18
+[Wed Oct 14 2020 19:11:03 GMT+0200 (GMT+02:00)] Sodnik VIRTA uspesno zamenjal TRILAR Lokacija: Klagenfurter Stadthalle, Datum: 2020-10-18
+[Wed Oct 14 2020 19:11:03 GMT+0200 (GMT+02:00)] Sodnik ZRNIC uspesno zamenjal VIRTA Lokacija: Klagenfurter Stadthalle, Datum: 2020-10-18
+[Wed Oct 14 2020 19:11:03 GMT+0200 (GMT+02:00)] Sodnik MIKLIC uspesno zamenjal ZGONC Lokacija: Klagenfurter Stadthalle, Datum: 2020-10-18
+[Wed Oct 14 2020 19:11:03 GMT+0200 (GMT+02:00)] Sodnik NAGY uspesno zamenjal RENCZ Lokacija: Gabor Ocskay Eisarena, Datum: 2020-10-18
+[Wed Oct 14 2020 19:11:03 GMT+0200 (GMT+02:00)] Sodnik RENCZ uspesno zamenjal SOOS Lokacija: Gabor Ocskay Eisarena, Datum: 2020-10-18
+[Thu Oct 15 2020 16:54:27 GMT+0200 (GMT+02:00)] Sodnik DURCHNER uspesno zamenjal SIEGEL Lokacija: Linz AG Eisarena, Datum: 2020-10-16
+[Thu Oct 15 2020 16:54:28 GMT+0200 (GMT+02:00)] Sodnik SIEGEL uspesno zamenjal ZRNIC Lokacija: Linz AG Eisarena, Datum: 2020-10-16
+[Thu Oct 15 2020 16:54:28 GMT+0200 (GMT+02:00)] Sodnik VIRTA uspesno zamenjal LAZZERI Lokacija: Eiswelle Bozen, Datum: 2020-10-16
+[Thu Oct 15 2020 16:54:28 GMT+0200 (GMT+02:00)] Sodnik ZRNIC uspesno zamenjal VIRTA Lokacija: Eiswelle Bozen, Datum: 2020-10-16
+[Thu Oct 15 2020 16:54:28 GMT+0200 (GMT+02:00)] Sodnik MUZSIK uspesno zamenjal VACZI Lokacija: Gabor Ocskay Eisarena, Datum: 2020-10-18
+[Fri Oct 16 2020 19:55:31 GMT+0200 (GMT+02:00)] Sodnik Fleischmann uspesno zamenjal FLEISCHMANN Lokacija: Eishalle Cortina, Datum: 2020-10-22
+[Fri Oct 16 2020 19:55:31 GMT+0200 (GMT+02:00)] Sodnik Fleischmann uspesno zamenjal FLEISCHMANN Lokacija: Eishalle Sterzing, Datum: 2020-10-24
+[Sat Oct 17 2020 21:40:16 GMT+0200 (GMT+02:00)] Sodnik SMETANA uspesno zamenjal HRONSKY Lokacija: Ondrej Nepala Arena, Datum: 2020-10-20
+[Sun Oct 18 2020 19:01:09 GMT+0200 (GMT+02:00)] Sodnik JEDLICKA uspesno zamenjal DURMIS Lokacija: Ondrej Nepala Arena, Datum: 2020-10-20
+[Sun Oct 18 2020 19:01:09 GMT+0200 (GMT+02:00)] Sodnik KASPAR uspesno zamenjal JEDLICKA Lokacija: Ondrej Nepala Arena, Datum: 2020-10-20
+[Tue Oct 20 2020 09:14:48 GMT+0200 (GMT+02:00)] Sodnik MARTIN uspesno zamenjal BASSO Lokacija: Olympiastadion Innsbruck, Datum: 2020-10-24
+[Tue Oct 20 2020 09:14:48 GMT+0200 (GMT+02:00)] Sodnik SPARER uspesno zamenjal RIGONI Lokacija: Olympiastadion Innsbruck, Datum: 2020-10-24
+[Tue Oct 20 2020 09:14:48 GMT+0200 (GMT+02:00)] Sodnik FICHTNER uspesno zamenjal SMETANA Lokacija: Ondrej Nepala Arena, Datum: 2020-10-20
+[Tue Oct 20 2020 09:14:48 GMT+0200 (GMT+02:00)] Sodnik JEDLICKA uspesno zamenjal DURMIS Lokacija: Ondrej Nepala Arena, Datum: 2020-10-23
+[Tue Oct 20 2020 09:14:48 GMT+0200 (GMT+02:00)] Sodnik KASPAR uspesno zamenjal JEDLICKA Lokacija: Ondrej Nepala Arena, Datum: 2020-10-23
+[Tue Oct 20 2020 09:14:48 GMT+0200 (GMT+02:00)] Sodnik OFNER uspesno zamenjal BULOVEC Lokacija: Stadthalle Villach, Datum: 2020-10-23
+[Tue Oct 20 2020 09:14:48 GMT+0200 (GMT+02:00)] Sodnik SIEGEL uspesno zamenjal ZRNIC Lokacija: Stadthalle Villach, Datum: 2020-10-23
+[Tue Oct 20 2020 09:14:48 GMT+0200 (GMT+02:00)] Sodnik GATOL uspesno zamenjal HRIBAR Lokacija: Stadthalle Villach, Datum: 2020-10-23
+[Tue Oct 20 2020 09:14:48 GMT+0200 (GMT+02:00)] Sodnik PIRAGIC uspesno zamenjal BENVEGNU Lokacija: Eiswelle Bozen, Datum: 2020-10-23
+[Tue Oct 20 2020 09:14:48 GMT+0200 (GMT+02:00)] Sodnik RUETZ uspesno zamenjal PIRAGIC Lokacija: Eiswelle Bozen, Datum: 2020-10-23
+[Tue Oct 20 2020 09:14:48 GMT+0200 (GMT+02:00)] Sodnik PARDATSCHER uspesno zamenjal RIGONI Lokacija: Eiswelle Bozen, Datum: 2020-10-23
+[Tue Oct 20 2020 09:14:48 GMT+0200 (GMT+02:00)] Sodnik RIGONI uspesno zamenjal ZGONC Lokacija: Eiswelle Bozen, Datum: 2020-10-23
+[Tue Oct 20 2020 09:14:48 GMT+0200 (GMT+02:00)] Sodnik PIRAGIC uspesno zamenjal GRUBER Lokacija: Eisarena Salzburg, Datum: 2020-10-25
+[Tue Oct 20 2020 09:14:48 GMT+0200 (GMT+02:00)] Sodnik RUETZ uspesno zamenjal PIRAGIC Lokacija: Eisarena Salzburg, Datum: 2020-10-25
+[Tue Oct 20 2020 09:14:48 GMT+0200 (GMT+02:00)] Sodnik BERNEKER uspesno zamenjal ROHATSCH Lokacija: Eishalle Dornbirn, Datum: 2020-10-25
+[Tue Oct 20 2020 09:14:48 GMT+0200 (GMT+02:00)] Sodnik ROHATSCH uspesno zamenjal VIRTA Lokacija: Eishalle Dornbirn, Datum: 2020-10-25
+[Tue Oct 20 2020 09:14:48 GMT+0200 (GMT+02:00)] Sodnik MIKLIC uspesno zamenjal ZGONC Lokacija: Klagenfurter Stadthalle, Datum: 2020-10-25
+[Tue Oct 20 2020 12:41:43 GMT+0200 (GMT+02:00)] Sodnik GRUBER uspesno zamenjal OFNER Lokacija: Eishalle Wien-Kagran, Datum: 2020-10-25
+[Tue Oct 20 2020 12:41:43 GMT+0200 (GMT+02:00)] Sodnik KONTSCHIEDER uspesno zamenjal GATOL Lokacija: Eishalle Wien-Kagran, Datum: 2020-10-25
+[Tue Oct 20 2020 12:41:43 GMT+0200 (GMT+02:00)] Sodnik NOTHEGGER uspesno zamenjal RIECKEN Lokacija: Eishalle Wien-Kagran, Datum: 2020-10-25
+[Tue Oct 20 2020 12:41:43 GMT+0200 (GMT+02:00)] Sodnik OFNER uspesno zamenjal BULOVEC Lokacija: Klagenfurter Stadthalle, Datum: 2020-10-25
+[Tue Oct 20 2020 12:41:43 GMT+0200 (GMT+02:00)] Sodnik SIEGEL uspesno zamenjal ZRNIC Lokacija: Klagenfurter Stadthalle, Datum: 2020-10-25
+[Tue Oct 20 2020 12:41:43 GMT+0200 (GMT+02:00)] Sodnik GATOL uspesno zamenjal MIKLIC Lokacija: Klagenfurter Stadthalle, Datum: 2020-10-25
+[Tue Oct 20 2020 15:31:17 GMT+0200 (GMT+02:00)] Sodnik RIGONI uspesno zamenjal SLAVIERO Lokacija: Eishalle Asiago, Datum: 2020-10-24
+[Tue Oct 20 2020 15:31:17 GMT+0200 (GMT+02:00)] Sodnik JEDLICKA uspesno zamenjal DURMIS Lokacija: Ondrej Nepala Arena, Datum: 2020-10-27
+[Tue Oct 20 2020 15:31:17 GMT+0200 (GMT+02:00)] Sodnik KASPAR uspesno zamenjal JEDLICKA Lokacija: Ondrej Nepala Arena, Datum: 2020-10-27
+[Wed Oct 21 2020 08:36:16 GMT+0200 (GMT+02:00)] Sodnik JAVORNIK uspesno zamenjal MIKLIC Lokacija: Eishalle Jesenice, Datum: 2020-10-22
+[Wed Oct 21 2020 08:36:16 GMT+0200 (GMT+02:00)] Sodnik LINESMAN uspesno zamenjal MANTOVANI Lokacija: Eishalle Ritten, Datum: 2020-10-22
+[Wed Oct 21 2020 08:36:16 GMT+0200 (GMT+02:00)] Sodnik FLEISCHMANN uspesno zamenjal Fleischmann Lokacija: Eishalle Cortina, Datum: 2020-10-22
+[Wed Oct 21 2020 08:36:16 GMT+0200 (GMT+02:00)] Sodnik ARLIC uspesno zamenjal BERGANT Lokacija: Hala Tivoli, Datum: 2020-10-24
+[Wed Oct 21 2020 08:36:16 GMT+0200 (GMT+02:00)] Sodnik FLEISCHMANN uspesno zamenjal Fleischmann Lokacija: Eishalle Sterzing, Datum: 2020-10-24
+[Wed Oct 21 2020 08:36:16 GMT+0200 (GMT+02:00)] Sodnik MOSCHEN uspesno zamenjal STEFENELLI Lokacija: Eishalle Ritten, Datum: 2020-10-24
+[Wed Oct 21 2020 08:36:16 GMT+0200 (GMT+02:00)] Sodnik STEFENELLI uspesno zamenjal VIRTA Lokacija: Eishalle Ritten, Datum: 2020-10-24
+[Wed Oct 21 2020 08:36:16 GMT+0200 (GMT+02:00)] Sodnik LINESMAN uspesno zamenjal MANTOVANI Lokacija: Eishalle Asiago, Datum: 2020-10-24
+[Wed Oct 21 2020 08:36:16 GMT+0200 (GMT+02:00)] Sodnik LINESMAN uspesno zamenjal RIGONI Lokacija: Eishalle Asiago, Datum: 2020-10-24
+[Wed Oct 21 2020 08:36:16 GMT+0200 (GMT+02:00)] Sodnik BASSO uspesno zamenjal PARDATSCHER Lokacija: Eiswelle Bozen, Datum: 2020-10-23
+[Wed Oct 21 2020 08:36:16 GMT+0200 (GMT+02:00)] Sodnik PARDATSCHER uspesno zamenjal RIGONI Lokacija: Eiswelle Bozen, Datum: 2020-10-23
+[Wed Oct 21 2020 14:32:35 GMT+0200 (GMT+02:00)] Sodnik DE ZORDO uspesno zamenjal LINESMAN Lokacija: Eishalle Ritten, Datum: 2020-10-22
+[Wed Oct 21 2020 14:32:35 GMT+0200 (GMT+02:00)] Sodnik CRISTELI uspesno zamenjal LINESMAN Lokacija: Eishalle Asiago, Datum: 2020-10-24
+[Wed Oct 21 2020 14:32:35 GMT+0200 (GMT+02:00)] Sodnik FLEISCHMANN uspesno zamenjal LINESMAN Lokacija: Eishalle Asiago, Datum: 2020-10-24
+[Sat Oct 24 2020 10:19:59 GMT+0200 (GMT+02:00)] Sodnik JAVORNIK uspesno zamenjal ARLIC Lokacija: Hala Tivoli, Datum: 2020-10-24
+[Sat Oct 24 2020 10:19:59 GMT+0200 (GMT+02:00)] Sodnik SNOJ uspesno zamenjal JAVORNIK Lokacija: Hala Tivoli, Datum: 2020-10-24
+[Wed Oct 28 2020 10:00:02 GMT+0100 (GMT+01:00)] Sodnik PAGON uspesno zamenjal ARLIC Lokacija: Eishalle Jesenice, Datum: 2020-11-01
+[Wed Oct 28 2020 10:00:02 GMT+0100 (GMT+01:00)] Sodnik SNOJ uspesno zamenjal JAVORNIK Lokacija: Eishalle Jesenice, Datum: 2020-11-01
+[Thu Oct 29 2020 08:47:12 GMT+0100 (GMT+01:00)] Sodnik WALLNER uspesno zamenjal LEHNER Lokacija: Linz AG Eisarena, Datum: 2020-10-31
+[Thu Oct 29 2020 08:47:12 GMT+0100 (GMT+01:00)] Sodnik LAZZERI uspesno zamenjal GIACOMOZZI Lokacija: Eishalle Gröden, Datum: 2020-11-05
+[Thu Oct 29 2020 08:47:12 GMT+0100 (GMT+01:00)] Sodnik STEFENELLI uspesno zamenjal LAZZERI Lokacija: Eishalle Gröden, Datum: 2020-11-05
+[Thu Oct 29 2020 08:47:12 GMT+0100 (GMT+01:00)] Sodnik GIACOMOZZI uspesno zamenjal STEFENELLI Lokacija: Eishalle Asiago, Datum: 2020-11-07
+[Sat Oct 31 2020 14:25:00 GMT+0100 (GMT+01:00)] Sodnik HEINRICHER uspesno zamenjal KUMMER Lokacija: Linz AG Eisarena, Datum: 2020-10-31
+[Fri Nov 06 2020 10:45:14 GMT+0100 (GMT+01:00)] Sodnik BEDYNEK uspesno zamenjal LINESMAN Lokacija: Klagenfurter Stadthalle, Datum: 2020-11-09
+[Sat Nov 07 2020 15:11:10 GMT+0100 (GMT+01:00)] Sodnik GIACOMOZZI uspesno zamenjal EGGER Lokacija: Eishalle Asiago, Datum: 2020-11-07
+[Sat Nov 07 2020 15:11:10 GMT+0100 (GMT+01:00)] Sodnik LAZZERI uspesno zamenjal GIACOMOZZI Lokacija: Eishalle Asiago, Datum: 2020-11-07
+[Sat Nov 07 2020 15:11:10 GMT+0100 (GMT+01:00)] Sodnik GRUBER uspesno zamenjal PIRAGIC Lokacija: Merkur Eisstadion Graz, Datum: 2020-11-08
+[Sat Nov 07 2020 15:11:10 GMT+0100 (GMT+01:00)] Sodnik STERNAT uspesno zamenjal PIRAGIC Lokacija: Klagenfurter Stadthalle, Datum: 2020-11-09
+[Sat Nov 07 2020 15:11:10 GMT+0100 (GMT+01:00)] Sodnik GRUBER uspesno zamenjal PIRAGIC Lokacija: Stadthalle Villach, Datum: 2020-11-10
+[Sat Nov 07 2020 19:35:04 GMT+0100 (GMT+01:00)] Sodnik SMETANA uspesno zamenjal GRUBER Lokacija: Merkur Eisstadion Graz, Datum: 2020-11-08
+[Sat Nov 07 2020 19:35:04 GMT+0100 (GMT+01:00)] Sodnik STERNAT uspesno zamenjal SMETANA Lokacija: Merkur Eisstadion Graz, Datum: 2020-11-08
+[Sat Nov 07 2020 19:35:04 GMT+0100 (GMT+01:00)] Sodnik BULOVEC uspesno zamenjal GRUBER Lokacija: Klagenfurter Stadthalle, Datum: 2020-11-09
+[Sun Nov 08 2020 17:35:29 GMT+0100 (GMT+01:00)] Sodnik GRUBER uspesno zamenjal OFNER Lokacija: Klagenfurter Stadthalle, Datum: 2020-11-12
+[Sun Nov 08 2020 17:35:29 GMT+0100 (GMT+01:00)] Sodnik OFNER uspesno zamenjal STERNAT Lokacija: Klagenfurter Stadthalle, Datum: 2020-11-12
+[Sun Nov 08 2020 17:35:29 GMT+0100 (GMT+01:00)] Sodnik SMETANA uspesno zamenjal GRUBER Lokacija: Stadthalle Villach, Datum: 2020-11-10
+[Sun Nov 08 2020 17:35:29 GMT+0100 (GMT+01:00)] Sodnik STERNAT uspesno zamenjal SMETANA Lokacija: Stadthalle Villach, Datum: 2020-11-10
+[Tue Nov 10 2020 17:57:23 GMT+0100 (GMT+01:00)] Sodnik OFNER uspesno zamenjal GRUBER Lokacija: Klagenfurter Stadthalle, Datum: 2020-11-12
+[Tue Nov 10 2020 17:57:23 GMT+0100 (GMT+01:00)] Sodnik STERNAT uspesno zamenjal OFNER Lokacija: Klagenfurter Stadthalle, Datum: 2020-11-12
+[Tue Nov 10 2020 18:59:49 GMT+0100 (GMT+01:00)] Sodnik PIRAS uspesno zamenjal VIGNOLO Lokacija: Eishalle Canazei, Datum: 2020-11-14
