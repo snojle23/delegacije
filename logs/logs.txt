@@ -119,3 +119,7 @@
 [Tue Nov 10 2020 17:57:23 GMT+0100 (GMT+01:00)] Sodnik OFNER uspesno zamenjal GRUBER Lokacija: Klagenfurter Stadthalle, Datum: 2020-11-12
 [Tue Nov 10 2020 17:57:23 GMT+0100 (GMT+01:00)] Sodnik STERNAT uspesno zamenjal OFNER Lokacija: Klagenfurter Stadthalle, Datum: 2020-11-12
 [Tue Nov 10 2020 18:59:49 GMT+0100 (GMT+01:00)] Sodnik PIRAS uspesno zamenjal VIGNOLO Lokacija: Eishalle Canazei, Datum: 2020-11-14
+[Wed Nov 11 2020 12:05:25 GMT+0100 (GMT+01:00)] Sodnik HUBER uspesno zamenjal RINKER Lokacija: Eishalle Dornbirn, Datum: 2020-11-14
+[Wed Nov 11 2020 12:05:25 GMT+0100 (GMT+01:00)] Sodnik RINKER uspesno zamenjal SPIEGEL Lokacija: Eishalle Dornbirn, Datum: 2020-11-14
+[Wed Nov 11 2020 12:05:25 GMT+0100 (GMT+01:00)] Sodnik EISL uspesno zamenjal HUBER Lokacija: Eishalle Feldkirch, Datum: 2020-11-15
+[Wed Nov 11 2020 12:05:25 GMT+0100 (GMT+01:00)] Sodnik HUBER uspesno zamenjal SPIEGEL Lokacija: Eishalle Feldkirch, Datum: 2020-11-15
