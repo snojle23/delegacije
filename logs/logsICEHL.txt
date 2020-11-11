@@ -62,3 +62,18 @@
 [Tue Nov 10 2020 18:59:49 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-11-25
 [Tue Nov 10 2020 18:59:49 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-11-26
 [Tue Nov 10 2020 18:59:49 GMT+0100 (GMT+01:00)] Nov datum dodan v ICEHL_DAT. Datum:2020-11-26
+[Tue Nov 10 2020 22:28:06 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-11-27
+[Tue Nov 10 2020 22:28:06 GMT+0100 (GMT+01:00)] Nov datum dodan v ICEHL_DAT. Datum:2020-11-27
+[Tue Nov 10 2020 22:28:06 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-11-27
+[Tue Nov 10 2020 22:28:06 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-11-27
+[Tue Nov 10 2020 22:28:06 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-11-27
+[Tue Nov 10 2020 22:28:06 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-11-28
+[Tue Nov 10 2020 22:28:06 GMT+0100 (GMT+01:00)] Nov datum dodan v ICEHL_DAT. Datum:2020-11-28
+[Tue Nov 10 2020 22:28:06 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-11-29
+[Tue Nov 10 2020 22:28:06 GMT+0100 (GMT+01:00)] Nov datum dodan v ICEHL_DAT. Datum:2020-11-29
+[Tue Nov 10 2020 22:28:06 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-11-29
+[Tue Nov 10 2020 22:28:06 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-11-29
+[Tue Nov 10 2020 22:28:06 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-11-29
+[Tue Nov 10 2020 22:28:06 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-11-30
+[Tue Nov 10 2020 22:28:06 GMT+0100 (GMT+01:00)] Nov datum dodan v ICEHL_DAT. Datum:2020-11-30
+[Tue Nov 10 2020 22:28:06 GMT+0100 (GMT+01:00)] Nov sodnikKONC uspesno dodan 
