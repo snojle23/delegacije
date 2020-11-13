@@ -134,3 +134,13 @@
 [Thu Nov 12 2020 09:12:42 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-11-21
 [Thu Nov 12 2020 09:12:42 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-11-24
 [Fri Nov 13 2020 08:52:48 GMT+0100 (GMT+01:00)] Nov sodnikRICCO uspesno dodan 
+[Fri Nov 13 2020 10:11:07 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-11-26
+[Fri Nov 13 2020 10:11:07 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-11-28
+[Fri Nov 13 2020 10:11:07 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-11-28
+[Fri Nov 13 2020 10:11:07 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-11-28
+[Fri Nov 13 2020 10:11:07 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-11-28
+[Fri Nov 13 2020 10:11:07 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-11-28
+[Fri Nov 13 2020 10:11:07 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-11-28
+[Fri Nov 13 2020 10:11:07 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-11-28
+[Fri Nov 13 2020 10:11:07 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-11-29
+[Fri Nov 13 2020 10:11:07 GMT+0100 (GMT+01:00)] Nov sodnikLOTTAROLI uspesno dodan 
