@@ -77,3 +77,4 @@
 [Tue Nov 10 2020 22:28:06 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-11-30
 [Tue Nov 10 2020 22:28:06 GMT+0100 (GMT+01:00)] Nov datum dodan v ICEHL_DAT. Datum:2020-11-30
 [Tue Nov 10 2020 22:28:06 GMT+0100 (GMT+01:00)] Nov sodnikKONC uspesno dodan 
+[Thu Nov 12 2020 09:26:32 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-11-24

@@ -118,3 +118,19 @@
 [Thu Nov 05 2020 15:00:01 GMT+0100 (GMT+01:00)] Nov sodnikVIGNOLO uspesno dodan 
 [Thu Nov 05 2020 15:00:01 GMT+0100 (GMT+01:00)] Nov sodnikHEINRICHER uspesno dodan 
 [Thu Nov 05 2020 15:00:01 GMT+0100 (GMT+01:00)] Nov sodnikRicco uspesno dodan 
+[Thu Nov 12 2020 09:12:42 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-11-17
+[Thu Nov 12 2020 09:12:42 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-11-19
+[Thu Nov 12 2020 09:12:42 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-11-19
+[Thu Nov 12 2020 09:12:42 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-11-19
+[Thu Nov 12 2020 09:12:42 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-11-19
+[Thu Nov 12 2020 09:12:42 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-11-20
+[Thu Nov 12 2020 09:12:42 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-11-20
+[Thu Nov 12 2020 09:12:42 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-11-21
+[Thu Nov 12 2020 09:12:42 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-11-21
+[Thu Nov 12 2020 09:12:42 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-11-21
+[Thu Nov 12 2020 09:12:42 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-11-21
+[Thu Nov 12 2020 09:12:42 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-11-21
+[Thu Nov 12 2020 09:12:42 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-11-21
+[Thu Nov 12 2020 09:12:42 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-11-21
+[Thu Nov 12 2020 09:12:42 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-11-24
+[Fri Nov 13 2020 08:52:48 GMT+0100 (GMT+01:00)] Nov sodnikRICCO uspesno dodan 

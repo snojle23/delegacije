@@ -126,7 +126,7 @@ function updateDatesInExcel(noviDatumi, mainWorkbook, DAT, DAT_STRING, isAHL, js
                 console.log(` Staro število tekem za AHL na datum: ${datee}: ${gamesPerDateExcel}\n nove tekme: ${gamesInJson}`)
 
             }else{
-                console.log(` Staro število tekem za ICEHL na datum: ${gamesPerDateExcel}; nove tekme: ${gamesInJson}`)
+                console.log(` Staro število tekem za ICEHL na datum: ${datee}:  ${gamesPerDateExcel}; nove tekme: ${gamesInJson}`)
 
             }
         }

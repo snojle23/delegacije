@@ -123,3 +123,9 @@
 [Wed Nov 11 2020 12:05:25 GMT+0100 (GMT+01:00)] Sodnik RINKER uspesno zamenjal SPIEGEL Lokacija: Eishalle Dornbirn, Datum: 2020-11-14
 [Wed Nov 11 2020 12:05:25 GMT+0100 (GMT+01:00)] Sodnik EISL uspesno zamenjal HUBER Lokacija: Eishalle Feldkirch, Datum: 2020-11-15
 [Wed Nov 11 2020 12:05:25 GMT+0100 (GMT+01:00)] Sodnik HUBER uspesno zamenjal SPIEGEL Lokacija: Eishalle Feldkirch, Datum: 2020-11-15
+[Thu Nov 12 2020 07:59:24 GMT+0100 (GMT+01:00)] Sodnik RENCZ uspesno zamenjal NAGY Lokacija: Gabor Ocskay Eisarena, Datum: 2020-11-15
+[Thu Nov 12 2020 07:59:24 GMT+0100 (GMT+01:00)] Sodnik SOOS uspesno zamenjal RENCZ Lokacija: Gabor Ocskay Eisarena, Datum: 2020-11-15
+[Thu Nov 12 2020 07:59:24 GMT+0100 (GMT+01:00)] Sodnik NAGY uspesno zamenjal SOOS Lokacija: Gabor Ocskay Eisarena, Datum: 2020-11-18
+[Thu Nov 12 2020 16:43:18 GMT+0100 (GMT+01:00)] Sodnik LAZZERI uspesno zamenjal EGGER Lokacija: Eishalle Sterzing, Datum: 2020-11-12
+[Thu Nov 12 2020 16:43:18 GMT+0100 (GMT+01:00)] Sodnik WUNTSCHEK uspesno zamenjal PODLESNIK Lokacija: Eishalle Feldkirch, Datum: 2020-11-14
+[Fri Nov 13 2020 08:52:42 GMT+0100 (GMT+01:00)] Sodnik RICCO uspesno zamenjal Ricco Lokacija: Eishalle Cortina, Datum: 2020-11-14
