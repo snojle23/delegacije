@@ -150,3 +150,8 @@
 [Thu Nov 19 2020 19:59:47 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-11-24
 [Thu Nov 19 2020 19:59:47 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-11-24
 [Thu Nov 19 2020 19:59:47 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-11-24
+[Thu Nov 19 2020 21:24:18 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-11-22
+[Thu Nov 19 2020 21:24:18 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-11-26
+[Thu Nov 19 2020 21:24:18 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-11-26
+[Thu Nov 19 2020 21:24:18 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-11-28
+[Thu Nov 19 2020 21:24:18 GMT+0100 (GMT+01:00)] Nov sodnikSCHONAKLENER uspesno dodan 
