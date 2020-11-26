@@ -143,3 +143,6 @@
 [Mon Nov 23 2020 18:30:25 GMT+0100 (GMT+01:00)] Sodnik PUFF uspesno zamenjal HOLZER Lokacija: Klagenfurter Stadthalle, Datum: 2020-11-26
 [Mon Nov 23 2020 18:30:25 GMT+0100 (GMT+01:00)] Sodnik PÖTSCHER uspesno zamenjal PUFF Lokacija: Klagenfurter Stadthalle, Datum: 2020-11-26
 [Wed Nov 25 2020 08:52:59 GMT+0100 (GMT+01:00)] Sodnik BERNEKER uspesno zamenjal ROHATSCH Lokacija: Eishalle Dornbirn, Datum: 2020-12-06
+[Thu Nov 26 2020 13:39:49 GMT+0100 (GMT+01:00)] Sodnik PODLESNIK uspesno zamenjal OREL Lokacija: Klagenfurter Stadthalle, Datum: 2020-11-26
+[Thu Nov 26 2020 13:39:49 GMT+0100 (GMT+01:00)] Sodnik WUNTSCHEK uspesno zamenjal PODLESNIK Lokacija: Klagenfurter Stadthalle, Datum: 2020-11-26
+[Thu Nov 26 2020 13:39:49 GMT+0100 (GMT+01:00)] Sodnik SCHAUER uspesno zamenjal OREL Lokacija: Eishalle Feldkirch, Datum: 2020-11-28
