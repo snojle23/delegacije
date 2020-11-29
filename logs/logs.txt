@@ -147,3 +147,6 @@
 [Thu Nov 26 2020 13:39:49 GMT+0100 (GMT+01:00)] Sodnik WUNTSCHEK uspesno zamenjal PODLESNIK Lokacija: Klagenfurter Stadthalle, Datum: 2020-11-26
 [Thu Nov 26 2020 13:39:49 GMT+0100 (GMT+01:00)] Sodnik SCHAUER uspesno zamenjal OREL Lokacija: Eishalle Feldkirch, Datum: 2020-11-28
 [Thu Nov 26 2020 20:12:20 GMT+0100 (GMT+01:00)] Sodnik CARRITO uspesno zamenjal DE ZORDO Lokacija: Eishalle Canazei, Datum: 2020-11-28
+[Sun Nov 29 2020 18:23:47 GMT+0100 (GMT+01:00)] Sodnik HUBER uspesno zamenjal WALLNER Lokacija: Eishalle Lustenau, Datum: 2020-12-05
+[Sun Nov 29 2020 18:23:47 GMT+0100 (GMT+01:00)] Sodnik SCHAUER uspesno zamenjal HUBER Lokacija: Eishalle Lustenau, Datum: 2020-12-06
+[Sun Nov 29 2020 18:23:47 GMT+0100 (GMT+01:00)] Sodnik WALLNER uspesno zamenjal SCHAUER Lokacija: Eishalle Lustenau, Datum: 2020-12-06
