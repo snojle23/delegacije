@@ -170,3 +170,20 @@
 [Wed Nov 25 2020 12:03:21 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-12-05
 [Wed Nov 25 2020 12:03:21 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-12-06
 [Thu Nov 26 2020 20:12:24 GMT+0100 (GMT+01:00)] Nov sodnikCARRITO uspesno dodan 
+[Tue Dec 01 2020 09:47:08 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-12-08
+[Tue Dec 01 2020 09:47:08 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-12-08
+[Tue Dec 01 2020 09:47:08 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-12-08
+[Tue Dec 01 2020 09:47:08 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-12-08
+[Tue Dec 01 2020 09:47:08 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-12-08
+[Tue Dec 01 2020 09:47:08 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-12-08
+[Tue Dec 01 2020 09:47:08 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-12-10
+[Tue Dec 01 2020 09:47:08 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-12-12
+[Tue Dec 01 2020 09:47:08 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-12-12
+[Tue Dec 01 2020 09:47:08 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-12-12
+[Tue Dec 01 2020 09:47:08 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-12-12
+[Tue Dec 01 2020 09:47:08 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-12-12
+[Tue Dec 01 2020 09:47:08 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-12-13
+[Tue Dec 01 2020 09:47:08 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-12-15
+[Tue Dec 01 2020 09:47:08 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-12-15
+[Tue Dec 01 2020 09:47:08 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-12-15
+[Tue Dec 01 2020 09:47:08 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-12-17
