@@ -150,3 +150,10 @@
 [Sun Nov 29 2020 18:23:47 GMT+0100 (GMT+01:00)] Sodnik HUBER uspesno zamenjal WALLNER Lokacija: Eishalle Lustenau, Datum: 2020-12-05
 [Sun Nov 29 2020 18:23:47 GMT+0100 (GMT+01:00)] Sodnik SCHAUER uspesno zamenjal HUBER Lokacija: Eishalle Lustenau, Datum: 2020-12-06
 [Sun Nov 29 2020 18:23:47 GMT+0100 (GMT+01:00)] Sodnik WALLNER uspesno zamenjal SCHAUER Lokacija: Eishalle Lustenau, Datum: 2020-12-06
+[Sat Dec 05 2020 08:42:40 GMT+0100 (GMT+01:00)] Sodnik LAZZERI uspesno zamenjal MOSCHEN Lokacija: Eishalle Bruneck, Datum: 2020-12-05
+[Sat Dec 05 2020 08:42:40 GMT+0100 (GMT+01:00)] Sodnik MOSCHEN uspesno zamenjal STEFENELLI Lokacija: Eishalle Bruneck, Datum: 2020-12-05
+[Sat Dec 05 2020 08:42:40 GMT+0100 (GMT+01:00)] Sodnik PIRAS uspesno zamenjal DE ZORDO Lokacija: Eishalle Bruneck, Datum: 2020-12-05
+[Sat Dec 05 2020 08:42:40 GMT+0100 (GMT+01:00)] Sodnik PINIE uspesno zamenjal LAZZERI Lokacija: Eishalle Cortina, Datum: 2020-12-05
+[Sat Dec 05 2020 08:42:40 GMT+0100 (GMT+01:00)] Sodnik STEFENELLI uspesno zamenjal PINIE Lokacija: Eishalle Cortina, Datum: 2020-12-05
+[Sat Dec 05 2020 08:42:40 GMT+0100 (GMT+01:00)] Sodnik DE ZORDO uspesno zamenjal PIRAS Lokacija: Eishalle Cortina, Datum: 2020-12-05
+[Sat Dec 05 2020 08:42:40 GMT+0100 (GMT+01:00)] Sodnik MOIDL uspesno zamenjal MATTHEY Lokacija: Linz AG Eisarena, Datum: 2020-12-15
