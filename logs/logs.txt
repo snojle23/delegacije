@@ -157,3 +157,5 @@
 [Sat Dec 05 2020 08:42:40 GMT+0100 (GMT+01:00)] Sodnik STEFENELLI uspesno zamenjal PINIE Lokacija: Eishalle Cortina, Datum: 2020-12-05
 [Sat Dec 05 2020 08:42:40 GMT+0100 (GMT+01:00)] Sodnik DE ZORDO uspesno zamenjal PIRAS Lokacija: Eishalle Cortina, Datum: 2020-12-05
 [Sat Dec 05 2020 08:42:40 GMT+0100 (GMT+01:00)] Sodnik MOIDL uspesno zamenjal MATTHEY Lokacija: Linz AG Eisarena, Datum: 2020-12-15
+[Sun Dec 06 2020 22:40:50 GMT+0100 (GMT+01:00)] Sodnik SLAVIERO uspesno zamenjal FLEISCHMANN Lokacija: Eishalle Asiago, Datum: 2020-12-08
+[Sun Dec 06 2020 22:40:50 GMT+0100 (GMT+01:00)] Sodnik FLEISCHMANN uspesno zamenjal SLAVIERO Lokacija: Eishalle Ritten, Datum: 2020-12-12
