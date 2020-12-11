@@ -165,3 +165,5 @@
 [Tue Dec 08 2020 08:33:42 GMT+0100 (GMT+01:00)] Sodnik MANTOVANI uspesno zamenjal CRISTELI Lokacija: Eishalle Asiago, Datum: 2020-12-08
 [Tue Dec 08 2020 08:33:42 GMT+0100 (GMT+01:00)] Sodnik LEHNER uspesno zamenjal BRUNNER Lokacija: Sportpark Kitzbühel, Datum: 2020-12-26
 [Tue Dec 08 2020 08:33:42 GMT+0100 (GMT+01:00)] Sodnik WUNTSCHEK uspesno zamenjal LEHNER Lokacija: Sportpark Kitzbühel, Datum: 2020-12-26
+[Fri Dec 11 2020 16:16:28 GMT+0100 (GMT+01:00)] Sodnik REISINGER uspesno zamenjal MOIDL Lokacija: Eishalle Dornbirn, Datum: 2020-12-12
+[Fri Dec 11 2020 16:16:28 GMT+0100 (GMT+01:00)] Sodnik SPIEGEL uspesno zamenjal REISINGER Lokacija: Eishalle Dornbirn, Datum: 2020-12-12
