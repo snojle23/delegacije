@@ -167,3 +167,7 @@
 [Tue Dec 08 2020 08:33:42 GMT+0100 (GMT+01:00)] Sodnik WUNTSCHEK uspesno zamenjal LEHNER Lokacija: Sportpark Kitzbühel, Datum: 2020-12-26
 [Fri Dec 11 2020 16:16:28 GMT+0100 (GMT+01:00)] Sodnik REISINGER uspesno zamenjal MOIDL Lokacija: Eishalle Dornbirn, Datum: 2020-12-12
 [Fri Dec 11 2020 16:16:28 GMT+0100 (GMT+01:00)] Sodnik SPIEGEL uspesno zamenjal REISINGER Lokacija: Eishalle Dornbirn, Datum: 2020-12-12
+[Sat Dec 12 2020 10:09:07 GMT+0100 (GMT+01:00)] Sodnik MATTHEY uspesno zamenjal MOIDL Lokacija: Linz AG Eisarena, Datum: 2020-12-15
+[Sat Dec 12 2020 10:09:07 GMT+0100 (GMT+01:00)] Sodnik DE ZORDO uspesno zamenjal SLAVIERO Lokacija: Eishalle Canazei, Datum: 2020-12-17
+[Sat Dec 12 2020 10:09:07 GMT+0100 (GMT+01:00)] Sodnik GIACOMOZZI uspesno zamenjal LEGA Lokacija: Eishalle Canazei, Datum: 2020-12-28
+[Sat Dec 12 2020 10:09:07 GMT+0100 (GMT+01:00)] Sodnik LEGA uspesno zamenjal GIACOMOZZI Lokacija: Eishalle Sterzing, Datum: 2020-12-28
