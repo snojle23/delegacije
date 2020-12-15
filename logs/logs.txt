@@ -172,3 +172,4 @@
 [Sat Dec 12 2020 10:09:07 GMT+0100 (GMT+01:00)] Sodnik GIACOMOZZI uspesno zamenjal LEGA Lokacija: Eishalle Canazei, Datum: 2020-12-28
 [Sat Dec 12 2020 10:09:07 GMT+0100 (GMT+01:00)] Sodnik LEGA uspesno zamenjal GIACOMOZZI Lokacija: Eishalle Sterzing, Datum: 2020-12-28
 [Mon Dec 14 2020 07:33:49 GMT+0100 (GMT+01:00)] Sodnik LINESMAN uspesno zamenjal NOTHEGGER Lokacija: Eisarena Salzburg, Datum: 2020-12-15
+[Tue Dec 15 2020 11:25:04 GMT+0100 (GMT+01:00)] Sodnik SPARER uspesno zamenjal PARDATSCHER Lokacija: Eiswelle Bozen, Datum: 2020-12-15
