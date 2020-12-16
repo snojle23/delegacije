@@ -153,3 +153,28 @@
 [Tue Dec 08 2020 15:18:12 GMT+0100 (GMT+01:00)] Nov datum dodan v ICEHL_DAT. Datum:2020-12-21
 [Mon Dec 14 2020 07:33:53 GMT+0100 (GMT+01:00)] Nov sodnikLINESMAN uspesno dodan 
 [Tue Dec 15 2020 11:34:11 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-12-15
+[Wed Dec 16 2020 13:14:14 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-12-26
+[Wed Dec 16 2020 13:14:14 GMT+0100 (GMT+01:00)] Nov datum dodan v ICEHL_DAT. Datum:2020-12-26
+[Wed Dec 16 2020 13:14:14 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-12-26
+[Wed Dec 16 2020 13:14:14 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-12-26
+[Wed Dec 16 2020 13:14:14 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-12-26
+[Wed Dec 16 2020 13:14:14 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-12-26
+[Wed Dec 16 2020 13:14:14 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-12-28
+[Wed Dec 16 2020 13:14:14 GMT+0100 (GMT+01:00)] Nov datum dodan v ICEHL_DAT. Datum:2020-12-28
+[Wed Dec 16 2020 13:14:14 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-12-28
+[Wed Dec 16 2020 13:14:14 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-12-28
+[Wed Dec 16 2020 13:14:14 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-12-28
+[Wed Dec 16 2020 13:14:14 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-12-28
+[Wed Dec 16 2020 13:14:14 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-12-30
+[Wed Dec 16 2020 13:14:14 GMT+0100 (GMT+01:00)] Nov datum dodan v ICEHL_DAT. Datum:2020-12-30
+[Wed Dec 16 2020 13:14:14 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-12-30
+[Wed Dec 16 2020 13:14:14 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-12-30
+[Wed Dec 16 2020 13:14:14 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-12-30
+[Wed Dec 16 2020 13:14:14 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2020-12-30
+[Wed Dec 16 2020 13:14:14 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2021-01-01
+[Wed Dec 16 2020 13:14:14 GMT+0100 (GMT+01:00)] Nov datum dodan v ICEHL_DAT. Datum:2021-01-01
+[Wed Dec 16 2020 13:14:14 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2021-01-01
+[Wed Dec 16 2020 13:14:14 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2021-01-01
+[Wed Dec 16 2020 13:14:14 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2021-01-01
+[Wed Dec 16 2020 13:14:14 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2021-01-01
+[Wed Dec 16 2020 13:14:14 GMT+0100 (GMT+01:00)] Nov sodnikHEAD uspesno dodan 
