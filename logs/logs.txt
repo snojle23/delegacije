@@ -173,3 +173,11 @@
 [Sat Dec 12 2020 10:09:07 GMT+0100 (GMT+01:00)] Sodnik LEGA uspesno zamenjal GIACOMOZZI Lokacija: Eishalle Sterzing, Datum: 2020-12-28
 [Mon Dec 14 2020 07:33:49 GMT+0100 (GMT+01:00)] Sodnik LINESMAN uspesno zamenjal NOTHEGGER Lokacija: Eisarena Salzburg, Datum: 2020-12-15
 [Tue Dec 15 2020 11:25:04 GMT+0100 (GMT+01:00)] Sodnik SPARER uspesno zamenjal PARDATSCHER Lokacija: Eiswelle Bozen, Datum: 2020-12-15
+[Wed Dec 16 2020 07:39:34 GMT+0100 (GMT+01:00)] Sodnik GIACOMOZZI uspesno zamenjal EGGER Lokacija: Eishalle Canazei, Datum: 2020-12-17
+[Wed Dec 16 2020 07:39:34 GMT+0100 (GMT+01:00)] Sodnik SIEGEL uspesno zamenjal FICHTNER Lokacija: Merkur Eisstadion Graz, Datum: 2020-12-19
+[Wed Dec 16 2020 07:39:34 GMT+0100 (GMT+01:00)] Sodnik SMETANA uspesno zamenjal SIEGEL Lokacija: Merkur Eisstadion Graz, Datum: 2020-12-19
+[Wed Dec 16 2020 07:39:34 GMT+0100 (GMT+01:00)] Sodnik KONTSCHIEDER uspesno zamenjal BÄRNTHALER Lokacija: Merkur Eisstadion Graz, Datum: 2020-12-19
+[Wed Dec 16 2020 07:39:34 GMT+0100 (GMT+01:00)] Sodnik NOTHEGGER uspesno zamenjal KASPAR Lokacija: Merkur Eisstadion Graz, Datum: 2020-12-19
+[Wed Dec 16 2020 07:39:34 GMT+0100 (GMT+01:00)] Sodnik BÄRNTHALER uspesno zamenjal KONTSCHIEDER Lokacija: Eishalle KagranEins, Datum: 2020-12-20
+[Wed Dec 16 2020 07:39:34 GMT+0100 (GMT+01:00)] Sodnik KASPAR uspesno zamenjal NOTHEGGER Lokacija: Eishalle KagranEins, Datum: 2020-12-20
+[Wed Dec 16 2020 07:39:34 GMT+0100 (GMT+01:00)] Sodnik EGGER uspesno zamenjal GIACOMOZZI Lokacija: Eishalle Bruneck, Datum: 2020-12-30
