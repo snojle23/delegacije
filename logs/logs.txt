@@ -181,3 +181,9 @@
 [Wed Dec 16 2020 07:39:34 GMT+0100 (GMT+01:00)] Sodnik BÄRNTHALER uspesno zamenjal KONTSCHIEDER Lokacija: Eishalle KagranEins, Datum: 2020-12-20
 [Wed Dec 16 2020 07:39:34 GMT+0100 (GMT+01:00)] Sodnik KASPAR uspesno zamenjal NOTHEGGER Lokacija: Eishalle KagranEins, Datum: 2020-12-20
 [Wed Dec 16 2020 07:39:34 GMT+0100 (GMT+01:00)] Sodnik EGGER uspesno zamenjal GIACOMOZZI Lokacija: Eishalle Bruneck, Datum: 2020-12-30
+[Thu Dec 17 2020 09:34:01 GMT+0100 (GMT+01:00)] Sodnik HUBER uspesno zamenjal HEAD Lokacija: Eishalle Dornbirn, Datum: 2020-12-26
+[Thu Dec 17 2020 09:34:01 GMT+0100 (GMT+01:00)] Sodnik NIKOLIC uspesno zamenjal HEAD Lokacija: Eishalle Dornbirn, Datum: 2020-12-26
+[Thu Dec 17 2020 09:34:01 GMT+0100 (GMT+01:00)] Sodnik TRILAR uspesno zamenjal HEAD Lokacija: Eisarena Salzburg, Datum: 2020-12-28
+[Thu Dec 17 2020 09:34:01 GMT+0100 (GMT+01:00)] Sodnik OREL uspesno zamenjal SCHAUER Lokacija: Eishalle Feldkirch, Datum: 2020-12-30
+[Thu Dec 17 2020 09:34:01 GMT+0100 (GMT+01:00)] Sodnik NIKOLIC uspesno zamenjal HEAD Lokacija: Eisarena Salzburg, Datum: 2020-12-30
+[Thu Dec 17 2020 09:34:01 GMT+0100 (GMT+01:00)] Sodnik SCHAUER uspesno zamenjal HEAD Lokacija: Eisarena Salzburg, Datum: 2020-12-30

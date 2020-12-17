@@ -178,3 +178,6 @@
 [Wed Dec 16 2020 13:14:14 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2021-01-01
 [Wed Dec 16 2020 13:14:14 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2021-01-01
 [Wed Dec 16 2020 13:14:14 GMT+0100 (GMT+01:00)] Nov sodnikHEAD uspesno dodan 
+[Thu Dec 17 2020 09:34:10 GMT+0100 (GMT+01:00)] Nov sodnikHUBER uspesno dodan 
+[Thu Dec 17 2020 09:34:10 GMT+0100 (GMT+01:00)] Nov sodnikNIKOLIC uspesno dodan 
+[Thu Dec 17 2020 09:34:10 GMT+0100 (GMT+01:00)] Nov sodnikSCHAUER uspesno dodan 
