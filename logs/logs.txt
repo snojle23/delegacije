@@ -199,3 +199,7 @@
 [Mon Dec 21 2020 21:04:56 GMT+0100 (GMT+01:00)] Sodnik SPIEGEL uspesno zamenjal WIMMLER Lokacija: Eishalle Lustenau, Datum: 2020-12-22
 [Mon Dec 21 2020 21:04:56 GMT+0100 (GMT+01:00)] Sodnik FLEISCHMANN uspesno zamenjal DE ZORDO Lokacija: Eishalle Ritten, Datum: 2020-12-30
 [Mon Dec 21 2020 21:04:56 GMT+0100 (GMT+01:00)] Sodnik DE ZORDO uspesno zamenjal FLEISCHMANN Lokacija: Eishalle Bruneck, Datum: 2020-12-30
+[Thu Dec 24 2020 15:24:41 GMT+0100 (GMT+01:00)] Sodnik DE ZORDO uspesno zamenjal CRISTELI Lokacija: Eishalle Asiago, Datum: 2020-12-26
+[Thu Dec 24 2020 15:24:41 GMT+0100 (GMT+01:00)] Sodnik SLAVIERO uspesno zamenjal DE ZORDO Lokacija: Eishalle Asiago, Datum: 2020-12-26
+[Thu Dec 24 2020 15:24:41 GMT+0100 (GMT+01:00)] Sodnik CRISTELI uspesno zamenjal MANTOVANI Lokacija: Eishalle Cortina, Datum: 2020-12-26
+[Thu Dec 24 2020 15:24:41 GMT+0100 (GMT+01:00)] Sodnik MANTOVANI uspesno zamenjal SLAVIERO Lokacija: Eishalle Cortina, Datum: 2020-12-26
