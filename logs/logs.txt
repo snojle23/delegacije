@@ -205,3 +205,8 @@
 [Thu Dec 24 2020 15:24:41 GMT+0100 (GMT+01:00)] Sodnik MANTOVANI uspesno zamenjal SLAVIERO Lokacija: Eishalle Cortina, Datum: 2020-12-26
 [Sun Dec 27 2020 22:09:47 GMT+0100 (GMT+01:00)] Sodnik MOIDL uspesno zamenjal MATTHEY Lokacija: Linz AG Eisarena, Datum: 2021-01-09
 [Sun Dec 27 2020 22:09:47 GMT+0100 (GMT+01:00)] Sodnik REISINGER uspesno zamenjal MOIDL Lokacija: Linz AG Eisarena, Datum: 2021-01-09
+[Mon Dec 28 2020 15:22:14 GMT+0100 (GMT+01:00)] Sodnik HLAVATY uspesno zamenjal DURCHNER Lokacija: Sportpark Kitzbühel, Datum: 2020-12-28
+[Mon Dec 28 2020 15:22:14 GMT+0100 (GMT+01:00)] Sodnik HUBER uspesno zamenjal HLAVATY Lokacija: Sportpark Kitzbühel, Datum: 2020-12-28
+[Mon Dec 28 2020 15:22:14 GMT+0100 (GMT+01:00)] Sodnik GIACOMOZZI uspesno zamenjal LEGA Lokacija: Eishalle Sterzing, Datum: 2020-12-28
+[Mon Dec 28 2020 15:22:14 GMT+0100 (GMT+01:00)] Sodnik BEDANA uspesno zamenjal FLEISCHMANN Lokacija: Eishalle Sterzing, Datum: 2020-12-28
+[Mon Dec 28 2020 15:22:14 GMT+0100 (GMT+01:00)] Sodnik FLEISCHMANN uspesno zamenjal MANTOVANI Lokacija: Eishalle Sterzing, Datum: 2020-12-28
