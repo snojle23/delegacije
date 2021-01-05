@@ -222,3 +222,4 @@
 [Mon Jan 04 2021 14:26:31 GMT+0100 (GMT+01:00)] Sodnik KONTSCHIEDER uspesno zamenjal SEEWALD Lokacija: Linz AG Eisarena, Datum: 2021-01-05
 [Mon Jan 04 2021 19:58:59 GMT+0100 (GMT+01:00)] Sodnik BASSO uspesno zamenjal PARDATSCHER Lokacija: Eiswelle Bozen, Datum: 2021-01-10
 [Mon Jan 04 2021 19:58:59 GMT+0100 (GMT+01:00)] Sodnik PARDATSCHER uspesno zamenjal RIGONI Lokacija: Eiswelle Bozen, Datum: 2021-01-10
+[Tue Jan 05 2021 19:43:27 GMT+0100 (GMT+01:00)] Sodnik NOTHEGGER uspesno zamenjal KONTSCHIEDER Lokacija: Linz AG Eisarena, Datum: 2021-01-05

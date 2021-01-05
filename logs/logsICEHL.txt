@@ -207,3 +207,23 @@
 [Wed Dec 30 2020 08:06:16 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2021-01-10
 [Wed Dec 30 2020 08:06:16 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2021-01-10
 [Wed Dec 30 2020 08:06:16 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2021-01-10
+[Tue Jan 05 2021 19:43:27 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2021-01-12
+[Tue Jan 05 2021 19:43:27 GMT+0100 (GMT+01:00)] Nov datum dodan v ICEHL_DAT. Datum:2021-01-12
+[Tue Jan 05 2021 19:43:27 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2021-01-12
+[Tue Jan 05 2021 19:43:27 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2021-01-12
+[Tue Jan 05 2021 19:43:27 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2021-01-16
+[Tue Jan 05 2021 19:43:27 GMT+0100 (GMT+01:00)] Nov datum dodan v ICEHL_DAT. Datum:2021-01-16
+[Tue Jan 05 2021 19:43:27 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2021-01-16
+[Tue Jan 05 2021 19:43:27 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2021-01-17
+[Tue Jan 05 2021 19:43:27 GMT+0100 (GMT+01:00)] Nov datum dodan v ICEHL_DAT. Datum:2021-01-17
+[Tue Jan 05 2021 19:43:27 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2021-01-17
+[Tue Jan 05 2021 19:43:27 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2021-01-17
+[Tue Jan 05 2021 19:43:27 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2021-01-17
+[Tue Jan 05 2021 19:43:27 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2021-01-11
+[Tue Jan 05 2021 19:43:27 GMT+0100 (GMT+01:00)] Nov datum dodan v ICEHL_DAT. Datum:2021-01-11
+[Tue Jan 05 2021 19:43:27 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2021-01-15
+[Tue Jan 05 2021 19:43:27 GMT+0100 (GMT+01:00)] Nov datum dodan v ICEHL_DAT. Datum:2021-01-15
+[Tue Jan 05 2021 19:43:27 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2021-01-15
+[Tue Jan 05 2021 19:43:27 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2021-01-15
+[Tue Jan 05 2021 19:43:27 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2021-01-15
+[Tue Jan 05 2021 19:43:27 GMT+0100 (GMT+01:00)] Nov sodnikHEAD uspesno dodan 
