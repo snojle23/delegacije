@@ -224,3 +224,5 @@
 [Mon Jan 04 2021 19:58:59 GMT+0100 (GMT+01:00)] Sodnik PARDATSCHER uspesno zamenjal RIGONI Lokacija: Eiswelle Bozen, Datum: 2021-01-10
 [Tue Jan 05 2021 19:43:27 GMT+0100 (GMT+01:00)] Sodnik NOTHEGGER uspesno zamenjal KONTSCHIEDER Lokacija: Linz AG Eisarena, Datum: 2021-01-05
 [Wed Jan 06 2021 08:56:28 GMT+0100 (GMT+01:00)] Sodnik OFNER uspesno zamenjal HEAD Lokacija: Linz AG Eisarena, Datum: 2021-01-12
+[Thu Jan 07 2021 08:04:21 GMT+0100 (GMT+01:00)] Sodnik RIECKEN uspesno zamenjal KONTSCHIEDER Lokacija: Linz AG Eisarena, Datum: 2021-01-08
+[Thu Jan 07 2021 08:04:21 GMT+0100 (GMT+01:00)] Sodnik KONTSCHIEDER uspesno zamenjal RIECKEN Lokacija: Stadthalle Villach, Datum: 2021-01-15
