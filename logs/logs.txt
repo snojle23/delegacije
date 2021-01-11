@@ -242,3 +242,4 @@
 [Sat Jan 09 2021 14:35:15 GMT+0100 (GMT+01:00)] Sodnik SPIEGEL uspesno zamenjal RINKER Lokacija: Eishalle Lustenau, Datum: 2021-01-19
 [Sun Jan 10 2021 17:04:41 GMT+0100 (GMT+01:00)] Sodnik STERNAT uspesno zamenjal OFNER Lokacija: Eiswelle Bozen, Datum: 2021-01-10
 [Sun Jan 10 2021 17:04:41 GMT+0100 (GMT+01:00)] Sodnik TRILAR uspesno zamenjal STERNAT Lokacija: Eiswelle Bozen, Datum: 2021-01-10
+[Mon Jan 11 2021 11:35:19 GMT+0100 (GMT+01:00)] Sodnik SMETANA uspesno zamenjal OFNER Lokacija: Linz AG Eisarena, Datum: 2021-01-12
