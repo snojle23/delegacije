@@ -243,3 +243,6 @@
 [Sun Jan 10 2021 17:04:41 GMT+0100 (GMT+01:00)] Sodnik STERNAT uspesno zamenjal OFNER Lokacija: Eiswelle Bozen, Datum: 2021-01-10
 [Sun Jan 10 2021 17:04:41 GMT+0100 (GMT+01:00)] Sodnik TRILAR uspesno zamenjal STERNAT Lokacija: Eiswelle Bozen, Datum: 2021-01-10
 [Mon Jan 11 2021 11:35:19 GMT+0100 (GMT+01:00)] Sodnik SMETANA uspesno zamenjal OFNER Lokacija: Linz AG Eisarena, Datum: 2021-01-12
+[Tue Jan 12 2021 07:33:17 GMT+0100 (GMT+01:00)] Sodnik LEHNER uspesno zamenjal DURCHNER Lokacija: Eisarena Salzburg, Datum: 2021-01-14
+[Tue Jan 12 2021 07:33:17 GMT+0100 (GMT+01:00)] Sodnik DURCHNER uspesno zamenjal LEHNER Lokacija: Eisarena Salzburg, Datum: 2021-01-18
+[Tue Jan 12 2021 07:33:17 GMT+0100 (GMT+01:00)] Sodnik PARDATSCHER uspesno zamenjal RIGONI Lokacija: Eishalle Cortina, Datum: 2021-01-23
