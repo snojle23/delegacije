@@ -249,3 +249,4 @@
 [Wed Jan 13 2021 07:32:36 GMT+0100 (GMT+01:00)] Sodnik BENVEGNU uspesno zamenjal MOSCHEN Lokacija: Eishalle Cortina, Datum: 2021-01-14
 [Wed Jan 13 2021 07:32:36 GMT+0100 (GMT+01:00)] Sodnik STEFENELLI uspesno zamenjal MOSCHEN Lokacija: Eishalle Bruneck, Datum: 2021-01-16
 [Wed Jan 13 2021 07:32:36 GMT+0100 (GMT+01:00)] Sodnik GIACOMOZZI uspesno zamenjal MOSCHEN Lokacija: Eishalle Ritten, Datum: 2021-01-21
+[Thu Jan 14 2021 07:18:42 GMT+0100 (GMT+01:00)] Sodnik CRISTELI uspesno zamenjal PARDATSCHER Lokacija: Eishalle Cortina, Datum: 2021-01-23
