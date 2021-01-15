@@ -251,3 +251,4 @@
 [Wed Jan 13 2021 07:32:36 GMT+0100 (GMT+01:00)] Sodnik GIACOMOZZI uspesno zamenjal MOSCHEN Lokacija: Eishalle Ritten, Datum: 2021-01-21
 [Thu Jan 14 2021 07:18:42 GMT+0100 (GMT+01:00)] Sodnik CRISTELI uspesno zamenjal PARDATSCHER Lokacija: Eishalle Cortina, Datum: 2021-01-23
 [Thu Jan 14 2021 14:05:43 GMT+0100 (GMT+01:00)] Sodnik REZEK uspesno zamenjal HEAD Lokacija: Linz AG Eisarena, Datum: 2021-01-26
+[Fri Jan 15 2021 08:47:19 GMT+0100 (GMT+01:00)] Sodnik GROZNIK uspesno zamenjal BAJT Lokacija: Hala Tivoli, Datum: 2021-01-24

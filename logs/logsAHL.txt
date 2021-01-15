@@ -285,3 +285,5 @@
 [Fri Jan 08 2021 13:33:15 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2021-01-19
 [Fri Jan 08 2021 13:33:15 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2021-01-19
 [Tue Jan 12 2021 07:33:51 GMT+0100 (GMT+01:00)] Nov sodnikPARDATSCHER uspesno dodan 
+[Fri Jan 15 2021 08:47:19 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2021-01-23
+[Fri Jan 15 2021 08:47:39 GMT+0100 (GMT+01:00)] Nov sodnikGROZNIK uspesno dodan 
