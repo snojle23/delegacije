@@ -252,3 +252,8 @@
 [Thu Jan 14 2021 07:18:42 GMT+0100 (GMT+01:00)] Sodnik CRISTELI uspesno zamenjal PARDATSCHER Lokacija: Eishalle Cortina, Datum: 2021-01-23
 [Thu Jan 14 2021 14:05:43 GMT+0100 (GMT+01:00)] Sodnik REZEK uspesno zamenjal HEAD Lokacija: Linz AG Eisarena, Datum: 2021-01-26
 [Fri Jan 15 2021 08:47:19 GMT+0100 (GMT+01:00)] Sodnik GROZNIK uspesno zamenjal BAJT Lokacija: Hala Tivoli, Datum: 2021-01-24
+[Fri Jan 15 2021 20:19:13 GMT+0100 (GMT+01:00)] Sodnik LINESMAN uspesno zamenjal PARDATSCHER Lokacija: Eishalle Bruneck, Datum: 2021-01-23
+[Sat Jan 16 2021 17:49:44 GMT+0100 (GMT+01:00)] Sodnik EISL uspesno zamenjal HUBER Lokacija: Eishalle Lustenau, Datum: 2021-01-19
+[Sat Jan 16 2021 17:49:44 GMT+0100 (GMT+01:00)] Sodnik HUBER uspesno zamenjal SPIEGEL Lokacija: Eishalle Lustenau, Datum: 2021-01-19
+[Sun Jan 17 2021 22:01:11 GMT+0100 (GMT+01:00)] Sodnik DA PIAN uspesno zamenjal LINESMAN Lokacija: Eishalle Bruneck, Datum: 2021-01-23
+[Sun Jan 17 2021 22:01:11 GMT+0100 (GMT+01:00)] Sodnik FICHTNER uspesno zamenjal BERNEKER Lokacija: Linz AG Eisarena, Datum: 2021-01-17
