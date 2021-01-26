@@ -261,3 +261,5 @@
 [Sat Jan 23 2021 22:43:14 GMT+0100 (GMT+01:00)] Sodnik RINKER uspesno zamenjal HUBER Lokacija: Eishalle Feldkirch, Datum: 2021-01-28
 [Sat Jan 23 2021 22:43:14 GMT+0100 (GMT+01:00)] Sodnik EISL uspesno zamenjal HUBER Lokacija: Eishalle Sterzing, Datum: 2021-02-06
 [Sat Jan 23 2021 22:43:14 GMT+0100 (GMT+01:00)] Sodnik HUBER uspesno zamenjal RINKER Lokacija: Eishalle Sterzing, Datum: 2021-02-06
+[Tue Jan 26 2021 08:04:48 GMT+0100 (GMT+01:00)] Sodnik BEDYNEK uspesno zamenjal BÄRNTHALER Lokacija: Linz AG Eisarena, Datum: 2021-01-29
+[Tue Jan 26 2021 08:04:48 GMT+0100 (GMT+01:00)] Sodnik BÄRNTHALER uspesno zamenjal KONTSCHIEDER Lokacija: Linz AG Eisarena, Datum: 2021-01-29
