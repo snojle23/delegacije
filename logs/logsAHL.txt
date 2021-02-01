@@ -322,3 +322,5 @@
 [Tue Jan 19 2021 08:42:47 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2021-02-16
 [Tue Jan 26 2021 08:04:48 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2021-01-28
 [Tue Jan 26 2021 08:04:48 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2021-01-30
+[Thu Jan 28 2021 13:06:57 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2021-01-30
+[Thu Jan 28 2021 13:06:57 GMT+0100 (GMT+01:00)] Nov datum dodan v delegacije. Datum:2021-02-01

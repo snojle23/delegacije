@@ -83,3 +83,4 @@
 [Tue Jan 19 2021 08:42:47 GMT+0100 (GMT+01:00)] Nov datum dodan v AHL_DAT. Datum:2021-02-06
 [Tue Jan 19 2021 08:42:47 GMT+0100 (GMT+01:00)] Nov datum dodan v AHL_DAT. Datum:2021-02-07
 [Tue Jan 19 2021 08:42:47 GMT+0100 (GMT+01:00)] Nov datum dodan v AHL_DAT. Datum:2021-02-16
+[Thu Jan 28 2021 13:06:57 GMT+0100 (GMT+01:00)] Nov datum dodan v AHL_DAT. Datum:2021-02-01
