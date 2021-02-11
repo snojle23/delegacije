@@ -30,22 +30,22 @@ function magic(json_data_url){
     let json_tekme=JSON.parse(fs.readFileSync("json/tekme.json",'utf8'));
         json_data_url.forEach(element => {
             //console.log(p);
-        json_tekme = preveriJson(element.referee, element.location, element.date,element.competition,json_tekme);
+            json_tekme = preveriJson(element.referee, element.location, element.date,element.competition,json_tekme);
         });
         fs.writeFileSync("json/tekme.json",JSON.stringify(json_tekme),(err) => {
             if (err) throw err;
-            console.log('The file has been saved!');
+            console.log('The file has not been saved!');
         });
     };
 
-function preveriJson(sodnik,lokacija,datum,liga,json_tekme){
+function preveriJson(sodnik, lokacija, datum, liga, json_tekme){
     let check = 0;
     json_tekme.forEach(datumJson => {
         
         if (datumJson.datum == datum){
             let check2=0;
             datumJson.lokacije.forEach( loka => {
-                if(loka.lokacija == lokacija){
+                if(loka.lokacija == lokacija && loka.liga === liga){
                     let sudija={ime:sodnik};
                     loka.sodniki.push(sudija);
                     check2=1;
