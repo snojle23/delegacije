@@ -265,3 +265,15 @@
 [Tue Jan 26 2021 08:04:48 GMT+0100 (GMT+01:00)] Sodnik BÄRNTHALER uspesno zamenjal KONTSCHIEDER Lokacija: Linz AG Eisarena, Datum: 2021-01-29
 [Wed Jan 27 2021 21:36:24 GMT+0100 (GMT+01:00)] Sodnik RUETZ uspesno zamenjal HUBER Lokacija: Eishalle Feldkirch, Datum: 2021-01-28
 [Wed Jan 27 2021 21:36:24 GMT+0100 (GMT+01:00)] Sodnik EISL uspesno zamenjal HOLZER Lokacija: Eishalle Lustenau, Datum: 2021-01-30
+[Mon Feb 08 2021 13:35:50 GMT+0100 (GMT+01:00)] Sodnik BRUNNER uspesno zamenjal HOLZER Lokacija: Eishalle Dornbirn, Datum: 2021-02-10
+[Tue Feb 09 2021 15:56:50 GMT+0100 (GMT+01:00)] Sodnik RINKER uspesno zamenjal WIMMLER Lokacija: Eishalle Feldkirch, Datum: 2021-02-11
+[Tue Feb 09 2021 20:26:31 GMT+0100 (GMT+01:00)] Sodnik RIECKEN uspesno zamenjal KASPAR Lokacija: Eishalle KagranEins, Datum: 2021-02-16
+[Tue Feb 09 2021 20:26:31 GMT+0100 (GMT+01:00)] Sodnik PARDATSCHER uspesno zamenjal SEEWALD Lokacija: Tiroler Wasserkraft Arena, Datum: 2021-02-21
+[Tue Feb 09 2021 20:26:31 GMT+0100 (GMT+01:00)] Sodnik SEEWALD uspesno zamenjal SPARER Lokacija: Tiroler Wasserkraft Arena, Datum: 2021-02-21
+[Wed Feb 10 2021 08:14:01 GMT+0100 (GMT+01:00)] Sodnik RUETZ uspesno zamenjal HEAD Lokacija: Eishalle Dornbirn, Datum: 2021-02-26
+[Wed Feb 10 2021 08:14:01 GMT+0100 (GMT+01:00)] Sodnik JEDLICKA uspesno zamenjal RIECKEN Lokacija: Eishalle KagranEins, Datum: 2021-02-28
+[Wed Feb 10 2021 11:53:05 GMT+0100 (Srednjeevropski standardni čas)] Sodnik EISL uspesno zamenjal HOLZER Lokacija: Sportpark Kitzbühel, Datum: 2021-02-13
+[Thu Feb 11 2021 07:25:00 GMT+0100 (Srednjeevropski standardni čas)] Sodnik REISINGER uspesno zamenjal KAINBERGER Lokacija: Sportpark Kitzbühel, Datum: 2021-02-18
+[Thu Feb 11 2021 07:25:00 GMT+0100 (Srednjeevropski standardni čas)] Sodnik KAINBERGER uspesno zamenjal REISINGER Lokacija: Sportpark Kitzbühel, Datum: 2021-02-20
+[Thu Feb 11 2021 07:25:00 GMT+0100 (Srednjeevropski standardni čas)] Sodnik CARRITO uspesno zamenjal MANTOVANI Lokacija: Eishalle Asiago, Datum: 2021-02-20
+[Thu Feb 11 2021 07:25:00 GMT+0100 (Srednjeevropski standardni čas)] Sodnik MANTOVANI uspesno zamenjal SLAVIERO Lokacija: Eishalle Asiago, Datum: 2021-02-20
