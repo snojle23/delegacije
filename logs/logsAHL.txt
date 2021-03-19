@@ -413,3 +413,7 @@
 [Tue Mar 02 2021 13:22:35 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-03-18
 [Thu Mar 04 2021 20:51:41 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-03-04
 [Mon Mar 08 2021 07:03:13 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikLINESMAN uspesno dodan 
+[Tue Mar 09 2021 12:24:54 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikWIEST uspesno dodan 
+[Tue Mar 09 2021 12:24:54 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikBRONDI uspesno dodan 
+[Wed Mar 10 2021 12:30:29 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-03-14
+[Fri Mar 12 2021 13:51:37 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-03-18

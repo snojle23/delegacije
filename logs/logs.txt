@@ -344,3 +344,22 @@
 [Thu Mar 04 2021 20:49:08 GMT+0100 (Srednjeevropski standardni čas)] Sodnik RUETZ uspesno zamenjal WALLNER Lokacija: Eishalle Feldkirch, Datum: 2021-03-11
 [Thu Mar 04 2021 20:49:08 GMT+0100 (Srednjeevropski standardni čas)] Sodnik WALLNER uspesno zamenjal HOLZER Lokacija: Sportpark Kitzbühel, Datum: 2021-03-11
 [Mon Mar 08 2021 07:03:09 GMT+0100 (Srednjeevropski standardni čas)] Sodnik LINESMAN uspesno zamenjal PIRAS Lokacija: Eishalle Cortina, Datum: 2021-03-13
+[Tue Mar 09 2021 11:57:48 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BASSO uspesno zamenjal CRISTELI Lokacija: Eishalle Gröden, Datum: 2021-03-11
+[Tue Mar 09 2021 11:57:48 GMT+0100 (Srednjeevropski standardni čas)] Sodnik CRISTELI uspesno zamenjal FLEISCHMANN Lokacija: Eishalle Gröden, Datum: 2021-03-11
+[Tue Mar 09 2021 11:57:48 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BASSO uspesno zamenjal FLEISCHMANN Lokacija: Eishalle Canazei, Datum: 2021-03-13
+[Tue Mar 09 2021 11:57:48 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BRONDI uspesno zamenjal RICCO Lokacija: Eishalle Asiago, Datum: 2021-03-13
+[Tue Mar 09 2021 11:57:48 GMT+0100 (Srednjeevropski standardni čas)] Sodnik WIEST uspesno zamenjal LINESMAN Lokacija: Eishalle Cortina, Datum: 2021-03-13
+[Wed Mar 10 2021 12:30:29 GMT+0100 (Srednjeevropski standardni čas)] Sodnik CRISTELI uspesno zamenjal BASSO Lokacija: Eishalle Gröden, Datum: 2021-03-11
+[Wed Mar 10 2021 12:30:29 GMT+0100 (Srednjeevropski standardni čas)] Sodnik DE ZORDO uspesno zamenjal CRISTELI Lokacija: Eishalle Gröden, Datum: 2021-03-11
+[Thu Mar 11 2021 10:26:01 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BEDANA uspesno zamenjal DA PIAN Lokacija: Eishalle Ritten, Datum: 2021-03-13
+[Thu Mar 11 2021 10:26:01 GMT+0100 (Srednjeevropski standardni čas)] Sodnik DA PIAN uspesno zamenjal RIGONI Lokacija: Eishalle Ritten, Datum: 2021-03-13
+[Thu Mar 11 2021 10:26:01 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BRONDI uspesno zamenjal BEDANA Lokacija: Eishalle Asiago, Datum: 2021-03-13
+[Thu Mar 11 2021 10:26:01 GMT+0100 (Srednjeevropski standardni čas)] Sodnik RIGONI uspesno zamenjal BRONDI Lokacija: Eishalle Asiago, Datum: 2021-03-13
+[Sun Mar 14 2021 22:27:58 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BÄRNTHALER uspesno zamenjal GATOL Lokacija: Gabor Ocskay Eisarena, Datum: 2021-03-14
+[Sun Mar 14 2021 22:27:58 GMT+0100 (Srednjeevropski standardni čas)] Sodnik GATOL uspesno zamenjal KONTSCHIEDER Lokacija: Eishalle Dornbirn, Datum: 2021-03-14
+[Sun Mar 14 2021 22:27:58 GMT+0100 (Srednjeevropski standardni čas)] Sodnik CRISTELI uspesno zamenjal FLEISCHMANN Lokacija: Eishalle Bruneck, Datum: 2021-03-18
+[Sun Mar 14 2021 22:27:58 GMT+0100 (Srednjeevropski standardni čas)] Sodnik FLEISCHMANN uspesno zamenjal PIRAS Lokacija: Eishalle Bruneck, Datum: 2021-03-18
+[Mon Mar 15 2021 19:24:12 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BASSO uspesno zamenjal CRISTELI Lokacija: Eishalle Bruneck, Datum: 2021-03-18
+[Mon Mar 15 2021 19:24:12 GMT+0100 (Srednjeevropski standardni čas)] Sodnik CRISTELI uspesno zamenjal FLEISCHMANN Lokacija: Eishalle Bruneck, Datum: 2021-03-18
+[Tue Mar 16 2021 10:08:58 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SCHAUER uspesno zamenjal HUBER Lokacija: Eishalle Feldkirch, Datum: 2021-03-16
+[Tue Mar 16 2021 10:08:58 GMT+0100 (Srednjeevropski standardni čas)] Sodnik EISL uspesno zamenjal HOLZER Lokacija: Sportpark Kitzbühel, Datum: 2021-03-18
