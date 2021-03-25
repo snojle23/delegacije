@@ -417,3 +417,75 @@
 [Tue Mar 09 2021 12:24:54 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikBRONDI uspesno dodan 
 [Wed Mar 10 2021 12:30:29 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-03-14
 [Fri Mar 12 2021 13:51:37 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-03-18
+[Fri Mar 19 2021 11:51:26 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-03-20
+[Fri Mar 19 2021 11:51:26 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-03-20
+[Fri Mar 19 2021 11:51:26 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-03-20
+[Fri Mar 19 2021 11:51:26 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-03-20
+[Fri Mar 19 2021 11:51:26 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-03-22
+[Fri Mar 19 2021 11:51:26 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-03-23
+[Fri Mar 19 2021 11:51:26 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-03-23
+[Fri Mar 19 2021 11:51:26 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-03-23
+[Fri Mar 19 2021 12:54:22 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-03-23
+[Thu Mar 25 2021 09:19:52 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-03-27
+[Thu Mar 25 2021 09:19:53 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-03-27
+[Thu Mar 25 2021 09:19:53 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-03-27
+[Thu Mar 25 2021 09:19:53 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-03-28
+[Thu Mar 25 2021 09:19:53 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-03-30
+[Thu Mar 25 2021 09:19:53 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-03-30
+[Thu Mar 25 2021 09:19:53 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-03-30
+[Thu Mar 25 2021 09:19:53 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-03-30
+[Thu Mar 25 2021 09:19:53 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-04-01
+[Thu Mar 25 2021 09:19:53 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-04-01
+[Thu Mar 25 2021 09:19:53 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-04-01
+[Thu Mar 25 2021 09:19:53 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-04-01
+[Thu Mar 25 2021 10:02:42 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-03-27
+[Thu Mar 25 2021 10:02:42 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-03-27
+[Thu Mar 25 2021 10:02:42 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-03-27
+[Thu Mar 25 2021 10:02:42 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-03-28
+[Thu Mar 25 2021 10:02:42 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-03-30
+[Thu Mar 25 2021 10:02:42 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-03-30
+[Thu Mar 25 2021 10:02:42 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-03-30
+[Thu Mar 25 2021 10:02:42 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-03-30
+[Thu Mar 25 2021 10:02:42 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-04-01
+[Thu Mar 25 2021 10:02:42 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-04-01
+[Thu Mar 25 2021 10:02:42 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-04-01
+[Thu Mar 25 2021 10:02:42 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-04-01
+[Thu Mar 25 2021 10:02:42 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikLEGA uspesno dodan 
+[Thu Mar 25 2021 10:02:42 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikVIRTA uspesno dodan 
+[Thu Mar 25 2021 10:02:42 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikBASSO uspesno dodan 
+[Thu Mar 25 2021 10:02:42 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikRIGONI uspesno dodan 
+[Thu Mar 25 2021 10:02:42 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikHEINRICHER uspesno dodan 
+[Thu Mar 25 2021 10:02:42 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikREZEK uspesno dodan 
+[Thu Mar 25 2021 10:02:42 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikBERGANT uspesno dodan 
+[Thu Mar 25 2021 10:02:42 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikMIKLIC uspesno dodan 
+[Thu Mar 25 2021 10:02:42 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikLAZZERI uspesno dodan 
+[Thu Mar 25 2021 10:02:42 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikSCHAUER uspesno dodan 
+[Thu Mar 25 2021 10:02:42 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikMANTOVANI uspesno dodan 
+[Thu Mar 25 2021 10:02:42 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikRINKER uspesno dodan 
+[Thu Mar 25 2021 10:02:42 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikGROZNIK uspesno dodan 
+[Thu Mar 25 2021 10:02:42 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikHLAVATY uspesno dodan 
+[Thu Mar 25 2021 10:02:42 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikARLIC uspesno dodan 
+[Thu Mar 25 2021 10:02:42 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikWEISS uspesno dodan 
+[Thu Mar 25 2021 10:02:42 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikHUBER uspesno dodan 
+[Thu Mar 25 2021 10:02:42 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikMOSCHEN uspesno dodan 
+[Thu Mar 25 2021 10:02:42 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikBEDANA uspesno dodan 
+[Thu Mar 25 2021 10:02:42 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikMARTIN uspesno dodan 
+[Thu Mar 25 2021 10:02:42 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikRUETZ uspesno dodan 
+[Thu Mar 25 2021 10:02:42 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikSTEFENELLI uspesno dodan 
+[Thu Mar 25 2021 10:02:42 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikFLEISCHMANN uspesno dodan 
+[Thu Mar 25 2021 10:02:42 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikGIACOMOZZI uspesno dodan 
+[Thu Mar 25 2021 10:02:42 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikCARRITO uspesno dodan 
+[Thu Mar 25 2021 10:02:42 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikDE ZORDO uspesno dodan 
+[Thu Mar 25 2021 10:02:42 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikBENVEGNU uspesno dodan 
+[Thu Mar 25 2021 10:02:42 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikCRISTELI uspesno dodan 
+[Thu Mar 25 2021 10:02:42 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikEISL uspesno dodan 
+[Thu Mar 25 2021 10:02:42 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikDURCHNER uspesno dodan 
+[Thu Mar 25 2021 10:02:42 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikLESNIAK uspesno dodan 
+[Thu Mar 25 2021 10:02:42 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikPUFF uspesno dodan 
+[Thu Mar 25 2021 10:02:42 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikSCHWEIGHOFER uspesno dodan 
+[Thu Mar 25 2021 10:02:42 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikPAHOR uspesno dodan 
+[Thu Mar 25 2021 10:02:42 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikPINIE uspesno dodan 
+[Thu Mar 25 2021 10:02:42 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikSNOJ uspesno dodan 
+[Thu Mar 25 2021 10:02:42 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikLEHNER uspesno dodan 
+[Thu Mar 25 2021 10:02:42 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikKAINBERGER uspesno dodan 
+[Thu Mar 25 2021 10:02:42 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikWIMMLER uspesno dodan 
