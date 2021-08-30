@@ -539,3 +539,91 @@
 [Tue Apr 20 2021 09:40:37 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-04-20
 [Tue Apr 20 2021 09:40:37 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-04-22
 [Tue Apr 20 2021 09:40:37 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-04-24
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-09-02
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-09-04
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-09-05
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-09-09
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-09-11
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-09-11
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-09-11
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-09-11
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-09-11
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-09-11
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-09-11
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-09-11
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-09-14
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-09-14
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-09-16
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-09-16
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-09-16
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-09-16
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-09-16
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-09-16
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-09-18
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-09-18
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-09-18
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-09-18
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-09-18
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-09-18
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-09-18
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-09-18
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikHLAVATY uspesno dodan 
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikLOICHT uspesno dodan 
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikLEGAT uspesno dodan 
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikWEISS uspesno dodan 
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikOREL uspesno dodan 
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikPODLESNIK uspesno dodan 
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikHOLZER uspesno dodan 
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikSCHWEIGHOFER uspesno dodan 
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikKUMMER uspesno dodan 
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikLEHNER uspesno dodan 
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikMOIDL uspesno dodan 
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikSTEINER uspesno dodan 
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikMATTHEY uspesno dodan 
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikSCHONAKLENER uspesno dodan 
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikLEGA uspesno dodan 
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikSORAPERRA uspesno dodan 
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikBASSANI uspesno dodan 
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikCRISTELI uspesno dodan 
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikBRUNNER uspesno dodan 
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikREISINGER uspesno dodan 
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikSPIEGEL uspesno dodan 
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikRUETZ uspesno dodan 
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikWUNTSCHEK uspesno dodan 
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikKAINBERGER uspesno dodan 
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikRINKER uspesno dodan 
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikHEINRICHER uspesno dodan 
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikPUFF uspesno dodan 
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikVOICAN uspesno dodan 
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikAles uspesno dodan 
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikLESNIAK uspesno dodan 
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikARLIC uspesno dodan 
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikSNOJ uspesno dodan 
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikBENVEGNU uspesno dodan 
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikPINIE uspesno dodan 
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikFLEISCHMANN uspesno dodan 
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikPIRAS uspesno dodan 
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikGIACOMOZZI uspesno dodan 
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikMOSCHEN uspesno dodan 
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikDA PIAN uspesno dodan 
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikDE ZORDO uspesno dodan 
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikHUBER uspesno dodan 
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikSCHAUER uspesno dodan 
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikCARRITO uspesno dodan 
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikMARTIN uspesno dodan 
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikBEDANA uspesno dodan 
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikEISL uspesno dodan 
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikLAZZERI uspesno dodan 
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikMANTOVANI uspesno dodan 
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikRIGONI uspesno dodan 
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikEGGER uspesno dodan 
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikBRONDI uspesno dodan 
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikBAJT uspesno dodan 
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikPÖTSCHER uspesno dodan 
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikDURCHNER uspesno dodan 
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikJAVORNIK uspesno dodan 
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikGROZNIK uspesno dodan 
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikREZEK uspesno dodan 
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikVIRTA uspesno dodan 
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikBASSO uspesno dodan 
+[Mon Aug 30 2021 12:27:00 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikWIMMLER uspesno dodan 
