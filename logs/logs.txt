@@ -367,3 +367,20 @@
 [Sat Mar 20 2021 09:40:06 GMT+0100 (Srednjeevropski standardni čas)] Sodnik CRISTELI uspesno zamenjal BASSO Lokacija: Eishalle Gröden, Datum: 2021-03-23
 [Mon Mar 22 2021 08:19:11 GMT+0100 (Srednjeevropski standardni čas)] Sodnik WIMMLER uspesno zamenjal MARTIN Lokacija: Eishalle Dornbirn, Datum: 2021-03-22
 [Mon Mar 22 2021 08:19:11 GMT+0100 (Srednjeevropski standardni čas)] Sodnik MARTIN uspesno zamenjal WIMMLER Lokacija: Eishalle Lustenau, Datum: 2021-03-23
+[Thu Mar 25 2021 15:23:04 GMT+0100 (Srednjeevropski standardni čas)] Sodnik FLEISCHMANN uspesno zamenjal MANTOVANI Lokacija: Eishalle Bruneck, Datum: 2021-03-27
+[Thu Mar 25 2021 15:23:04 GMT+0100 (Srednjeevropski standardni čas)] Sodnik MANTOVANI uspesno zamenjal FLEISCHMANN Lokacija: Eishalle Lustenau, Datum: 2021-03-30
+[Fri Mar 26 2021 07:50:36 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PAHOR uspesno zamenjal HEINRICHER Lokacija: Hala Tivoli, Datum: 2021-03-27
+[Fri Mar 26 2021 07:50:36 GMT+0100 (Srednjeevropski standardni čas)] Sodnik LESNIAK uspesno zamenjal HLAVATY Lokacija: Eishalle Jesenice, Datum: 2021-03-28
+[Fri Mar 26 2021 07:50:36 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SNOJ uspesno zamenjal WEISS Lokacija: Eishalle Jesenice, Datum: 2021-03-28
+[Fri Mar 26 2021 07:50:36 GMT+0100 (Srednjeevropski standardni čas)] Sodnik MANTOVANI uspesno zamenjal FLEISCHMANN Lokacija: Eishalle Lustenau, Datum: 2021-03-30
+[Fri Mar 26 2021 07:50:36 GMT+0100 (Srednjeevropski standardni čas)] Sodnik GROZNIK uspesno zamenjal DURCHNER Lokacija: Hala Tivoli, Datum: 2021-04-01
+[Fri Mar 26 2021 07:50:36 GMT+0100 (Srednjeevropski standardni čas)] Sodnik ARLIC uspesno zamenjal PUFF Lokacija: Hala Tivoli, Datum: 2021-04-01
+[Fri Mar 26 2021 07:50:36 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SNOJ uspesno zamenjal SCHWEIGHOFER Lokacija: Hala Tivoli, Datum: 2021-04-01
+[Fri Mar 26 2021 07:50:36 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BENVEGNU uspesno zamenjal PAHOR Lokacija: Eishalle Asiago, Datum: 2021-04-01
+[Fri Mar 26 2021 07:50:36 GMT+0100 (Srednjeevropski standardni čas)] Sodnik MANTOVANI uspesno zamenjal MIKLIC Lokacija: Eishalle Asiago, Datum: 2021-04-01
+[Fri Mar 26 2021 07:50:37 GMT+0100 (Srednjeevropski standardni čas)] Sodnik MOSCHEN uspesno zamenjal GROZNIK Lokacija: Eishalle Bruneck, Datum: 2021-04-01
+[Fri Mar 26 2021 07:50:37 GMT+0100 (Srednjeevropski standardni čas)] Sodnik DE ZORDO uspesno zamenjal SNOJ Lokacija: Eishalle Bruneck, Datum: 2021-04-01
+[Fri Mar 26 2021 07:50:37 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PAHOR uspesno zamenjal LEHNER Lokacija: Eishalle Jesenice, Datum: 2021-04-01
+[Fri Mar 26 2021 07:50:37 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BERGANT uspesno zamenjal KAINBERGER Lokacija: Eishalle Jesenice, Datum: 2021-04-01
+[Fri Mar 26 2021 07:50:37 GMT+0100 (Srednjeevropski standardni čas)] Sodnik MIKLIC uspesno zamenjal WIMMLER Lokacija: Eishalle Jesenice, Datum: 2021-04-01
+[Sun Apr 11 2021 00:00:07 GMT+0200 (Srednjeevropski poletni čas)] Sodnik MARTIN uspesno zamenjal WIMMLER Lokacija: Eishalle Lustenau, Datum: 2021-04-10
