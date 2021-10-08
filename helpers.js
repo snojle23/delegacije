@@ -55,14 +55,14 @@ function writeToExcel(DAT_STRING, lokacije, liga, datum){
     }
 }
 
-function updateDatesInExcel(noviDatumi, mainWorkbook, DAT, DAT_STRING, isAHL, jsonDate ){
+function updateDatesInExcel(noviDatumi, mainWorkbook, DAT, DAT_STRING, isAHL, jsonDate, arrayForMail){
  
     noviDatumi.forEach(datee => {
         let cell = vrniCellOdDatuma(DAT_STRING, datee);
         const seznam =  seznamSodnikovNaDatum(DAT,cell);
         const seznamAhl = getAllSudije(mainWorkbook,datee); // preveri vse sodnike, kateri imajo ze določen datum.. če je 0 jim dodaj nove..
         if(seznamAhl.length == 0){
-            dodajSodnikomDatum(mainWorkbook, seznam, datee, isAHL);
+            dodajSodnikomDatum(mainWorkbook, seznam, datee, isAHL, arrayForMail);
         }else{
             //gremo cez NOV seznam sodnikov in preverjamo z dosedanjimi
             let zaDodat = [];
@@ -111,7 +111,7 @@ function updateDatesInExcel(noviDatumi, mainWorkbook, DAT, DAT_STRING, isAHL, js
             }
 
             if(zaDodat.length>0){
-                dodajSodnikomDatum(mainWorkbook, zaDodat, datee, isAHL);
+                dodajSodnikomDatum(mainWorkbook, zaDodat, datee, isAHL, arrayForMail);
             }
             //  console.log(" sodniki : "+seznam);
             // console.log("seznam AHL:" +seznamAhl)
@@ -271,7 +271,8 @@ function getAllSudije(worksheet, datum){
     return list;
 }
 
-function dodajSodnikomDatum(worksheet, list, datum, isAHL){
+function dodajSodnikomDatum(worksheet, list, datum, isAHL, arrayForMail){
+    const mailing = ["snoj", "bajt"]
     list.forEach(sodnik => {
         let cellSodnik = vrniCellSodnik(worksheet, sodnik, isAHL);
         let rowSudija = 4
@@ -281,13 +282,53 @@ function dodajSodnikomDatum(worksheet, list, datum, isAHL){
         worksheet.getRow(rowSudija).getCell(cellSodnik).value = datum;
         if(isAHL){
             console.log("Za sodnika " + sodnik+ " dodan nov datum: "+datum + " [AHL]" );
-            if(sodnik.toLowerCase() === "snoj"){
-                console.log("---------------------------\n NOVA AHL TEKMA \n -------------------------- \n");
+            const sodnikZaMail = sodnik.toLowerCase();
+            if(mailing.includes(sodnikZaMail)){
+                const obst = arrayForMail.find(i => i.sodnik === sodnikZaMail);
+                if(obst){
+                    obst.tekme.push(
+                        {
+                            liga: "AHL",
+                            datum: datum
+                        }
+                    )
+                }else{
+                    arrayForMail.push({
+                        sodnik: sodnikZaMail,
+                        tekme: [{
+                            liga: "AHL",
+                            datum: datum
+                        }]
+                    })
+                }
+                if(sodnikZaMail === 'snoj'){
+                    console.log("---------------------------\n NOVA AHL TEKMA \n -------------------------- \n");
+                }
             }
         }else {
             console.log("Za sodnika " + sodnik+ " dodan nov datum: "+datum + " [ICEHL]" );
-            if(sodnik.toLowerCase() === "snoj"){
-                console.log("---------------------------\n NOVA ICEHL TEKMA \n -------------------------- \n");
+            const sodnikZaMail = sodnik.toLowerCase();
+            if(mailing.includes(sodnikZaMail)){
+                const obst = arrayForMail.find(i => i.sodnik === sodnik.toLowerCase());
+                if(obst){
+                    obst.tekme.push(
+                        {
+                            liga: "ICEHL",
+                            datum: datum
+                        }
+                    )
+                }else{
+                    arrayForMail.push({
+                        sodnik: sodnikZaMail,
+                        tekme: [{
+                            liga: "ICEHL",
+                            datum: datum
+                        }]
+                    })
+                }
+                if(sodnikZaMail === 'snoj'){
+                    console.log("---------------------------\n NOVA ICEHL TEKMA \n -------------------------- \n");
+                }
             }
         }
     });

@@ -3,7 +3,8 @@
 const http = require('http');
 const fs = require('fs');
 
-const req = http.get("http://delegacije.sinusiks.net/ext/ahl-ebel.php", function(res){
+async function getNewJson(){
+    const req = http.get("http://delegacije.sinusiks.net/ext/ahl-ebel.php", async function(res){
         
             let data = '',
             json_data_url;
@@ -23,19 +24,24 @@ const req = http.get("http://delegacije.sinusiks.net/ext/ahl-ebel.php", function
         });
         return "done";
 
+}
 
 function magic(json_data_url){
-    //
+    const fileBefore = JSON.parse(fs.readFileSync("json/tekme.json", 'utf8'));
     fs.writeFileSync("json/tekme.json",'[]');
-    let json_tekme=JSON.parse(fs.readFileSync("json/tekme.json",'utf8'));
+    let json_tekme = [];
         json_data_url.forEach(element => {
             //console.log(p);
-            json_tekme = preveriJson(element.referee, element.location, element.date,element.competition,json_tekme);
+            preveriJson(element.referee, element.location, element.date,element.competition,json_tekme);
         });
-        fs.writeFileSync("json/tekme.json",JSON.stringify(json_tekme),(err) => {
-            if (err) throw err;
-            console.log('The file has not been saved!');
-        });
+
+    if(json_tekme !== fileBefore){
+        console.log("    "+"brez sprememb")
+    }
+    fs.writeFileSync("json/tekme.json",JSON.stringify(json_tekme),(err) => {
+        if (err) throw err;
+        console.log('The file has not been saved!');
+    });
     };
 
 function preveriJson(sodnik, lokacija, datum, liga, json_tekme){
@@ -73,4 +79,4 @@ function preveriJson(sodnik, lokacija, datum, liga, json_tekme){
 
 }
 
-module.exports = getNewJson;
+module.exports = {getNewJson, magic};
