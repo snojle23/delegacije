@@ -272,7 +272,7 @@ function getAllSudije(worksheet, datum){
 }
 
 function dodajSodnikomDatum(worksheet, list, datum, isAHL, arrayForMail){
-    const mailing = ["snoj", "bajt"]
+    const mailing = ["snoj", "bajt", "miklic"];
     list.forEach(sodnik => {
         let cellSodnik = vrniCellSodnik(worksheet, sodnik, isAHL);
         let rowSudija = 4
@@ -319,7 +319,7 @@ function dodajSodnikomDatum(worksheet, list, datum, isAHL, arrayForMail){
                     )
                 }else{
                     arrayForMail.push({
-                        sodnik: sodnikZaMail,
+                        sodnik: sodnik.toLowerCase(),
                         tekme: [{
                             liga: "ICEHL",
                             datum: datum

@@ -460,3 +460,20 @@
 [Fri Oct 08 2021 09:15:15 GMT+0200 (Srednjeevropski poletni čas)] Sodnik EISL uspesno zamenjal KAINBERGER Lokacija: Eishalle Feldkirch, Datum: 2021-10-09
 [Fri Oct 08 2021 09:15:15 GMT+0200 (Srednjeevropski poletni čas)] Sodnik KAINBERGER uspesno zamenjal WIMMLER Lokacija: Eishalle Feldkirch, Datum: 2021-10-09
 [Fri Oct 08 2021 09:15:15 GMT+0200 (Srednjeevropski poletni čas)] Sodnik RINKER uspesno zamenjal EISL Lokacija: Sportpark Kitzbühel, Datum: 2021-10-16
+[Fri Oct 08 2021 16:45:15 GMT+0200 (Srednjeevropski poletni čas)] Sodnik NIKOLIC uspesno zamenjal HEAD Lokacija: Eishalle Bruneck, Datum: 2021-10-26
+[Fri Oct 08 2021 16:45:15 GMT+0200 (Srednjeevropski poletni čas)] Sodnik RIECKEN uspesno zamenjal VACZI Lokacija: Eishalle Wien-Kagran, Datum: 2021-10-29
+[Fri Oct 08 2021 16:45:15 GMT+0200 (Srednjeevropski poletni čas)] Sodnik FICHTNER uspesno zamenjal HEAD Lokacija: Klagenfurter Stadthalle, Datum: 2021-10-29
+[Fri Oct 08 2021 16:45:15 GMT+0200 (Srednjeevropski poletni čas)] Sodnik MUZSIK uspesno zamenjal LINESMAN Lokacija: Hala Tivoli Ljubljana, Datum: 2021-10-29
+[Fri Oct 08 2021 16:45:15 GMT+0200 (Srednjeevropski poletni čas)] Sodnik VACZI uspesno zamenjal MUZSIK Lokacija: Hala Tivoli Ljubljana, Datum: 2021-10-29
+[Fri Oct 08 2021 16:45:15 GMT+0200 (Srednjeevropski poletni čas)] Sodnik OFNER uspesno zamenjal HEAD Lokacija: Eisarena Salzburg, Datum: 2021-11-02
+[Sat Oct 09 2021 10:15:14 GMT+0200 (Srednjeevropski poletni čas)] Sodnik LINESMAN uspesno zamenjal MOIDL Lokacija: Eisarena Salzburg, Datum: 2021-10-09
+[Sat Oct 09 2021 10:15:14 GMT+0200 (Srednjeevropski poletni čas)] Sodnik MOIDL uspesno zamenjal REISINGER Lokacija: Eisarena Salzburg, Datum: 2021-10-09
+[Sat Oct 09 2021 11:15:15 GMT+0200 (Srednjeevropski poletni čas)] Sodnik MOIDL uspesno zamenjal LINESMAN Lokacija: Eisarena Salzburg, Datum: 2021-10-09
+[Sat Oct 09 2021 11:15:15 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SEEWALD uspesno zamenjal MOIDL Lokacija: Eisarena Salzburg, Datum: 2021-10-09
+[Sat Oct 09 2021 13:15:27 GMT+0200 (Srednjeevropski poletni čas)] Sodnik BERNEKER uspesno zamenjal OFNER Lokacija: Eiswelle Bozen, Datum: 2021-10-31
+[Sun Oct 10 2021 06:45:29 GMT+0200 (Srednjeevropski poletni čas)] Sodnik WALLNER uspesno zamenjal HEINRICHER Lokacija: Eishalle Zell am See, Datum: 2021-10-14
+[Sun Oct 10 2021 06:45:29 GMT+0200 (Srednjeevropski poletni čas)] Sodnik WIDMANN uspesno zamenjal WALLNER Lokacija: Eishalle Zell am See, Datum: 2021-10-14
+[Sun Oct 10 2021 06:45:29 GMT+0200 (Srednjeevropski poletni čas)] Sodnik HEINRICHER uspesno zamenjal OREL Lokacija: Eishalle Wien Kagran, Datum: 2021-10-23
+[Sun Oct 10 2021 06:45:29 GMT+0200 (Srednjeevropski poletni čas)] Sodnik OREL uspesno zamenjal WIDMANN Lokacija: Eishalle Wien Kagran, Datum: 2021-10-23
+[Sun Oct 10 2021 06:45:29 GMT+0200 (Srednjeevropski poletni čas)] Sodnik DURMIS uspesno zamenjal KIS-KIRALY Lokacija: Gabor Ocskay Eisarena, Datum: 2021-10-24
+[Sun Oct 10 2021 06:45:29 GMT+0200 (Srednjeevropski poletni čas)] Sodnik KIS-KIRALY uspesno zamenjal KONC Lokacija: Gabor Ocskay Eisarena, Datum: 2021-10-24

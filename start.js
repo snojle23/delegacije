@@ -41,7 +41,8 @@ function scheduledFunction(){
         }
         const mailing = {
             "snoj": "tadej.snoj@gmail.com",
-            "bajt": "miha.bajt@gmail.com "
+            "bajt": "miha.bajt@gmail.com",
+            "miklic": "gregor.miklic.sp@gmail.com"
         }
         arrayForMail.forEach(i => {
             let today = new Date();

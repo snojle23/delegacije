@@ -724,3 +724,5 @@
 [Tue Sep 21 2021 08:50:26 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikLEHNER uspesno dodan 
 [Wed Sep 29 2021 10:03:35 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-10-07
 [Wed Sep 29 2021 10:03:35 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-10-21
+[Sat Oct 09 2021 10:15:14 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikLINESMAN uspesno dodan 
+[Sat Oct 09 2021 11:15:15 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikSEEWALD uspesno dodan 
