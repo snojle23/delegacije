@@ -26,8 +26,9 @@ async function delegacije(json_data, arrayForMail) {
     const workICEHL_DAT_STRING = await icehlWorkbook.getWorksheet('ICEHL_DAT_STRING');
     const noviDatumiAHL = [];
     const noviDatumiICEHL = [];
+    const filterDates = ["2021-11-13"];
 
-    json_data.forEach(elementDate => { // gre cez use datume
+    (json_data || []).filter(i => !filterDates.includes(i.datum)).forEach(elementDate => { // gre cez use datume
         let datum = elementDate.datum;
         let ahlDatum = false;
         let icehlDatum = false;
