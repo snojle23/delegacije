@@ -617,3 +617,71 @@
 [Thu Oct 07 2021 19:15:17 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-11-07
 [Thu Oct 07 2021 19:15:17 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-11-07
 [Thu Oct 07 2021 19:15:17 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-11-07
+[Tue Oct 12 2021 21:08:56 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-11-03
+[Tue Oct 12 2021 21:08:56 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2021-11-03
+[Thu Oct 21 2021 14:00:14 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-11-16
+[Thu Oct 21 2021 14:00:14 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2021-11-16
+[Thu Oct 21 2021 14:00:14 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-11-16
+[Thu Oct 21 2021 14:00:14 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-11-16
+[Thu Oct 21 2021 14:00:14 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-11-19
+[Thu Oct 21 2021 14:00:14 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2021-11-19
+[Thu Oct 21 2021 14:00:14 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-11-19
+[Thu Oct 21 2021 14:00:14 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-11-19
+[Thu Oct 21 2021 14:00:14 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-11-19
+[Thu Oct 21 2021 14:00:14 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-11-19
+[Thu Oct 21 2021 14:00:14 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-11-19
+[Thu Oct 21 2021 14:00:14 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-11-19
+[Thu Oct 21 2021 14:00:14 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-11-20
+[Thu Oct 21 2021 14:00:14 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2021-11-20
+[Thu Oct 21 2021 14:00:14 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-11-20
+[Thu Oct 21 2021 14:00:14 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-11-20
+[Thu Oct 21 2021 14:00:14 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-11-21
+[Thu Oct 21 2021 14:00:14 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2021-11-21
+[Thu Oct 21 2021 14:00:14 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-11-21
+[Thu Oct 21 2021 14:00:14 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-11-21
+[Thu Oct 21 2021 14:00:14 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-11-21
+[Thu Oct 21 2021 14:00:14 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-11-23
+[Thu Oct 21 2021 14:00:14 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2021-11-23
+[Thu Oct 21 2021 14:00:14 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-11-26
+[Thu Oct 21 2021 14:00:14 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2021-11-26
+[Thu Oct 21 2021 14:00:14 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-11-26
+[Thu Oct 21 2021 14:00:14 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-11-26
+[Thu Oct 21 2021 14:00:14 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-11-26
+[Thu Oct 21 2021 14:00:14 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-11-26
+[Thu Oct 21 2021 14:00:14 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-11-26
+[Thu Oct 21 2021 14:00:14 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-11-26
+[Thu Oct 21 2021 17:00:14 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-11-27
+[Thu Oct 21 2021 17:00:14 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2021-11-27
+[Thu Oct 21 2021 17:00:14 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-11-28
+[Thu Oct 21 2021 17:00:14 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2021-11-28
+[Thu Oct 21 2021 17:00:14 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-11-28
+[Thu Oct 21 2021 17:00:14 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-11-28
+[Thu Oct 21 2021 17:00:14 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-11-28
+[Thu Oct 21 2021 18:00:15 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-11-28
+[Thu Oct 21 2021 18:00:15 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-11-30
+[Thu Oct 21 2021 18:00:15 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2021-11-30
+[Thu Oct 21 2021 19:00:16 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-12-03
+[Thu Oct 21 2021 19:00:16 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2021-12-03
+[Thu Oct 21 2021 19:00:16 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-12-03
+[Thu Oct 21 2021 19:00:16 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-12-03
+[Thu Oct 21 2021 19:00:16 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-12-03
+[Thu Oct 21 2021 19:00:16 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-12-03
+[Thu Oct 21 2021 19:00:16 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-12-03
+[Thu Oct 21 2021 19:00:16 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-12-03
+[Thu Oct 21 2021 19:00:16 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-12-04
+[Thu Oct 21 2021 19:00:16 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2021-12-04
+[Thu Oct 21 2021 19:00:16 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-12-04
+[Thu Oct 21 2021 19:00:16 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-12-04
+[Thu Oct 21 2021 19:00:16 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-12-05
+[Thu Oct 21 2021 19:00:16 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2021-12-05
+[Thu Oct 21 2021 19:00:16 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-12-05
+[Thu Oct 21 2021 19:00:16 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikHEAD uspesno dodan 
+[Thu Oct 21 2021 21:00:21 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-12-05
+[Thu Oct 21 2021 21:00:21 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-12-05
+Sodniku LINESMAN se je izbrisal datum iz ICEHL sheme. Datum:2021-11-19
+Sodniku LINESMAN se je izbrisal datum iz ICEHL sheme. Datum:2021-11-26
+Sodniku MUZSIK se je izbrisal datum iz ICEHL sheme. Datum:2021-12-03
+Sodniku LINESMAN se je izbrisal datum iz ICEHL sheme. Datum:2021-12-04
+Sodniku HEAD se je izbrisal datum iz ICEHL sheme. Datum:2021-12-03
+Sodniku PUFF se je izbrisal datum iz ICEHL sheme. Datum:2021-11-19
+[Tue Oct 26 2021 09:30:35 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-10-29

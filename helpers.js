@@ -31,7 +31,8 @@ function writeToExcel(DAT_STRING, lokacije, liga, datum){
     sestavljenString += lokacija;
     let i;
     for (i = 0; i < 4; i++) {
-        sestavljenString += ";" + sodniki[i].ime;
+        const lopove = sodniki[i] ? sodniki[i].ime : "unknown"
+        sestavljenString += ";" + lopove;
     }
 
     let cellDate = vrniCellOdDatuma(DAT_STRING, datum);
@@ -99,8 +100,10 @@ function updateDatesInExcel(noviDatumi, mainWorkbook, DAT, DAT_STRING, isAHL, js
                             //   };
                             if(isAHL){
                                 console.log("Sodniku " +seznamAhl[o] +" se je izbrisal datum iz AHL sheme. Datum:"+ datee);
+                                fs.appendFileSync("logs/logsAHL.txt", "Sodniku " +seznamAhl[o] +" se je izbrisal datum iz AHL sheme. Datum:"+ datee + "\n");
                             }else{
                                 console.log("Sodniku " +seznamAhl[o] +" se je izbrisal datum iz ICEHL sheme. Datum:"+ datee);
+                                fs.appendFileSync("logs/logsICEHL.txt", "Sodniku " +seznamAhl[o] +" se je izbrisal datum iz ICEHL sheme. Datum:"+ datee + "\n");
                             }
                             
                             return;

@@ -17,7 +17,8 @@ scheduledFunction();
 
 function scheduledFunction(){
     setInterval(async function () {
-        console.log("1. Pridobivam nove podatke, poizkus "+ counter);
+        const today = new Date();
+        console.log("1. Pridobivam nove podatke, poizkus "+ counter + " "+ today);
         const mess = await getNewJson();
         await sleep(5000);
         console.log("  "+mess);
@@ -45,7 +46,6 @@ function scheduledFunction(){
             "miklic": "gregor.miklic.sp@gmail.com"
         }
         arrayForMail.forEach(i => {
-            let today = new Date();
             const tekme = JSON.stringify(i.tekme);
             if(Object.keys(mailing).includes(i.sodnik)){
                 const mailOptions = {
