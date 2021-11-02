@@ -833,3 +833,5 @@ Sodniku HLAVATY se je izbrisal datum iz AHL sheme. Datum:2021-11-13
 Sodniku HLAVATY se je izbrisal datum iz AHL sheme. Datum:2021-11-13
 Sodniku DA PIAN se je izbrisal datum iz AHL sheme. Datum:2021-12-02
 Sodniku CRISTELI se je izbrisal datum iz AHL sheme. Datum:2021-12-04
+Sodniku MATTHEY se je izbrisal datum iz AHL sheme. Datum:2021-11-04
+Sodniku KUMMER se je izbrisal datum iz AHL sheme. Datum:2021-11-27

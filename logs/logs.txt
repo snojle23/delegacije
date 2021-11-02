@@ -521,3 +521,20 @@
 [Wed Oct 27 2021 17:04:48 GMT+0200 (Srednjeevropski poletni čas)] Sodnik LOICHT uspesno zamenjal OREL Lokacija: Eishalle Zell am See, Datum: 2021-11-20
 [Thu Oct 28 2021 20:54:03 GMT+0200 (Srednjeevropski poletni čas)] Sodnik CRISTELI uspesno zamenjal DA PIAN Lokacija: Eishalle Cortina, Datum: 2021-12-02
 [Thu Oct 28 2021 20:54:03 GMT+0200 (Srednjeevropski poletni čas)] Sodnik DA PIAN uspesno zamenjal CRISTELI Lokacija: Eishalle Sterzing, Datum: 2021-12-04
+[Fri Oct 29 2021 19:36:55 GMT+0200 (Srednjeevropski poletni čas)] Sodnik DE ZORDO uspesno zamenjal BASSO Lokacija: Eishalle Cortina, Datum: 2021-10-30
+[Fri Oct 29 2021 19:36:55 GMT+0200 (Srednjeevropski poletni čas)] Sodnik BASSO uspesno zamenjal CRISTELI Lokacija: Eishalle Asiago, Datum: 2021-10-30
+[Fri Oct 29 2021 19:36:55 GMT+0200 (Srednjeevropski poletni čas)] Sodnik CRISTELI uspesno zamenjal DE ZORDO Lokacija: Eishalle Asiago, Datum: 2021-10-30
+[Sat Oct 30 2021 11:36:52 GMT+0200 (Srednjeevropski poletni čas)] Sodnik BERNEKER uspesno zamenjal PIRAGIC Lokacija: Eishalle Dornbirn, Datum: 2021-10-30
+[Sat Oct 30 2021 11:36:52 GMT+0200 (Srednjeevropski poletni čas)] Sodnik PIRAGIC uspesno zamenjal SMETANA Lokacija: Eishalle Dornbirn, Datum: 2021-10-30
+[Sat Oct 30 2021 11:36:52 GMT+0200 (Srednjeevropski poletni čas)] Sodnik HUBER uspesno zamenjal SMETANA Lokacija: Eiswelle Bozen, Datum: 2021-10-31
+[Mon Nov 01 2021 16:04:21 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SMETANA uspesno zamenjal FICHTNER Lokacija: Ondrej Nepala Arena, Datum: 2021-11-02
+[Mon Nov 01 2021 16:04:21 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SOOS uspesno zamenjal SMETANA Lokacija: Ondrej Nepala Arena, Datum: 2021-11-02
+[Mon Nov 01 2021 16:04:21 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NAGY uspesno zamenjal FICHTNER Lokacija: Hostan Arena, Datum: 2021-11-04
+[Mon Nov 01 2021 17:34:21 GMT+0100 (Srednjeevropski standardni čas)] Sodnik OFNER uspesno zamenjal NIKOLIC Lokacija: Linz AG Eisarena, Datum: 2021-11-05
+[Mon Nov 01 2021 19:04:20 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SIEGEL uspesno zamenjal FICHTNER Lokacija: Linz AG Eisarena, Datum: 2021-11-06
+[Mon Nov 01 2021 19:04:20 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BÄRNTHALER uspesno zamenjal GATOL Lokacija: Linz AG Eisarena, Datum: 2021-11-06
+[Mon Nov 01 2021 19:04:20 GMT+0100 (Srednjeevropski standardni čas)] Sodnik GATOL uspesno zamenjal NOTHEGGER Lokacija: Linz AG Eisarena, Datum: 2021-11-06
+[Mon Nov 01 2021 19:04:20 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NOTHEGGER uspesno zamenjal BÄRNTHALER Lokacija: Merkur Eisstadion Graz, Datum: 2021-11-06
+[Mon Nov 01 2021 19:04:20 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SCHAUER uspesno zamenjal FICHTNER Lokacija: Tiroler Wasserkraft Arena, Datum: 2021-11-07
+[Tue Nov 02 2021 18:28:10 GMT+0100 (Srednjeevropski standardni čas)] Sodnik MOIDL uspesno zamenjal MATTHEY Lokacija: Linz AG Eisarena, Datum: 2021-11-04
+[Tue Nov 02 2021 20:13:31 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HLAVATY uspesno zamenjal KUMMER Lokacija: Eishalle Wien Kagran, Datum: 2021-11-27

@@ -685,3 +685,10 @@ Sodniku LINESMAN se je izbrisal datum iz ICEHL sheme. Datum:2021-12-04
 Sodniku HEAD se je izbrisal datum iz ICEHL sheme. Datum:2021-12-03
 Sodniku PUFF se je izbrisal datum iz ICEHL sheme. Datum:2021-11-19
 [Tue Oct 26 2021 09:30:35 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2021-10-29
+Sodniku SMETANA se je izbrisal datum iz ICEHL sheme. Datum:2021-10-30
+Sodniku SMETANA se je izbrisal datum iz ICEHL sheme. Datum:2021-10-31
+Sodniku FICHTNER se je izbrisal datum iz ICEHL sheme. Datum:2021-11-02
+Sodniku FICHTNER se je izbrisal datum iz ICEHL sheme. Datum:2021-11-04
+Sodniku NIKOLIC se je izbrisal datum iz ICEHL sheme. Datum:2021-11-05
+Sodniku FICHTNER se je izbrisal datum iz ICEHL sheme. Datum:2021-11-06
+Sodniku FICHTNER se je izbrisal datum iz ICEHL sheme. Datum:2021-11-07
