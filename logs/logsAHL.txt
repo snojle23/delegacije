@@ -835,3 +835,14 @@ Sodniku DA PIAN se je izbrisal datum iz AHL sheme. Datum:2021-12-02
 Sodniku CRISTELI se je izbrisal datum iz AHL sheme. Datum:2021-12-04
 Sodniku MATTHEY se je izbrisal datum iz AHL sheme. Datum:2021-11-04
 Sodniku KUMMER se je izbrisal datum iz AHL sheme. Datum:2021-11-27
+[Wed Nov 03 2021 12:43:28 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-11-20
+[Wed Nov 03 2021 12:43:28 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-11-23
+Sodniku REISINGER se je izbrisal datum iz AHL sheme. Datum:2021-11-04
+Sodniku HUBER se je izbrisal datum iz AHL sheme. Datum:2021-11-18
+Sodniku PÖTSCHER se je izbrisal datum iz AHL sheme. Datum:2021-11-18
+Sodniku PUFF se je izbrisal datum iz AHL sheme. Datum:2021-11-20
+Sodniku REISINGER se je izbrisal datum iz AHL sheme. Datum:2021-11-11
+[Tue Nov 09 2021 14:37:36 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikBEDYNEK uspesno dodan 
+Sodniku LEGA se je izbrisal datum iz AHL sheme. Datum:2021-11-27
+Sodniku WIMMLER se je izbrisal datum iz AHL sheme. Datum:2021-11-23
+Sodniku LEGAT se je izbrisal datum iz AHL sheme. Datum:2021-12-02

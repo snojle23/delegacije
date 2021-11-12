@@ -538,3 +538,13 @@
 [Mon Nov 01 2021 19:04:20 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SCHAUER uspesno zamenjal FICHTNER Lokacija: Tiroler Wasserkraft Arena, Datum: 2021-11-07
 [Tue Nov 02 2021 18:28:10 GMT+0100 (Srednjeevropski standardni čas)] Sodnik MOIDL uspesno zamenjal MATTHEY Lokacija: Linz AG Eisarena, Datum: 2021-11-04
 [Tue Nov 02 2021 20:13:31 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HLAVATY uspesno zamenjal KUMMER Lokacija: Eishalle Wien Kagran, Datum: 2021-11-27
+[Thu Nov 04 2021 09:05:47 GMT+0100 (Srednjeevropski standardni čas)] Sodnik KAINBERGER uspesno zamenjal REISINGER Lokacija: Eisarena Salzburg, Datum: 2021-11-04
+[Thu Nov 04 2021 21:05:52 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SCHAUER uspesno zamenjal HUBER Lokacija: Eishalle Feldkirch, Datum: 2021-11-18
+[Sat Nov 06 2021 13:05:52 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NAGY uspesno zamenjal HRONSKY Lokacija: Hostan Arena, Datum: 2021-11-19
+[Sat Nov 06 2021 13:05:52 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SIEGEL uspesno zamenjal NAGY Lokacija: Hostan Arena, Datum: 2021-11-19
+[Mon Nov 08 2021 21:06:12 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PUFF uspesno zamenjal PÖTSCHER Lokacija: Eisarena Salzburg, Datum: 2021-11-18
+[Mon Nov 08 2021 21:06:12 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PÖTSCHER uspesno zamenjal PUFF Lokacija: Linz AG Eisarena, Datum: 2021-11-20
+[Tue Nov 09 2021 14:37:36 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BEDYNEK uspesno zamenjal REISINGER Lokacija: Eishalle Lustenau, Datum: 2021-11-11
+[Tue Nov 09 2021 20:07:36 GMT+0100 (Srednjeevropski standardni čas)] Sodnik MOSCHEN uspesno zamenjal LEGA Lokacija: Eishalle Dornbirn, Datum: 2021-11-27
+[Wed Nov 10 2021 22:08:03 GMT+0100 (Srednjeevropski standardni čas)] Sodnik LEGAT uspesno zamenjal WIMMLER Lokacija: Eishalle Wien Kagran, Datum: 2021-11-23
+[Wed Nov 10 2021 22:08:03 GMT+0100 (Srednjeevropski standardni čas)] Sodnik WIMMLER uspesno zamenjal LEGAT Lokacija: Eishalle Zell am See, Datum: 2021-12-02
