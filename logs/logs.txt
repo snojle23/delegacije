@@ -548,3 +548,10 @@
 [Tue Nov 09 2021 20:07:36 GMT+0100 (Srednjeevropski standardni čas)] Sodnik MOSCHEN uspesno zamenjal LEGA Lokacija: Eishalle Dornbirn, Datum: 2021-11-27
 [Wed Nov 10 2021 22:08:03 GMT+0100 (Srednjeevropski standardni čas)] Sodnik LEGAT uspesno zamenjal WIMMLER Lokacija: Eishalle Wien Kagran, Datum: 2021-11-23
 [Wed Nov 10 2021 22:08:03 GMT+0100 (Srednjeevropski standardni čas)] Sodnik WIMMLER uspesno zamenjal LEGAT Lokacija: Eishalle Zell am See, Datum: 2021-12-02
+[Fri Nov 12 2021 09:18:38 GMT+0100 (Srednjeevropski standardni čas)] Sodnik KUMMER uspesno zamenjal HLAVATY Lokacija: Linz AG Eisarena, Datum: 2021-11-13
+[Fri Nov 12 2021 09:18:38 GMT+0100 (Srednjeevropski standardni čas)] Sodnik MATTHEY uspesno zamenjal MOIDL Lokacija: Linz AG Eisarena, Datum: 2021-11-13
+[Fri Nov 12 2021 09:18:38 GMT+0100 (Srednjeevropski standardni čas)] Sodnik MOIDL uspesno zamenjal SCHONAKLENER Lokacija: Linz AG Eisarena, Datum: 2021-11-13
+[Fri Nov 12 2021 12:50:11 GMT+0100 (Srednjeevropski standardni čas)] Sodnik REISINGER uspesno zamenjal PÖTSCHER Lokacija: Linz AG Eisarena, Datum: 2021-11-20
+[Fri Nov 12 2021 12:50:11 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SCHWEIGHOFER uspesno zamenjal REISINGER Lokacija: Linz AG Eisarena, Datum: 2021-11-20
+[Fri Nov 12 2021 12:50:11 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PÖTSCHER uspesno zamenjal SCHONAKLENER Lokacija: Eishalle Wien Kagran, Datum: 2021-11-27
+[Fri Nov 12 2021 12:50:11 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SCHONAKLENER uspesno zamenjal SCHWEIGHOFER Lokacija: Eishalle Wien Kagran, Datum: 2021-11-27

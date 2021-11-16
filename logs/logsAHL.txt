@@ -846,3 +846,7 @@ Sodniku REISINGER se je izbrisal datum iz AHL sheme. Datum:2021-11-11
 Sodniku LEGA se je izbrisal datum iz AHL sheme. Datum:2021-11-27
 Sodniku WIMMLER se je izbrisal datum iz AHL sheme. Datum:2021-11-23
 Sodniku LEGAT se je izbrisal datum iz AHL sheme. Datum:2021-12-02
+Sodniku HLAVATY se je izbrisal datum iz AHL sheme. Datum:2021-11-13
+Sodniku SCHONAKLENER se je izbrisal datum iz AHL sheme. Datum:2021-11-13
+Sodniku PÖTSCHER se je izbrisal datum iz AHL sheme. Datum:2021-11-20
+Sodniku SCHWEIGHOFER se je izbrisal datum iz AHL sheme. Datum:2021-11-27
