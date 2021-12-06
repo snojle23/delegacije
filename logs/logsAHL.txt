@@ -911,3 +911,4 @@ Sodniku CRISTELI se je izbrisal datum iz AHL sheme. Datum:2021-12-16
 Sodniku GIACOMOZZI se je izbrisal datum iz AHL sheme. Datum:2021-12-16
 Sodniku BRONDI se je izbrisal datum iz AHL sheme. Datum:2021-12-16
 Sodniku STEFENELLI se je izbrisal datum iz AHL sheme. Datum:2021-12-16
+[Fri Dec 03 2021 17:24:50 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-11

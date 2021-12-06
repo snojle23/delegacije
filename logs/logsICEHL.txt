@@ -844,3 +844,4 @@ Sodniku RIECKEN se je izbrisal datum iz ICEHL sheme. Datum:2021-12-05
 Sodniku BEDYNEK se je izbrisal datum iz ICEHL sheme. Datum:2021-12-03
 [Thu Dec 02 2021 20:47:55 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-12-09
 [Thu Dec 02 2021 20:47:55 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2021-12-09
+Sodniku WIMMLER se je izbrisal datum iz ICEHL sheme. Datum:2021-12-03

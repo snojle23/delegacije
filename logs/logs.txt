@@ -746,3 +746,8 @@
 [Wed Dec 01 2021 12:53:01 GMT+0100 (Srednjeevropski standardni čas)] Sodnik GATOL uspesno zamenjal RIECKEN Lokacija: Linz AG Eisarena, Datum: 2021-12-05
 [Wed Dec 01 2021 12:53:01 GMT+0100 (Srednjeevropski standardni čas)] Sodnik GATOL uspesno zamenjal BEDYNEK Lokacija: Linz AG Eisarena, Datum: 2021-12-03
 [Wed Dec 01 2021 12:53:01 GMT+0100 (Srednjeevropski standardni čas)] Sodnik RIECKEN uspesno zamenjal GATOL Lokacija: Linz AG Eisarena, Datum: 2021-12-03
+[Fri Dec 03 2021 08:24:27 GMT+0100 (Srednjeevropski standardni čas)] Sodnik MARTIN uspesno zamenjal SPARER Lokacija: Tiroler Wasserkraft Arena, Datum: 2021-12-03
+[Fri Dec 03 2021 08:24:27 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SPARER uspesno zamenjal WIMMLER Lokacija: Tiroler Wasserkraft Arena, Datum: 2021-12-03
+[Fri Dec 03 2021 17:24:50 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PAHOR uspesno zamenjal LOICHT Lokacija: Eishalle Jesenice, Datum: 2021-12-04
+[Fri Dec 03 2021 17:24:50 GMT+0100 (Srednjeevropski standardni čas)] Sodnik WIDMANN uspesno zamenjal PAHOR Lokacija: Eishalle Jesenice, Datum: 2021-12-04
+[Fri Dec 03 2021 17:24:50 GMT+0100 (Srednjeevropski standardni čas)] Sodnik LOICHT uspesno zamenjal WIDMANN Lokacija: Merkur Eisstadion Graz, Datum: 2021-12-04
