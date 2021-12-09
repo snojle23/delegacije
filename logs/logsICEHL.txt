@@ -845,3 +845,54 @@ Sodniku BEDYNEK se je izbrisal datum iz ICEHL sheme. Datum:2021-12-03
 [Thu Dec 02 2021 20:47:55 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-12-09
 [Thu Dec 02 2021 20:47:55 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2021-12-09
 Sodniku WIMMLER se je izbrisal datum iz ICEHL sheme. Datum:2021-12-03
+Sodniku WIMMLER se je izbrisal datum iz ICEHL sheme. Datum:2021-12-17
+Sodniku WIMMLER se je izbrisal datum iz ICEHL sheme. Datum:2021-12-21
+[Mon Dec 06 2021 21:39:19 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-12-28
+[Mon Dec 06 2021 21:39:19 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2021-12-28
+[Mon Dec 06 2021 21:39:19 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-12-28
+[Mon Dec 06 2021 21:39:19 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-12-28
+[Mon Dec 06 2021 21:39:19 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-12-28
+[Mon Dec 06 2021 23:09:20 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-12-28
+[Mon Dec 06 2021 23:09:20 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-12-28
+[Mon Dec 06 2021 23:09:20 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-12-30
+[Mon Dec 06 2021 23:09:20 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2021-12-30
+[Mon Dec 06 2021 23:09:20 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-12-30
+[Mon Dec 06 2021 23:09:20 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-12-30
+[Mon Dec 06 2021 23:09:20 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-12-30
+[Mon Dec 06 2021 23:09:20 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-12-30
+[Mon Dec 06 2021 23:09:20 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-12-30
+[Mon Dec 06 2021 23:09:20 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-02
+[Mon Dec 06 2021 23:09:20 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2022-01-02
+[Mon Dec 06 2021 23:09:20 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-02
+[Mon Dec 06 2021 23:09:20 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-02
+[Mon Dec 06 2021 23:09:20 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-02
+[Mon Dec 06 2021 23:09:20 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-02
+[Mon Dec 06 2021 23:09:20 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-02
+[Mon Dec 06 2021 23:09:20 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-04
+[Mon Dec 06 2021 23:09:20 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2022-01-04
+[Mon Dec 06 2021 23:09:20 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-04
+[Mon Dec 06 2021 23:09:20 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-04
+[Mon Dec 06 2021 23:09:20 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-04
+[Mon Dec 06 2021 23:09:20 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-04
+[Mon Dec 06 2021 23:09:20 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-04
+[Mon Dec 06 2021 23:09:20 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-06
+[Mon Dec 06 2021 23:09:20 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2022-01-06
+[Mon Dec 06 2021 23:09:20 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-06
+[Mon Dec 06 2021 23:09:20 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-06
+[Mon Dec 06 2021 23:09:20 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-06
+[Mon Dec 06 2021 23:09:20 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-06
+[Mon Dec 06 2021 23:09:20 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-06
+[Mon Dec 06 2021 23:09:20 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-09
+[Mon Dec 06 2021 23:09:20 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2022-01-09
+[Mon Dec 06 2021 23:09:20 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-09
+[Mon Dec 06 2021 23:09:20 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-09
+[Mon Dec 06 2021 23:09:20 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-09
+[Mon Dec 06 2021 23:09:20 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-09
+[Mon Dec 06 2021 23:09:20 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-09
+[Mon Dec 06 2021 23:09:20 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikLINESMAN uspesno dodan 
+Sodniku PARDATSCHER se je izbrisal datum iz ICEHL sheme. Datum:2021-12-12
+Sodniku LINESMAN se je izbrisal datum iz ICEHL sheme. Datum:2022-01-02
+Sodniku RIGONI se je izbrisal datum iz ICEHL sheme. Datum:2021-12-10
+[Wed Dec 08 2021 18:48:51 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-12-23
+[Wed Dec 08 2021 18:48:51 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2021-12-23
+Sodniku BULOVEC se je izbrisal datum iz ICEHL sheme. Datum:2021-12-12

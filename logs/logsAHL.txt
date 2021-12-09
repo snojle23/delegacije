@@ -912,3 +912,8 @@ Sodniku GIACOMOZZI se je izbrisal datum iz AHL sheme. Datum:2021-12-16
 Sodniku BRONDI se je izbrisal datum iz AHL sheme. Datum:2021-12-16
 Sodniku STEFENELLI se je izbrisal datum iz AHL sheme. Datum:2021-12-16
 [Fri Dec 03 2021 17:24:50 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-11
+Sodniku GIACOMOZZI se je izbrisal datum iz AHL sheme. Datum:2021-12-15
+Sodniku SORAPERRA se je izbrisal datum iz AHL sheme. Datum:2022-01-11
+Sodniku HLAVATY se je izbrisal datum iz AHL sheme. Datum:2021-12-23
+[Wed Dec 08 2021 18:48:51 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikHEAD uspesno dodan 
+Sodniku MOSCHEN se je izbrisal datum iz AHL sheme. Datum:2021-12-18
