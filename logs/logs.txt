@@ -769,3 +769,38 @@
 [Wed Dec 08 2021 18:48:51 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HEAD uspesno zamenjal HLAVATY Lokacija: Eishalle Wien Kagran, Datum: 2021-12-23
 [Wed Dec 08 2021 22:48:50 GMT+0100 (Srednjeevropski standardni čas)] Sodnik TRILAR uspesno zamenjal BULOVEC Lokacija: Eiswelle Bozen, Datum: 2021-12-12
 [Thu Dec 09 2021 13:19:43 GMT+0100 (Srednjeevropski standardni čas)] Sodnik LAZZERI uspesno zamenjal MOSCHEN Lokacija: Eishalle Asiago, Datum: 2021-12-18
+[Thu Dec 09 2021 17:36:49 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SORAPERRA uspesno zamenjal LAZZERI Lokacija: Eishalle Sterzing, Datum: 2021-12-11
+[Fri Dec 10 2021 11:06:48 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PODLESNIK uspesno zamenjal KUMMER Lokacija: Eishalle Sterzing, Datum: 2021-12-17
+[Fri Dec 10 2021 11:06:48 GMT+0100 (Srednjeevropski standardni čas)] Sodnik KUMMER uspesno zamenjal PODLESNIK Lokacija: Eishalle Dornbirn, Datum: 2021-12-18
+[Fri Dec 10 2021 13:06:48 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HUBER uspesno zamenjal HOLZER Lokacija: Eishalle Feldkirch, Datum: 2021-12-11
+[Fri Dec 10 2021 13:06:48 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HOLZER uspesno zamenjal HUBER Lokacija: Eishalle Dornbirn, Datum: 2021-12-29
+[Fri Dec 10 2021 13:06:48 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HUBER uspesno zamenjal HOLZER Lokacija: Sportpark Kitzbühel, Datum: 2022-01-02
+[Fri Dec 10 2021 17:36:48 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SPARER uspesno zamenjal PARDATSCHER Lokacija: Eishalle Dornbirn, Datum: 2021-12-11
+[Sat Dec 11 2021 10:37:03 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NAGY uspesno zamenjal FICHTNER Lokacija: Gabor Ocskay Eisarena, Datum: 2021-12-12
+[Sat Dec 11 2021 10:37:03 GMT+0100 (Srednjeevropski standardni čas)] Sodnik RENCZ uspesno zamenjal NAGY Lokacija: Gabor Ocskay Eisarena, Datum: 2021-12-12
+[Mon Dec 13 2021 10:37:05 GMT+0100 (Srednjeevropski standardni čas)] Sodnik DE ZORDO uspesno zamenjal BASSO Lokacija: Eishalle Canazei, Datum: 2021-12-16
+[Mon Dec 13 2021 16:07:03 GMT+0100 (Srednjeevropski standardni čas)] Sodnik MOSCHEN uspesno zamenjal LAZZERI Lokacija: Eishalle Asiago, Datum: 2021-12-18
+[Mon Dec 13 2021 21:07:00 GMT+0100 (Srednjeevropski standardni čas)] Sodnik GIACOMOZZI uspesno zamenjal LAZZERI Lokacija: Eishalle Meran, Datum: 2021-12-21
+[Tue Dec 14 2021 16:06:57 GMT+0100 (Srednjeevropski standardni čas)] Sodnik FICHTNER uspesno zamenjal SMETANA Lokacija: Hostan Arena, Datum: 2021-12-26
+[Tue Dec 14 2021 16:06:57 GMT+0100 (Srednjeevropski standardni čas)] Sodnik OFNER uspesno zamenjal FICHTNER Lokacija: Linz AG Eisarena, Datum: 2021-12-26
+[Tue Dec 14 2021 16:06:57 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SCHAUER uspesno zamenjal OFNER Lokacija: Linz AG Eisarena, Datum: 2021-12-26
+[Wed Dec 15 2021 17:36:54 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PINIE uspesno zamenjal SCHAUER Lokacija: Eishalle Feldkirch, Datum: 2021-12-26
+[Wed Dec 15 2021 17:36:54 GMT+0100 (Srednjeevropski standardni čas)] Sodnik EGGER uspesno zamenjal LAZZERI Lokacija: Eishalle Canazei, Datum: 2021-12-28
+[Wed Dec 15 2021 23:06:53 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HUBER uspesno zamenjal NIKOLIC Lokacija: Eishalle Bruneck, Datum: 2022-01-04
+[Wed Dec 15 2021 23:06:53 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NIKOLIC uspesno zamenjal OFNER Lokacija: Eishalle Bruneck, Datum: 2022-01-04
+[Thu Dec 16 2021 11:36:54 GMT+0100 (Srednjeevropski standardni čas)] Sodnik EGGER uspesno zamenjal GIACOMOZZI Lokacija: Eishalle Meran, Datum: 2021-12-21
+[Thu Dec 16 2021 11:36:54 GMT+0100 (Srednjeevropski standardni čas)] Sodnik GIACOMOZZI uspesno zamenjal EGGER Lokacija: Eishalle Sterzing, Datum: 2022-01-08
+[Thu Dec 16 2021 21:06:55 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BERNEKER uspesno zamenjal NIKOLIC Lokacija: Eishalle Dornbirn, Datum: 2021-12-17
+[Thu Dec 16 2021 21:06:55 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SIEGEL uspesno zamenjal NIKOLIC Lokacija: Eisarena Salzburg, Datum: 2022-01-04
+[Sat Dec 18 2021 12:37:01 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BEDYNEK uspesno zamenjal BÄRNTHALER Lokacija: Linz AG Eisarena, Datum: 2021-12-19
+[Sat Dec 18 2021 12:37:01 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SPARER uspesno zamenjal BEDYNEK Lokacija: Klagenfurter Stadthalle, Datum: 2021-12-19
+[Sat Dec 18 2021 12:37:01 GMT+0100 (Srednjeevropski standardni čas)] Sodnik ZGONC uspesno zamenjal SPARER Lokacija: Klagenfurter Stadthalle, Datum: 2021-12-19
+[Sun Dec 19 2021 18:07:01 GMT+0100 (Srednjeevropski standardni čas)] Sodnik CRISTELI uspesno zamenjal BASSANI Lokacija: Eishalle Dornbirn, Datum: 2021-12-29
+[Sun Dec 19 2021 18:07:01 GMT+0100 (Srednjeevropski standardni čas)] Sodnik DE ZORDO uspesno zamenjal BASSANI Lokacija: Eishalle Sterzing, Datum: 2022-01-04
+[Sun Dec 19 2021 20:37:01 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HOLZER uspesno zamenjal PUFF Lokacija: Eishalle Cortina, Datum: 2021-12-21
+[Sun Dec 19 2021 20:37:01 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BENVEGNU uspesno zamenjal LEGA Lokacija: Eishalle Gröden, Datum: 2021-12-21
+[Mon Dec 20 2021 15:07:01 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SCHAUER uspesno zamenjal OFNER Lokacija: Tiroler Wasserkraft Arena, Datum: 2021-12-21
+[Mon Dec 20 2021 15:07:01 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BEDYNEK uspesno zamenjal BÄRNTHALER Lokacija: Klagenfurter Stadthalle, Datum: 2021-12-21
+[Mon Dec 20 2021 17:07:01 GMT+0100 (Srednjeevropski standardni čas)] Sodnik MOSCHEN uspesno zamenjal LEGA Lokacija: Eishalle Canazei, Datum: 2021-12-26
+[Mon Dec 20 2021 18:37:01 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BENVEGNU uspesno zamenjal LAZZERI Lokacija: Eishalle Sterzing, Datum: 2021-12-26
+[Tue Dec 21 2021 13:37:05 GMT+0100 (Srednjeevropski standardni čas)] Sodnik CRISTELI uspesno zamenjal BASSO Lokacija: Eishalle Canazei, Datum: 2021-12-26

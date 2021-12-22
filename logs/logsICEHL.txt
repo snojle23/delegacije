@@ -896,3 +896,12 @@ Sodniku RIGONI se je izbrisal datum iz ICEHL sheme. Datum:2021-12-10
 [Wed Dec 08 2021 18:48:51 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-12-23
 [Wed Dec 08 2021 18:48:51 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2021-12-23
 Sodniku BULOVEC se je izbrisal datum iz ICEHL sheme. Datum:2021-12-12
+Sodniku PARDATSCHER se je izbrisal datum iz ICEHL sheme. Datum:2021-12-11
+Sodniku FICHTNER se je izbrisal datum iz ICEHL sheme. Datum:2021-12-12
+Sodniku SMETANA se je izbrisal datum iz ICEHL sheme. Datum:2021-12-26
+Sodniku OFNER se je izbrisal datum iz ICEHL sheme. Datum:2022-01-04
+Sodniku NIKOLIC se je izbrisal datum iz ICEHL sheme. Datum:2021-12-17
+Sodniku NIKOLIC se je izbrisal datum iz ICEHL sheme. Datum:2022-01-04
+Sodniku BÄRNTHALER se je izbrisal datum iz ICEHL sheme. Datum:2021-12-19
+Sodniku BÄRNTHALER se je izbrisal datum iz ICEHL sheme. Datum:2021-12-21
+Sodniku OFNER se je izbrisal datum iz ICEHL sheme. Datum:2021-12-21

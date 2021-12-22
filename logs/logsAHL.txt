@@ -917,3 +917,62 @@ Sodniku SORAPERRA se je izbrisal datum iz AHL sheme. Datum:2022-01-11
 Sodniku HLAVATY se je izbrisal datum iz AHL sheme. Datum:2021-12-23
 [Wed Dec 08 2021 18:48:51 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikHEAD uspesno dodan 
 Sodniku MOSCHEN se je izbrisal datum iz AHL sheme. Datum:2021-12-18
+[Thu Dec 09 2021 14:36:50 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-12-27
+[Thu Dec 09 2021 14:36:50 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-12-28
+[Thu Dec 09 2021 14:36:50 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-12-28
+[Thu Dec 09 2021 14:36:50 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-12-28
+[Thu Dec 09 2021 14:36:50 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-12-28
+[Thu Dec 09 2021 14:36:50 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-12-28
+[Thu Dec 09 2021 14:36:50 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-12-28
+[Thu Dec 09 2021 14:36:50 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-12-28
+[Thu Dec 09 2021 14:36:50 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-12-29
+[Thu Dec 09 2021 14:36:50 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-12-30
+[Thu Dec 09 2021 14:36:50 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-12-30
+[Thu Dec 09 2021 14:36:50 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-12-30
+[Thu Dec 09 2021 14:36:50 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-12-30
+[Thu Dec 09 2021 14:36:50 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-12-30
+[Thu Dec 09 2021 14:36:50 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-02
+[Thu Dec 09 2021 14:36:50 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-02
+[Thu Dec 09 2021 14:36:50 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-02
+[Thu Dec 09 2021 14:36:50 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-02
+[Thu Dec 09 2021 14:36:50 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-02
+[Thu Dec 09 2021 14:36:50 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-03
+[Thu Dec 09 2021 14:36:50 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-04
+[Thu Dec 09 2021 14:36:50 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-04
+[Thu Dec 09 2021 14:36:50 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-05
+[Thu Dec 09 2021 14:36:50 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-06
+[Thu Dec 09 2021 14:36:50 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-06
+[Thu Dec 09 2021 14:36:50 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-06
+[Thu Dec 09 2021 14:36:50 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-06
+[Thu Dec 09 2021 14:36:50 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-07
+[Thu Dec 09 2021 14:36:50 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-08
+[Thu Dec 09 2021 14:36:50 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-08
+[Thu Dec 09 2021 14:36:50 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-08
+[Thu Dec 09 2021 14:36:50 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-08
+[Thu Dec 09 2021 14:36:50 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-08
+[Thu Dec 09 2021 14:36:50 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-08
+[Thu Dec 09 2021 14:36:50 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-08
+[Thu Dec 09 2021 14:36:50 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikNOTHEGGER uspesno dodan 
+[Thu Dec 09 2021 14:36:50 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikKANYO uspesno dodan 
+Sodniku LAZZERI se je izbrisal datum iz AHL sheme. Datum:2021-12-11
+[Thu Dec 09 2021 20:06:49 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-07
+[Fri Dec 10 2021 10:06:49 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2021-12-22
+Sodniku KUMMER se je izbrisal datum iz AHL sheme. Datum:2021-12-17
+Sodniku PODLESNIK se je izbrisal datum iz AHL sheme. Datum:2021-12-18
+Sodniku HOLZER se je izbrisal datum iz AHL sheme. Datum:2021-12-11
+Sodniku HUBER se je izbrisal datum iz AHL sheme. Datum:2021-12-29
+Sodniku HOLZER se je izbrisal datum iz AHL sheme. Datum:2022-01-02
+Sodniku BASSO se je izbrisal datum iz AHL sheme. Datum:2021-12-16
+Sodniku LAZZERI se je izbrisal datum iz AHL sheme. Datum:2021-12-18
+Sodniku LAZZERI se je izbrisal datum iz AHL sheme. Datum:2021-12-21
+Sodniku SCHAUER se je izbrisal datum iz AHL sheme. Datum:2021-12-26
+Sodniku LAZZERI se je izbrisal datum iz AHL sheme. Datum:2021-12-28
+Sodniku GIACOMOZZI se je izbrisal datum iz AHL sheme. Datum:2021-12-21
+Sodniku EGGER se je izbrisal datum iz AHL sheme. Datum:2022-01-08
+Sodniku BASSANI se je izbrisal datum iz AHL sheme. Datum:2021-12-29
+Sodniku BASSANI se je izbrisal datum iz AHL sheme. Datum:2022-01-04
+Sodniku LEGA se je izbrisal datum iz AHL sheme. Datum:2021-12-21
+Sodniku PUFF se je izbrisal datum iz AHL sheme. Datum:2021-12-21
+Sodniku LEGA se je izbrisal datum iz AHL sheme. Datum:2021-12-26
+Sodniku LAZZERI se je izbrisal datum iz AHL sheme. Datum:2021-12-26
+Sodniku BASSO se je izbrisal datum iz AHL sheme. Datum:2021-12-26
