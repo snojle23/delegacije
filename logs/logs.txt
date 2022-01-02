@@ -855,3 +855,7 @@
 [Sat Jan 01 2022 22:14:07 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SCHAUER uspesno zamenjal WALLNER Lokacija: Eishalle Dornbirn, Datum: 2022-01-08
 [Sun Jan 02 2022 05:24:25 GMT+0100 (Srednjeevropski standardni čas)] Sodnik MANTOVANI uspesno zamenjal BEDANA Lokacija: Eishalle Cortina, Datum: 2022-01-02
 [Sun Jan 02 2022 08:29:41 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BRONDI uspesno zamenjal MANTOVANI Lokacija: Eishalle Cortina, Datum: 2022-01-02
+[Sun Jan 02 2022 20:28:17 GMT+0100 (Srednjeevropski standardni čas)] Sodnik VIRTA uspesno zamenjal KUMMER Lokacija: Eishalle Ritten, Datum: 2022-01-02
+[Sun Jan 02 2022 20:28:17 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PACE uspesno zamenjal HOLZER Lokacija: Eishalle Ritten, Datum: 2022-01-02
+[Sun Jan 02 2022 20:33:25 GMT+0100 (Srednjeevropski standardni čas)] Sodnik VIRTA uspesno zamenjal KUMMER Lokacija: Eishalle Ritten, Datum: 2022-01-02
+[Sun Jan 02 2022 20:33:25 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PACE uspesno zamenjal HOLZER Lokacija: Eishalle Ritten, Datum: 2022-01-02
