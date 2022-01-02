@@ -221,3 +221,6 @@
 [Thu Dec 09 2021 14:36:50 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v AHL_DAT. Datum:2022-01-07
 [Thu Dec 09 2021 14:36:50 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v AHL_DAT. Datum:2022-01-08
 [Fri Dec 10 2021 10:06:49 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v AHL_DAT. Datum:2021-12-22
+[Sat Jan 01 2022 22:14:07 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v AHL_DAT. Datum:2022-01-18
+[Sat Jan 01 2022 22:14:07 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v AHL_DAT. Datum:2022-01-20
+[Sat Jan 01 2022 22:14:07 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v AHL_DAT. Datum:2022-01-22

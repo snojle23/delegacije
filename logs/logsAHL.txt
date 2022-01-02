@@ -976,3 +976,38 @@ Sodniku PUFF se je izbrisal datum iz AHL sheme. Datum:2021-12-21
 Sodniku LEGA se je izbrisal datum iz AHL sheme. Datum:2021-12-26
 Sodniku LAZZERI se je izbrisal datum iz AHL sheme. Datum:2021-12-26
 Sodniku BASSO se je izbrisal datum iz AHL sheme. Datum:2021-12-26
+Sodniku WIMMLER se je izbrisal datum iz AHL sheme. Datum:2021-12-23
+Sodniku SPIEGEL se je izbrisal datum iz AHL sheme. Datum:2021-12-26
+Sodniku SCHWEIGHOFER se je izbrisal datum iz AHL sheme. Datum:2022-01-02
+Sodniku LEGAT se je izbrisal datum iz AHL sheme. Datum:2021-12-28
+Sodniku EGGER se je izbrisal datum iz AHL sheme. Datum:2021-12-28
+Sodniku STEFENELLI se je izbrisal datum iz AHL sheme. Datum:2021-12-30
+Sodniku LEGA se je izbrisal datum iz AHL sheme. Datum:2021-12-29
+Sodniku LAZZERI se je izbrisal datum iz AHL sheme. Datum:2022-01-02
+Sodniku FLEISCHMANN se je izbrisal datum iz AHL sheme. Datum:2022-01-02
+Sodniku FLEISCHMANN se je izbrisal datum iz AHL sheme. Datum:2022-01-04
+Sodniku PÖTSCHER se je izbrisal datum iz AHL sheme. Datum:2021-12-30
+Sodniku PIRAS se je izbrisal datum iz AHL sheme. Datum:2022-01-04
+Sodniku REZEK se je izbrisal datum iz AHL sheme. Datum:2021-12-30
+[Thu Dec 30 2021 16:19:42 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikMilovanovic uspesno dodan 
+[Sat Jan 01 2022 22:14:07 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-18
+[Sat Jan 01 2022 22:14:07 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-20
+[Sat Jan 01 2022 22:14:07 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-20
+[Sat Jan 01 2022 22:14:07 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-20
+[Sat Jan 01 2022 22:14:07 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-20
+[Sat Jan 01 2022 22:14:07 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-20
+[Sat Jan 01 2022 22:14:07 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-20
+[Sat Jan 01 2022 22:14:07 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-20
+[Sat Jan 01 2022 22:14:07 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-20
+[Sat Jan 01 2022 22:14:07 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-22
+[Sat Jan 01 2022 22:14:07 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-22
+[Sat Jan 01 2022 22:14:07 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-22
+[Sat Jan 01 2022 22:14:07 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-22
+[Sat Jan 01 2022 22:14:07 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-22
+[Sat Jan 01 2022 22:14:07 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-22
+[Sat Jan 01 2022 22:14:07 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-22
+[Sat Jan 01 2022 22:14:07 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-01-22
+Sodniku WALLNER se je izbrisal datum iz AHL sheme. Datum:2022-01-06
+Sodniku WALLNER se je izbrisal datum iz AHL sheme. Datum:2022-01-08
+Sodniku BEDANA se je izbrisal datum iz AHL sheme. Datum:2022-01-02
+Sodniku MANTOVANI se je izbrisal datum iz AHL sheme. Datum:2022-01-02
