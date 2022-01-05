@@ -1019,3 +1019,9 @@ Sodniku KIS-KIRALY se je izbrisal datum iz ICEHL sheme. Datum:2022-01-04
 Sodniku PARDATSCHER se je izbrisal datum iz ICEHL sheme. Datum:2022-01-04
 Sodniku SOOS se je izbrisal datum iz ICEHL sheme. Datum:2022-01-04
 Sodniku GROZNIK se je izbrisal datum iz ICEHL sheme. Datum:2022-01-06
+Sodniku unknown se je izbrisal datum iz ICEHL sheme. Datum:2022-01-06
+Sodniku SPARER se je izbrisal datum iz ICEHL sheme. Datum:2022-01-04
+Sodniku ZGONC se je izbrisal datum iz ICEHL sheme. Datum:2022-01-04
+Sodniku SIEGEL se je izbrisal datum iz ICEHL sheme. Datum:2022-01-06
+Sodniku PARDATSCHER se je izbrisal datum iz ICEHL sheme. Datum:2022-01-06
+Sodniku SPARER se je izbrisal datum iz ICEHL sheme. Datum:2022-01-06
