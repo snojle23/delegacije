@@ -43,7 +43,8 @@ function scheduledFunction(){
         const mailing = {
             "snoj": "tadej.snoj@gmail.com",
             "bajt": "miha.bajt@gmail.com",
-            "miklic": "gregor.miklic.sp@gmail.com"
+            "miklic": "gregor.miklic.sp@gmail.com",
+            "rezek": "gregor.rezek@gmail.com"
         }
         arrayForMail.forEach(i => {
             const tekme = JSON.stringify(i.tekme);
