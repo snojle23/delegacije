@@ -11,7 +11,7 @@ const { vrniCellOdDatuma,
 
 const exceljs = require('exceljs');
 
-async function delegacije(json_data) {
+async function delegacije(json_data, arrayForMail) {
     let workbook = new exceljs.Workbook();
     let iceHLWB = new exceljs.Workbook();
     const ahlWorkbook = await workbook.xlsx.readFile('data/AHLdelegacije.xlsx');
@@ -26,9 +26,9 @@ async function delegacije(json_data) {
     const workICEHL_DAT_STRING = await icehlWorkbook.getWorksheet('ICEHL_DAT_STRING');
     const noviDatumiAHL = [];
     const noviDatumiICEHL = [];
+    const filterDates = ['2021-12-09'];
 
-
-    json_data.forEach(elementDate => { // gre cez use datume
+    (json_data || []).filter(i => !filterDates.includes(i.datum)).forEach(elementDate => { // gre cez use datume
         let datum = elementDate.datum;
         let ahlDatum = false;
         let icehlDatum = false;
@@ -59,14 +59,11 @@ async function delegacije(json_data) {
         })
     })
     // console.log(noviDatumi);
-    updateDatesInExcel(noviDatumiAHL, workAHL, workAHL_DAT, workAHL_DAT_STRING, true, json_data);
-    updateDatesInExcel(noviDatumiICEHL, workICEHL, workICEHL_DAT, workICEHL_DAT_STRING, false, json_data);
+    updateDatesInExcel(noviDatumiAHL, workAHL, workAHL_DAT, workAHL_DAT_STRING, true, json_data, arrayForMail);
+    updateDatesInExcel(noviDatumiICEHL, workICEHL, workICEHL_DAT, workICEHL_DAT_STRING, false, json_data, arrayForMail);
     console.log("konec delegacij.js");
     await workbook.xlsx.writeFile('data/AHLdelegacije.xlsx');
     await iceHLWB.xlsx.writeFile('data/ICEHLdelegacije.xlsx');
-
-    // preveri če je kaj zbrisano
-    
 }
 
 
