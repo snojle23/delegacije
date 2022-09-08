@@ -1321,3 +1321,101 @@ Sodniku JAVORNIK se je izbrisal datum iz AHL sheme. Datum:2022-02-24
 [Tue Feb 22 2022 20:21:12 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-03-05
 [Tue Feb 22 2022 20:21:12 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-03-05
 Sodniku REISINGER se je izbrisal datum iz AHL sheme. Datum:2022-02-24
+Sodniku RINKER se je izbrisal datum iz AHL sheme. Datum:2022-03-03
+Sodniku TSCHREPITSCH se je izbrisal datum iz AHL sheme. Datum:2022-03-05
+Sodniku GIACOMOZZI se je izbrisal datum iz AHL sheme. Datum:2022-02-24
+Sodniku PODLESNIK se je izbrisal datum iz AHL sheme. Datum:2022-02-26
+Sodniku EISL se je izbrisal datum iz AHL sheme. Datum:2022-03-03
+Sodniku GIACOMOZZI se je izbrisal datum iz AHL sheme. Datum:2022-03-03
+Sodniku KAINBERGER se je izbrisal datum iz AHL sheme. Datum:2022-03-05
+Sodniku WIDMANN se je izbrisal datum iz AHL sheme. Datum:2022-03-05
+[Thu Mar 03 2022 19:24:03 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikHEAD uspesno dodan 
+Sodniku HEAD se je izbrisal datum iz AHL sheme. Datum:2022-03-05
+Sodniku CRISTELI se je izbrisal datum iz AHL sheme. Datum:2022-03-05
+Sodniku CRISTELI se je izbrisal datum iz AHL sheme. Datum:2022-03-05
+Sodniku REZEK se je izbrisal datum iz AHL sheme. Datum:2022-03-05
+Sodniku BERGANT se je izbrisal datum iz AHL sheme. Datum:2022-03-05
+Sodniku LOICHT se je izbrisal datum iz AHL sheme. Datum:2022-03-05
+Sodniku LEGAT se je izbrisal datum iz AHL sheme. Datum:2022-03-05
+[Sun Mar 06 2022 20:38:49 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-03-08
+[Sun Mar 06 2022 20:38:49 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-03-08
+[Sun Mar 06 2022 20:38:49 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-03-08
+[Sun Mar 06 2022 20:38:49 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-03-08
+[Sun Mar 06 2022 20:38:49 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-03-10
+[Sun Mar 06 2022 20:38:49 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-03-10
+[Sun Mar 06 2022 20:38:49 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-03-10
+[Sun Mar 06 2022 20:38:49 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-03-10
+Sodniku BENVEGNU se je izbrisal datum iz AHL sheme. Datum:2022-03-08
+Sodniku BENVEGNU se je izbrisal datum iz AHL sheme. Datum:2022-03-08
+[Tue Mar 08 2022 23:33:12 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-03-12
+[Tue Mar 08 2022 23:33:12 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-03-12
+[Tue Mar 08 2022 23:33:12 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-03-12
+[Tue Mar 08 2022 23:33:12 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-03-12
+Sodniku MOIDL se je izbrisal datum iz AHL sheme. Datum:2022-03-10
+Sodniku VOICAN se je izbrisal datum iz AHL sheme. Datum:2022-03-12
+Sodniku MANTOVANI se je izbrisal datum iz AHL sheme. Datum:2022-03-12
+Sodniku FLEISCHMANN se je izbrisal datum iz AHL sheme. Datum:2022-03-12
+Sodniku MOSCHEN se je izbrisal datum iz AHL sheme. Datum:2022-03-12
+Sodniku VIRTA se je izbrisal datum iz AHL sheme. Datum:2022-03-12
+Sodniku WEISS se je izbrisal datum iz AHL sheme. Datum:2022-03-12
+Sodniku KAINBERGER se je izbrisal datum iz AHL sheme. Datum:2022-03-12
+Sodniku HUBER se je izbrisal datum iz AHL sheme. Datum:2022-03-12
+Sodniku WIMMLER se je izbrisal datum iz AHL sheme. Datum:2022-03-12
+Sodniku HLAVATY se je izbrisal datum iz AHL sheme. Datum:2022-03-12
+Sodniku HOLZER se je izbrisal datum iz AHL sheme. Datum:2022-03-12
+Sodniku EISL se je izbrisal datum iz AHL sheme. Datum:2022-03-12
+Sodniku LAZZERI se je izbrisal datum iz AHL sheme. Datum:2022-03-12
+[Sun Mar 13 2022 07:30:53 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-03-15
+[Sun Mar 13 2022 07:30:53 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-03-15
+[Sun Mar 13 2022 07:30:53 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-03-15
+[Sun Mar 13 2022 07:30:53 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-03-15
+[Mon Mar 14 2022 20:17:23 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-03-17
+[Mon Mar 14 2022 20:17:23 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-03-17
+[Mon Mar 14 2022 20:17:23 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-03-17
+[Mon Mar 14 2022 20:17:23 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-03-17
+[Mon Mar 14 2022 20:17:23 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-03-19
+[Mon Mar 14 2022 20:17:23 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-03-19
+[Mon Mar 14 2022 20:17:23 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-03-19
+[Mon Mar 14 2022 20:17:23 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-03-19
+Sodniku EISL se je izbrisal datum iz AHL sheme. Datum:2022-03-19
+Sodniku EISL se je izbrisal datum iz AHL sheme. Datum:2022-03-19
+[Thu Mar 17 2022 22:33:37 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-03-22
+[Thu Mar 17 2022 22:33:37 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-03-22
+[Thu Mar 17 2022 22:33:37 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-03-22
+[Thu Mar 17 2022 22:33:37 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-03-22
+Sodniku RUETZ se je izbrisal datum iz AHL sheme. Datum:2022-03-22
+Sodniku HUBER se je izbrisal datum iz AHL sheme. Datum:2022-03-22
+Sodniku FLEISCHMANN se je izbrisal datum iz AHL sheme. Datum:2022-03-22
+Sodniku DE ZORDO se je izbrisal datum iz AHL sheme. Datum:2022-03-22
+[Sun Mar 20 2022 22:50:29 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-03-24
+[Sun Mar 20 2022 22:50:29 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-03-24
+[Sun Mar 20 2022 22:50:29 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-03-24
+Sodniku REZEK se je izbrisal datum iz AHL sheme. Datum:2022-03-22
+[Fri Mar 25 2022 10:18:34 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-03-26
+[Fri Mar 25 2022 10:18:34 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-03-26
+[Fri Mar 25 2022 22:08:46 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-03-29
+[Fri Mar 25 2022 22:08:46 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-03-29
+[Fri Mar 25 2022 22:08:46 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-03-31
+[Fri Mar 25 2022 22:08:46 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-03-31
+[Fri Mar 25 2022 22:09:10 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-03-29
+[Fri Mar 25 2022 22:09:10 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-03-29
+[Fri Mar 25 2022 22:09:10 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-03-31
+[Fri Mar 25 2022 22:09:10 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-03-31
+Sodniku MOSCHEN se je izbrisal datum iz AHL sheme. Datum:2022-03-26
+Sodniku DE ZORDO se je izbrisal datum iz AHL sheme. Datum:2022-03-26
+Sodniku MOIDL se je izbrisal datum iz AHL sheme. Datum:2022-03-26
+Sodniku SCHAUER se je izbrisal datum iz AHL sheme. Datum:2022-03-26
+Sodniku BAJT se je izbrisal datum iz AHL sheme. Datum:2022-03-31
+Sodniku ARLIC se je izbrisal datum iz AHL sheme. Datum:2022-03-31
+Sodniku LAZZERI se je izbrisal datum iz AHL sheme. Datum:2022-03-31
+Sodniku EISL se je izbrisal datum iz AHL sheme. Datum:2022-03-31
+[Wed Mar 30 2022 17:42:10 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-03-31
+[Wed Mar 30 2022 20:57:42 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-04-02
+[Wed Mar 30 2022 20:57:42 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-04-02
+[Sat Apr 02 2022 11:10:50 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-04-05
+[Sat Apr 02 2022 11:10:50 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-04-05
+[Sun Apr 03 2022 11:42:29 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-04-09
+[Sun Apr 03 2022 11:42:29 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-04-12
+[Sun Apr 03 2022 11:42:29 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-04-14
+[Fri Apr 15 2022 05:13:52 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-04-16
+[Sun Apr 17 2022 15:24:17 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-04-19
