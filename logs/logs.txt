@@ -1,0 +1,4 @@
+[Thu Sep 08 2022 19:15:24 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SCHWEIGHOFER uspesno zamenjal PUFF Lokacija: Eishalle Jesenice, Datum: 2022-09-30
+[Thu Sep 08 2022 19:15:24 GMT+0200 (Srednjeevropski poletni čas)] Sodnik TELESKLAV uspesno zamenjal SCHWEIGHOFER Lokacija: Eishalle Jesenice, Datum: 2022-09-30
+[Thu Sep 08 2022 19:15:24 GMT+0200 (Srednjeevropski poletni čas)] Sodnik PUFF uspesno zamenjal PÖTSCHER Lokacija: Klagenfurter Stadthalle, Datum: 2022-10-01
+[Thu Sep 08 2022 19:15:24 GMT+0200 (Srednjeevropski poletni čas)] Sodnik PÖTSCHER uspesno zamenjal TELESKLAV Lokacija: Klagenfurter Stadthalle, Datum: 2022-10-01

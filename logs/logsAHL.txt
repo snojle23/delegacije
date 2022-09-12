@@ -100,3 +100,5 @@
 [Thu Sep 08 2022 11:57:10 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikTSCHREPITSCH uspesno dodan 
 [Thu Sep 08 2022 11:57:10 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikKANYO uspesno dodan 
 [Thu Sep 08 2022 11:57:10 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikJAVORNIK uspesno dodan 
+Sodniku PUFF se je izbrisal datum iz AHL sheme. Datum:2022-09-30
+Sodniku TELESKLAV se je izbrisal datum iz AHL sheme. Datum:2022-10-01

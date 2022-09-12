@@ -44,7 +44,9 @@ function scheduledFunction(){
             "snoj": "tadej.snoj@gmail.com",
             "bajt": "miha.bajt@gmail.com",
             "miklic": "gregor.miklic.sp@gmail.com",
-            "rezek": "gregor.rezek@gmail.com"
+            "rezek": "gregor.rezek@gmail.com",
+            "hribar": "matjazh2@gmail.com",
+            "zrnic": "milan_zrnic@hotmail.com"
         }
         arrayForMail.forEach(i => {
             const tekme = JSON.stringify(i.tekme);
@@ -67,7 +69,7 @@ function scheduledFunction(){
             }
         });
         counter++;
-     }, 1 * 15 * 60 * 1000); // 1 hour = 1 * 60 * 60 * 1000
+     }, 1 * 15 * 30 * 1000); // 1 hour = 1 * 60 * 60 * 1000
 }
 
 function sleep(ms) {
