@@ -2,3 +2,14 @@
 [Thu Sep 08 2022 19:15:24 GMT+0200 (Srednjeevropski poletni čas)] Sodnik TELESKLAV uspesno zamenjal SCHWEIGHOFER Lokacija: Eishalle Jesenice, Datum: 2022-09-30
 [Thu Sep 08 2022 19:15:24 GMT+0200 (Srednjeevropski poletni čas)] Sodnik PUFF uspesno zamenjal PÖTSCHER Lokacija: Klagenfurter Stadthalle, Datum: 2022-10-01
 [Thu Sep 08 2022 19:15:24 GMT+0200 (Srednjeevropski poletni čas)] Sodnik PÖTSCHER uspesno zamenjal TELESKLAV Lokacija: Klagenfurter Stadthalle, Datum: 2022-10-01
+[Tue Sep 13 2022 21:02:57 GMT+0200 (Srednjeevropski poletni čas)] Sodnik DIEBER uspesno zamenjal LEGAT Lokacija: Linz AG Eisarena, Datum: 2022-09-17
+[Wed Sep 14 2022 14:18:01 GMT+0200 (Srednjeevropski poletni čas)] Sodnik STEFENELLI uspesno zamenjal PINIE Lokacija: Eishalle Meran, Datum: 2022-09-24
+[Thu Sep 15 2022 19:26:02 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SNOJ uspesno zamenjal ZGONC Lokacija: Eisarena Salzburg, Datum: 2022-09-17
+[Thu Sep 15 2022 19:26:02 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SNOJ uspesno zamenjal ZGONC Lokacija: Tiroler Wasserkraft Arena, Datum: 2022-09-16
+[Fri Sep 16 2022 13:14:13 GMT+0200 (Srednjeevropski poletni čas)] Sodnik PUFF uspesno zamenjal PARDATSCHER Lokacija: Eishalle Bruneck, Datum: 2022-09-16
+[Sat Sep 17 2022 13:29:20 GMT+0200 (Srednjeevropski poletni čas)] Sodnik FLEISCHMANN uspesno zamenjal MANTOVANI Lokacija: Würtharena Neumarkt, Datum: 2022-09-17
+[Sat Sep 17 2022 19:37:11 GMT+0200 (Srednjeevropski poletni čas)] Sodnik GIACOMOZZI uspesno zamenjal MOSCHEN Lokacija: Eishalle Ritten, Datum: 2022-09-22
+[Sat Sep 17 2022 19:37:11 GMT+0200 (Srednjeevropski poletni čas)] Sodnik PINIE uspesno zamenjal MOSCHEN Lokacija: Eishalle Dornbirn, Datum: 2022-09-24
+[Sun Sep 18 2022 09:29:40 GMT+0200 (Srednjeevropski poletni čas)] Sodnik PINIE uspesno zamenjal GIACOMOZZI Lokacija: Eishalle Ritten, Datum: 2022-09-22
+[Sun Sep 18 2022 09:29:40 GMT+0200 (Srednjeevropski poletni čas)] Sodnik GIACOMOZZI uspesno zamenjal HOLZER Lokacija: Eishalle Dornbirn, Datum: 2022-09-24
+[Sun Sep 18 2022 09:29:40 GMT+0200 (Srednjeevropski poletni čas)] Sodnik HOLZER uspesno zamenjal PINIE Lokacija: Eishalle Dornbirn, Datum: 2022-09-24
