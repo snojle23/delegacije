@@ -13,3 +13,8 @@
 [Sun Sep 18 2022 09:29:40 GMT+0200 (Srednjeevropski poletni čas)] Sodnik PINIE uspesno zamenjal GIACOMOZZI Lokacija: Eishalle Ritten, Datum: 2022-09-22
 [Sun Sep 18 2022 09:29:40 GMT+0200 (Srednjeevropski poletni čas)] Sodnik GIACOMOZZI uspesno zamenjal HOLZER Lokacija: Eishalle Dornbirn, Datum: 2022-09-24
 [Sun Sep 18 2022 09:29:40 GMT+0200 (Srednjeevropski poletni čas)] Sodnik HOLZER uspesno zamenjal PINIE Lokacija: Eishalle Dornbirn, Datum: 2022-09-24
+[Mon Sep 19 2022 18:03:19 GMT+0200 (Srednjeevropski poletni čas)] Sodnik BRONDI uspesno zamenjal BASSO Lokacija: Eishalle Ritten, Datum: 2022-09-22
+[Mon Sep 19 2022 18:03:19 GMT+0200 (Srednjeevropski poletni čas)] Sodnik PACE uspesno zamenjal BRONDI Lokacija: Eishalle Ritten, Datum: 2022-09-22
+[Tue Sep 20 2022 08:55:49 GMT+0200 (Srednjeevropski poletni čas)] Sodnik BASSO uspesno zamenjal CRISTELI Lokacija: Eishalle Meran, Datum: 2022-09-24
+[Tue Sep 20 2022 08:55:49 GMT+0200 (Srednjeevropski poletni čas)] Sodnik BRONDI uspesno zamenjal BASSO Lokacija: Eishalle Cortina, Datum: 2022-09-24
+[Tue Sep 20 2022 08:55:49 GMT+0200 (Srednjeevropski poletni čas)] Sodnik CRISTELI uspesno zamenjal BRONDI Lokacija: Eishalle Cortina, Datum: 2022-09-24
