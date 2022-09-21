@@ -276,3 +276,4 @@ Sodniku PARDATSCHER se je izbrisal datum iz ICEHL sheme. Datum:2022-09-16
 [Mon Sep 19 2022 09:59:01 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikHLAVATY uspesno dodan 
 [Mon Sep 19 2022 09:59:01 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikBAJT uspesno dodan 
 [Mon Sep 19 2022 09:59:01 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikVOICAN uspesno dodan 
+[Wed Sep 21 2022 08:33:25 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-16

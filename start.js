@@ -45,9 +45,10 @@ function scheduledFunction() {
             "bajt": "miha.bajt@gmail.com",
             "miklic": "gregor.miklic.sp@gmail.com",
             "rezek": "gregor.rezek@gmail.com",
-            "hribar": "matjazh2@gmail.com",
+            "hribar": "matjazhribar@hotmail.com",
             "zrnic": "milan_zrnic@hotmail.com",
-            "trilar": "viki@hokej.si"
+            "trilar": "viki@hokej.si",
+            "zgonc": "jaka.zgonc@gmail.com"
         }
         arrayForMail.forEach(i => {
             const tekme = JSON.stringify(i.tekme);
