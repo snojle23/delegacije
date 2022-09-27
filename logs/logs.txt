@@ -18,3 +18,27 @@
 [Tue Sep 20 2022 08:55:49 GMT+0200 (Srednjeevropski poletni čas)] Sodnik BASSO uspesno zamenjal CRISTELI Lokacija: Eishalle Meran, Datum: 2022-09-24
 [Tue Sep 20 2022 08:55:49 GMT+0200 (Srednjeevropski poletni čas)] Sodnik BRONDI uspesno zamenjal BASSO Lokacija: Eishalle Cortina, Datum: 2022-09-24
 [Tue Sep 20 2022 08:55:49 GMT+0200 (Srednjeevropski poletni čas)] Sodnik CRISTELI uspesno zamenjal BRONDI Lokacija: Eishalle Cortina, Datum: 2022-09-24
+[Wed Sep 21 2022 12:41:17 GMT+0200 (Srednjeevropski poletni čas)] Sodnik GATOL-SCHAFRANEK uspesno zamenjal GATOL Lokacija: Stadthalle Villach, Datum: 2022-09-22
+[Wed Sep 21 2022 12:41:17 GMT+0200 (Srednjeevropski poletni čas)] Sodnik GATOL-SCHAFRANEK uspesno zamenjal GATOL Lokacija: Merkur Eisstadion Graz, Datum: 2022-09-30
+[Wed Sep 21 2022 12:41:17 GMT+0200 (Srednjeevropski poletni čas)] Sodnik GATOL-SCHAFRANEK uspesno zamenjal GATOL Lokacija: Gabor Ocskay Eisarena, Datum: 2022-09-26
+[Wed Sep 21 2022 12:41:17 GMT+0200 (Srednjeevropski poletni čas)] Sodnik GATOL-SCHAFRANEK uspesno zamenjal GATOL Lokacija: Eishalle KagranEins, Datum: 2022-10-07
+[Wed Sep 21 2022 12:41:17 GMT+0200 (Srednjeevropski poletni čas)] Sodnik GATOL-SCHAFRANEK uspesno zamenjal GATOL Lokacija: Stadthalle Villach, Datum: 2022-10-14
+[Wed Sep 21 2022 12:41:17 GMT+0200 (Srednjeevropski poletni čas)] Sodnik GATOL-SCHAFRANEK uspesno zamenjal GATOL Lokacija: Linz AG Eisarena, Datum: 2022-10-26
+[Wed Sep 21 2022 12:41:17 GMT+0200 (Srednjeevropski poletni čas)] Sodnik GATOL-SCHAFRANEK uspesno zamenjal GATOL Lokacija: Eisarena Salzburg, Datum: 2022-11-01
+[Wed Sep 21 2022 12:41:17 GMT+0200 (Srednjeevropski poletni čas)] Sodnik GATOL-SCHAFRANEK uspesno zamenjal GATOL Lokacija: Merkur Eisstadion Graz, Datum: 2022-11-06
+[Wed Sep 21 2022 13:41:17 GMT+0200 (Srednjeevropski poletni čas)] Sodnik MARTIN uspesno zamenjal MANTOVANI Lokacija: Tiroler Wasserkraft Arena, Datum: 2022-10-15
+[Wed Sep 21 2022 13:41:17 GMT+0200 (Srednjeevropski poletni čas)] Sodnik WIMMLER uspesno zamenjal MARTIN Lokacija: Tiroler Wasserkraft Arena, Datum: 2022-10-15
+[Mon Sep 26 2022 19:04:51 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SCHONAKLENER uspesno zamenjal PÖTSCHER Lokacija: Linz AG Eisarena, Datum: 2022-09-29
+[Mon Sep 26 2022 19:04:51 GMT+0200 (Srednjeevropski poletni čas)] Sodnik WUCHERER uspesno zamenjal SCHONAKLENER Lokacija: Linz AG Eisarena, Datum: 2022-09-29
+[Mon Sep 26 2022 19:04:51 GMT+0200 (Srednjeevropski poletni čas)] Sodnik LEGA uspesno zamenjal MOSCHEN Lokacija: Eishalle Meran, Datum: 2022-09-29
+[Mon Sep 26 2022 19:04:51 GMT+0200 (Srednjeevropski poletni čas)] Sodnik KAINBERGER uspesno zamenjal LEGA Lokacija: Würtharena Neumarkt, Datum: 2022-09-29
+[Mon Sep 26 2022 19:04:51 GMT+0200 (Srednjeevropski poletni čas)] Sodnik HUBER uspesno zamenjal RIGONI Lokacija: Würtharena Neumarkt, Datum: 2022-09-29
+[Mon Sep 26 2022 19:04:51 GMT+0200 (Srednjeevropski poletni čas)] Sodnik LAZZERI uspesno zamenjal MOSCHEN Lokacija: Eishalle Gröden, Datum: 2022-10-01
+[Mon Sep 26 2022 19:04:51 GMT+0200 (Srednjeevropski poletni čas)] Sodnik HUBER uspesno zamenjal MILOVANOVIC Lokacija: Eishalle Zell am See, Datum: 2022-10-01
+[Mon Sep 26 2022 19:04:51 GMT+0200 (Srednjeevropski poletni čas)] Sodnik MILOVANOVIC uspesno zamenjal WIDMANN Lokacija: Eishalle Zell am See, Datum: 2022-10-01
+[Mon Sep 26 2022 19:04:51 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SIEGEL uspesno zamenjal HRONSKY Lokacija: Gabor Ocskay Eisarena, Datum: 2022-09-26
+[Mon Sep 26 2022 19:04:51 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SOOS uspesno zamenjal SIEGEL Lokacija: Gabor Ocskay Eisarena, Datum: 2022-09-26
+[Mon Sep 26 2022 20:27:20 GMT+0200 (Srednjeevropski poletni čas)] Sodnik DIEBER uspesno zamenjal LEGAT Lokacija: Linz AG Eisarena, Datum: 2022-10-01
+[Mon Sep 26 2022 21:34:50 GMT+0200 (Srednjeevropski poletni čas)] Sodnik RINKER uspesno zamenjal HUBER Lokacija: Eishalle Meran, Datum: 2022-10-06
+[Mon Sep 26 2022 21:34:50 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SEEWALD uspesno zamenjal RINKER Lokacija: Eisarena Salzburg, Datum: 2022-10-08
+[Mon Sep 26 2022 21:34:50 GMT+0200 (Srednjeevropski poletni čas)] Sodnik HUBER uspesno zamenjal SEEWALD Lokacija: Sportpark Kitzbühel, Datum: 2022-10-08

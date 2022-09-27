@@ -117,3 +117,25 @@ Sodniku MOSCHEN se je izbrisal datum iz AHL sheme. Datum:2022-09-24
 Sodniku GIACOMOZZI se je izbrisal datum iz AHL sheme. Datum:2022-09-22
 Sodniku PINIE se je izbrisal datum iz AHL sheme. Datum:2022-09-24
 Sodniku BASSO se je izbrisal datum iz AHL sheme. Datum:2022-09-22
+[Mon Sep 26 2022 19:04:51 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-06
+[Mon Sep 26 2022 19:04:51 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-06
+[Mon Sep 26 2022 19:04:51 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-06
+[Mon Sep 26 2022 19:04:51 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-06
+[Mon Sep 26 2022 19:04:51 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-06
+[Mon Sep 26 2022 19:04:51 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-06
+[Mon Sep 26 2022 19:04:51 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-08
+[Mon Sep 26 2022 19:04:51 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-08
+[Mon Sep 26 2022 19:04:51 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-08
+[Mon Sep 26 2022 19:04:51 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-08
+[Mon Sep 26 2022 19:04:51 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-08
+[Mon Sep 26 2022 19:04:51 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-08
+[Mon Sep 26 2022 19:04:51 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-08
+Sodniku MOSCHEN se je izbrisal datum iz AHL sheme. Datum:2022-09-29
+Sodniku RIGONI se je izbrisal datum iz AHL sheme. Datum:2022-09-29
+Sodniku PÖTSCHER se je izbrisal datum iz AHL sheme. Datum:2022-09-29
+Sodniku MOSCHEN se je izbrisal datum iz AHL sheme. Datum:2022-10-01
+Sodniku WIDMANN se je izbrisal datum iz AHL sheme. Datum:2022-10-01
+[Mon Sep 26 2022 19:04:51 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikSORAPERRA uspesno dodan 
+Sodniku LEGAT se je izbrisal datum iz AHL sheme. Datum:2022-10-01
+Sodniku HUBER se je izbrisal datum iz AHL sheme. Datum:2022-10-06
+Sodniku RINKER se je izbrisal datum iz AHL sheme. Datum:2022-10-08
