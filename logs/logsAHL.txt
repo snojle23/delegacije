@@ -139,3 +139,55 @@ Sodniku WIDMANN se je izbrisal datum iz AHL sheme. Datum:2022-10-01
 Sodniku LEGAT se je izbrisal datum iz AHL sheme. Datum:2022-10-01
 Sodniku HUBER se je izbrisal datum iz AHL sheme. Datum:2022-10-06
 Sodniku RINKER se je izbrisal datum iz AHL sheme. Datum:2022-10-08
+[Tue Sep 27 2022 10:26:20 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-05
+[Sat Oct 01 2022 15:40:34 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-11
+[Sat Oct 01 2022 15:40:34 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-12
+[Sat Oct 01 2022 15:40:34 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-13
+[Sat Oct 01 2022 15:40:34 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-13
+[Sat Oct 01 2022 15:40:34 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-13
+[Sat Oct 01 2022 15:40:34 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-13
+[Sat Oct 01 2022 15:40:34 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-13
+[Sat Oct 01 2022 15:40:34 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-15
+[Sat Oct 01 2022 15:40:34 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-15
+[Sat Oct 01 2022 15:40:34 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-15
+[Sat Oct 01 2022 15:40:34 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-15
+[Sat Oct 01 2022 15:40:34 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-15
+[Sat Oct 01 2022 15:40:34 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-15
+[Sat Oct 01 2022 15:40:34 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-16
+[Sat Oct 01 2022 15:40:34 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikREISINGER uspesno dodan 
+[Sat Oct 01 2022 15:40:34 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikSNOJ uspesno dodan 
+[Sat Oct 01 2022 16:40:34 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-18
+[Sat Oct 01 2022 16:40:34 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-19
+[Sat Oct 01 2022 16:40:34 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-20
+[Sat Oct 01 2022 16:40:34 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-20
+[Sat Oct 01 2022 16:40:34 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-20
+[Sat Oct 01 2022 16:40:34 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-20
+[Sat Oct 01 2022 16:40:34 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-20
+[Sat Oct 01 2022 16:40:34 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-21
+[Sat Oct 01 2022 16:40:34 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-22
+[Sat Oct 01 2022 16:40:34 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-22
+[Sat Oct 01 2022 16:40:34 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-22
+[Sat Oct 01 2022 16:40:34 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-22
+[Sat Oct 01 2022 16:40:34 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-22
+[Sat Oct 01 2022 16:40:34 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-22
+[Sat Oct 01 2022 16:40:34 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-22
+Sodniku PINIE se je izbrisal datum iz AHL sheme. Datum:2022-10-13
+Sodniku SEEWALD se je izbrisal datum iz AHL sheme. Datum:2022-10-22
+Sodniku HLAVATY se je izbrisal datum iz AHL sheme. Datum:2022-10-22
+Sodniku VOICAN se je izbrisal datum iz AHL sheme. Datum:2022-10-22
+Sodniku LEHNER se je izbrisal datum iz AHL sheme. Datum:2022-10-22
+[Sun Oct 02 2022 14:18:38 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-22
+[Sun Oct 02 2022 14:18:38 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-25
+[Sun Oct 02 2022 14:18:38 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-26
+[Sun Oct 02 2022 14:18:38 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-26
+[Sun Oct 02 2022 14:18:38 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-26
+[Sun Oct 02 2022 14:18:38 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-26
+[Sun Oct 02 2022 14:18:38 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-26
+[Sun Oct 02 2022 14:18:38 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-26
+[Sun Oct 02 2022 14:18:38 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-29
+[Sun Oct 02 2022 14:18:38 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-29
+[Sun Oct 02 2022 14:18:38 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-29
+[Sun Oct 02 2022 14:18:38 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-29
+[Sun Oct 02 2022 14:18:38 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-29
+[Sun Oct 02 2022 14:18:38 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-29
+[Sun Oct 02 2022 14:18:38 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-29
