@@ -52,3 +52,10 @@
 [Fri Sep 30 2022 13:01:57 GMT+0200 (Srednjeevropski poletni čas)] Sodnik OFNER uspesno zamenjal NIKOLIC Lokacija: Eishalle Feldkirch, Datum: 2022-10-14
 [Fri Sep 30 2022 13:01:57 GMT+0200 (Srednjeevropski poletni čas)] Sodnik NIKOLIC uspesno zamenjal OFNER Lokacija: Tiroler Wasserkraft Arena, Datum: 2022-10-15
 [Sat Oct 01 2022 21:10:58 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SORAPERRA uspesno zamenjal PINIE Lokacija: Eishalle Lustenau, Datum: 2022-10-13
+[Tue Oct 04 2022 09:11:42 GMT+0200 (Srednjeevropski poletni čas)] Sodnik WUCHERER uspesno zamenjal PUFF Lokacija: Eishalle Zell am See, Datum: 2022-10-08
+[Tue Oct 04 2022 09:11:42 GMT+0200 (Srednjeevropski poletni čas)] Sodnik PUFF uspesno zamenjal TELESKLAV Lokacija: Eishalle Meran, Datum: 2022-10-15
+[Tue Oct 04 2022 09:11:42 GMT+0200 (Srednjeevropski poletni čas)] Sodnik TELESKLAV uspesno zamenjal WUCHERER Lokacija: Eishalle Meran, Datum: 2022-10-15
+[Tue Oct 04 2022 13:26:42 GMT+0200 (Srednjeevropski poletni čas)] Sodnik REZEK uspesno zamenjal LEHNER Lokacija: Eishalle Jesenice, Datum: 2022-10-06
+[Tue Oct 04 2022 13:26:42 GMT+0200 (Srednjeevropski poletni čas)] Sodnik JAVORNIK uspesno zamenjal MOIDL Lokacija: Eishalle Jesenice, Datum: 2022-10-06
+[Tue Oct 04 2022 13:26:42 GMT+0200 (Srednjeevropski poletni čas)] Sodnik WUNTSCHEK uspesno zamenjal KUMMER Lokacija: Linz AG Eisarena, Datum: 2022-10-08
+[Tue Oct 04 2022 14:34:12 GMT+0200 (Srednjeevropski poletni čas)] Sodnik REZEK uspesno zamenjal KUMMER Lokacija: Klagenfurter Stadthalle, Datum: 2022-10-13

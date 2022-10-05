@@ -191,3 +191,9 @@ Sodniku LEHNER se je izbrisal datum iz AHL sheme. Datum:2022-10-22
 [Sun Oct 02 2022 14:18:38 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-29
 [Sun Oct 02 2022 14:18:38 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-29
 [Sun Oct 02 2022 14:18:38 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-29
+Sodniku PUFF se je izbrisal datum iz AHL sheme. Datum:2022-10-08
+Sodniku WUCHERER se je izbrisal datum iz AHL sheme. Datum:2022-10-15
+Sodniku MOIDL se je izbrisal datum iz AHL sheme. Datum:2022-10-06
+Sodniku LEHNER se je izbrisal datum iz AHL sheme. Datum:2022-10-06
+Sodniku KUMMER se je izbrisal datum iz AHL sheme. Datum:2022-10-08
+Sodniku KUMMER se je izbrisal datum iz AHL sheme. Datum:2022-10-13
