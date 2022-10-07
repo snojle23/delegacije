@@ -197,3 +197,8 @@ Sodniku MOIDL se je izbrisal datum iz AHL sheme. Datum:2022-10-06
 Sodniku LEHNER se je izbrisal datum iz AHL sheme. Datum:2022-10-06
 Sodniku KUMMER se je izbrisal datum iz AHL sheme. Datum:2022-10-08
 Sodniku KUMMER se je izbrisal datum iz AHL sheme. Datum:2022-10-13
+Sodniku RIGONI se je izbrisal datum iz AHL sheme. Datum:2022-10-08
+Sodniku REZEK se je izbrisal datum iz AHL sheme. Datum:2022-10-11
+Sodniku PINIE se je izbrisal datum iz AHL sheme. Datum:2022-10-18
+Sodniku LEGA se je izbrisal datum iz AHL sheme. Datum:2022-10-20
+Sodniku CRISTELI se je izbrisal datum iz AHL sheme. Datum:2022-10-08
