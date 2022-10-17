@@ -382,3 +382,55 @@ Sodniku KONC se je izbrisal datum iz ICEHL sheme. Datum:2022-10-16
 Sodniku KONC se je izbrisal datum iz ICEHL sheme. Datum:2022-10-16
 Sodniku HLAVATY se je izbrisal datum iz ICEHL sheme. Datum:2022-10-16
 Sodniku HLAVATY se je izbrisal datum iz ICEHL sheme. Datum:2022-10-16
+Sodniku BERNEKER se je izbrisal datum iz ICEHL sheme. Datum:2022-10-21
+Sodniku SEEWALD se je izbrisal datum iz ICEHL sheme. Datum:2022-10-21
+Sodniku WIMMLER se je izbrisal datum iz ICEHL sheme. Datum:2022-10-21
+Sodniku SCHAUER se je izbrisal datum iz ICEHL sheme. Datum:2022-10-21
+[Sun Oct 16 2022 11:24:39 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikBENVEGNU uspesno dodan 
+[Sun Oct 16 2022 11:24:39 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikSORAPERRA uspesno dodan 
+[Sun Oct 16 2022 11:24:39 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikFLEISCHMANN uspesno dodan 
+Sodniku OFNER se je izbrisal datum iz ICEHL sheme. Datum:2022-10-26
+Sodniku SPARER se je izbrisal datum iz ICEHL sheme. Datum:2022-10-26
+Sodniku SCHAUER se je izbrisal datum iz ICEHL sheme. Datum:2022-10-26
+[Sun Oct 16 2022 11:24:39 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikEGGER uspesno dodan 
+[Sun Oct 16 2022 11:24:39 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikMOSCHEN uspesno dodan 
+Sodniku STERNAT se je izbrisal datum iz ICEHL sheme. Datum:2022-10-23
+Sodniku OFNER se je izbrisal datum iz ICEHL sheme. Datum:2022-10-23
+[Sun Oct 16 2022 11:24:39 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikLAZZERI uspesno dodan 
+[Sun Oct 16 2022 11:24:39 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikLEGA uspesno dodan 
+Sodniku BERNEKER se je izbrisal datum iz ICEHL sheme. Datum:2022-10-28
+Sodniku PIRAGIC se je izbrisal datum iz ICEHL sheme. Datum:2022-10-28
+Sodniku MARTIN se je izbrisal datum iz ICEHL sheme. Datum:2022-10-28
+[Sun Oct 16 2022 11:24:39 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikCRISTELI uspesno dodan 
+Sodniku NIKOLIC se je izbrisal datum iz ICEHL sheme. Datum:2022-10-30
+Sodniku NIKOLIC se je izbrisal datum iz ICEHL sheme. Datum:2022-10-30
+Sodniku SPARER se je izbrisal datum iz ICEHL sheme. Datum:2022-10-30
+[Sun Oct 16 2022 11:24:39 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikPINIE uspesno dodan 
+Sodniku ZGONC se je izbrisal datum iz ICEHL sheme. Datum:2022-11-01
+Sodniku ZRNIC se je izbrisal datum iz ICEHL sheme. Datum:2022-11-01
+Sodniku REZEK se je izbrisal datum iz ICEHL sheme. Datum:2022-11-01
+[Sun Oct 16 2022 11:24:39 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikGIACOMOZZI uspesno dodan 
+[Sun Oct 16 2022 11:24:39 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikSTEFENELLI uspesno dodan 
+[Sun Oct 16 2022 11:24:39 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikBEDANA uspesno dodan 
+Sodniku BERNEKER se je izbrisal datum iz ICEHL sheme. Datum:2022-11-06
+Sodniku PIRAGIC se je izbrisal datum iz ICEHL sheme. Datum:2022-11-06
+Sodniku MARTIN se je izbrisal datum iz ICEHL sheme. Datum:2022-11-06
+Sodniku BASSO se je izbrisal datum iz ICEHL sheme. Datum:2022-11-06
+Sodniku RIGONI se je izbrisal datum iz ICEHL sheme. Datum:2022-11-06
+Sodniku STERNAT se je izbrisal datum iz ICEHL sheme. Datum:2022-11-06
+Sodniku OFNER se je izbrisal datum iz ICEHL sheme. Datum:2022-11-06
+Sodniku MANTOVANI se je izbrisal datum iz ICEHL sheme. Datum:2022-11-06
+Sodniku LINESMAN se je izbrisal datum iz ICEHL sheme. Datum:2022-10-26
+Sodniku MOSCHEN se je izbrisal datum iz ICEHL sheme. Datum:2022-10-26
+[Sun Oct 16 2022 12:32:09 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikunknown uspesno dodan 
+Sodniku STEFENELLI se je izbrisal datum iz ICEHL sheme. Datum:2022-10-26
+Sodniku unknown se je izbrisal datum iz ICEHL sheme. Datum:2022-10-26
+[Sun Oct 16 2022 16:47:09 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-11-06
+[Sun Oct 16 2022 16:47:09 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-11-06
+[Sun Oct 16 2022 16:47:09 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikPACE uspesno dodan 
+Sodniku NIKOLIC se je izbrisal datum iz ICEHL sheme. Datum:2022-11-04
+Sodniku WIMMLER se je izbrisal datum iz ICEHL sheme. Datum:2022-11-04
+Sodniku GROZNIK se je izbrisal datum iz ICEHL sheme. Datum:2022-11-04
+Sodniku MIKLIC se je izbrisal datum iz ICEHL sheme. Datum:2022-11-04
+[Sun Oct 16 2022 17:47:09 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-11-04
+[Sun Oct 16 2022 17:47:09 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikBRONDI uspesno dodan 

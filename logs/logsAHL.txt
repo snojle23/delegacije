@@ -212,3 +212,6 @@ Sodniku JAVORNIK se je izbrisal datum iz AHL sheme. Datum:2022-10-13
 Sodniku DURCHNER se je izbrisal datum iz AHL sheme. Datum:2022-10-15
 Sodniku WUNTSCHEK se je izbrisal datum iz AHL sheme. Datum:2022-10-22
 Sodniku FAJDIGA se je izbrisal datum iz AHL sheme. Datum:2022-10-29
+Sodniku CRISTELI se je izbrisal datum iz AHL sheme. Datum:2022-10-26
+Sodniku LAZZERI se je izbrisal datum iz AHL sheme. Datum:2022-10-26
+[Sun Oct 16 2022 13:24:39 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikHESINA uspesno dodan 
