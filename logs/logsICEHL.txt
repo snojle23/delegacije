@@ -434,3 +434,40 @@ Sodniku GROZNIK se je izbrisal datum iz ICEHL sheme. Datum:2022-11-04
 Sodniku MIKLIC se je izbrisal datum iz ICEHL sheme. Datum:2022-11-04
 [Sun Oct 16 2022 17:47:09 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-11-04
 [Sun Oct 16 2022 17:47:09 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikBRONDI uspesno dodan 
+Sodniku RIGONI se je izbrisal datum iz ICEHL sheme. Datum:2022-10-21
+Sodniku MANTOVANI se je izbrisal datum iz ICEHL sheme. Datum:2022-10-21
+[Wed Oct 19 2022 14:01:18 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-10-26
+Sodniku DURMIS se je izbrisal datum iz ICEHL sheme. Datum:2022-10-26
+Sodniku DURMIS se je izbrisal datum iz ICEHL sheme. Datum:2022-10-26
+Sodniku FICHTNER se je izbrisal datum iz ICEHL sheme. Datum:2022-10-26
+Sodniku FICHTNER se je izbrisal datum iz ICEHL sheme. Datum:2022-10-26
+Sodniku KONC se je izbrisal datum iz ICEHL sheme. Datum:2022-10-26
+Sodniku KONC se je izbrisal datum iz ICEHL sheme. Datum:2022-10-26
+Sodniku HLAVATY se je izbrisal datum iz ICEHL sheme. Datum:2022-10-26
+Sodniku HLAVATY se je izbrisal datum iz ICEHL sheme. Datum:2022-10-26
+Sodniku SEEWALD se je izbrisal datum iz ICEHL sheme. Datum:2022-11-15
+Sodniku REZEK se je izbrisal datum iz ICEHL sheme. Datum:2022-11-15
+Sodniku LINESMAN se je izbrisal datum iz ICEHL sheme. Datum:2022-11-15
+[Tue Oct 25 2022 20:43:39 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikRINKER uspesno dodan 
+Sodniku HUBER se je izbrisal datum iz ICEHL sheme. Datum:2022-11-25
+Sodniku NIKOLIC se je izbrisal datum iz ICEHL sheme. Datum:2022-11-15
+Sodniku NIKOLIC se je izbrisal datum iz ICEHL sheme. Datum:2022-11-15
+Sodniku PARDATSCHER se je izbrisal datum iz ICEHL sheme. Datum:2022-11-15
+Sodniku SPARER se je izbrisal datum iz ICEHL sheme. Datum:2022-11-15
+Sodniku SCHAUER se je izbrisal datum iz ICEHL sheme. Datum:2022-11-15
+Sodniku NIKOLIC se je izbrisal datum iz ICEHL sheme. Datum:2022-11-27
+[Thu Oct 27 2022 14:10:41 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-11-15
+Sodniku RIGONI se je izbrisal datum iz ICEHL sheme. Datum:2022-11-20
+Sodniku SMETANA se je izbrisal datum iz ICEHL sheme. Datum:2022-11-20
+Sodniku RIECKEN se je izbrisal datum iz ICEHL sheme. Datum:2022-11-20
+Sodniku SCHAUER se je izbrisal datum iz ICEHL sheme. Datum:2022-11-20
+Sodniku SIEGEL se je izbrisal datum iz ICEHL sheme. Datum:2022-11-15
+Sodniku SIEGEL se je izbrisal datum iz ICEHL sheme. Datum:2022-11-15
+Sodniku DURMIS se je izbrisal datum iz ICEHL sheme. Datum:2022-11-15
+Sodniku DURMIS se je izbrisal datum iz ICEHL sheme. Datum:2022-11-15
+Sodniku FICHTNER se je izbrisal datum iz ICEHL sheme. Datum:2022-11-15
+Sodniku FICHTNER se je izbrisal datum iz ICEHL sheme. Datum:2022-11-15
+Sodniku KONC se je izbrisal datum iz ICEHL sheme. Datum:2022-11-15
+Sodniku KONC se je izbrisal datum iz ICEHL sheme. Datum:2022-11-15
+[Thu Oct 27 2022 19:33:10 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2022-11-20
+Sodniku LEGA se je izbrisal datum iz ICEHL sheme. Datum:2022-10-28
