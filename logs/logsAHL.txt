@@ -285,3 +285,12 @@ Sodniku JAVORNIK se je izbrisal datum iz AHL sheme. Datum:2022-11-01
 Sodniku PÖTSCHER se je izbrisal datum iz AHL sheme. Datum:2022-11-27
 Sodniku RINKER se je izbrisal datum iz AHL sheme. Datum:2022-11-29
 Sodniku JAVORNIK se je izbrisal datum iz AHL sheme. Datum:2022-10-29
+[Thu Nov 03 2022 17:38:47 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-11-29
+Sodniku SCHWEIGHOFER se je izbrisal datum iz AHL sheme. Datum:2022-11-17
+Sodniku BENVEGNU se je izbrisal datum iz AHL sheme. Datum:2022-11-19
+Sodniku MÜLLER se je izbrisal datum iz AHL sheme. Datum:2022-11-19
+Sodniku LAZZERI se je izbrisal datum iz AHL sheme. Datum:2022-11-19
+Sodniku TSCHREPITSCH se je izbrisal datum iz AHL sheme. Datum:2022-11-19
+Sodniku JERAM se je izbrisal datum iz AHL sheme. Datum:2022-11-29
+Sodniku HLAVATY se je izbrisal datum iz AHL sheme. Datum:2022-11-24
+Sodniku KUMMER se je izbrisal datum iz AHL sheme. Datum:2022-11-26

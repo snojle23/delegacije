@@ -152,3 +152,11 @@
 [Fri Oct 28 2022 11:33:19 GMT+0200 (Srednjeevropski poletni čas)] Sodnik PÖTSCHER uspesno zamenjal RINKER Lokacija: Eisarena Salzburg, Datum: 2022-11-29
 [Fri Oct 28 2022 12:33:42 GMT+0200 (Srednjeevropski poletni čas)] Sodnik PUFF uspesno zamenjal JAVORNIK Lokacija: Klagenfurter Stadthalle, Datum: 2022-10-29
 [Fri Oct 28 2022 15:11:13 GMT+0200 (Srednjeevropski poletni čas)] Sodnik NIKOLIC uspesno zamenjal LEGA Lokacija: Eiswelle Bozen, Datum: 2022-10-28
+[Fri Nov 04 2022 17:54:10 GMT+0100 (Srednjeevropski standardni čas)] Sodnik JERAM uspesno zamenjal SCHWEIGHOFER Lokacija: Eishalle Meran, Datum: 2022-11-17
+[Fri Nov 04 2022 17:54:10 GMT+0100 (Srednjeevropski standardni čas)] Sodnik KAINBERGER uspesno zamenjal BENVEGNU Lokacija: Eishalle Lustenau, Datum: 2022-11-19
+[Fri Nov 04 2022 17:54:10 GMT+0100 (Srednjeevropski standardni čas)] Sodnik RUETZ uspesno zamenjal LAZZERI Lokacija: Eishalle Lustenau, Datum: 2022-11-19
+[Fri Nov 04 2022 17:54:10 GMT+0100 (Srednjeevropski standardni čas)] Sodnik REISINGER uspesno zamenjal MÜLLER Lokacija: Eishalle Lustenau, Datum: 2022-11-19
+[Fri Nov 04 2022 17:54:10 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SEEWALD uspesno zamenjal TSCHREPITSCH Lokacija: Eishalle Lustenau, Datum: 2022-11-19
+[Fri Nov 04 2022 17:54:10 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SCHWEIGHOFER uspesno zamenjal JERAM Lokacija: Klagenfurter Stadthalle, Datum: 2022-11-29
+[Mon Nov 07 2022 15:25:21 GMT+0100 (Srednjeevropski standardni čas)] Sodnik KUMMER uspesno zamenjal HLAVATY Lokacija: Klagenfurter Stadthalle, Datum: 2022-11-24
+[Mon Nov 07 2022 15:25:21 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HLAVATY uspesno zamenjal KUMMER Lokacija: Eishalle Zell am See, Datum: 2022-11-26
