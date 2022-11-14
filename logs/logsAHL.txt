@@ -294,3 +294,6 @@ Sodniku TSCHREPITSCH se je izbrisal datum iz AHL sheme. Datum:2022-11-19
 Sodniku JERAM se je izbrisal datum iz AHL sheme. Datum:2022-11-29
 Sodniku HLAVATY se je izbrisal datum iz AHL sheme. Datum:2022-11-24
 Sodniku KUMMER se je izbrisal datum iz AHL sheme. Datum:2022-11-26
+[Wed Nov 09 2022 20:10:52 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-12-17
+Sodniku TSCHREPITSCH se je izbrisal datum iz AHL sheme. Datum:2022-11-16
+Sodniku LEHNER se je izbrisal datum iz AHL sheme. Datum:2022-12-17

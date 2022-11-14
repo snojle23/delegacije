@@ -160,3 +160,7 @@
 [Fri Nov 04 2022 17:54:10 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SCHWEIGHOFER uspesno zamenjal JERAM Lokacija: Klagenfurter Stadthalle, Datum: 2022-11-29
 [Mon Nov 07 2022 15:25:21 GMT+0100 (Srednjeevropski standardni čas)] Sodnik KUMMER uspesno zamenjal HLAVATY Lokacija: Klagenfurter Stadthalle, Datum: 2022-11-24
 [Mon Nov 07 2022 15:25:21 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HLAVATY uspesno zamenjal KUMMER Lokacija: Eishalle Zell am See, Datum: 2022-11-26
+[Wed Nov 09 2022 20:10:52 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SPIEGEL uspesno zamenjal TSCHREPITSCH Lokacija: Eishalle Dornbirn, Datum: 2022-11-16
+[Thu Nov 10 2022 11:25:51 GMT+0100 (Srednjeevropski standardni čas)] Sodnik STERNAT uspesno zamenjal REZEK Lokacija: Klagenfurter Stadthalle, Datum: 2022-12-11
+[Thu Nov 10 2022 19:55:59 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BRUNNER uspesno zamenjal LEGA Lokacija: Eishalle Dornbirn, Datum: 2022-12-17
+[Thu Nov 10 2022 19:55:59 GMT+0100 (Srednjeevropski standardni čas)] Sodnik LEGA uspesno zamenjal LEHNER Lokacija: Eishalle Dornbirn, Datum: 2022-12-17
