@@ -297,3 +297,52 @@ Sodniku KUMMER se je izbrisal datum iz AHL sheme. Datum:2022-11-26
 [Wed Nov 09 2022 20:10:52 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-12-17
 Sodniku TSCHREPITSCH se je izbrisal datum iz AHL sheme. Datum:2022-11-16
 Sodniku LEHNER se je izbrisal datum iz AHL sheme. Datum:2022-12-17
+Sodniku WIDMANN se je izbrisal datum iz AHL sheme. Datum:2022-11-17
+Sodniku OREL se je izbrisal datum iz AHL sheme. Datum:2022-11-26
+Sodniku SCHAUER se je izbrisal datum iz AHL sheme. Datum:2022-11-16
+Sodniku HLAVATY se je izbrisal datum iz AHL sheme. Datum:2022-11-26
+Sodniku HLAVATY se je izbrisal datum iz AHL sheme. Datum:2022-11-29
+[Wed Nov 16 2022 19:11:31 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-12-01
+[Wed Nov 16 2022 19:11:31 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-12-01
+[Wed Nov 16 2022 19:11:31 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-12-01
+[Wed Nov 16 2022 19:11:31 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-12-01
+[Wed Nov 16 2022 19:11:31 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-12-01
+[Wed Nov 16 2022 19:11:31 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-12-02
+[Wed Nov 16 2022 19:11:31 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-12-03
+[Wed Nov 16 2022 19:11:31 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-12-03
+[Wed Nov 16 2022 19:11:31 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-12-03
+[Wed Nov 16 2022 19:11:31 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-12-03
+[Wed Nov 16 2022 19:11:31 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-12-03
+[Wed Nov 16 2022 19:11:31 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-12-04
+[Wed Nov 16 2022 19:11:31 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-12-06
+[Wed Nov 16 2022 19:11:31 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-12-06
+[Wed Nov 16 2022 19:11:31 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-12-07
+[Wed Nov 16 2022 19:11:31 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-12-08
+[Wed Nov 16 2022 19:11:31 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-12-08
+[Wed Nov 16 2022 19:11:31 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-12-08
+[Wed Nov 16 2022 19:11:31 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-12-08
+[Wed Nov 16 2022 19:11:31 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-12-08
+[Wed Nov 16 2022 19:11:31 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-12-08
+[Wed Nov 16 2022 19:11:31 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-12-10
+[Wed Nov 16 2022 19:11:31 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-12-10
+[Wed Nov 16 2022 20:11:31 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-12-10
+[Wed Nov 16 2022 20:11:31 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-12-10
+[Wed Nov 16 2022 20:11:31 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-12-10
+[Wed Nov 16 2022 20:11:31 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-12-10
+[Wed Nov 16 2022 20:11:31 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-12-20
+[Wed Nov 16 2022 20:11:31 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-12-21
+[Wed Nov 16 2022 20:11:31 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-12-21
+[Wed Nov 16 2022 20:11:31 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-12-22
+[Wed Nov 16 2022 20:11:31 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-12-22
+[Wed Nov 16 2022 20:11:31 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-12-22
+[Wed Nov 16 2022 20:11:31 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-12-22
+Sodniku EGGER se je izbrisal datum iz AHL sheme. Datum:2022-11-17
+Sodniku SORAPERRA se je izbrisal datum iz AHL sheme. Datum:2022-12-04
+Sodniku BEDANA se je izbrisal datum iz AHL sheme. Datum:2022-12-06
+Sodniku BULOVEC se je izbrisal datum iz AHL sheme. Datum:2022-12-08
+Sodniku PINIE se je izbrisal datum iz AHL sheme. Datum:2022-12-10
+Sodniku BAJT se je izbrisal datum iz AHL sheme. Datum:2022-12-10
+Sodniku BEDANA se je izbrisal datum iz AHL sheme. Datum:2022-12-06
+Sodniku BULOVEC se je izbrisal datum iz AHL sheme. Datum:2022-12-08
+Sodniku PINIE se je izbrisal datum iz AHL sheme. Datum:2022-12-10
+Sodniku BAJT se je izbrisal datum iz AHL sheme. Datum:2022-12-10

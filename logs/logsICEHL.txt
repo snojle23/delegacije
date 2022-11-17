@@ -555,3 +555,10 @@ Sodniku HRIBAR se je izbrisal datum iz ICEHL sheme. Datum:2022-12-16
 Sodniku RENCZ se je izbrisal datum iz ICEHL sheme. Datum:2022-12-16
 Sodniku MUZSIK se je izbrisal datum iz ICEHL sheme. Datum:2022-12-16
 Sodniku NAGY se je izbrisal datum iz ICEHL sheme. Datum:2022-12-16
+[Mon Nov 14 2022 15:11:13 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-12-16
+Sodniku KIS-KIRALY se je izbrisal datum iz ICEHL sheme. Datum:2022-12-11
+Sodniku PUFF se je izbrisal datum iz ICEHL sheme. Datum:2022-11-15
+[Tue Nov 15 2022 11:56:16 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikSCHWEIGHOFER uspesno dodan 
+Sodniku HLAVATY se je izbrisal datum iz ICEHL sheme. Datum:2022-11-20
+Sodniku SIEGEL se je izbrisal datum iz ICEHL sheme. Datum:2022-12-26
+Sodniku BÄRNTHALER se je izbrisal datum iz ICEHL sheme. Datum:2023-01-03
