@@ -562,3 +562,15 @@ Sodniku PUFF se je izbrisal datum iz ICEHL sheme. Datum:2022-11-15
 Sodniku HLAVATY se je izbrisal datum iz ICEHL sheme. Datum:2022-11-20
 Sodniku SIEGEL se je izbrisal datum iz ICEHL sheme. Datum:2022-12-26
 Sodniku BÄRNTHALER se je izbrisal datum iz ICEHL sheme. Datum:2023-01-03
+Sodniku MUZSIK se je izbrisal datum iz ICEHL sheme. Datum:2022-11-19
+Sodniku MUZSIK se je izbrisal datum iz ICEHL sheme. Datum:2022-11-20
+Sodniku NOTHEGGER se je izbrisal datum iz ICEHL sheme. Datum:2022-11-18
+[Sun Nov 20 2022 18:05:42 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-11-25
+Sodniku TRILAR se je izbrisal datum iz ICEHL sheme. Datum:2022-11-25
+Sodniku TRILAR se je izbrisal datum iz ICEHL sheme. Datum:2022-11-25
+Sodniku GATOL-SCHAFRANEK se je izbrisal datum iz ICEHL sheme. Datum:2022-11-25
+Sodniku GATOL-SCHAFRANEK se je izbrisal datum iz ICEHL sheme. Datum:2022-11-25
+Sodniku SIEGEL se je izbrisal datum iz ICEHL sheme. Datum:2022-11-25
+Sodniku SIEGEL se je izbrisal datum iz ICEHL sheme. Datum:2022-11-25
+Sodniku WEISS se je izbrisal datum iz ICEHL sheme. Datum:2022-11-25
+Sodniku WEISS se je izbrisal datum iz ICEHL sheme. Datum:2022-11-25
