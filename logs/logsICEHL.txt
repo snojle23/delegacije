@@ -574,3 +574,27 @@ Sodniku SIEGEL se je izbrisal datum iz ICEHL sheme. Datum:2022-11-25
 Sodniku SIEGEL se je izbrisal datum iz ICEHL sheme. Datum:2022-11-25
 Sodniku WEISS se je izbrisal datum iz ICEHL sheme. Datum:2022-11-25
 Sodniku WEISS se je izbrisal datum iz ICEHL sheme. Datum:2022-11-25
+Sodniku PARDATSCHER se je izbrisal datum iz ICEHL sheme. Datum:2022-11-22
+Sodniku MUZSIK se je izbrisal datum iz ICEHL sheme. Datum:2022-11-23
+Sodniku MUZSIK se je izbrisal datum iz ICEHL sheme. Datum:2022-11-27
+Sodniku NOTHEGGER se je izbrisal datum iz ICEHL sheme. Datum:2022-11-29
+Sodniku RIGONI se je izbrisal datum iz ICEHL sheme. Datum:2022-11-25
+Sodniku STERNAT se je izbrisal datum iz ICEHL sheme. Datum:2022-11-25
+Sodniku OFNER se je izbrisal datum iz ICEHL sheme. Datum:2022-11-25
+Sodniku MANTOVANI se je izbrisal datum iz ICEHL sheme. Datum:2022-11-25
+Sodniku OFNER se je izbrisal datum iz ICEHL sheme. Datum:2022-11-26
+Sodniku PARDATSCHER se je izbrisal datum iz ICEHL sheme. Datum:2022-11-26
+Sodniku PARDATSCHER se je izbrisal datum iz ICEHL sheme. Datum:2022-11-29
+[Mon Nov 28 2022 17:41:05 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikSPIEGEL uspesno dodan 
+Sodniku DURMIS se je izbrisal datum iz ICEHL sheme. Datum:2022-11-29
+Sodniku SIEGEL se je izbrisal datum iz ICEHL sheme. Datum:2022-11-29
+Sodniku JEDLICKA se je izbrisal datum iz ICEHL sheme. Datum:2022-11-29
+Sodniku SMETANA se je izbrisal datum iz ICEHL sheme. Datum:2022-11-29
+[Mon Nov 28 2022 20:11:05 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-12-13
+[Mon Nov 28 2022 20:11:05 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2022-12-13
+[Mon Nov 28 2022 20:11:05 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-12-14
+[Mon Nov 28 2022 20:11:05 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2022-12-14
+Sodniku MARTIN se je izbrisal datum iz ICEHL sheme. Datum:2022-12-16
+Sodniku NIKOLIC se je izbrisal datum iz ICEHL sheme. Datum:2022-12-16
+Sodniku VIRTA se je izbrisal datum iz ICEHL sheme. Datum:2022-12-16
+Sodniku SPARER se je izbrisal datum iz ICEHL sheme. Datum:2022-12-16

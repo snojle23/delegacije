@@ -373,3 +373,24 @@ Sodniku TSCHREPITSCH se je izbrisal datum iz AHL sheme. Datum:2022-12-10
 [Sun Nov 20 2022 19:35:41 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-01-03
 [Sun Nov 20 2022 19:35:41 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-01-03
 [Sun Nov 20 2022 19:35:41 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-01-03
+Sodniku SPIEGEL se je izbrisal datum iz AHL sheme. Datum:2022-12-01
+Sodniku HOLZER se je izbrisal datum iz AHL sheme. Datum:2022-12-01
+Sodniku KAINBERGER se je izbrisal datum iz AHL sheme. Datum:2022-12-02
+Sodniku WIMMLER se je izbrisal datum iz AHL sheme. Datum:2022-12-02
+Sodniku DURCHNER se je izbrisal datum iz AHL sheme. Datum:2022-12-21
+Sodniku HLAVATY se je izbrisal datum iz AHL sheme. Datum:2023-01-03
+Sodniku DE ZORDO se je izbrisal datum iz AHL sheme. Datum:2022-11-24
+Sodniku FLEISCHMANN se je izbrisal datum iz AHL sheme. Datum:2022-12-26
+Sodniku WUNTSCHEK se je izbrisal datum iz AHL sheme. Datum:2022-12-03
+Sodniku WUCHERER se je izbrisal datum iz AHL sheme. Datum:2022-12-03
+Sodniku SPIEGEL se je izbrisal datum iz AHL sheme. Datum:2022-12-26
+Sodniku HOLZER se je izbrisal datum iz AHL sheme. Datum:2022-12-26
+Sodniku BULOVEC se je izbrisal datum iz AHL sheme. Datum:2022-11-27
+Sodniku RINKER se je izbrisal datum iz AHL sheme. Datum:2022-12-06
+Sodniku SEEWALD se je izbrisal datum iz AHL sheme. Datum:2022-12-08
+Sodniku RINKER se je izbrisal datum iz AHL sheme. Datum:2022-12-21
+Sodniku SEEWALD se je izbrisal datum iz AHL sheme. Datum:2022-12-30
+Sodniku HESINA se je izbrisal datum iz AHL sheme. Datum:2022-12-01
+Sodniku HUBER se je izbrisal datum iz AHL sheme. Datum:2022-12-21
+Sodniku PACE se je izbrisal datum iz AHL sheme. Datum:2022-12-07
+Sodniku FLEISCHMANN se je izbrisal datum iz AHL sheme. Datum:2022-12-08

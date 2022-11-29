@@ -198,3 +198,32 @@
 [Sat Nov 19 2022 10:35:42 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BEDANA uspesno zamenjal BASSO Lokacija: Eishalle Ritten, Datum: 2022-11-19
 [Sat Nov 19 2022 15:35:46 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HUBER uspesno zamenjal SPIEGEL Lokacija: Eishalle Dornbirn, Datum: 2022-12-10
 [Sat Nov 19 2022 15:35:46 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SPIEGEL uspesno zamenjal TSCHREPITSCH Lokacija: Eishalle Dornbirn, Datum: 2022-12-10
+[Mon Nov 21 2022 12:38:12 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SEEWALD uspesno zamenjal PARDATSCHER Lokacija: Tiroler Wasserkraft Arena, Datum: 2022-11-22
+[Mon Nov 21 2022 12:38:12 GMT+0100 (Srednjeevropski standardni čas)] Sodnik KIS-KIRALY uspesno zamenjal MUZSIK Lokacija: Hala Tivoli Ljubljana, Datum: 2022-11-23
+[Mon Nov 21 2022 18:38:11 GMT+0100 (Srednjeevropski standardni čas)] Sodnik KAINBERGER uspesno zamenjal HOLZER Lokacija: Eisarena Salzburg, Datum: 2022-12-01
+[Mon Nov 21 2022 18:38:11 GMT+0100 (Srednjeevropski standardni čas)] Sodnik WIMMLER uspesno zamenjal SPIEGEL Lokacija: Eisarena Salzburg, Datum: 2022-12-01
+[Mon Nov 21 2022 18:38:11 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HOLZER uspesno zamenjal KAINBERGER Lokacija: Eishalle Dornbirn, Datum: 2022-12-02
+[Mon Nov 21 2022 18:38:11 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SPIEGEL uspesno zamenjal WIMMLER Lokacija: Eishalle Dornbirn, Datum: 2022-12-02
+[Tue Nov 22 2022 21:08:08 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HLAVATY uspesno zamenjal DURCHNER Lokacija: Sportpark Kitzbühel, Datum: 2022-12-21
+[Tue Nov 22 2022 21:08:08 GMT+0100 (Srednjeevropski standardni čas)] Sodnik DURCHNER uspesno zamenjal HLAVATY Lokacija: Sportpark Kitzbühel, Datum: 2023-01-03
+[Thu Nov 24 2022 11:40:55 GMT+0100 (Srednjeevropski standardni čas)] Sodnik FLEISCHMANN uspesno zamenjal DE ZORDO Lokacija: Eishalle Meran, Datum: 2022-11-24
+[Thu Nov 24 2022 11:40:55 GMT+0100 (Srednjeevropski standardni čas)] Sodnik DE ZORDO uspesno zamenjal FLEISCHMANN Lokacija: Eishalle Cortina, Datum: 2022-12-26
+[Thu Nov 24 2022 14:10:54 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HOLZER uspesno zamenjal WUNTSCHEK Lokacija: Eishalle Lustenau, Datum: 2022-12-03
+[Thu Nov 24 2022 14:10:54 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SPIEGEL uspesno zamenjal WUCHERER Lokacija: Eishalle Lustenau, Datum: 2022-12-03
+[Thu Nov 24 2022 14:10:54 GMT+0100 (Srednjeevropski standardni čas)] Sodnik WIDMANN uspesno zamenjal HOLZER Lokacija: Sportpark Kitzbühel, Datum: 2022-12-26
+[Thu Nov 24 2022 14:10:54 GMT+0100 (Srednjeevropski standardni čas)] Sodnik WUNTSCHEK uspesno zamenjal WIDMANN Lokacija: Sportpark Kitzbühel, Datum: 2022-12-26
+[Thu Nov 24 2022 14:10:54 GMT+0100 (Srednjeevropski standardni čas)] Sodnik WUCHERER uspesno zamenjal SPIEGEL Lokacija: Sportpark Kitzbühel, Datum: 2022-12-26
+[Thu Nov 24 2022 15:10:54 GMT+0100 (Srednjeevropski standardni čas)] Sodnik VACZI uspesno zamenjal MUZSIK Lokacija: Gabor Ocskay Eisarena, Datum: 2022-11-27
+[Thu Nov 24 2022 17:40:54 GMT+0100 (Srednjeevropski standardni čas)] Sodnik EISL uspesno zamenjal NOTHEGGER Lokacija: Tiroler Wasserkraft Arena, Datum: 2022-11-29
+[Fri Nov 25 2022 10:40:53 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SCHAUER uspesno zamenjal OFNER Lokacija: Eishalle Bruneck, Datum: 2022-11-26
+[Fri Nov 25 2022 12:10:52 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BAJT uspesno zamenjal BULOVEC Lokacija: Eishalle Sterzing, Datum: 2022-11-27
+[Fri Nov 25 2022 15:40:53 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SPARER uspesno zamenjal PARDATSCHER Lokacija: Eishalle Bruneck, Datum: 2022-11-26
+[Sun Nov 27 2022 12:41:05 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SEEWALD uspesno zamenjal RINKER Lokacija: Eishalle Zell am See, Datum: 2022-12-06
+[Sun Nov 27 2022 12:41:05 GMT+0100 (Srednjeevropski standardni čas)] Sodnik RINKER uspesno zamenjal SEEWALD Lokacija: Sportpark Kitzbühel, Datum: 2022-12-08
+[Sun Nov 27 2022 12:41:05 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SEEWALD uspesno zamenjal RINKER Lokacija: Sportpark Kitzbühel, Datum: 2022-12-21
+[Sun Nov 27 2022 12:41:05 GMT+0100 (Srednjeevropski standardni čas)] Sodnik RINKER uspesno zamenjal SEEWALD Lokacija: Eishalle Sterzing, Datum: 2022-12-30
+[Mon Nov 28 2022 07:41:06 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HUBER uspesno zamenjal HESINA Lokacija: Sportpark Kitzbühel, Datum: 2022-12-01
+[Mon Nov 28 2022 15:41:07 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HESINA uspesno zamenjal HUBER Lokacija: Sportpark Kitzbühel, Datum: 2022-12-21
+[Mon Nov 28 2022 17:11:06 GMT+0100 (Srednjeevropski standardni čas)] Sodnik FLEISCHMANN uspesno zamenjal PACE Lokacija: Eishalle Meran, Datum: 2022-12-07
+[Mon Nov 28 2022 17:11:06 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PACE uspesno zamenjal FLEISCHMANN Lokacija: Eishalle Canazei, Datum: 2022-12-08
+[Mon Nov 28 2022 17:41:05 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SPIEGEL uspesno zamenjal PARDATSCHER Lokacija: Eishalle Feldkirch, Datum: 2022-11-29
