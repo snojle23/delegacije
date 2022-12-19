@@ -394,3 +394,43 @@ Sodniku HESINA se je izbrisal datum iz AHL sheme. Datum:2022-12-01
 Sodniku HUBER se je izbrisal datum iz AHL sheme. Datum:2022-12-21
 Sodniku PACE se je izbrisal datum iz AHL sheme. Datum:2022-12-07
 Sodniku FLEISCHMANN se je izbrisal datum iz AHL sheme. Datum:2022-12-08
+Sodniku EGGER se je izbrisal datum iz AHL sheme. Datum:2022-12-01
+Sodniku LEGA se je izbrisal datum iz AHL sheme. Datum:2022-12-30
+Sodniku KUMMER se je izbrisal datum iz AHL sheme. Datum:2022-12-01
+Sodniku DURCHNER se je izbrisal datum iz AHL sheme. Datum:2022-12-06
+Sodniku EGGER se je izbrisal datum iz AHL sheme. Datum:2022-12-04
+Sodniku KUMMER se je izbrisal datum iz AHL sheme. Datum:2022-12-06
+Sodniku KUMMER se je izbrisal datum iz AHL sheme. Datum:2022-12-08
+Sodniku HLAVATY se je izbrisal datum iz AHL sheme. Datum:2022-12-21
+Sodniku OREL se je izbrisal datum iz AHL sheme. Datum:2022-12-30
+Sodniku RIGONI se je izbrisal datum iz AHL sheme. Datum:2022-12-07
+Sodniku SCHWEIGHOFER se je izbrisal datum iz AHL sheme. Datum:2022-12-06
+Sodniku STEFENELLI se je izbrisal datum iz AHL sheme. Datum:2022-12-07
+Sodniku EGGER se je izbrisal datum iz AHL sheme. Datum:2022-12-08
+Sodniku RUETZ se je izbrisal datum iz AHL sheme. Datum:2022-12-10
+Sodniku PINIE se je izbrisal datum iz AHL sheme. Datum:2022-12-28
+Sodniku REISINGER se je izbrisal datum iz AHL sheme. Datum:2022-12-10
+Sodniku VOICAN se je izbrisal datum iz AHL sheme. Datum:2022-12-10
+Sodniku LEHNER se je izbrisal datum iz AHL sheme. Datum:2022-12-10
+Sodniku DURCHNER se je izbrisal datum iz AHL sheme. Datum:2022-12-10
+Sodniku PINIE se je izbrisal datum iz AHL sheme. Datum:2022-12-10
+Sodniku FAJDIGA se je izbrisal datum iz AHL sheme. Datum:2022-12-10
+[Fri Dec 09 2022 13:52:44 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikHEAD uspesno dodan 
+[Fri Dec 09 2022 13:52:44 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikNIKOLIC uspesno dodan 
+Sodniku HEAD se je izbrisal datum iz AHL sheme. Datum:2022-12-10
+[Fri Dec 09 2022 14:52:45 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikGROZNIK uspesno dodan 
+Sodniku RUETZ se je izbrisal datum iz AHL sheme. Datum:2022-12-28
+[Tue Dec 13 2022 15:24:04 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-01-05
+[Tue Dec 13 2022 15:24:04 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-01-06
+[Tue Dec 13 2022 15:24:04 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-01-06
+[Tue Dec 13 2022 16:24:04 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-01-06
+[Tue Dec 13 2022 16:24:04 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-01-06
+[Tue Dec 13 2022 16:24:04 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-01-07
+[Tue Dec 13 2022 16:24:04 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-01-07
+[Tue Dec 13 2022 16:24:04 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-01-15
+Sodniku WIDMANN se je izbrisal datum iz AHL sheme. Datum:2022-12-26
+Sodniku BAJT se je izbrisal datum iz AHL sheme. Datum:2022-12-30
+Sodniku RUETZ se je izbrisal datum iz AHL sheme. Datum:2023-01-03
+Sodniku KAINBERGER se je izbrisal datum iz AHL sheme. Datum:2023-01-05
+Sodniku PÖTSCHER se je izbrisal datum iz AHL sheme. Datum:2022-12-26
+Sodniku HUBER se je izbrisal datum iz AHL sheme. Datum:2022-12-20
