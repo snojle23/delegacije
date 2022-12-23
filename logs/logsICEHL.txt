@@ -715,3 +715,9 @@ Sodniku BÄRNTHALER se je izbrisal datum iz ICEHL sheme. Datum:2022-12-11
 [Sun Dec 11 2022 07:53:15 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikLINESMAN uspesno dodan 
 Sodniku LINESMAN se je izbrisal datum iz ICEHL sheme. Datum:2022-12-11
 Sodniku BASSO se je izbrisal datum iz ICEHL sheme. Datum:2022-12-18
+Sodniku HUBER se je izbrisal datum iz ICEHL sheme. Datum:2022-12-22
+Sodniku NIKOLIC se je izbrisal datum iz ICEHL sheme. Datum:2023-01-01
+Sodniku NIKOLIC se je izbrisal datum iz ICEHL sheme. Datum:2023-01-01
+Sodniku PARDATSCHER se je izbrisal datum iz ICEHL sheme. Datum:2022-12-22
+Sodniku SIEGEL se je izbrisal datum iz ICEHL sheme. Datum:2022-12-23
+Sodniku MUZSIK se je izbrisal datum iz ICEHL sheme. Datum:2022-12-23
