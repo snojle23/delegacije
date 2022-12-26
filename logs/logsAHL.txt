@@ -441,3 +441,11 @@ Sodniku RIGONI se je izbrisal datum iz AHL sheme. Datum:2022-12-22
 Sodniku LAZZERI se je izbrisal datum iz AHL sheme. Datum:2023-01-06
 Sodniku SCHAUER se je izbrisal datum iz AHL sheme. Datum:2023-01-03
 Sodniku HOLZER se je izbrisal datum iz AHL sheme. Datum:2022-12-30
+Sodniku KUMMER se je izbrisal datum iz AHL sheme. Datum:2022-12-26
+Sodniku KUMMER se je izbrisal datum iz AHL sheme. Datum:2023-01-06
+Sodniku BRONDI se je izbrisal datum iz AHL sheme. Datum:2022-12-30
+Sodniku BENVEGNU se je izbrisal datum iz AHL sheme. Datum:2022-12-30
+Sodniku KUMMER se je izbrisal datum iz AHL sheme. Datum:2022-12-30
+Sodniku TELESKLAV se je izbrisal datum iz AHL sheme. Datum:2022-12-30
+[Mon Dec 26 2022 09:29:13 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-12-30
+Sodniku BAJT se je izbrisal datum iz AHL sheme. Datum:2022-12-30
