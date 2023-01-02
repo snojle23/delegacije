@@ -449,3 +449,8 @@ Sodniku KUMMER se je izbrisal datum iz AHL sheme. Datum:2022-12-30
 Sodniku TELESKLAV se je izbrisal datum iz AHL sheme. Datum:2022-12-30
 [Mon Dec 26 2022 09:29:13 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2022-12-30
 Sodniku BAJT se je izbrisal datum iz AHL sheme. Datum:2022-12-30
+Sodniku BEDANA se je izbrisal datum iz AHL sheme. Datum:2022-12-28
+Sodniku BEDANA se je izbrisal datum iz AHL sheme. Datum:2022-12-30
+Sodniku DURCHNER se je izbrisal datum iz AHL sheme. Datum:2022-12-28
+Sodniku LEGAT se je izbrisal datum iz AHL sheme. Datum:2022-12-28
+Sodniku RINKER se je izbrisal datum iz AHL sheme. Datum:2023-01-03
