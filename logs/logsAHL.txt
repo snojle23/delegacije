@@ -454,3 +454,5 @@ Sodniku BEDANA se je izbrisal datum iz AHL sheme. Datum:2022-12-30
 Sodniku DURCHNER se je izbrisal datum iz AHL sheme. Datum:2022-12-28
 Sodniku LEGAT se je izbrisal datum iz AHL sheme. Datum:2022-12-28
 Sodniku RINKER se je izbrisal datum iz AHL sheme. Datum:2023-01-03
+Sodniku EGGER se je izbrisal datum iz AHL sheme. Datum:2023-01-03
+Sodniku PINIE se je izbrisal datum iz AHL sheme. Datum:2023-01-06

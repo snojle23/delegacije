@@ -722,3 +722,4 @@ Sodniku PARDATSCHER se je izbrisal datum iz ICEHL sheme. Datum:2022-12-22
 Sodniku SIEGEL se je izbrisal datum iz ICEHL sheme. Datum:2022-12-23
 Sodniku MUZSIK se je izbrisal datum iz ICEHL sheme. Datum:2022-12-23
 Sodniku STERNAT se je izbrisal datum iz ICEHL sheme. Datum:2022-12-28
+Sodniku OFNER se je izbrisal datum iz ICEHL sheme. Datum:2023-01-03
