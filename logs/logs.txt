@@ -314,3 +314,5 @@
 [Mon Jan 02 2023 20:12:25 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HOLZER uspesno zamenjal NIKOLIC Lokacija: Eishalle Feldkirch, Datum: 2023-01-03
 [Mon Jan 02 2023 20:12:25 GMT+0100 (Srednjeevropski standardni čas)] Sodnik EGGER uspesno zamenjal MOSCHEN Lokacija: Eishalle Meran, Datum: 2023-01-06
 [Mon Jan 02 2023 20:12:25 GMT+0100 (Srednjeevropski standardni čas)] Sodnik MOSCHEN uspesno zamenjal PINIE Lokacija: Eishalle Meran, Datum: 2023-01-06
+[Tue Jan 03 2023 11:09:49 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NOTHEGGER uspesno zamenjal SEEWALD Lokacija: Tiroler Wasserkraft Arena, Datum: 2023-01-03
+[Tue Jan 03 2023 11:09:49 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SEEWALD uspesno zamenjal WIMMLER Lokacija: Tiroler Wasserkraft Arena, Datum: 2023-01-03
