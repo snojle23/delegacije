@@ -456,3 +456,23 @@ Sodniku LEGAT se je izbrisal datum iz AHL sheme. Datum:2022-12-28
 Sodniku RINKER se je izbrisal datum iz AHL sheme. Datum:2023-01-03
 Sodniku EGGER se je izbrisal datum iz AHL sheme. Datum:2023-01-03
 Sodniku PINIE se je izbrisal datum iz AHL sheme. Datum:2023-01-06
+Sodniku MOIDL se je izbrisal datum iz AHL sheme. Datum:2023-01-07
+Sodniku LEHNER se je izbrisal datum iz AHL sheme. Datum:2023-01-07
+[Sat Jan 07 2023 19:39:05 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-01-11
+[Sat Jan 07 2023 19:39:05 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-01-12
+[Sat Jan 07 2023 19:39:05 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-01-14
+[Sat Jan 07 2023 19:39:05 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-01-14
+Sodniku RINKER se je izbrisal datum iz AHL sheme. Datum:2023-01-11
+Sodniku GIACOMOZZI se je izbrisal datum iz AHL sheme. Datum:2023-01-15
+[Sun Jan 15 2023 21:14:18 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-01-19
+[Sun Jan 15 2023 21:14:18 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-01-19
+[Sun Jan 15 2023 21:14:18 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-01-19
+[Sun Jan 15 2023 21:14:18 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-01-19
+[Sun Jan 15 2023 21:14:18 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-01-19
+[Sun Jan 15 2023 21:14:18 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-01-19
+[Mon Jan 16 2023 21:23:44 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-01-21
+[Mon Jan 16 2023 21:23:44 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-01-21
+[Mon Jan 16 2023 21:23:44 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-01-21
+[Mon Jan 16 2023 21:23:44 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-01-21
+[Mon Jan 16 2023 21:23:44 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-01-22
+[Mon Jan 16 2023 21:23:44 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-01-23

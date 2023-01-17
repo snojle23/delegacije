@@ -316,3 +316,15 @@
 [Mon Jan 02 2023 20:12:25 GMT+0100 (Srednjeevropski standardni čas)] Sodnik MOSCHEN uspesno zamenjal PINIE Lokacija: Eishalle Meran, Datum: 2023-01-06
 [Tue Jan 03 2023 11:09:49 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NOTHEGGER uspesno zamenjal SEEWALD Lokacija: Tiroler Wasserkraft Arena, Datum: 2023-01-03
 [Tue Jan 03 2023 11:09:49 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SEEWALD uspesno zamenjal WIMMLER Lokacija: Tiroler Wasserkraft Arena, Datum: 2023-01-03
+[Fri Jan 06 2023 11:52:28 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BRUNNER uspesno zamenjal HOLZER Lokacija: Eishalle Dornbirn, Datum: 2023-01-07
+[Fri Jan 06 2023 11:52:28 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HOLZER uspesno zamenjal LEHNER Lokacija: Eishalle Dornbirn, Datum: 2023-01-07
+[Fri Jan 06 2023 11:52:28 GMT+0100 (Srednjeevropski standardni čas)] Sodnik MATTHEY uspesno zamenjal MOIDL Lokacija: Eishalle Dornbirn, Datum: 2023-01-07
+[Mon Jan 09 2023 13:39:05 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SNOJ uspesno zamenjal BASSO Lokacija: Eishalle Feldkirch, Datum: 2023-01-22
+[Mon Jan 09 2023 13:39:05 GMT+0100 (Srednjeevropski standardni čas)] Sodnik WIMMLER uspesno zamenjal SNOJ Lokacija: Eishalle Feldkirch, Datum: 2023-01-22
+[Mon Jan 09 2023 18:09:04 GMT+0100 (Srednjeevropski standardni čas)] Sodnik EISL uspesno zamenjal RINKER Lokacija: Eishalle Dornbirn, Datum: 2023-01-11
+[Wed Jan 11 2023 13:33:18 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HRONSKY uspesno zamenjal NIKOLIC Lokacija: Eisarena Salzburg, Datum: 2023-01-27
+[Wed Jan 11 2023 13:33:18 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HRONSKY uspesno zamenjal NIKOLIC Lokacija: Eisarena Salzburg, Datum: 2023-01-27
+[Wed Jan 11 2023 15:03:16 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SCHAUER uspesno zamenjal GIACOMOZZI Lokacija: Eishalle Sterzing, Datum: 2023-01-15
+[Wed Jan 11 2023 15:03:16 GMT+0100 (Srednjeevropski standardni čas)] Sodnik STEFENELLI uspesno zamenjal SCHAUER Lokacija: Eishalle Sterzing, Datum: 2023-01-15
+[Fri Jan 13 2023 09:03:13 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BÄRNTHALER uspesno zamenjal GATOL-SCHAFRANEK Lokacija: w KagranK, Datum: 2023-01-13
+[Fri Jan 13 2023 09:03:13 GMT+0100 (Srednjeevropski standardni čas)] Sodnik GATOL-SCHAFRANEK uspesno zamenjal KONC Lokacija: w KagranK, Datum: 2023-01-13
