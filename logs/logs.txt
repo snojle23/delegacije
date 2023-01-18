@@ -328,3 +328,7 @@
 [Wed Jan 11 2023 15:03:16 GMT+0100 (Srednjeevropski standardni čas)] Sodnik STEFENELLI uspesno zamenjal SCHAUER Lokacija: Eishalle Sterzing, Datum: 2023-01-15
 [Fri Jan 13 2023 09:03:13 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BÄRNTHALER uspesno zamenjal GATOL-SCHAFRANEK Lokacija: w KagranK, Datum: 2023-01-13
 [Fri Jan 13 2023 09:03:13 GMT+0100 (Srednjeevropski standardni čas)] Sodnik GATOL-SCHAFRANEK uspesno zamenjal KONC Lokacija: w KagranK, Datum: 2023-01-13
+[Tue Jan 17 2023 10:33:14 GMT+0100 (Srednjeevropski standardni čas)] Sodnik MOIDL uspesno zamenjal HUBER Lokacija: Sportpark Kitzbühel, Datum: 2023-01-19
+[Tue Jan 17 2023 10:33:14 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SPIEGEL uspesno zamenjal MOIDL Lokacija: Sportpark Kitzbühel, Datum: 2023-01-19
+[Tue Jan 17 2023 10:33:14 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HUBER uspesno zamenjal SPIEGEL Lokacija: Eishalle Lustenau, Datum: 2023-01-21
+[Tue Jan 17 2023 20:08:03 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PACE uspesno zamenjal RINKER Lokacija: Eishalle Cortina, Datum: 2023-01-21
