@@ -73,7 +73,7 @@ function scheduledFunction() {
             }
         });
         counter++;
-    }, 1 * 10 * 60 * 1000); // 1 hour = 1 * 60 * 60 * 1000
+    }, 1 * 30 * 60 * 1000); // 1 hour = 1 * 60 * 60 * 1000
 }
 
 function sleep(ms) {

@@ -493,3 +493,11 @@ Sodniku RINKER se je izbrisal datum iz AHL sheme. Datum:2023-01-21
 [Wed Jan 18 2023 20:14:22 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-01-28
 [Wed Jan 18 2023 20:14:22 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-01-28
 [Wed Jan 18 2023 20:14:22 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-01-28
+[Wed Jan 18 2023 21:14:25 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-02-25
+Sodniku STEFENELLI se je izbrisal datum iz AHL sheme. Datum:2023-01-28
+Sodniku HLAVATY se je izbrisal datum iz AHL sheme. Datum:2023-01-25
+Sodniku VOICAN se je izbrisal datum iz AHL sheme. Datum:2023-01-25
+Sodniku BRUNNER se je izbrisal datum iz AHL sheme. Datum:2023-01-25
+Sodniku MATTHEY se je izbrisal datum iz AHL sheme. Datum:2023-01-25
+[Thu Jan 19 2023 07:42:21 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-02-23
+[Thu Jan 19 2023 07:42:21 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-02-25
