@@ -334,3 +334,10 @@
 [Tue Jan 17 2023 20:08:03 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PACE uspesno zamenjal RINKER Lokacija: Eishalle Cortina, Datum: 2023-01-21
 [Wed Jan 18 2023 21:14:25 GMT+0100 (Srednjeevropski standardni čas)] Sodnik LAZZERI uspesno zamenjal MOSCHEN Lokacija: Eishalle Canazei, Datum: 2023-01-28
 [Wed Jan 18 2023 21:14:25 GMT+0100 (Srednjeevropski standardni čas)] Sodnik MOSCHEN uspesno zamenjal STEFENELLI Lokacija: Eishalle Canazei, Datum: 2023-01-28
+[Thu Jan 19 2023 19:19:13 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SNOJ uspesno zamenjal HRIBAR Lokacija: Stadthalle Villach, Datum: 2023-01-20
+[Sat Jan 21 2023 13:49:40 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BASSO uspesno zamenjal DE ZORDO Lokacija: Eishalle Ritten, Datum: 2023-01-26
+[Sat Jan 21 2023 13:49:40 GMT+0100 (Srednjeevropski standardni čas)] Sodnik DE ZORDO uspesno zamenjal RIGONI Lokacija: Eishalle Ritten, Datum: 2023-01-26
+[Sat Jan 21 2023 23:49:40 GMT+0100 (Srednjeevropski standardni čas)] Sodnik LAZZERI uspesno zamenjal GIACOMOZZI Lokacija: Eishalle Ritten, Datum: 2023-01-26
+[Sat Jan 21 2023 23:49:40 GMT+0100 (Srednjeevropski standardni čas)] Sodnik GIACOMOZZI uspesno zamenjal KAINBERGER Lokacija: Sportpark Kitzbühel, Datum: 2023-02-04
+[Sat Jan 21 2023 23:49:40 GMT+0100 (Srednjeevropski standardni čas)] Sodnik KAINBERGER uspesno zamenjal LAZZERI Lokacija: Sportpark Kitzbühel, Datum: 2023-02-04
+[Mon Jan 23 2023 18:20:08 GMT+0100 (Srednjeevropski standardni čas)] Sodnik DURMIS uspesno zamenjal KIS-KIRALY Lokacija: Eishalle KagranEins, Datum: 2023-01-24

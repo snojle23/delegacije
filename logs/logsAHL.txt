@@ -501,3 +501,18 @@ Sodniku BRUNNER se je izbrisal datum iz AHL sheme. Datum:2023-01-25
 Sodniku MATTHEY se je izbrisal datum iz AHL sheme. Datum:2023-01-25
 [Thu Jan 19 2023 07:42:21 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-02-23
 [Thu Jan 19 2023 07:42:21 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-02-25
+[Fri Jan 20 2023 16:49:11 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-02-02
+[Fri Jan 20 2023 17:49:11 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-02-02
+[Fri Jan 20 2023 17:49:11 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-02-02
+[Fri Jan 20 2023 17:49:11 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-02-02
+[Fri Jan 20 2023 17:49:11 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-02-02
+[Fri Jan 20 2023 17:49:11 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-02-02
+[Fri Jan 20 2023 17:49:11 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-02-04
+[Fri Jan 20 2023 17:49:11 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-02-04
+[Fri Jan 20 2023 17:49:11 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-02-04
+[Fri Jan 20 2023 17:49:11 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-02-04
+[Fri Jan 20 2023 17:49:11 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-02-04
+[Fri Jan 20 2023 17:49:11 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-02-04
+Sodniku RIGONI se je izbrisal datum iz AHL sheme. Datum:2023-01-26
+Sodniku GIACOMOZZI se je izbrisal datum iz AHL sheme. Datum:2023-01-26
+Sodniku LAZZERI se je izbrisal datum iz AHL sheme. Datum:2023-02-04
