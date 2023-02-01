@@ -748,3 +748,5 @@ Sodniku KONC se je izbrisal datum iz ICEHL sheme. Datum:2023-01-13
 [Wed Jan 18 2023 21:14:25 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-02-05
 Sodniku HRIBAR se je izbrisal datum iz ICEHL sheme. Datum:2023-01-20
 Sodniku KIS-KIRALY se je izbrisal datum iz ICEHL sheme. Datum:2023-01-24
+Sodniku RENCZ se je izbrisal datum iz ICEHL sheme. Datum:2023-02-03
+Sodniku SOOS se je izbrisal datum iz ICEHL sheme. Datum:2023-02-05
