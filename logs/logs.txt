@@ -361,3 +361,20 @@
 [Tue Jan 31 2023 17:12:36 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HRONSKY uspesno zamenjal SOOS Lokacija: Gabor Ocskay Eisarena, Datum: 2023-02-03
 [Tue Jan 31 2023 17:12:36 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SIEGEL uspesno zamenjal HRONSKY Lokacija: Eishalle KagranEins, Datum: 2023-02-03
 [Tue Jan 31 2023 17:12:36 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SOOS uspesno zamenjal SIEGEL Lokacija: Eishalle KagranEins, Datum: 2023-02-03
+[Wed Feb 01 2023 10:26:58 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NAGY uspesno zamenjal SIEGEL Lokacija: Eishalle KagranEins, Datum: 2023-02-03
+[Wed Feb 01 2023 11:26:58 GMT+0100 (Srednjeevropski standardni čas)] Sodnik LINESMAN uspesno zamenjal MOIDL Lokacija: Eishalle Zell am See, Datum: 2023-02-09
+[Wed Feb 01 2023 14:26:58 GMT+0100 (Srednjeevropski standardni čas)] Sodnik KÜBLER uspesno zamenjal MOIDL Lokacija: Eishalle Lustenau, Datum: 2023-02-02
+[Wed Feb 01 2023 15:26:59 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HLAVATY uspesno zamenjal DURCHNER Lokacija: Linz AG Eisarena, Datum: 2023-02-04
+[Wed Feb 01 2023 15:26:59 GMT+0100 (Srednjeevropski standardni čas)] Sodnik LEGAT uspesno zamenjal HLAVATY Lokacija: Linz AG Eisarena, Datum: 2023-02-04
+[Wed Feb 01 2023 15:26:59 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SCHONAKLENER uspesno zamenjal LEGAT Lokacija: Linz AG Eisarena, Datum: 2023-02-04
+[Wed Feb 01 2023 15:26:59 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BRUNNER uspesno zamenjal SCHONAKLENER Lokacija: Linz AG Eisarena, Datum: 2023-02-04
+[Wed Feb 01 2023 16:27:01 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BRUNNER uspesno zamenjal HLAVATY Lokacija: Linz AG Eisarena, Datum: 2023-02-04
+[Wed Feb 01 2023 16:27:01 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HLAVATY uspesno zamenjal LEGAT Lokacija: Linz AG Eisarena, Datum: 2023-02-04
+[Wed Feb 01 2023 16:27:01 GMT+0100 (Srednjeevropski standardni čas)] Sodnik LEGAT uspesno zamenjal SCHONAKLENER Lokacija: Linz AG Eisarena, Datum: 2023-02-04
+[Wed Feb 01 2023 16:27:01 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SCHONAKLENER uspesno zamenjal BRUNNER Lokacija: Linz AG Eisarena, Datum: 2023-02-04
+[Wed Feb 01 2023 19:57:00 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PUFF uspesno zamenjal LINESMAN Lokacija: Eishalle Zell am See, Datum: 2023-02-09
+[Thu Feb 02 2023 18:57:03 GMT+0100 (Srednjeevropski standardni čas)] Sodnik RUETZ uspesno zamenjal HEAD Lokacija: Sportpark Kitzbühel, Datum: 2023-02-11
+[Thu Feb 02 2023 18:57:03 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SCHAUER uspesno zamenjal RUETZ Lokacija: Sportpark Kitzbühel, Datum: 2023-02-11
+[Thu Feb 02 2023 18:57:03 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HOLZER uspesno zamenjal KAINBERGER Lokacija: Eishalle Dornbirn, Datum: 2023-02-18
+[Thu Feb 02 2023 18:57:03 GMT+0100 (Srednjeevropski standardni čas)] Sodnik EISL uspesno zamenjal LINESMAN Lokacija: Eishalle Dornbirn, Datum: 2023-02-18
+[Thu Feb 02 2023 18:57:03 GMT+0100 (Srednjeevropski standardni čas)] Sodnik MATTHEY uspesno zamenjal REISINGER Lokacija: Eishalle Dornbirn, Datum: 2023-02-18

@@ -559,3 +559,22 @@ Sodniku WIMMLER se je izbrisal datum iz AHL sheme. Datum:2023-01-28
 Sodniku KUMMER se je izbrisal datum iz AHL sheme. Datum:2023-02-04
 Sodniku KUMMER se je izbrisal datum iz AHL sheme. Datum:2023-02-19
 Sodniku VOICAN se je izbrisal datum iz AHL sheme. Datum:2023-02-02
+Sodniku MOIDL se je izbrisal datum iz AHL sheme. Datum:2023-02-09
+[Wed Feb 01 2023 11:26:58 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikLINESMAN uspesno dodan 
+Sodniku MOIDL se je izbrisal datum iz AHL sheme. Datum:2023-02-02
+[Wed Feb 01 2023 14:26:58 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikKÜBLER uspesno dodan 
+Sodniku DURCHNER se je izbrisal datum iz AHL sheme. Datum:2023-02-04
+Sodniku LINESMAN se je izbrisal datum iz AHL sheme. Datum:2023-02-09
+Sodniku RUETZ se je izbrisal datum iz AHL sheme. Datum:2023-02-18
+Sodniku WUCHERER se je izbrisal datum iz AHL sheme. Datum:2023-02-18
+Sodniku HOLZER se je izbrisal datum iz AHL sheme. Datum:2023-02-18
+Sodniku PÖTSCHER se je izbrisal datum iz AHL sheme. Datum:2023-02-18
+[Thu Feb 02 2023 15:57:05 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-02-11
+[Thu Feb 02 2023 15:57:05 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikHEAD uspesno dodan 
+[Thu Feb 02 2023 17:27:04 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-02-18
+Sodniku HEAD se je izbrisal datum iz AHL sheme. Datum:2023-02-11
+Sodniku KAINBERGER se je izbrisal datum iz AHL sheme. Datum:2023-02-18
+Sodniku KAINBERGER se je izbrisal datum iz AHL sheme. Datum:2023-02-18
+Sodniku REISINGER se je izbrisal datum iz AHL sheme. Datum:2023-02-18
+Sodniku REISINGER se je izbrisal datum iz AHL sheme. Datum:2023-02-18
+Sodniku LINESMAN se je izbrisal datum iz AHL sheme. Datum:2023-02-18
