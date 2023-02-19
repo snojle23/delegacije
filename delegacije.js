@@ -61,7 +61,7 @@ async function delegacije(json_data, arrayForMail) {
     // console.log(noviDatumi);
     updateDatesInExcel(noviDatumiAHL, workAHL, workAHL_DAT, workAHL_DAT_STRING, true, json_data, arrayForMail);
     updateDatesInExcel(noviDatumiICEHL, workICEHL, workICEHL_DAT, workICEHL_DAT_STRING, false, json_data, arrayForMail);
-    console.log("konec delegacij.js");
+    //console.log("konec delegacij.js");
     await workbook.xlsx.writeFile('data/AHLdelegacije.xlsx');
     await iceHLWB.xlsx.writeFile('data/ICEHLdelegacije.xlsx');
 }
