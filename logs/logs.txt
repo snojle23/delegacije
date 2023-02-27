@@ -388,3 +388,4 @@
 [Mon Feb 13 2023 09:49:53 GMT+0100 (Srednjeevropski standardni čas)] Sodnik ZGONC uspesno zamenjal unknown Lokacija: Eishalle Asiago, Datum: 2023-02-17
 [Sat Feb 18 2023 12:16:53 GMT+0100 (Srednjeevropski standardni čas)] Sodnik ARLIC uspesno zamenjal RIGONI Lokacija: Eishalle Sterzing, Datum: 2023-02-19
 [Sat Feb 18 2023 12:16:53 GMT+0100 (Srednjeevropski standardni čas)] Sodnik RIGONI uspesno zamenjal TELESKLAV Lokacija: Eishalle Sterzing, Datum: 2023-02-19
+[Tue Feb 21 2023 17:34:19 GMT+0100 (Srednjeevropski standardni čas)] Sodnik LEHNER uspesno zamenjal BRUNNER Lokacija: Eishalle Zell am See, Datum: 2023-02-23
