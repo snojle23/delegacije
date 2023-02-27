@@ -66,8 +66,8 @@ function scheduledFunction() {
                     const mailOptions = {
                         from: 'delegacijeice@gmail.com',
                         to: mailing[i.sodnik],
-                        subject: `Nova tekma AHL/ICEHL`,
-                        text: `Dobil si nove tekme ${tekme}`
+                        subject: `New game AHL/ICEHL`,
+                        text: `New games: ${tekme}`
                     };
                     transporter.sendMail(mailOptions, function (error, info) {
                         if (error) {
