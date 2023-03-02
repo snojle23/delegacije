@@ -2550,3 +2550,5 @@ Sodniku SPARER se je izbrisal datum iz ICEHL sheme. Datum:2023-02-26
 [Mon Feb 27 2023 07:01:31 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-03-03
 [Mon Feb 27 2023 07:01:31 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-03-03
 [Mon Feb 27 2023 07:02:02 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-03-03
+[Thu Mar 02 2023 18:03:40 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-03-03
+Sodniku STERNAT se je izbrisal datum iz ICEHL sheme. Datum:2023-03-03
