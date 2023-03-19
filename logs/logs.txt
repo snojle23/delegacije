@@ -396,3 +396,30 @@
 [Sat Mar 04 2023 09:15:38 GMT+0100 (Srednjeevropski standardni čas)] Sodnik ZRNIC uspesno zamenjal RIECKEN Lokacija: Linz AG Eisarena, Datum: 2023-03-05
 [Sat Mar 04 2023 09:15:38 GMT+0100 (Srednjeevropski standardni čas)] Sodnik RIECKEN uspesno zamenjal SEEWALD Lokacija: Linz AG Eisarena, Datum: 2023-03-05
 [Sat Mar 04 2023 09:15:38 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SEEWALD uspesno zamenjal BEDYNEK Lokacija: Linz AG Eisarena, Datum: 2023-03-05
+[Sun Mar 05 2023 17:19:06 GMT+0100 (Srednjeevropski standardni čas)] Sodnik LAZZERI uspesno zamenjal BAJT Lokacija: Eishalle Jesenice, Datum: 2023-03-07
+[Sun Mar 05 2023 17:19:06 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BERGANT uspesno zamenjal LAZZERI Lokacija: Eishalle Jesenice, Datum: 2023-03-07
+[Sun Mar 05 2023 17:19:06 GMT+0100 (Srednjeevropski standardni čas)] Sodnik FLEISCHMANN uspesno zamenjal BERGANT Lokacija: Eishalle Jesenice, Datum: 2023-03-07
+[Sun Mar 05 2023 17:19:06 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PAHOR uspesno zamenjal FLEISCHMANN Lokacija: Eishalle Jesenice, Datum: 2023-03-07
+[Sun Mar 05 2023 17:20:36 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BAJT uspesno zamenjal PINIE Lokacija: Eishalle Sterzing, Datum: 2023-03-09
+[Sun Mar 05 2023 17:20:36 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PINIE uspesno zamenjal BERGANT Lokacija: Eishalle Sterzing, Datum: 2023-03-09
+[Sun Mar 05 2023 17:20:36 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BERGANT uspesno zamenjal CRISTELI Lokacija: Eishalle Sterzing, Datum: 2023-03-09
+[Sun Mar 05 2023 17:20:36 GMT+0100 (Srednjeevropski standardni čas)] Sodnik CRISTELI uspesno zamenjal unknown Lokacija: Eishalle Sterzing, Datum: 2023-03-09
+[Wed Mar 08 2023 14:32:52 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SIEGEL uspesno zamenjal OFNER Lokacija: Eishalle KagranEins, Datum: 2023-03-10
+[Wed Mar 08 2023 14:32:52 GMT+0100 (Srednjeevropski standardni čas)] Sodnik STERNAT uspesno zamenjal SIEGEL Lokacija: Eishalle KagranEins, Datum: 2023-03-10
+[Wed Mar 08 2023 14:33:52 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SNOJ uspesno zamenjal NIKOLIC Lokacija: Eiswelle Bozen, Datum: 2023-03-12
+[Wed Mar 08 2023 14:33:52 GMT+0100 (Srednjeevropski standardni čas)] Sodnik ZGONC uspesno zamenjal SNOJ Lokacija: Eiswelle Bozen, Datum: 2023-03-12
+[Wed Mar 08 2023 14:33:52 GMT+0100 (Srednjeevropski standardni čas)] Sodnik VIRTA uspesno zamenjal ZGONC Lokacija: Eiswelle Bozen, Datum: 2023-03-12
+[Wed Mar 08 2023 14:36:22 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BÄRNTHALER uspesno zamenjal NIKOLIC Lokacija: Tiroler Wasserkraft Arena, Datum: 2023-03-12
+[Wed Mar 08 2023 14:36:22 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NOTHEGGER uspesno zamenjal BÄRNTHALER Lokacija: Tiroler Wasserkraft Arena, Datum: 2023-03-12
+[Wed Mar 08 2023 14:36:22 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HUBER uspesno zamenjal NOTHEGGER Lokacija: Tiroler Wasserkraft Arena, Datum: 2023-03-12
+[Wed Mar 08 2023 14:36:52 GMT+0100 (Srednjeevropski standardni čas)] Sodnik OFNER uspesno zamenjal BÄRNTHALER Lokacija: Tiroler Wasserkraft Arena, Datum: 2023-03-12
+[Wed Mar 08 2023 14:36:52 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BÄRNTHALER uspesno zamenjal NOTHEGGER Lokacija: Tiroler Wasserkraft Arena, Datum: 2023-03-12
+[Wed Mar 08 2023 14:36:52 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NOTHEGGER uspesno zamenjal HUBER Lokacija: Tiroler Wasserkraft Arena, Datum: 2023-03-12
+[Wed Mar 08 2023 14:37:22 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PIRAGIC uspesno zamenjal OFNER Lokacija: Stadthalle Villach, Datum: 2023-03-12
+[Wed Mar 08 2023 14:37:22 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HRIBAR uspesno zamenjal PIRAGIC Lokacija: Stadthalle Villach, Datum: 2023-03-12
+[Wed Mar 08 2023 14:37:22 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SEEWALD uspesno zamenjal HRIBAR Lokacija: Stadthalle Villach, Datum: 2023-03-12
+[Wed Mar 08 2023 14:37:22 GMT+0100 (Srednjeevropski standardni čas)] Sodnik REZEK uspesno zamenjal SEEWALD Lokacija: Stadthalle Villach, Datum: 2023-03-12
+[Wed Mar 08 2023 14:37:52 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NIKOLIC uspesno zamenjal PIRAGIC Lokacija: Stadthalle Villach, Datum: 2023-03-12
+[Wed Mar 08 2023 14:37:52 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PIRAGIC uspesno zamenjal HRIBAR Lokacija: Stadthalle Villach, Datum: 2023-03-12
+[Wed Mar 08 2023 14:37:52 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HRIBAR uspesno zamenjal SEEWALD Lokacija: Stadthalle Villach, Datum: 2023-03-12
+[Wed Mar 08 2023 14:37:52 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SEEWALD uspesno zamenjal REZEK Lokacija: Stadthalle Villach, Datum: 2023-03-12
