@@ -6319,3 +6319,5 @@ Sodniku KONC se je izbrisal datum iz ICEHL sheme. Datum:2023-03-19
 [Sun Mar 19 2023 12:49:40 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:undefined
 [Sun Mar 19 2023 12:50:10 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:undefined
 [Sun Mar 19 2023 12:50:40 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:undefined
+[Sun Mar 19 2023 20:59:44 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-03-21
+[Sun Mar 19 2023 20:59:44 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-03-21

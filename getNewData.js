@@ -9,7 +9,7 @@ function transform(body, tekme = []) {
     if (!body ||typeof body !== 'string') {
         console.log('Expected a string as input, got ' + typeof body);
     }
-
+    
     const $ = cheerio.load(body);
     const rows = $('table tbody tr');
     //  console.log(rows.text());
@@ -82,7 +82,7 @@ function transform(body, tekme = []) {
             liga: obj.liga,
             sodniki: obj.sodniki
         })
-    } else { // nov datum
+    } else if (obj.datum !== undefined) { // nov datum
         tekme.push({
             datum: obj.datum,
             lokacije: [{
