@@ -6362,3 +6362,105 @@ Sodniku KONC se je izbrisal datum iz ICEHL sheme. Datum:2023-04-16
 [Sun Apr 16 2023 22:46:58 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-04-18
 [Wed Apr 19 2023 10:17:11 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-04-21
 [Wed Apr 19 2023 10:17:11 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-04-21
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-15
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-09-15
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-15
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-15
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-15
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-15
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-15
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-16
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-09-16
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-17
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-09-17
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-17
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-17
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-17
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-17
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-19
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-09-19
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-22
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-09-22
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-22
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-22
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-22
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-22
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-22
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-23
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-09-23
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-24
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-09-24
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-24
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-24
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-24
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-24
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-26
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-09-26
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-26
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-26
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-26
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-26
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-26
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-29
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-09-29
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-29
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-29
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-29
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-29
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-29
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-30
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-09-30
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-01
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-10-01
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-01
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-01
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-01
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-01
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikRenczDa uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikTrilarVi uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikHribarMa uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikMuzsikNo uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikBernekerTh uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikHuberAn uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikSeewaldEl uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikWimmlerAl uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikNagyAt uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikSoosDa uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikBärnthalerCh uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikVacziDa uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikGroznikBo uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikNikolicMa uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikEislCh uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikNotheggerDa uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikSmetanaLa uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikSternatCh uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikGatol-schafranekMa uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikPuffWo uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikRezekGr uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikZrnicMi uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikMantovaniDa uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikRigoniDa uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikMoschenAn uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikPardatscherUl uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikNikolicKr uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikPiragicTr uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikBedynekSe uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikZgoncGa uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikSchauerJa uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikMartinFl uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikSparerDa uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikHolzerTo uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikSnojTa uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikHronskyTo uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikSiegelSt uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikDurmisOt uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikJedlickaPe uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikMiklicGr uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikRieckenSi uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikKoncDa uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikFichtnerPa uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikHlavatyAl uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikFleischmannLu uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikWeissAl uspesno dodan 
+[Sun Aug 20 2023 12:56:45 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikSeewaldJe uspesno dodan 
+[Sun Aug 20 2023 12:56:45 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikMoidlMa uspesno dodan 
