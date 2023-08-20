@@ -423,3 +423,10 @@
 [Wed Mar 08 2023 14:37:52 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PIRAGIC uspesno zamenjal HRIBAR Lokacija: Stadthalle Villach, Datum: 2023-03-12
 [Wed Mar 08 2023 14:37:52 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HRIBAR uspesno zamenjal SEEWALD Lokacija: Stadthalle Villach, Datum: 2023-03-12
 [Wed Mar 08 2023 14:37:52 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SEEWALD uspesno zamenjal REZEK Lokacija: Stadthalle Villach, Datum: 2023-03-12
+[Fri Mar 31 2023 12:26:39 GMT+0200 (Srednjeevropski poletni čas)] Sodnik MOSCHEN uspesno zamenjal BERGANT Lokacija: Eishalle Cortina, Datum: 2023-04-04
+[Fri Mar 31 2023 12:26:39 GMT+0200 (Srednjeevropski poletni čas)] Sodnik BERGANT uspesno zamenjal MOSCHEN Lokacija: Eishalle Cortina, Datum: 2023-04-04
+[Mon Apr 03 2023 21:17:52 GMT+0200 (Srednjeevropski poletni čas)] Sodnik NOTHEGGER uspesno zamenjal KONC Lokacija: Eiswelle Bozen, Datum: 2023-04-16
+[Mon Apr 03 2023 21:17:52 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SEEWALD uspesno zamenjal NOTHEGGER Lokacija: Eiswelle Bozen, Datum: 2023-04-16
+[Mon Apr 17 2023 18:12:52 GMT+0200 (Srednjeevropski poletni čas)] Sodnik LINESMAN uspesno zamenjal PUFF Lokacija: Eishalle Cortina, Datum: 2023-04-20
+[Mon Apr 17 2023 18:57:15 GMT+0200 (Srednjeevropski poletni čas)] Sodnik DE ZORDO uspesno zamenjal EISL Lokacija: Eishalle Cortina, Datum: 2023-04-20
+[Mon Apr 17 2023 18:57:15 GMT+0200 (Srednjeevropski poletni čas)] Sodnik EISL uspesno zamenjal LINESMAN Lokacija: Eishalle Cortina, Datum: 2023-04-20
