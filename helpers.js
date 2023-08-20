@@ -311,7 +311,7 @@ function getAllSudije(worksheet, datum) {
 }
 
 function dodajSodnikomDatum(worksheet, list, datum, isAHL, arrayForMail) {
-    const mailing = ["snoj", "bajt", "miklic", "rezek"];
+    const mailing = ["snoj", "bajt", "miklic", "rezek", "hribar", "zrnic", "trilar", "zgonc", "bergant", "bulovec", "piragic"]; // todo : Object.keys za mailing
     list.forEach(sodnik => {
         let cellSodnik = vrniCellSodnik(worksheet, sodnik, isAHL);
         let rowSudija = 4
@@ -347,7 +347,7 @@ function dodajSodnikomDatum(worksheet, list, datum, isAHL, arrayForMail) {
         } else {
             console.log("Za sodnika " + sodnik + " dodan nov datum: " + datum + " [ICEHL]");
             const sodnikZaMail = sodnik.toLowerCase();
-            if (mailing.includes(sodnikZaMail)) {
+            if (mailing.includes(sodnikZaMail) || sodnikZaMail === 'seewald') {
                 const obst = arrayForMail.find(i => i.sodnik === sodnik.toLowerCase());
                 if (obst) {
                     obst.tekme.push(

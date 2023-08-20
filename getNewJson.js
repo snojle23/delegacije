@@ -13,9 +13,15 @@ async function getNewJson(){
                 data += stream;
             });
             res.on('end', function() {
-                json_data_url = JSON.parse(data);
+                try{
+                    json_data_url = JSON.parse(data);
                 const ena = magic(json_data_url);
                 return ena;
+                }
+                catch{
+                    console.log("Ne morem parsat jsona iz URLja");
+                }
+                
             });
         });
         
