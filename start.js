@@ -50,8 +50,6 @@ function scheduledFunction() {
                         to: mailing[i.sodnik],
                         subject: `New game AHL/ICEHL`,
                         html: `
-                            <p>Program is back on!🚀</p>
-                            <p>Welcome to the season 2023-24🎉</p>
                             <p><strong>🍻Please do not forget</strong> for yearly subscription of one six-pack for season 2022-23🍻</p>
                             <p><em>Note: The subscription is not mandatory and is completely voluntary.😊</em></p>
                             <p>Here are new games for you:</p>
@@ -84,5 +82,5 @@ function scheduledFunction() {
         }
 
         counter++;
-    }, 1 * 1 * 30 * 1000); // 1 hour = 1 * 60 * 60 * 1000
+    }, 1 * 15 * 60 * 1000); // 1 hour = 1 * 60 * 60 * 1000
 }       // 1 * 1 * 30 * 1000 30sec

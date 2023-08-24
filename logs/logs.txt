@@ -430,3 +430,9 @@
 [Mon Apr 17 2023 18:12:52 GMT+0200 (Srednjeevropski poletni čas)] Sodnik LINESMAN uspesno zamenjal PUFF Lokacija: Eishalle Cortina, Datum: 2023-04-20
 [Mon Apr 17 2023 18:57:15 GMT+0200 (Srednjeevropski poletni čas)] Sodnik DE ZORDO uspesno zamenjal EISL Lokacija: Eishalle Cortina, Datum: 2023-04-20
 [Mon Apr 17 2023 18:57:15 GMT+0200 (Srednjeevropski poletni čas)] Sodnik EISL uspesno zamenjal LINESMAN Lokacija: Eishalle Cortina, Datum: 2023-04-20
+[Sun Aug 20 2023 13:35:02 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SeewaldEl uspesno zamenjal SeewaldJe Lokacija: Klagenfurter Stadthalle, Datum: 2023-09-29
+[Sun Aug 20 2023 13:35:02 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SeewaldJe uspesno zamenjal SeewaldEl Lokacija: Klagenfurter Stadthalle, Datum: 2023-09-29
+[Mon Aug 21 2023 12:05:08 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SeewaldJe uspesno zamenjal SeewaldEl Lokacija: Klagenfurter Stadthalle, Datum: 2023-09-29
+[Mon Aug 21 2023 12:05:08 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SeewaldEl uspesno zamenjal SeewaldJe Lokacija: Klagenfurter Stadthalle, Datum: 2023-09-29
+[Tue Aug 22 2023 07:05:22 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SeewaldEl uspesno zamenjal SeewaldJe Lokacija: Klagenfurter Stadthalle, Datum: 2023-09-29
+[Tue Aug 22 2023 07:05:22 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SeewaldJe uspesno zamenjal SeewaldEl Lokacija: Klagenfurter Stadthalle, Datum: 2023-09-29
