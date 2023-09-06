@@ -436,3 +436,11 @@
 [Mon Aug 21 2023 12:05:08 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SeewaldEl uspesno zamenjal SeewaldJe Lokacija: Klagenfurter Stadthalle, Datum: 2023-09-29
 [Tue Aug 22 2023 07:05:22 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SeewaldEl uspesno zamenjal SeewaldJe Lokacija: Klagenfurter Stadthalle, Datum: 2023-09-29
 [Tue Aug 22 2023 07:05:22 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SeewaldJe uspesno zamenjal SeewaldEl Lokacija: Klagenfurter Stadthalle, Datum: 2023-09-29
+[Mon Sep 04 2023 10:50:27 GMT+0200 (Srednjeevropski poletni čas)] Sodnik BajtMi uspesno zamenjal LehnerMo Lokacija: Eishalle Jesenice, Datum: 2023-09-29
+[Mon Sep 04 2023 10:50:27 GMT+0200 (Srednjeevropski poletni čas)] Sodnik LehnerMo uspesno zamenjal MilovanovicJa Lokacija: Eishalle Jesenice, Datum: 2023-09-29
+[Mon Sep 04 2023 10:50:27 GMT+0200 (Srednjeevropski poletni čas)] Sodnik LesniakBo uspesno zamenjal BajtMi Lokacija: Eishalle Celje, Datum: 2023-09-21
+[Mon Sep 04 2023 10:50:27 GMT+0200 (Srednjeevropski poletni čas)] Sodnik MilovanovicJa uspesno zamenjal LesniakBo Lokacija: Eishalle Celje, Datum: 2023-09-21
+[Mon Sep 04 2023 11:35:27 GMT+0200 (Srednjeevropski poletni čas)] Sodnik JeramFi uspesno zamenjal BergantAn Lokacija: Eishalle Celje, Datum: 2023-09-21
+[Mon Sep 04 2023 11:35:27 GMT+0200 (Srednjeevropski poletni čas)] Sodnik BergantAn uspesno zamenjal FecchioFe Lokacija: Eishalle Cortina, Datum: 2023-09-28
+[Mon Sep 04 2023 11:35:27 GMT+0200 (Srednjeevropski poletni čas)] Sodnik FecchioFe uspesno zamenjal JeramFi Lokacija: Eishalle Cortina, Datum: 2023-09-28
+[Tue Sep 05 2023 13:08:55 GMT+0200 (Srednjeevropski poletni čas)] Sodnik RiccoSt uspesno zamenjal PinieOm Lokacija: Eishalle Ritten, Datum: 2023-09-16

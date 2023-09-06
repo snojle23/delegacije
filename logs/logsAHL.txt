@@ -679,3 +679,116 @@ Sodniku PUFF se je izbrisal datum iz AHL sheme. Datum:2023-04-20
 [Mon Apr 17 2023 18:12:52 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikLINESMAN uspesno dodan 
 Sodniku LINESMAN se je izbrisal datum iz AHL sheme. Datum:2023-04-20
 [Wed Apr 19 2023 19:52:15 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-04-22
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-16
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-16
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-16
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-16
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-16
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-16
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-16
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-19
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-19
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-22
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-23
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-23
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-23
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-23
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-23
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-24
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-26
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-21
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-21
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-21
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-21
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-21
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-21
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-21
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-28
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikBassoNi uspesno dodan 
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikGiacomozziFe uspesno dodan 
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikBrondiPa uspesno dodan 
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikVignoloSi uspesno dodan 
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikBenvegnuAn uspesno dodan 
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikPinieOm uspesno dodan 
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikAbeltinoSi uspesno dodan 
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikDe zordoMa uspesno dodan 
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikKainbergerJu uspesno dodan 
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikPirasAn uspesno dodan 
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikCusinFe uspesno dodan 
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikMattheyPh uspesno dodan 
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikLesniakBo uspesno dodan 
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikMilovanovicJa uspesno dodan 
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikBergantAn uspesno dodan 
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikMarkizetiGr uspesno dodan 
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikOrelSt uspesno dodan 
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikWenuschHe uspesno dodan 
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikMoidlMa uspesno dodan 
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikSchonaklenerPa uspesno dodan 
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikBrockAd uspesno dodan 
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikMeixnerSe uspesno dodan 
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikWendnerMa uspesno dodan 
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikZacherlPa uspesno dodan 
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikHolzerTo uspesno dodan 
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikVirtaTu uspesno dodan 
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikFormaioniTh uspesno dodan 
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikPaceJa uspesno dodan 
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikMoidlDa uspesno dodan 
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikRuetzMa uspesno dodan 
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikDieberDo uspesno dodan 
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikLegatKo uspesno dodan 
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikLazzeriAl uspesno dodan 
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikSoraperraSi uspesno dodan 
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikFecchioFe uspesno dodan 
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikBulovecMi uspesno dodan 
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikJeramFi uspesno dodan 
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikBajtMi uspesno dodan 
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikVoicanCh uspesno dodan 
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikCristeliMa uspesno dodan 
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikHesinaCh uspesno dodan 
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikLegaSi uspesno dodan 
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikStefenelliFe uspesno dodan 
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikTelesklavFa uspesno dodan 
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikKlemmAn uspesno dodan 
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikRezekGr uspesno dodan 
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikPreiserJu uspesno dodan 
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikWeissAl uspesno dodan 
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikMoschenAn uspesno dodan 
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikRiccoSt uspesno dodan 
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikEislCh uspesno dodan 
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikSpiegelSe uspesno dodan 
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikGrisentiLu uspesno dodan 
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikWuchererGe uspesno dodan 
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikRivisFe uspesno dodan 
+[Sun Sep 03 2023 14:48:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikRivisAn uspesno dodan 
+[Sun Sep 03 2023 15:03:33 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-29
+[Sun Sep 03 2023 15:03:33 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-30
+[Sun Sep 03 2023 15:03:33 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-30
+[Sun Sep 03 2023 15:03:33 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-30
+[Sun Sep 03 2023 15:03:33 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-30
+[Sun Sep 03 2023 15:03:33 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-30
+[Sun Sep 03 2023 15:03:33 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-30
+[Sun Sep 03 2023 15:03:33 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-27
+[Sun Sep 03 2023 15:03:33 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-28
+[Sun Sep 03 2023 15:03:33 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-28
+[Sun Sep 03 2023 15:03:33 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-28
+[Sun Sep 03 2023 15:03:33 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-28
+[Sun Sep 03 2023 15:03:33 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-28
+[Sun Sep 03 2023 15:03:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikLehnerMo uspesno dodan 
+[Sun Sep 03 2023 15:03:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikWuntschekDo uspesno dodan 
+[Sun Sep 03 2023 15:03:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikArlicMa uspesno dodan 
+[Sun Sep 03 2023 15:03:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikPötscherMi uspesno dodan 
+[Sun Sep 03 2023 15:03:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikKummerSt uspesno dodan 
+[Sun Sep 03 2023 15:03:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikSchauerJa uspesno dodan 
+[Sun Sep 03 2023 15:03:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikRinkerDa uspesno dodan 
+[Sun Sep 03 2023 15:03:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikHlavatyAl uspesno dodan 
+[Sun Sep 03 2023 15:03:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikSchweighoferMa uspesno dodan 
+[Sun Sep 03 2023 15:03:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikKanyoTa uspesno dodan 
+[Sun Sep 03 2023 15:03:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikJägerRi uspesno dodan 
+[Sun Sep 03 2023 15:03:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikEggerTh uspesno dodan 
+[Sun Sep 03 2023 15:03:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikWiestAl uspesno dodan 
+[Sun Sep 03 2023 15:03:33 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikWidmannFl uspesno dodan 
+Sodniku MilovanovicJa se je izbrisal datum iz AHL sheme. Datum:2023-09-29
+Sodniku BajtMi se je izbrisal datum iz AHL sheme. Datum:2023-09-21
+Sodniku BergantAn se je izbrisal datum iz AHL sheme. Datum:2023-09-21
+Sodniku JeramFi se je izbrisal datum iz AHL sheme. Datum:2023-09-28
+Sodniku PinieOm se je izbrisal datum iz AHL sheme. Datum:2023-09-16
