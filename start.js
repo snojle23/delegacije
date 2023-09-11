@@ -40,23 +40,35 @@ function scheduledFunction() {
                 "bergantan": "anze.bergant@gmail.com",
                 "bulovecmi": "miha.bulovec@gmail.com",
                 "piragictr": "trpimir.piragic@gmail.com",
-                "seewaldel": "seewald30@gmail.com"
+                "seewaldel": "seewald30@gmail.com",
+                "milovanovicja": "jakobmilovanovic@gmail.com",
+                "murnikpe": "petja.murnik@gmail.com",
+                "markizetigr": "grega.markizeti@gmail.com"
             }
             arrayForMail.forEach(i => {
                 const tekme = JSON.stringify(i.tekme);
                 if (Object.keys(mailing).includes(i.sodnik)) {
-                    const mailOptions = {
-                        from: 'delegacijeice@gmail.com',
-                        to: mailing[i.sodnik],
-                        subject: `New game AHL/ICEHL`,
-                        html: `
+                    let htmlTekst = `
                             <p><strong>🍻Please do not forget</strong> for yearly subscription of one six-pack for season 2022-23🍻</p>
-                            <p><em>Note: The subscription is not mandatory and is completely voluntary.😊</em></p>
                             <p>Here are new games for you:</p>
                             <ul>
                                 ${i.tekme.map(t => `<li>${t.liga} - ${t.datum}</li>`).join('')}
                             </ul>
-                            `
+                            `;
+
+                    if(['snojta', 'hribarma', 'zrnicmi', 'seewaldel', 'milovanovicja', 'murnikpe', 'markizetigr'].includes(i.sodnik)){
+                        htmlTekst = `
+                            <p>New games in https://www.referee-manager.com/, check them:</p>
+                            <ul>
+                                ${i.tekme.map(t => `<li>${t.liga} - ${t.datum}</li>`).join('')}
+                            </ul>
+                            `;
+                    }
+                    const mailOptions = {
+                        from: 'delegacijeice@gmail.com',
+                        to: mailing[i.sodnik],
+                        subject: `New game AHL/ICEHL`,
+                        html: htmlTekst
                         //text: `Program is back on!\nWelcome to the season 2023-24!.\n\n Please do not forget for yearly subscription of one six-pack for season 2022-23 :) \n\n here are new games for you: ${tekme}`
                     };
                     transporter.sendMail(mailOptions, function (error, info) {
@@ -72,15 +84,15 @@ function scheduledFunction() {
             });
         }
         countHour++
-        if (countHour === 20) {
+        if (countHour === 60) {
             const today = new Date();
             console.log('');
-            console.log("Še 5 ure so šlo mimo. Skupen stevec: " + counter + " datum:" + today);
+            console.log("Še 5 ur je šlo mimo. Skupen stevec: " + counter + " datum:" + `${today.getHours()}:${today.getMinutes()}`);
             countHour = 0;
         } else {
-            process.stdout.write(`\rProgress: ${(countHour / 20 * 100).toFixed(2)}% Zadnja ura:${today.getHours()}:${today.getMinutes()}`);
+            process.stdout.write(`\rProgress: ${(countHour / 60 * 100).toFixed(2)}% Zadnja ura: ${today.getHours()}:${today.getMinutes()}`);
         }
 
         counter++;
-    }, 1 * 1 * 15 * 1000); // 1 hour = 1 * 60 * 60 * 1000
+    }, 1 * 5 * 60 * 1000); // 1 hour = 1 * 60 * 60 * 1000
 }       // 1 * 1 * 30 * 1000 30sec
