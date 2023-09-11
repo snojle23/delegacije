@@ -6464,3 +6464,54 @@ Sodniku KONC se je izbrisal datum iz ICEHL sheme. Datum:2023-04-16
 [Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikWeissAl uspesno dodan 
 [Sun Aug 20 2023 12:56:45 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikSeewaldJe uspesno dodan 
 [Sun Aug 20 2023 12:56:45 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikMoidlMa uspesno dodan 
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-03
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-10-03
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-03
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-03
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-03
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-03
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-03
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-05
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-10-05
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-06
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-10-06
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-06
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-06
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-06
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-07
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-10-07
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-08
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-10-08
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-08
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-08
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-08
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-08
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-11
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-10-11
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-13
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-10-13
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-13
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-13
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-13
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-13
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-14
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-10-14
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-14
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-15
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-10-15
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-15
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-15
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-15
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-20
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-10-20
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-20
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-21
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-10-21
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-21
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-22
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-10-22
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-22
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-22
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-22
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikOfnerCh uspesno dodan 
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikPalköviZs uspesno dodan 

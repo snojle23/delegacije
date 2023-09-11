@@ -444,3 +444,22 @@
 [Mon Sep 04 2023 11:35:27 GMT+0200 (Srednjeevropski poletni čas)] Sodnik BergantAn uspesno zamenjal FecchioFe Lokacija: Eishalle Cortina, Datum: 2023-09-28
 [Mon Sep 04 2023 11:35:27 GMT+0200 (Srednjeevropski poletni čas)] Sodnik FecchioFe uspesno zamenjal JeramFi Lokacija: Eishalle Cortina, Datum: 2023-09-28
 [Tue Sep 05 2023 13:08:55 GMT+0200 (Srednjeevropski poletni čas)] Sodnik RiccoSt uspesno zamenjal PinieOm Lokacija: Eishalle Ritten, Datum: 2023-09-16
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Sodnik RivisAn uspesno zamenjal BrondiPa Lokacija: Eishalle Sterzing, Datum: 2023-09-16
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Sodnik GrisentiLu uspesno zamenjal FecchioFe Lokacija: Eishalle Canazei, Datum: 2023-09-19
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SchonaklenerPa uspesno zamenjal TelesklavFa Lokacija: Klagenfurter Stadthalle, Datum: 2023-09-26
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SeewaldJe uspesno zamenjal SeewaldEl Lokacija: Klagenfurter Stadthalle, Datum: 2023-09-29
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SeewaldEl uspesno zamenjal SeewaldJe Lokacija: Klagenfurter Stadthalle, Datum: 2023-09-29
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Sodnik TelesklavFa uspesno zamenjal SchonaklenerPa Lokacija: Eishalle Jesenice, Datum: 2023-09-29
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Sodnik BrondiPa uspesno zamenjal RivisAn Lokacija: Eishalle Gröden, Datum: 2023-09-21
+[Wed Sep 06 2023 08:48:51 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SeewaldEl uspesno zamenjal SeewaldJe Lokacija: Klagenfurter Stadthalle, Datum: 2023-09-29
+[Wed Sep 06 2023 08:48:51 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SeewaldJe uspesno zamenjal SeewaldEl Lokacija: Klagenfurter Stadthalle, Datum: 2023-09-29
+[Wed Sep 06 2023 08:48:51 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SeewaldEl uspesno zamenjal SeewaldJe Lokacija: Tiroler Wasserkraft Arena, Datum: 2023-10-03
+[Wed Sep 06 2023 08:48:51 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SeewaldJe uspesno zamenjal SeewaldEl Lokacija: Tiroler Wasserkraft Arena, Datum: 2023-10-03
+[Wed Sep 06 2023 13:33:50 GMT+0200 (Srednjeevropski poletni čas)] Sodnik RenczDa uspesno zamenjal PuffWo Lokacija: Hala Tivoli Ljubljana, Datum: 2023-10-05
+[Wed Sep 06 2023 13:33:50 GMT+0200 (Srednjeevropski poletni čas)] Sodnik PuffWo uspesno zamenjal RenczDa Lokacija: Hala Tivoli Ljubljana, Datum: 2023-10-05
+[Wed Sep 06 2023 22:40:43 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SeewaldJe uspesno zamenjal SeewaldEl Lokacija: Tiroler Wasserkraft Arena, Datum: 2023-10-03
+[Wed Sep 06 2023 22:40:43 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SeewaldEl uspesno zamenjal SeewaldJe Lokacija: Tiroler Wasserkraft Arena, Datum: 2023-10-03
+[Mon Sep 11 2023 01:58:28 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SeewaldJe uspesno zamenjal SeewaldEl Lokacija: Klagenfurter Stadthalle, Datum: 2023-09-29
+[Mon Sep 11 2023 01:58:28 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SeewaldEl uspesno zamenjal SeewaldJe Lokacija: Klagenfurter Stadthalle, Datum: 2023-09-29
+[Mon Sep 11 2023 01:58:28 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SeewaldEl uspesno zamenjal SeewaldJe Lokacija: Tiroler Wasserkraft Arena, Datum: 2023-10-03
+[Mon Sep 11 2023 01:58:28 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SeewaldJe uspesno zamenjal SeewaldEl Lokacija: Tiroler Wasserkraft Arena, Datum: 2023-10-03

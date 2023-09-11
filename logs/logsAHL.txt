@@ -792,3 +792,8 @@ Sodniku BajtMi se je izbrisal datum iz AHL sheme. Datum:2023-09-21
 Sodniku BergantAn se je izbrisal datum iz AHL sheme. Datum:2023-09-21
 Sodniku JeramFi se je izbrisal datum iz AHL sheme. Datum:2023-09-28
 Sodniku PinieOm se je izbrisal datum iz AHL sheme. Datum:2023-09-16
+Sodniku BrondiPa se je izbrisal datum iz AHL sheme. Datum:2023-09-16
+Sodniku FecchioFe se je izbrisal datum iz AHL sheme. Datum:2023-09-19
+Sodniku TelesklavFa se je izbrisal datum iz AHL sheme. Datum:2023-09-26
+Sodniku SchonaklenerPa se je izbrisal datum iz AHL sheme. Datum:2023-09-29
+Sodniku RivisAn se je izbrisal datum iz AHL sheme. Datum:2023-09-21
