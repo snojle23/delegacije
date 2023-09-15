@@ -463,3 +463,15 @@
 [Mon Sep 11 2023 01:58:28 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SeewaldEl uspesno zamenjal SeewaldJe Lokacija: Klagenfurter Stadthalle, Datum: 2023-09-29
 [Mon Sep 11 2023 01:58:28 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SeewaldEl uspesno zamenjal SeewaldJe Lokacija: Tiroler Wasserkraft Arena, Datum: 2023-10-03
 [Mon Sep 11 2023 01:58:28 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SeewaldJe uspesno zamenjal SeewaldEl Lokacija: Tiroler Wasserkraft Arena, Datum: 2023-10-03
+[Wed Sep 13 2023 11:56:19 GMT+0200 (Srednjeevropski poletni čas)] Sodnik LegaSi uspesno zamenjal VirtaTu Lokacija: Eishalle Dornbirn, Datum: 2023-09-16
+[Wed Sep 13 2023 14:51:20 GMT+0200 (Srednjeevropski poletni čas)] Sodnik MartinFl uspesno zamenjal FormaioniTh Lokacija: Eishalle Dornbirn, Datum: 2023-09-16
+[Wed Sep 13 2023 19:39:23 GMT+0200 (Srednjeevropski poletni čas)] Sodnik De zordoMa uspesno zamenjal FormaioniTh Lokacija: Eishalle Dornbirn, Datum: 2023-09-27
+[Thu Sep 14 2023 17:54:10 GMT+0200 (Srednjeevropski poletni čas)] Sodnik RivisAn uspesno zamenjal MattheyPh Lokacija: Würtharena Neumarkt, Datum: 2023-09-16
+[Thu Sep 14 2023 17:59:10 GMT+0200 (Srednjeevropski poletni čas)] Sodnik MattheyPh uspesno zamenjal RivisAn Lokacija: Eishalle Sterzing, Datum: 2023-09-16
+[Fri Sep 15 2023 09:25:07 GMT+0200 (Srednjeevropski poletni čas)] Sodnik NagyAt uspesno zamenjal PiragicTr Lokacija: Hala Tivoli Ljubljana, Datum: 2023-09-29
+[Fri Sep 15 2023 09:25:07 GMT+0200 (Srednjeevropski poletni čas)] Sodnik PiragicTr uspesno zamenjal TrilarVi Lokacija: Hala Tivoli Ljubljana, Datum: 2023-09-29
+[Fri Sep 15 2023 09:25:07 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SeewaldJe uspesno zamenjal SeewaldEl Lokacija: Tiroler Wasserkraft Arena, Datum: 2023-10-03
+[Fri Sep 15 2023 09:25:07 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SeewaldEl uspesno zamenjal SeewaldJe Lokacija: Tiroler Wasserkraft Arena, Datum: 2023-10-03
+[Fri Sep 15 2023 09:25:07 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SoosDa uspesno zamenjal TrilarVi Lokacija: Stadthalle Villach, Datum: 2023-10-22
+[Fri Sep 15 2023 10:26:26 GMT+0200 (Srednjeevropski poletni čas)] Sodnik GiacomozziFe uspesno zamenjal BassoNi Lokacija: Eishalle Sterzing, Datum: 2023-09-16
+[Fri Sep 15 2023 10:26:26 GMT+0200 (Srednjeevropski poletni čas)] Sodnik RivisFe uspesno zamenjal GiacomozziFe Lokacija: Eishalle Sterzing, Datum: 2023-09-16

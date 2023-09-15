@@ -6515,3 +6515,5 @@ Sodniku KONC se je izbrisal datum iz ICEHL sheme. Datum:2023-04-16
 [Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-22
 [Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikOfnerCh uspesno dodan 
 [Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikPalköviZs uspesno dodan 
+Sodniku TrilarVi se je izbrisal datum iz ICEHL sheme. Datum:2023-09-29
+Sodniku TrilarVi se je izbrisal datum iz ICEHL sheme. Datum:2023-10-22
