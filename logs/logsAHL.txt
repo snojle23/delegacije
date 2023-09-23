@@ -885,3 +885,7 @@ Sodniku CusinFe se je izbrisal datum iz AHL sheme. Datum:2023-09-23
 Sodniku MoschenAn se je izbrisal datum iz AHL sheme. Datum:2023-09-23
 [Thu Sep 21 2023 18:39:21 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-21
 [Thu Sep 21 2023 18:49:21 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-23
+Sodniku HolzerTo se je izbrisal datum iz AHL sheme. Datum:2023-10-14
+[Fri Sep 22 2023 16:43:38 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikPichlerKa uspesno dodan 
+[Fri Sep 22 2023 16:53:38 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-14
+Sodniku PichlerKa se je izbrisal datum iz AHL sheme. Datum:2023-10-14
