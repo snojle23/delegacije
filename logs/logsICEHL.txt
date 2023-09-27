@@ -6533,3 +6533,6 @@ Sodniku OfnerCh se je izbrisal datum iz ICEHL sheme. Datum:2023-10-03
 Sodniku OfnerCh se je izbrisal datum iz ICEHL sheme. Datum:2023-10-03
 [Thu Sep 21 2023 19:59:22 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-20
 [Thu Sep 21 2023 20:04:22 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-20
+Sodniku JedlickaPe se je izbrisal datum iz ICEHL sheme. Datum:2023-09-24
+[Sat Sep 23 2023 19:50:47 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikZacherlPa uspesno dodan 
+Sodniku FichtnerPa se je izbrisal datum iz ICEHL sheme. Datum:2023-09-30

@@ -56,7 +56,7 @@ function scheduledFunction() {
                             </ul>
                             `;
 
-                    if(['snojta', 'hribarma', 'zrnicmi', 'seewaldel', 'milovanovicja', 'murnikpe', 'markizetigr'].includes(i.sodnik)){
+                    if(['snojta', 'hribarma', 'zrnicmi', 'seewaldel', 'milovanovicja', 'murnikpe', 'markizetigr', 'rezekgr'].includes(i.sodnik)){
                         htmlTekst = `
                             <p>New games in https://www.referee-manager.com/, check them:</p>
                             <ul>

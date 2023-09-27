@@ -513,3 +513,21 @@
 [Fri Sep 22 2023 16:43:38 GMT+0200 (Srednjeevropski poletni čas)] Sodnik PichlerKa uspesno zamenjal JägerRi Lokacija: Eishalle Sterzing, Datum: 2023-10-14
 [Sat Sep 23 2023 06:00:21 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SeewaldJe uspesno zamenjal SeewaldEl Lokacija: Klagenfurter Stadthalle, Datum: 2023-09-29
 [Sat Sep 23 2023 06:00:21 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SeewaldEl uspesno zamenjal SeewaldJe Lokacija: Klagenfurter Stadthalle, Datum: 2023-09-29
+[Sat Sep 23 2023 19:40:47 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SeewaldEl uspesno zamenjal SeewaldJe Lokacija: Klagenfurter Stadthalle, Datum: 2023-09-29
+[Sat Sep 23 2023 19:40:47 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SeewaldJe uspesno zamenjal SeewaldEl Lokacija: Klagenfurter Stadthalle, Datum: 2023-09-29
+[Sat Sep 23 2023 19:50:47 GMT+0200 (Srednjeevropski poletni čas)] Sodnik KoncDa uspesno zamenjal JedlickaPe Lokacija: Linz AG Eisarena, Datum: 2023-09-24
+[Sat Sep 23 2023 19:50:47 GMT+0200 (Srednjeevropski poletni čas)] Sodnik ZacherlPa uspesno zamenjal KoncDa Lokacija: Linz AG Eisarena, Datum: 2023-09-24
+[Sun Sep 24 2023 06:17:12 GMT+0200 (Srednjeevropski poletni čas)] Sodnik WeissAl uspesno zamenjal SchonaklenerPa Lokacija: Eisarena Salzburg, Datum: 2023-10-21
+[Sun Sep 24 2023 06:17:12 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SchonaklenerPa uspesno zamenjal WeissAl Lokacija: Linz AG Eisarena, Datum: 2023-10-19
+[Tue Sep 26 2023 14:19:15 GMT+0200 (Srednjeevropski poletni čas)] Sodnik KainbergerJu uspesno zamenjal BajtMi Lokacija: Eishalle Zell am See, Datum: 2023-10-12
+[Tue Sep 26 2023 14:19:15 GMT+0200 (Srednjeevropski poletni čas)] Sodnik WidmannFl uspesno zamenjal KainbergerJu Lokacija: Eishalle Zell am See, Datum: 2023-10-12
+[Wed Sep 27 2023 06:06:55 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SeewaldJe uspesno zamenjal SeewaldEl Lokacija: Tiroler Wasserkraft Arena, Datum: 2023-10-03
+[Wed Sep 27 2023 06:06:55 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SeewaldEl uspesno zamenjal SeewaldJe Lokacija: Tiroler Wasserkraft Arena, Datum: 2023-10-03
+[Wed Sep 27 2023 08:22:19 GMT+0200 (Srednjeevropski poletni čas)] Sodnik MoschenAn uspesno zamenjal WidmannFl Lokacija: Würtharena Neumarkt, Datum: 2023-09-28
+[Wed Sep 27 2023 08:22:19 GMT+0200 (Srednjeevropski poletni čas)] Sodnik OrelSt uspesno zamenjal MoschenAn Lokacija: Eishalle Meran, Datum: 2023-09-28
+[Wed Sep 27 2023 08:22:19 GMT+0200 (Srednjeevropski poletni čas)] Sodnik WidmannFl uspesno zamenjal OrelSt Lokacija: Eishalle Meran, Datum: 2023-09-28
+[Wed Sep 27 2023 12:43:52 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SeewaldJe uspesno zamenjal SeewaldEl Lokacija: Klagenfurter Stadthalle, Datum: 2023-09-29
+[Wed Sep 27 2023 12:43:52 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SeewaldEl uspesno zamenjal SeewaldJe Lokacija: Klagenfurter Stadthalle, Datum: 2023-09-29
+[Wed Sep 27 2023 12:48:52 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SeewaldEl uspesno zamenjal SeewaldJe Lokacija: Klagenfurter Stadthalle, Datum: 2023-09-29
+[Wed Sep 27 2023 12:48:52 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SeewaldJe uspesno zamenjal SeewaldEl Lokacija: Klagenfurter Stadthalle, Datum: 2023-09-29
+[Wed Sep 27 2023 12:48:52 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SmetanaLa uspesno zamenjal FichtnerPa Lokacija: Gabor Ocskay Eisarena, Datum: 2023-09-30

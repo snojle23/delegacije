@@ -889,3 +889,14 @@ Sodniku HolzerTo se je izbrisal datum iz AHL sheme. Datum:2023-10-14
 [Fri Sep 22 2023 16:43:38 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikPichlerKa uspesno dodan 
 [Fri Sep 22 2023 16:53:38 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-14
 Sodniku PichlerKa se je izbrisal datum iz AHL sheme. Datum:2023-10-14
+Sodniku SchonaklenerPa se je izbrisal datum iz AHL sheme. Datum:2023-10-21
+Sodniku WeissAl se je izbrisal datum iz AHL sheme. Datum:2023-10-19
+Sodniku BajtMi se je izbrisal datum iz AHL sheme. Datum:2023-10-12
+Sodniku JeramFi se je izbrisal datum iz AHL sheme. Datum:2023-10-07
+Sodniku WuchererGe se je izbrisal datum iz AHL sheme. Datum:2023-10-07
+Sodniku SchweighoferMa se je izbrisal datum iz AHL sheme. Datum:2023-10-07
+Sodniku WidmannFl se je izbrisal datum iz AHL sheme. Datum:2023-10-07
+[Tue Sep 26 2023 17:55:17 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-07
+[Tue Sep 26 2023 18:00:17 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-07
+Sodniku MilovanovicJa se je izbrisal datum iz AHL sheme. Datum:2023-10-07
+Sodniku MilovanovicJa se je izbrisal datum iz AHL sheme. Datum:2023-10-07
