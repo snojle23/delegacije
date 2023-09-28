@@ -910,3 +910,6 @@ Sodniku LinesmanEi se je izbrisal datum iz AHL sheme. Datum:2023-09-30
 Sodniku RinkerDa se je izbrisal datum iz AHL sheme. Datum:2023-10-01
 Sodniku JägerRi se je izbrisal datum iz AHL sheme. Datum:2023-10-05
 Sodniku MoschenAn se je izbrisal datum iz AHL sheme. Datum:2023-09-28
+Sodniku LegaSi se je izbrisal datum iz AHL sheme. Datum:2023-09-30
+[Thu Sep 28 2023 12:35:43 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikColcucGl uspesno dodan 
+Sodniku ColcucGl se je izbrisal datum iz AHL sheme. Datum:2023-09-30
