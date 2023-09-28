@@ -531,3 +531,8 @@
 [Wed Sep 27 2023 12:48:52 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SeewaldEl uspesno zamenjal SeewaldJe Lokacija: Klagenfurter Stadthalle, Datum: 2023-09-29
 [Wed Sep 27 2023 12:48:52 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SeewaldJe uspesno zamenjal SeewaldEl Lokacija: Klagenfurter Stadthalle, Datum: 2023-09-29
 [Wed Sep 27 2023 12:48:52 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SmetanaLa uspesno zamenjal FichtnerPa Lokacija: Gabor Ocskay Eisarena, Datum: 2023-09-30
+[Wed Sep 27 2023 19:02:43 GMT+0200 (Srednjeevropski poletni čas)] Sodnik BergantAn uspesno zamenjal LinesmanEi Lokacija: Eishalle Celje, Datum: 2023-09-30
+[Wed Sep 27 2023 19:37:09 GMT+0200 (Srednjeevropski poletni čas)] Sodnik JägerRi uspesno zamenjal RinkerDa Lokacija: Eishalle Dornbirn, Datum: 2023-10-01
+[Wed Sep 27 2023 19:37:09 GMT+0200 (Srednjeevropski poletni čas)] Sodnik MattheyPh uspesno zamenjal JägerRi Lokacija: Eishalle Lustenau, Datum: 2023-10-05
+[Wed Sep 27 2023 19:37:09 GMT+0200 (Srednjeevropski poletni čas)] Sodnik RinkerDa uspesno zamenjal MattheyPh Lokacija: Eishalle Lustenau, Datum: 2023-10-05
+[Thu Sep 28 2023 08:55:22 GMT+0200 (Srednjeevropski poletni čas)] Sodnik PirasAn uspesno zamenjal MoschenAn Lokacija: Würtharena Neumarkt, Datum: 2023-09-28

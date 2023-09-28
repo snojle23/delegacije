@@ -900,3 +900,13 @@ Sodniku WidmannFl se je izbrisal datum iz AHL sheme. Datum:2023-10-07
 [Tue Sep 26 2023 18:00:17 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-07
 Sodniku MilovanovicJa se je izbrisal datum iz AHL sheme. Datum:2023-10-07
 Sodniku MilovanovicJa se je izbrisal datum iz AHL sheme. Datum:2023-10-07
+Sodniku ArlicMa se je izbrisal datum iz AHL sheme. Datum:2023-09-30
+Sodniku BulovecMi se je izbrisal datum iz AHL sheme. Datum:2023-09-30
+Sodniku WuntschekDo se je izbrisal datum iz AHL sheme. Datum:2023-09-30
+Sodniku PötscherMi se je izbrisal datum iz AHL sheme. Datum:2023-09-30
+[Wed Sep 27 2023 16:46:15 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-30
+[Wed Sep 27 2023 16:46:15 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikLinesmanEi uspesno dodan 
+Sodniku LinesmanEi se je izbrisal datum iz AHL sheme. Datum:2023-09-30
+Sodniku RinkerDa se je izbrisal datum iz AHL sheme. Datum:2023-10-01
+Sodniku JägerRi se je izbrisal datum iz AHL sheme. Datum:2023-10-05
+Sodniku MoschenAn se je izbrisal datum iz AHL sheme. Datum:2023-09-28
