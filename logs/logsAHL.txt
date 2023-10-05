@@ -916,3 +916,42 @@ Sodniku ColcucGl se je izbrisal datum iz AHL sheme. Datum:2023-09-30
 Sodniku BassoNi se je izbrisal datum iz AHL sheme. Datum:2023-10-07
 Sodniku HesinaCh se je izbrisal datum iz AHL sheme. Datum:2023-09-30
 Sodniku CristeliMa se je izbrisal datum iz AHL sheme. Datum:2023-10-01
+Sodniku HesinaCh se je izbrisal datum iz AHL sheme. Datum:2023-10-14
+Sodniku SeewaldJe se je izbrisal datum iz AHL sheme. Datum:2023-10-12
+Sodniku WuntschekDo se je izbrisal datum iz AHL sheme. Datum:2023-10-05
+[Wed Oct 04 2023 02:27:01 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnik uspesno dodan 
+Sodniku  se je izbrisal datum iz AHL sheme. Datum:2023-10-05
+[Wed Oct 04 2023 22:53:23 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-01
+[Wed Oct 04 2023 22:53:23 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-01
+[Wed Oct 04 2023 22:53:23 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-01
+[Wed Oct 04 2023 22:53:23 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-01
+[Wed Oct 04 2023 22:53:23 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-01
+[Wed Oct 04 2023 22:53:23 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-01
+[Wed Oct 04 2023 22:53:23 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-01
+[Wed Oct 04 2023 22:53:23 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-03
+[Wed Oct 04 2023 22:53:23 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-04
+[Wed Oct 04 2023 22:53:23 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-04
+[Wed Oct 04 2023 22:53:23 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-04
+[Wed Oct 04 2023 22:53:23 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-04
+[Wed Oct 04 2023 22:53:23 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-04
+[Wed Oct 04 2023 22:53:23 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-04
+[Wed Oct 04 2023 22:53:23 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-04
+[Wed Oct 04 2023 22:53:23 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-05
+[Wed Oct 04 2023 22:53:23 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-24
+[Wed Oct 04 2023 22:53:23 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-24
+[Wed Oct 04 2023 22:53:23 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-26
+[Wed Oct 04 2023 22:53:23 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-26
+[Wed Oct 04 2023 22:53:23 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-26
+[Wed Oct 04 2023 22:53:23 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-26
+[Wed Oct 04 2023 22:53:23 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-26
+[Wed Oct 04 2023 22:53:23 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-26
+[Wed Oct 04 2023 22:53:23 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-26
+[Wed Oct 04 2023 22:53:23 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-28
+[Wed Oct 04 2023 22:53:23 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-28
+[Wed Oct 04 2023 22:53:23 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-28
+[Wed Oct 04 2023 22:53:23 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-28
+[Wed Oct 04 2023 22:53:23 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-28
+[Wed Oct 04 2023 22:53:23 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-28
+[Wed Oct 04 2023 22:53:23 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-28
+[Wed Oct 04 2023 22:53:23 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-28
+[Wed Oct 04 2023 22:53:23 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikPuffWo uspesno dodan 

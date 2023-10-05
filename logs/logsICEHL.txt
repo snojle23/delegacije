@@ -6606,3 +6606,5 @@ Sodniku HeadEi se je izbrisal datum iz ICEHL sheme. Datum:2023-11-03
 [Sat Sep 30 2023 20:20:58 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-29
 [Sat Sep 30 2023 20:20:58 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-03
 [Sat Sep 30 2023 20:20:58 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-05
+Sodniku RenczDa se je izbrisal datum iz ICEHL sheme. Datum:2023-10-05
+Sodniku SoosDa se je izbrisal datum iz ICEHL sheme. Datum:2023-10-08

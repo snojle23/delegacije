@@ -84,15 +84,15 @@ function scheduledFunction() {
             });
         }
         countHour++
-        if (countHour === 60) {
+        if (countHour === 24) {
             const today = new Date();
             console.log('');
-            console.log("Še 5 ur je šlo mimo. Skupen stevec: " + counter + " datum:" + `${today.getHours()}:${today.getMinutes()}`);
+            console.log("Še 6 ur je šlo mimo. Skupen stevec: " + counter + " datum:" + `${today.getHours()}:${today.getMinutes()}`);
             countHour = 0;
         } else {
-            process.stdout.write(`\rProgress: ${(countHour / 60 * 100).toFixed(2)}% Zadnja ura: ${today.getHours()}:${today.getMinutes()}`);
+            process.stdout.write(`\rProgress: ${(countHour / 24 * 100).toFixed(2)}% Zadnja ura: ${today.getHours()}:${today.getMinutes()}`);
         }
 
         counter++;
-    }, 1 * 5 * 60 * 1000); // 1 hour = 1 * 60 * 60 * 1000
+    }, 1 * 15 * 60 * 1000); // 1 hour = 1 * 60 * 60 * 1000
 }       // 1 * 1 * 30 * 1000 30sec
