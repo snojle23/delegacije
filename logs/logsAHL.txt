@@ -955,3 +955,11 @@ Sodniku  se je izbrisal datum iz AHL sheme. Datum:2023-10-05
 [Wed Oct 04 2023 22:53:23 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-28
 [Wed Oct 04 2023 22:53:23 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-28
 [Wed Oct 04 2023 22:53:23 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikPuffWo uspesno dodan 
+Sodniku VirtaTu se je izbrisal datum iz AHL sheme. Datum:2023-11-01
+Sodniku StefenelliFe se je izbrisal datum iz AHL sheme. Datum:2023-11-05
+Sodniku  se je izbrisal datum iz AHL sheme. Datum:2023-11-05
+Sodniku CusinFe se je izbrisal datum iz AHL sheme. Datum:2023-11-01
+Sodniku BajtMi se je izbrisal datum iz AHL sheme. Datum:2023-11-04
+Sodniku AbeltinoSi se je izbrisal datum iz AHL sheme. Datum:2023-11-04
+Sodniku BulovecMi se je izbrisal datum iz AHL sheme. Datum:2023-11-04
+Sodniku WiestAl se je izbrisal datum iz AHL sheme. Datum:2023-11-04
