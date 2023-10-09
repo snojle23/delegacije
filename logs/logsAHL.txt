@@ -963,3 +963,5 @@ Sodniku BajtMi se je izbrisal datum iz AHL sheme. Datum:2023-11-04
 Sodniku AbeltinoSi se je izbrisal datum iz AHL sheme. Datum:2023-11-04
 Sodniku BulovecMi se je izbrisal datum iz AHL sheme. Datum:2023-11-04
 Sodniku WiestAl se je izbrisal datum iz AHL sheme. Datum:2023-11-04
+Sodniku WiestAl se je izbrisal datum iz AHL sheme. Datum:2023-10-08
+[Mon Oct 09 2023 09:25:49 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-04

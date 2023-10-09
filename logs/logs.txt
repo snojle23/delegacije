@@ -645,3 +645,9 @@
 [Sat Oct 07 2023 06:05:30 GMT+0200 (Srednjeevropski poletni čas)] Sodnik NikolicKr uspesno zamenjal NikolicMa Lokacija: Eiswelle Bozen, Datum: 2023-10-25
 [Sat Oct 07 2023 06:05:30 GMT+0200 (Srednjeevropski poletni čas)] Sodnik NikolicMa uspesno zamenjal NikolicKr Lokacija: Eiswelle Bozen, Datum: 2023-10-25
 [Sat Oct 07 2023 12:17:58 GMT+0200 (Srednjeevropski poletni čas)] Sodnik AbeltinoSi uspesno zamenjal CusinFe Lokacija: Würtharena Neumarkt, Datum: 2023-11-01
+[Sun Oct 08 2023 06:31:58 GMT+0200 (Srednjeevropski poletni čas)] Sodnik NikolicMa uspesno zamenjal NikolicKr Lokacija: Eiswelle Bozen, Datum: 2023-10-25
+[Sun Oct 08 2023 06:31:58 GMT+0200 (Srednjeevropski poletni čas)] Sodnik NikolicKr uspesno zamenjal NikolicMa Lokacija: Eiswelle Bozen, Datum: 2023-10-25
+[Sun Oct 08 2023 09:55:42 GMT+0200 (Srednjeevropski poletni čas)] Sodnik CristeliMa uspesno zamenjal De zordoMa Lokacija: Eishalle Cortina, Datum: 2023-10-08
+[Sun Oct 08 2023 09:55:42 GMT+0200 (Srednjeevropski poletni čas)] Sodnik De zordoMa uspesno zamenjal WiestAl Lokacija: Eishalle Cortina, Datum: 2023-10-08
+[Mon Oct 09 2023 06:34:50 GMT+0200 (Srednjeevropski poletni čas)] Sodnik NikolicKr uspesno zamenjal NikolicMa Lokacija: Eiswelle Bozen, Datum: 2023-10-25
+[Mon Oct 09 2023 06:34:50 GMT+0200 (Srednjeevropski poletni čas)] Sodnik NikolicMa uspesno zamenjal NikolicKr Lokacija: Eiswelle Bozen, Datum: 2023-10-25
