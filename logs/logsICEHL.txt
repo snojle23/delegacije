@@ -6634,3 +6634,17 @@ Sodniku NikolicMa se je izbrisal datum iz ICEHL sheme. Datum:2023-10-14
 Sodniku NikolicMa se je izbrisal datum iz ICEHL sheme. Datum:2023-10-14
 Sodniku MoidlMa se je izbrisal datum iz ICEHL sheme. Datum:2023-10-14
 Sodniku MoidlMa se je izbrisal datum iz ICEHL sheme. Datum:2023-10-14
+Sodniku SparerDa se je izbrisal datum iz ICEHL sheme. Datum:2023-10-20
+Sodniku SparerDa se je izbrisal datum iz ICEHL sheme. Datum:2023-10-25
+Sodniku NikolicKr se je izbrisal datum iz ICEHL sheme. Datum:2023-10-27
+Sodniku HeadEi se je izbrisal datum iz ICEHL sheme. Datum:2023-10-27
+Sodniku SparerDa se je izbrisal datum iz ICEHL sheme. Datum:2023-10-29
+Sodniku SparerDa se je izbrisal datum iz ICEHL sheme. Datum:2023-11-01
+Sodniku SparerDa se je izbrisal datum iz ICEHL sheme. Datum:2023-11-03
+Sodniku HeadEi se je izbrisal datum iz ICEHL sheme. Datum:2023-11-03
+[Mon Oct 09 2023 13:45:29 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikVoicanCh uspesno dodan 
+Sodniku NikolicMa se je izbrisal datum iz ICEHL sheme. Datum:2023-11-05
+Sodniku HeadEi se je izbrisal datum iz ICEHL sheme. Datum:2023-11-05
+Sodniku PalköviZs se je izbrisal datum iz ICEHL sheme. Datum:2023-10-21
+[Mon Oct 09 2023 18:45:28 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-03
+Sodniku NikolicMa se je izbrisal datum iz ICEHL sheme. Datum:2023-11-03

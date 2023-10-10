@@ -965,3 +965,9 @@ Sodniku BulovecMi se je izbrisal datum iz AHL sheme. Datum:2023-11-04
 Sodniku WiestAl se je izbrisal datum iz AHL sheme. Datum:2023-11-04
 Sodniku WiestAl se je izbrisal datum iz AHL sheme. Datum:2023-10-08
 [Mon Oct 09 2023 09:25:49 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-04
+Sodniku VoicanCh se je izbrisal datum iz AHL sheme. Datum:2023-11-03
+[Mon Oct 09 2023 13:45:29 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikHeadSc uspesno dodan 
+Sodniku SchauerJa se je izbrisal datum iz AHL sheme. Datum:2023-10-19
+[Mon Oct 09 2023 18:45:28 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikHeadEi uspesno dodan 
+Sodniku HeadEi se je izbrisal datum iz AHL sheme. Datum:2023-10-19
+Sodniku HeadSc se je izbrisal datum iz AHL sheme. Datum:2023-11-03
