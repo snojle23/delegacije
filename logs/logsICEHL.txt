@@ -6648,3 +6648,4 @@ Sodniku HeadEi se je izbrisal datum iz ICEHL sheme. Datum:2023-11-05
 Sodniku PalköviZs se je izbrisal datum iz ICEHL sheme. Datum:2023-10-21
 [Mon Oct 09 2023 18:45:28 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-03
 Sodniku NikolicMa se je izbrisal datum iz ICEHL sheme. Datum:2023-11-03
+Sodniku RigoniDa se je izbrisal datum iz ICEHL sheme. Datum:2023-10-20

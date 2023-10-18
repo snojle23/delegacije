@@ -676,3 +676,13 @@
 [Mon Oct 09 2023 18:45:28 GMT+0200 (Srednjeevropski poletni čas)] Sodnik HeadEi uspesno zamenjal SchauerJa Lokacija: Eishalle Sterzing, Datum: 2023-10-19
 [Mon Oct 09 2023 20:00:29 GMT+0200 (Srednjeevropski poletni čas)] Sodnik PinieOm uspesno zamenjal HeadEi Lokacija: Eishalle Sterzing, Datum: 2023-10-19
 [Mon Oct 09 2023 20:15:29 GMT+0200 (Srednjeevropski poletni čas)] Sodnik RuetzMa uspesno zamenjal HeadSc Lokacija: Eishalle Dornbirn, Datum: 2023-11-03
+[Tue Oct 10 2023 09:59:24 GMT+0200 (Srednjeevropski poletni čas)] Sodnik KanyoTa uspesno zamenjal KlemmAn Lokacija: Eishalle Zell am See, Datum: 2023-10-12
+[Tue Oct 10 2023 09:59:24 GMT+0200 (Srednjeevropski poletni čas)] Sodnik MurnikPe uspesno zamenjal KlemmAn Lokacija: Klagenfurter Stadthalle, Datum: 2023-10-28
+[Tue Oct 10 2023 09:59:24 GMT+0200 (Srednjeevropski poletni čas)] Sodnik WendnerMa uspesno zamenjal MurnikPe Lokacija: Klagenfurter Stadthalle, Datum: 2023-10-28
+[Tue Oct 10 2023 19:45:30 GMT+0200 (Srednjeevropski poletni čas)] Sodnik BenvegnuAn uspesno zamenjal BassoNi Lokacija: Würtharena Neumarkt, Datum: 2023-10-14
+[Tue Oct 10 2023 19:45:30 GMT+0200 (Srednjeevropski poletni čas)] Sodnik LegaSi uspesno zamenjal BenvegnuAn Lokacija: Würtharena Neumarkt, Datum: 2023-10-14
+[Wed Oct 11 2023 14:02:19 GMT+0200 (Srednjeevropski poletni čas)] Sodnik FleischmannLu uspesno zamenjal PardatscherUl Lokacija: Eiswelle Bozen, Datum: 2023-10-20
+[Wed Oct 11 2023 14:02:19 GMT+0200 (Srednjeevropski poletni čas)] Sodnik PardatscherUl uspesno zamenjal RigoniDa Lokacija: Eiswelle Bozen, Datum: 2023-10-20
+[Thu Oct 12 2023 09:47:40 GMT+0200 (Srednjeevropski poletni čas)] Sodnik NikolicMa uspesno zamenjal NikolicKr Lokacija: Eiswelle Bozen, Datum: 2023-10-25
+[Thu Oct 12 2023 09:47:40 GMT+0200 (Srednjeevropski poletni čas)] Sodnik NikolicKr uspesno zamenjal NikolicMa Lokacija: Eiswelle Bozen, Datum: 2023-10-25
+[Thu Oct 12 2023 15:47:40 GMT+0200 (Srednjeevropski poletni čas)] Sodnik MoidlMa uspesno zamenjal MattheyPh Lokacija: Linz AG Eisarena, Datum: 2023-10-28

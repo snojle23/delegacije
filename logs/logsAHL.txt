@@ -971,3 +971,7 @@ Sodniku SchauerJa se je izbrisal datum iz AHL sheme. Datum:2023-10-19
 [Mon Oct 09 2023 18:45:28 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikHeadEi uspesno dodan 
 Sodniku HeadEi se je izbrisal datum iz AHL sheme. Datum:2023-10-19
 Sodniku HeadSc se je izbrisal datum iz AHL sheme. Datum:2023-11-03
+Sodniku KlemmAn se je izbrisal datum iz AHL sheme. Datum:2023-10-12
+Sodniku KlemmAn se je izbrisal datum iz AHL sheme. Datum:2023-10-28
+Sodniku BassoNi se je izbrisal datum iz AHL sheme. Datum:2023-10-14
+Sodniku MattheyPh se je izbrisal datum iz AHL sheme. Datum:2023-10-28
