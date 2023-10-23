@@ -981,3 +981,18 @@ Sodniku WiestAl se je izbrisal datum iz AHL sheme. Datum:2023-11-04
 Sodniku VirtaTu se je izbrisal datum iz AHL sheme. Datum:2023-10-26
 Sodniku ZacherlPa se je izbrisal datum iz AHL sheme. Datum:2023-10-19
 Sodniku EislCh se je izbrisal datum iz AHL sheme. Datum:2023-10-19
+Sodniku BrockAd se je izbrisal datum iz AHL sheme. Datum:2023-10-21
+Sodniku ZacherlPa se je izbrisal datum iz AHL sheme. Datum:2023-10-21
+Sodniku WidmannFl se je izbrisal datum iz AHL sheme. Datum:2023-10-21
+Sodniku SeewaldJe se je izbrisal datum iz AHL sheme. Datum:2023-10-21
+Sodniku MattheyPh se je izbrisal datum iz AHL sheme. Datum:2023-10-24
+Sodniku ZacherlPa se je izbrisal datum iz AHL sheme. Datum:2023-10-24
+Sodniku LehnerMo se je izbrisal datum iz AHL sheme. Datum:2023-10-24
+Sodniku SchauerJa se je izbrisal datum iz AHL sheme. Datum:2023-10-24
+[Fri Oct 20 2023 11:03:35 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-21
+[Fri Oct 20 2023 11:03:35 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-24
+[Fri Oct 20 2023 12:18:35 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-21
+Sodniku GiacomozziFe se je izbrisal datum iz AHL sheme. Datum:2023-10-21
+Sodniku LehnerMo se je izbrisal datum iz AHL sheme. Datum:2023-10-24
+[Sun Oct 22 2023 18:34:15 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikHeadZw uspesno dodan 
+Sodniku HeadZw se je izbrisal datum iz AHL sheme. Datum:2023-10-24

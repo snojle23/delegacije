@@ -6722,3 +6722,7 @@ Sodniku RigoniDa se je izbrisal datum iz ICEHL sheme. Datum:2023-10-20
 Sodniku NikolicKr se je izbrisal datum iz ICEHL sheme. Datum:2023-10-29
 Sodniku FleischmannLu se je izbrisal datum iz ICEHL sheme. Datum:2023-11-17
 Sodniku FleischmannLu se je izbrisal datum iz ICEHL sheme. Datum:2023-11-19
+Sodniku EislCh se je izbrisal datum iz ICEHL sheme. Datum:2023-10-20
+Sodniku WimmlerAl se je izbrisal datum iz ICEHL sheme. Datum:2023-11-19
+Sodniku MartinFl se je izbrisal datum iz ICEHL sheme. Datum:2023-10-25
+Sodniku MartinFl se je izbrisal datum iz ICEHL sheme. Datum:2023-11-24
