@@ -733,3 +733,8 @@
 [Sun Oct 22 2023 20:20:04 GMT+0200 (Srednjeevropski poletni čas)] Sodnik HolzerTo uspesno zamenjal HeadZw Lokacija: Eishalle Dornbirn, Datum: 2023-10-24
 [Mon Oct 23 2023 06:07:49 GMT+0200 (Srednjeevropski poletni čas)] Sodnik NikolicMa uspesno zamenjal NikolicKr Lokacija: Eiswelle Bozen, Datum: 2023-10-25
 [Mon Oct 23 2023 06:07:49 GMT+0200 (Srednjeevropski poletni čas)] Sodnik NikolicKr uspesno zamenjal NikolicMa Lokacija: Eiswelle Bozen, Datum: 2023-10-25
+[Mon Oct 23 2023 16:00:39 GMT+0200 (Srednjeevropski poletni čas)] Sodnik BernekerTh uspesno zamenjal HuberAn Lokacija: Eishalle Feldkirch, Datum: 2023-10-25
+[Mon Oct 23 2023 16:00:39 GMT+0200 (Srednjeevropski poletni čas)] Sodnik HuberAn uspesno zamenjal BernekerTh Lokacija: Eishalle Bruneck, Datum: 2023-10-25
+[Mon Oct 23 2023 16:30:39 GMT+0200 (Srednjeevropski poletni čas)] Sodnik NikolicKr uspesno zamenjal NikolicMa Lokacija: Eiswelle Bozen, Datum: 2023-10-25
+[Mon Oct 23 2023 16:30:39 GMT+0200 (Srednjeevropski poletni čas)] Sodnik NikolicMa uspesno zamenjal NikolicKr Lokacija: Eiswelle Bozen, Datum: 2023-10-25
+[Tue Oct 24 2023 09:05:47 GMT+0200 (Srednjeevropski poletni čas)] Sodnik MartinFl uspesno zamenjal LinesmanZw Lokacija: Eishalle Dornbirn, Datum: 2023-10-24
