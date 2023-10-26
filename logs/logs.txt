@@ -738,3 +738,12 @@
 [Mon Oct 23 2023 16:30:39 GMT+0200 (Srednjeevropski poletni čas)] Sodnik NikolicKr uspesno zamenjal NikolicMa Lokacija: Eiswelle Bozen, Datum: 2023-10-25
 [Mon Oct 23 2023 16:30:39 GMT+0200 (Srednjeevropski poletni čas)] Sodnik NikolicMa uspesno zamenjal NikolicKr Lokacija: Eiswelle Bozen, Datum: 2023-10-25
 [Tue Oct 24 2023 09:05:47 GMT+0200 (Srednjeevropski poletni čas)] Sodnik MartinFl uspesno zamenjal LinesmanZw Lokacija: Eishalle Dornbirn, Datum: 2023-10-24
+[Wed Oct 25 2023 11:37:12 GMT+0200 (Srednjeevropski poletni čas)] Sodnik FajdigaAl uspesno zamenjal SoraperraSi Lokacija: Eishalle Cortina, Datum: 2023-11-01
+[Wed Oct 25 2023 11:37:12 GMT+0200 (Srednjeevropski poletni čas)] Sodnik De zordoMa uspesno zamenjal BrondiPa Lokacija: Eishalle Cortina, Datum: 2023-11-01
+[Wed Oct 25 2023 11:37:12 GMT+0200 (Srednjeevropski poletni čas)] Sodnik JavornikBl uspesno zamenjal De zordoMa Lokacija: Eishalle Cortina, Datum: 2023-11-01
+[Wed Oct 25 2023 11:37:12 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SoraperraSi uspesno zamenjal FajdigaAl Lokacija: Eishalle Gröden, Datum: 2023-11-01
+[Wed Oct 25 2023 11:37:12 GMT+0200 (Srednjeevropski poletni čas)] Sodnik BrondiPa uspesno zamenjal JavornikBl Lokacija: Eishalle Gröden, Datum: 2023-11-01
+[Wed Oct 25 2023 18:24:22 GMT+0200 (Srednjeevropski poletni čas)] Sodnik WuchererGe uspesno zamenjal TelesklavFa Lokacija: Sportpark Kitzbühel, Datum: 2023-10-26
+[Wed Oct 25 2023 18:24:22 GMT+0200 (Srednjeevropski poletni čas)] Sodnik MarkizetiGr uspesno zamenjal PuffWo Lokacija: Eishalle Jesenice, Datum: 2023-10-26
+[Wed Oct 25 2023 18:24:22 GMT+0200 (Srednjeevropski poletni čas)] Sodnik PuffWo uspesno zamenjal WuchererGe Lokacija: Eishalle Jesenice, Datum: 2023-10-26
+[Wed Oct 25 2023 20:10:13 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SeewaldJe uspesno zamenjal ZacherlPa Lokacija: Würtharena Neumarkt, Datum: 2023-11-01
