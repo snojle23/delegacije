@@ -747,3 +747,11 @@
 [Wed Oct 25 2023 18:24:22 GMT+0200 (Srednjeevropski poletni čas)] Sodnik MarkizetiGr uspesno zamenjal PuffWo Lokacija: Eishalle Jesenice, Datum: 2023-10-26
 [Wed Oct 25 2023 18:24:22 GMT+0200 (Srednjeevropski poletni čas)] Sodnik PuffWo uspesno zamenjal WuchererGe Lokacija: Eishalle Jesenice, Datum: 2023-10-26
 [Wed Oct 25 2023 20:10:13 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SeewaldJe uspesno zamenjal ZacherlPa Lokacija: Würtharena Neumarkt, Datum: 2023-11-01
+[Thu Oct 26 2023 18:44:57 GMT+0200 (Srednjeevropski poletni čas)] Sodnik BassoNi uspesno zamenjal LegaSi Lokacija: Eishalle Lustenau, Datum: 2023-10-28
+[Thu Oct 26 2023 18:44:57 GMT+0200 (Srednjeevropski poletni čas)] Sodnik LegaSi uspesno zamenjal PirasAn Lokacija: Eishalle Lustenau, Datum: 2023-10-28
+[Thu Oct 26 2023 18:44:57 GMT+0200 (Srednjeevropski poletni čas)] Sodnik PirasAn uspesno zamenjal BassoNi Lokacija: Eishalle Cortina, Datum: 2023-10-28
+[Fri Oct 27 2023 10:44:26 GMT+0200 (Srednjeevropski poletni čas)] Sodnik CristeliMa uspesno zamenjal CusinFe Lokacija: Eishalle Cortina, Datum: 2023-10-28
+[Fri Oct 27 2023 20:02:28 GMT+0200 (Srednjeevropski poletni čas)] Sodnik MoschenAn uspesno zamenjal KainbergerJu Lokacija: Eisarena Salzburg, Datum: 2023-10-28
+[Fri Oct 27 2023 20:02:28 GMT+0200 (Srednjeevropski poletni čas)] Sodnik OrelSt uspesno zamenjal MoschenAn Lokacija: Eisarena Salzburg, Datum: 2023-10-28
+[Mon Oct 30 2023 11:23:50 GMT+0100 (Srednjeevropski standardni čas)] Sodnik CristeliMa uspesno zamenjal De zordoMa Lokacija: Eishalle Cortina, Datum: 2023-11-01
+[Mon Oct 30 2023 11:23:50 GMT+0100 (Srednjeevropski standardni čas)] Sodnik De zordoMa uspesno zamenjal CristeliMa Lokacija: Eishalle Ritten, Datum: 2023-11-01

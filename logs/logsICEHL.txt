@@ -6726,3 +6726,5 @@ Sodniku EislCh se je izbrisal datum iz ICEHL sheme. Datum:2023-10-20
 Sodniku WimmlerAl se je izbrisal datum iz ICEHL sheme. Datum:2023-11-19
 Sodniku MartinFl se je izbrisal datum iz ICEHL sheme. Datum:2023-10-25
 Sodniku MartinFl se je izbrisal datum iz ICEHL sheme. Datum:2023-11-24
+[Sat Oct 28 2023 13:04:19 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-22
+[Sat Oct 28 2023 13:04:19 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-11-22
