@@ -1096,3 +1096,6 @@ Sodniku KanyoTa se je izbrisal datum iz AHL sheme. Datum:2023-11-04
 Sodniku WuntschekDo se je izbrisal datum iz AHL sheme. Datum:2023-11-16
 Sodniku StefenelliFe se je izbrisal datum iz AHL sheme. Datum:2023-11-14
 Sodniku MoschenAn se je izbrisal datum iz AHL sheme. Datum:2023-11-30
+Sodniku LegatKo se je izbrisal datum iz AHL sheme. Datum:2023-11-18
+Sodniku DieberDo se je izbrisal datum iz AHL sheme. Datum:2023-11-28
+Sodniku SchonaklenerPa se je izbrisal datum iz AHL sheme. Datum:2023-11-15

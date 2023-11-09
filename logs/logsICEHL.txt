@@ -6733,3 +6733,8 @@ Sodniku  se je izbrisal datum iz ICEHL sheme. Datum:2023-11-24
 Sodniku SternatCh se je izbrisal datum iz ICEHL sheme. Datum:2023-11-03
 Sodniku MantovaniDa se je izbrisal datum iz ICEHL sheme. Datum:2023-11-03
 Sodniku PardatscherUl se je izbrisal datum iz ICEHL sheme. Datum:2023-11-05
+Sodniku OfnerCh se je izbrisal datum iz ICEHL sheme. Datum:2023-12-08
+Sodniku SchauerJa se je izbrisal datum iz ICEHL sheme. Datum:2023-11-17
+Sodniku HolzerTo se je izbrisal datum iz ICEHL sheme. Datum:2023-11-28
+Sodniku KoncDa se je izbrisal datum iz ICEHL sheme. Datum:2023-12-05
+Sodniku SnojTa se je izbrisal datum iz ICEHL sheme. Datum:2023-12-08

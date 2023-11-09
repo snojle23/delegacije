@@ -787,3 +787,15 @@
 [Sat Nov 04 2023 21:00:36 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PinieOm uspesno zamenjal StefenelliFe Lokacija: Eishalle Cortina, Datum: 2023-11-14
 [Sat Nov 04 2023 21:00:36 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PinieOm uspesno zamenjal MoschenAn Lokacija: Eishalle Canazei, Datum: 2023-11-30
 [Sat Nov 04 2023 21:00:36 GMT+0100 (Srednjeevropski standardni čas)] Sodnik StefenelliFe uspesno zamenjal PinieOm Lokacija: Eishalle Canazei, Datum: 2023-11-30
+[Sun Nov 05 2023 20:43:52 GMT+0100 (Srednjeevropski standardni čas)] Sodnik DieberDo uspesno zamenjal LegatKo Lokacija: Linz AG Eisarena, Datum: 2023-11-18
+[Sun Nov 05 2023 20:43:52 GMT+0100 (Srednjeevropski standardni čas)] Sodnik LegatKo uspesno zamenjal DieberDo Lokacija: Eishalle Celje, Datum: 2023-11-28
+[Wed Nov 08 2023 18:28:06 GMT+0100 (Srednjeevropski standardni čas)] Sodnik EislCh uspesno zamenjal MoidlMa Lokacija: Eishalle Dornbirn, Datum: 2023-11-15
+[Wed Nov 08 2023 18:28:06 GMT+0100 (Srednjeevropski standardni čas)] Sodnik MoidlMa uspesno zamenjal SchonaklenerPa Lokacija: Eishalle Dornbirn, Datum: 2023-11-15
+[Thu Nov 09 2023 18:28:02 GMT+0100 (Srednjeevropski standardni čas)] Sodnik GroznikBo uspesno zamenjal NagyAt Lokacija: Gabor Ocskay Eisarena, Datum: 2023-12-08
+[Thu Nov 09 2023 18:28:02 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NagyAt uspesno zamenjal OfnerCh Lokacija: Gabor Ocskay Eisarena, Datum: 2023-12-08
+[Thu Nov 09 2023 18:58:02 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HolzerTo uspesno zamenjal PiragicTr Lokacija: Eishalle Feldkirch, Datum: 2023-11-17
+[Thu Nov 09 2023 18:58:02 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PiragicTr uspesno zamenjal SchauerJa Lokacija: Eishalle Feldkirch, Datum: 2023-11-17
+[Thu Nov 09 2023 18:58:02 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SchauerJa uspesno zamenjal HolzerTo Lokacija: Eishalle Feldkirch, Datum: 2023-11-28
+[Thu Nov 09 2023 18:58:02 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SnojTa uspesno zamenjal KoncDa Lokacija: Gabor Ocskay Eisarena, Datum: 2023-12-05
+[Thu Nov 09 2023 18:58:02 GMT+0100 (Srednjeevropski standardni čas)] Sodnik KoncDa uspesno zamenjal MuzsikNo Lokacija: Gabor Ocskay Eisarena, Datum: 2023-12-08
+[Thu Nov 09 2023 18:58:02 GMT+0100 (Srednjeevropski standardni čas)] Sodnik MuzsikNo uspesno zamenjal SnojTa Lokacija: Gabor Ocskay Eisarena, Datum: 2023-12-08
