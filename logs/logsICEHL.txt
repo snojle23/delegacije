@@ -6738,3 +6738,4 @@ Sodniku SchauerJa se je izbrisal datum iz ICEHL sheme. Datum:2023-11-17
 Sodniku HolzerTo se je izbrisal datum iz ICEHL sheme. Datum:2023-11-28
 Sodniku KoncDa se je izbrisal datum iz ICEHL sheme. Datum:2023-12-05
 Sodniku SnojTa se je izbrisal datum iz ICEHL sheme. Datum:2023-12-08
+Sodniku HribarMa se je izbrisal datum iz ICEHL sheme. Datum:2023-11-17

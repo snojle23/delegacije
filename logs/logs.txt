@@ -799,3 +799,9 @@
 [Thu Nov 09 2023 18:58:02 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SnojTa uspesno zamenjal KoncDa Lokacija: Gabor Ocskay Eisarena, Datum: 2023-12-05
 [Thu Nov 09 2023 18:58:02 GMT+0100 (Srednjeevropski standardni čas)] Sodnik KoncDa uspesno zamenjal MuzsikNo Lokacija: Gabor Ocskay Eisarena, Datum: 2023-12-08
 [Thu Nov 09 2023 18:58:02 GMT+0100 (Srednjeevropski standardni čas)] Sodnik MuzsikNo uspesno zamenjal SnojTa Lokacija: Gabor Ocskay Eisarena, Datum: 2023-12-08
+[Sun Nov 12 2023 15:20:01 GMT+0100 (Srednjeevropski standardni čas)] Sodnik MoidlMa uspesno zamenjal JägerRi Lokacija: Eishalle Zell am See, Datum: 2023-11-18
+[Sun Nov 12 2023 15:20:01 GMT+0100 (Srednjeevropski standardni čas)] Sodnik JägerRi uspesno zamenjal MoidlMa Lokacija: Eishalle Dornbirn, Datum: 2023-11-15
+[Mon Nov 13 2023 03:54:47 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SeewaldEl uspesno zamenjal HribarMa Lokacija: Linz AG Eisarena, Datum: 2023-11-17
+[Mon Nov 13 2023 03:54:47 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SnojTa uspesno zamenjal SeewaldEl Lokacija: Linz AG Eisarena, Datum: 2023-11-17
+[Mon Nov 13 2023 07:54:47 GMT+0100 (Srednjeevropski standardni čas)] Sodnik KainbergerJu uspesno zamenjal HolzerTo Lokacija: Eishalle Zell am See, Datum: 2023-11-18
+[Mon Nov 13 2023 07:54:47 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HolzerTo uspesno zamenjal KainbergerJu Lokacija: Eishalle Dornbirn, Datum: 2023-11-15

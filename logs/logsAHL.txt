@@ -1099,3 +1099,7 @@ Sodniku MoschenAn se je izbrisal datum iz AHL sheme. Datum:2023-11-30
 Sodniku LegatKo se je izbrisal datum iz AHL sheme. Datum:2023-11-18
 Sodniku DieberDo se je izbrisal datum iz AHL sheme. Datum:2023-11-28
 Sodniku SchonaklenerPa se je izbrisal datum iz AHL sheme. Datum:2023-11-15
+Sodniku JägerRi se je izbrisal datum iz AHL sheme. Datum:2023-11-18
+Sodniku MoidlMa se je izbrisal datum iz AHL sheme. Datum:2023-11-15
+Sodniku HolzerTo se je izbrisal datum iz AHL sheme. Datum:2023-11-18
+Sodniku KainbergerJu se je izbrisal datum iz AHL sheme. Datum:2023-11-15
