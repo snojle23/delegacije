@@ -6739,3 +6739,5 @@ Sodniku HolzerTo se je izbrisal datum iz ICEHL sheme. Datum:2023-11-28
 Sodniku KoncDa se je izbrisal datum iz ICEHL sheme. Datum:2023-12-05
 Sodniku SnojTa se je izbrisal datum iz ICEHL sheme. Datum:2023-12-08
 Sodniku HribarMa se je izbrisal datum iz ICEHL sheme. Datum:2023-11-17
+Sodniku MoschenAn se je izbrisal datum iz ICEHL sheme. Datum:2023-12-10
+[Mon Nov 20 2023 16:50:17 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikHeadEi uspesno dodan 

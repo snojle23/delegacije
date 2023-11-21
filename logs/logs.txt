@@ -805,3 +805,24 @@
 [Mon Nov 13 2023 03:54:47 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SnojTa uspesno zamenjal SeewaldEl Lokacija: Linz AG Eisarena, Datum: 2023-11-17
 [Mon Nov 13 2023 07:54:47 GMT+0100 (Srednjeevropski standardni čas)] Sodnik KainbergerJu uspesno zamenjal HolzerTo Lokacija: Eishalle Zell am See, Datum: 2023-11-18
 [Mon Nov 13 2023 07:54:47 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HolzerTo uspesno zamenjal KainbergerJu Lokacija: Eishalle Dornbirn, Datum: 2023-11-15
+[Tue Nov 14 2023 09:08:55 GMT+0100 (Srednjeevropski standardni čas)] Sodnik LehnerMo uspesno zamenjal BrockAd Lokacija: Linz AG Eisarena, Datum: 2023-12-02
+[Tue Nov 14 2023 09:08:55 GMT+0100 (Srednjeevropski standardni čas)] Sodnik VoicanCh uspesno zamenjal LehnerMo Lokacija: Linz AG Eisarena, Datum: 2023-12-02
+[Tue Nov 14 2023 09:08:55 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BrockAd uspesno zamenjal OrelSt Lokacija: Linz AG Eisarena, Datum: 2023-11-30
+[Tue Nov 14 2023 09:08:55 GMT+0100 (Srednjeevropski standardni čas)] Sodnik OrelSt uspesno zamenjal VoicanCh Lokacija: Linz AG Eisarena, Datum: 2023-11-30
+[Wed Nov 15 2023 13:57:53 GMT+0100 (Srednjeevropski standardni čas)] Sodnik LazzeriAl uspesno zamenjal EggerTh Lokacija: Eishalle Canazei, Datum: 2023-11-16
+[Wed Nov 15 2023 15:12:54 GMT+0100 (Srednjeevropski standardni čas)] Sodnik WenuschHe uspesno zamenjal LehnerMo Lokacija: Eisarena Salzburg, Datum: 2023-11-21
+[Wed Nov 15 2023 15:12:54 GMT+0100 (Srednjeevropski standardni čas)] Sodnik LehnerMo uspesno zamenjal WenuschHe Lokacija: Linz AG Eisarena, Datum: 2023-11-23
+[Wed Nov 15 2023 19:12:52 GMT+0100 (Srednjeevropski standardni čas)] Sodnik LegaSi uspesno zamenjal BassoNi Lokacija: Eishalle Meran, Datum: 2023-11-18
+[Wed Nov 15 2023 19:27:53 GMT+0100 (Srednjeevropski standardni čas)] Sodnik EislCh uspesno zamenjal PreiserJu Lokacija: Eisarena Salzburg, Datum: 2023-11-21
+[Wed Nov 15 2023 19:27:53 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PreiserJu uspesno zamenjal SchonaklenerPa Lokacija: Eisarena Salzburg, Datum: 2023-11-21
+[Fri Nov 17 2023 17:55:56 GMT+0100 (Srednjeevropski standardni čas)] Sodnik LegatKo uspesno zamenjal SchonaklenerPa Lokacija: Eishalle Jesenice, Datum: 2023-12-09
+[Fri Nov 17 2023 18:41:59 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BajtMi uspesno zamenjal KainbergerJu Lokacija: Klagenfurter Stadthalle, Datum: 2023-11-23
+[Fri Nov 17 2023 18:41:59 GMT+0100 (Srednjeevropski standardni čas)] Sodnik KainbergerJu uspesno zamenjal WuntschekDo Lokacija: Klagenfurter Stadthalle, Datum: 2023-11-23
+[Fri Nov 17 2023 18:41:59 GMT+0100 (Srednjeevropski standardni čas)] Sodnik ArlicMa uspesno zamenjal KanyoTa Lokacija: Klagenfurter Stadthalle, Datum: 2023-11-23
+[Fri Nov 17 2023 18:41:59 GMT+0100 (Srednjeevropski standardni čas)] Sodnik LehnerMo uspesno zamenjal BajtMi Lokacija: Linz AG Eisarena, Datum: 2023-11-23
+[Fri Nov 17 2023 18:41:59 GMT+0100 (Srednjeevropski standardni čas)] Sodnik WuntschekDo uspesno zamenjal LehnerMo Lokacija: Linz AG Eisarena, Datum: 2023-11-23
+[Fri Nov 17 2023 18:41:59 GMT+0100 (Srednjeevropski standardni čas)] Sodnik KanyoTa uspesno zamenjal ArlicMa Lokacija: Linz AG Eisarena, Datum: 2023-11-23
+[Sat Nov 18 2023 06:24:40 GMT+0100 (Srednjeevropski standardni čas)] Sodnik VirtaTu uspesno zamenjal RiccoSt Lokacija: Würtharena Neumarkt, Datum: 2023-11-23
+[Sat Nov 18 2023 09:36:15 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BulovecMi uspesno zamenjal OrelSt Lokacija: Eishalle Jesenice, Datum: 2023-11-18
+[Sat Nov 18 2023 09:36:15 GMT+0100 (Srednjeevropski standardni čas)] Sodnik OrelSt uspesno zamenjal SchweighoferMa Lokacija: Eishalle Jesenice, Datum: 2023-11-18
+[Mon Nov 20 2023 16:50:17 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HeadEi uspesno zamenjal MoschenAn Lokacija: Eishalle Bruneck, Datum: 2023-12-10

@@ -1103,3 +1103,15 @@ Sodniku JägerRi se je izbrisal datum iz AHL sheme. Datum:2023-11-18
 Sodniku MoidlMa se je izbrisal datum iz AHL sheme. Datum:2023-11-15
 Sodniku HolzerTo se je izbrisal datum iz AHL sheme. Datum:2023-11-18
 Sodniku KainbergerJu se je izbrisal datum iz AHL sheme. Datum:2023-11-15
+Sodniku BrockAd se je izbrisal datum iz AHL sheme. Datum:2023-12-02
+Sodniku VoicanCh se je izbrisal datum iz AHL sheme. Datum:2023-11-30
+Sodniku EggerTh se je izbrisal datum iz AHL sheme. Datum:2023-11-16
+Sodniku LehnerMo se je izbrisal datum iz AHL sheme. Datum:2023-11-21
+Sodniku WenuschHe se je izbrisal datum iz AHL sheme. Datum:2023-11-23
+Sodniku BassoNi se je izbrisal datum iz AHL sheme. Datum:2023-11-18
+[Wed Nov 15 2023 19:27:53 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-11-23
+Sodniku SchonaklenerPa se je izbrisal datum iz AHL sheme. Datum:2023-11-21
+Sodniku AngyalBo se je izbrisal datum iz AHL sheme. Datum:2023-11-23
+Sodniku SchonaklenerPa se je izbrisal datum iz AHL sheme. Datum:2023-12-09
+Sodniku RiccoSt se je izbrisal datum iz AHL sheme. Datum:2023-11-23
+Sodniku SchweighoferMa se je izbrisal datum iz AHL sheme. Datum:2023-11-18
