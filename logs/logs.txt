@@ -826,3 +826,24 @@
 [Sat Nov 18 2023 09:36:15 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BulovecMi uspesno zamenjal OrelSt Lokacija: Eishalle Jesenice, Datum: 2023-11-18
 [Sat Nov 18 2023 09:36:15 GMT+0100 (Srednjeevropski standardni čas)] Sodnik OrelSt uspesno zamenjal SchweighoferMa Lokacija: Eishalle Jesenice, Datum: 2023-11-18
 [Mon Nov 20 2023 16:50:17 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HeadEi uspesno zamenjal MoschenAn Lokacija: Eishalle Bruneck, Datum: 2023-12-10
+[Tue Nov 21 2023 09:33:37 GMT+0100 (Srednjeevropski standardni čas)] Sodnik ZrnicMi uspesno zamenjal VoicanCh Lokacija: Stadthalle Villach, Datum: 2023-11-28
+[Tue Nov 21 2023 09:33:37 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PardatscherUl uspesno zamenjal ZrnicMi Lokacija: Eishalle Asiago, Datum: 2023-12-16
+[Tue Nov 21 2023 09:33:37 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PuffWo uspesno zamenjal PardatscherUl Lokacija: Eishalle Asiago, Datum: 2023-12-16
+[Tue Nov 21 2023 09:33:37 GMT+0100 (Srednjeevropski standardni čas)] Sodnik  uspesno zamenjal PuffWo Lokacija: Eishalle Asiago, Datum: 2023-12-16
+[Tue Nov 21 2023 09:48:37 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicMa uspesno zamenjal SternatCh Lokacija: Eishalle Asiago, Datum: 2023-12-16
+[Tue Nov 21 2023 09:48:37 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SternatCh uspesno zamenjal PardatscherUl Lokacija: Eishalle Asiago, Datum: 2023-12-16
+[Tue Nov 21 2023 09:48:37 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PardatscherUl uspesno zamenjal PuffWo Lokacija: Eishalle Asiago, Datum: 2023-12-16
+[Tue Nov 21 2023 09:48:37 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PuffWo uspesno zamenjal  Lokacija: Eishalle Asiago, Datum: 2023-12-16
+[Tue Nov 21 2023 13:01:46 GMT+0100 (Srednjeevropski standardni čas)] Sodnik KummerSt uspesno zamenjal MeixnerSe Lokacija: Eishalle Jesenice, Datum: 2023-12-09
+[Tue Nov 21 2023 13:01:46 GMT+0100 (Srednjeevropski standardni čas)] Sodnik LesniakBo uspesno zamenjal KummerSt Lokacija: Klagenfurter Stadthalle, Datum: 2023-12-07
+[Tue Nov 21 2023 13:01:46 GMT+0100 (Srednjeevropski standardni čas)] Sodnik MeixnerSe uspesno zamenjal LesniakBo Lokacija: Klagenfurter Stadthalle, Datum: 2023-12-07
+[Tue Nov 21 2023 20:16:44 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SeewaldEl uspesno zamenjal VoicanCh Lokacija: Hala Tivoli Ljubljana, Datum: 2023-12-01
+[Tue Nov 21 2023 20:16:44 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SeewaldEl uspesno zamenjal RezekGr Lokacija: Eisarena Salzburg, Datum: 2023-12-10
+[Tue Nov 21 2023 20:16:44 GMT+0100 (Srednjeevropski standardni čas)] Sodnik LazzeriAl uspesno zamenjal BassoNi Lokacija: Eishalle Dornbirn, Datum: 2023-11-25
+[Tue Nov 21 2023 20:31:44 GMT+0100 (Srednjeevropski standardni čas)] Sodnik LazzeriAl uspesno zamenjal BassoNi Lokacija: Eishalle Lustenau, Datum: 2023-11-26
+[Tue Nov 21 2023 20:31:44 GMT+0100 (Srednjeevropski standardni čas)] Sodnik GiacomozziFe uspesno zamenjal BassoNi Lokacija: Eishalle Meran, Datum: 2023-12-02
+[Tue Nov 21 2023 20:46:44 GMT+0100 (Srednjeevropski standardni čas)] Sodnik WimmlerAl uspesno zamenjal Gatol-schafranekMa Lokacija: Eisarena Salzburg, Datum: 2023-12-10
+[Tue Nov 21 2023 20:46:44 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PiragicTr uspesno zamenjal HeadEi Lokacija: Eishalle Bruneck, Datum: 2023-12-10
+[Tue Nov 21 2023 20:46:44 GMT+0100 (Srednjeevropski standardni čas)] Sodnik RezekGr uspesno zamenjal PiragicTr Lokacija: Eishalle Bruneck, Datum: 2023-12-10
+[Tue Nov 21 2023 20:46:44 GMT+0100 (Srednjeevropski standardni čas)] Sodnik Gatol-schafranekMa uspesno zamenjal NotheggerDa Lokacija: Stadthalle Villach, Datum: 2023-12-10
+[Tue Nov 21 2023 20:46:44 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NotheggerDa uspesno zamenjal SeewaldEl Lokacija: Stadthalle Villach, Datum: 2023-12-10

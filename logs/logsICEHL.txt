@@ -6741,3 +6741,11 @@ Sodniku SnojTa se je izbrisal datum iz ICEHL sheme. Datum:2023-12-08
 Sodniku HribarMa se je izbrisal datum iz ICEHL sheme. Datum:2023-11-17
 Sodniku MoschenAn se je izbrisal datum iz ICEHL sheme. Datum:2023-12-10
 [Mon Nov 20 2023 16:50:17 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikHeadEi uspesno dodan 
+Sodniku VoicanCh se je izbrisal datum iz ICEHL sheme. Datum:2023-11-28
+Sodniku ZrnicMi se je izbrisal datum iz ICEHL sheme. Datum:2023-12-16
+Sodniku  se je izbrisal datum iz ICEHL sheme. Datum:2023-12-16
+Sodniku VoicanCh se je izbrisal datum iz ICEHL sheme. Datum:2023-12-01
+Sodniku RezekGr se je izbrisal datum iz ICEHL sheme. Datum:2023-12-10
+Sodniku SeewaldEl se je izbrisal datum iz ICEHL sheme. Datum:2023-12-10
+Sodniku SeewaldEl se je izbrisal datum iz ICEHL sheme. Datum:2023-12-10
+Sodniku HeadEi se je izbrisal datum iz ICEHL sheme. Datum:2023-12-10
