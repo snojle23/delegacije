@@ -1120,3 +1120,22 @@ Sodniku KummerSt se je izbrisal datum iz AHL sheme. Datum:2023-12-07
 Sodniku BassoNi se je izbrisal datum iz AHL sheme. Datum:2023-11-25
 Sodniku BassoNi se je izbrisal datum iz AHL sheme. Datum:2023-11-26
 Sodniku BassoNi se je izbrisal datum iz AHL sheme. Datum:2023-12-02
+Sodniku HesinaCh se je izbrisal datum iz AHL sheme. Datum:2023-12-09
+Sodniku CristeliMa se je izbrisal datum iz AHL sheme. Datum:2023-12-02
+Sodniku PaceJa se je izbrisal datum iz AHL sheme. Datum:2023-11-23
+Sodniku GiacomozziFe se je izbrisal datum iz AHL sheme. Datum:2023-11-25
+[Wed Nov 22 2023 16:35:08 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikHeadEi uspesno dodan 
+Sodniku PaceJa se je izbrisal datum iz AHL sheme. Datum:2023-11-25
+[Wed Nov 22 2023 19:35:08 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikLinesmanZw uspesno dodan 
+[Wed Nov 22 2023 20:50:09 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-11-25
+Sodniku FormaioniTh se je izbrisal datum iz AHL sheme. Datum:2023-11-25
+Sodniku FormaioniTh se je izbrisal datum iz AHL sheme. Datum:2023-11-25
+Sodniku CristeliMa se je izbrisal datum iz AHL sheme. Datum:2023-11-25
+Sodniku CristeliMa se je izbrisal datum iz AHL sheme. Datum:2023-11-25
+Sodniku RivisFe se je izbrisal datum iz AHL sheme. Datum:2023-11-25
+Sodniku RivisFe se je izbrisal datum iz AHL sheme. Datum:2023-11-25
+Sodniku HeadEi se je izbrisal datum iz AHL sheme. Datum:2023-11-25
+Sodniku HeadEi se je izbrisal datum iz AHL sheme. Datum:2023-11-25
+Sodniku HeadEi se je izbrisal datum iz AHL sheme. Datum:2023-11-25
+Sodniku LinesmanZw se je izbrisal datum iz AHL sheme. Datum:2023-11-25
+[Thu Nov 23 2023 17:31:42 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikMantovaniDa uspesno dodan 
