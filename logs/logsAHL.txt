@@ -1186,3 +1186,6 @@ Sodniku ZacherlPa se je izbrisal datum iz AHL sheme. Datum:2023-12-02
 [Wed Nov 29 2023 20:09:13 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-12-30
 [Wed Nov 29 2023 20:09:13 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-12-30
 [Wed Nov 29 2023 20:09:13 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-12-30
+Sodniku BajtMi se je izbrisal datum iz AHL sheme. Datum:2023-12-21
+Sodniku MilovanovicJa se je izbrisal datum iz AHL sheme. Datum:2023-12-30
+Sodniku DieberDo se je izbrisal datum iz AHL sheme. Datum:2023-12-26

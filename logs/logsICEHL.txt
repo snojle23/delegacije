@@ -6808,3 +6808,4 @@ Sodniku HeadEi se je izbrisal datum iz ICEHL sheme. Datum:2023-12-10
 [Thu Nov 23 2023 23:53:38 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-12-30
 Sodniku MartinFl se je izbrisal datum iz ICEHL sheme. Datum:2023-11-26
 Sodniku KoncDa se je izbrisal datum iz ICEHL sheme. Datum:2023-11-28
+Sodniku WimmlerAl se je izbrisal datum iz ICEHL sheme. Datum:2023-12-01

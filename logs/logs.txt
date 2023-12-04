@@ -896,3 +896,19 @@
 [Tue Nov 28 2023 10:13:07 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SeewaldJe uspesno zamenjal ZacherlPa Lokacija: KELIT Arena Zell am See, Datum: 2023-12-02
 [Wed Nov 29 2023 06:07:06 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SeewaldEl uspesno zamenjal SeewaldJe Lokacija: Eishalle Bruneck, Datum: 2023-12-20
 [Wed Nov 29 2023 06:07:06 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SeewaldJe uspesno zamenjal SeewaldEl Lokacija: Eishalle Bruneck, Datum: 2023-12-20
+[Thu Nov 30 2023 20:36:50 GMT+0100 (Srednjeevropski standardni čas)] Sodnik FleischmannLu uspesno zamenjal WimmlerAl Lokacija: Eishalle Bruneck, Datum: 2023-12-01
+[Thu Nov 30 2023 22:06:50 GMT+0100 (Srednjeevropski standardni čas)] Sodnik KainbergerJu uspesno zamenjal BajtMi Lokacija: Sportpark Kitzbühel, Datum: 2023-12-21
+[Thu Nov 30 2023 22:06:50 GMT+0100 (Srednjeevropski standardni čas)] Sodnik LesniakBo uspesno zamenjal KainbergerJu Lokacija: Klagenfurter Stadthalle, Datum: 2023-12-21
+[Thu Nov 30 2023 22:06:50 GMT+0100 (Srednjeevropski standardni čas)] Sodnik MilovanovicJa uspesno zamenjal LesniakBo Lokacija: Klagenfurter Stadthalle, Datum: 2023-12-21
+[Thu Nov 30 2023 22:06:50 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BajtMi uspesno zamenjal LazzeriAl Lokacija: Eishalle Sterzing, Datum: 2023-12-30
+[Thu Nov 30 2023 22:06:50 GMT+0100 (Srednjeevropski standardni čas)] Sodnik LazzeriAl uspesno zamenjal MilovanovicJa Lokacija: Eishalle Sterzing, Datum: 2023-12-30
+[Sat Dec 02 2023 06:11:18 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicMa uspesno zamenjal NikolicKr Lokacija: Tiroler Wasserkraft Arena, Datum: 2023-12-30
+[Sat Dec 02 2023 06:11:18 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicKr uspesno zamenjal NikolicMa Lokacija: Tiroler Wasserkraft Arena, Datum: 2023-12-30
+[Sat Dec 02 2023 17:46:22 GMT+0100 (Srednjeevropski standardni čas)] Sodnik FleischmannLu uspesno zamenjal DieberDo Lokacija: Sportpark Kitzbühel, Datum: 2023-12-26
+[Sat Dec 02 2023 17:46:22 GMT+0100 (Srednjeevropski standardni čas)] Sodnik MattheyPh uspesno zamenjal FleischmannLu Lokacija: Sportpark Kitzbühel, Datum: 2023-12-26
+[Sun Dec 03 2023 06:07:33 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicKr uspesno zamenjal NikolicMa Lokacija: Tiroler Wasserkraft Arena, Datum: 2023-12-30
+[Sun Dec 03 2023 06:07:33 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicMa uspesno zamenjal NikolicKr Lokacija: Tiroler Wasserkraft Arena, Datum: 2023-12-30
+[Mon Dec 04 2023 06:12:38 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SeewaldJe uspesno zamenjal SeewaldEl Lokacija: Eishalle Bruneck, Datum: 2023-12-20
+[Mon Dec 04 2023 06:12:38 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SeewaldEl uspesno zamenjal SeewaldJe Lokacija: Eishalle Bruneck, Datum: 2023-12-20
+[Mon Dec 04 2023 06:12:38 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicMa uspesno zamenjal NikolicKr Lokacija: Tiroler Wasserkraft Arena, Datum: 2023-12-30
+[Mon Dec 04 2023 06:12:38 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicKr uspesno zamenjal NikolicMa Lokacija: Tiroler Wasserkraft Arena, Datum: 2023-12-30
