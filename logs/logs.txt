@@ -912,3 +912,13 @@
 [Mon Dec 04 2023 06:12:38 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SeewaldEl uspesno zamenjal SeewaldJe Lokacija: Eishalle Bruneck, Datum: 2023-12-20
 [Mon Dec 04 2023 06:12:38 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicMa uspesno zamenjal NikolicKr Lokacija: Tiroler Wasserkraft Arena, Datum: 2023-12-30
 [Mon Dec 04 2023 06:12:38 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicKr uspesno zamenjal NikolicMa Lokacija: Tiroler Wasserkraft Arena, Datum: 2023-12-30
+[Mon Dec 04 2023 20:36:49 GMT+0100 (Srednjeevropski standardni čas)] Sodnik WuntschekDo uspesno zamenjal OrelSt Lokacija: Eishalle Jesenice, Datum: 2023-12-30
+[Mon Dec 04 2023 20:36:49 GMT+0100 (Srednjeevropski standardni čas)] Sodnik FecchioFe uspesno zamenjal JägerRi Lokacija: Eishalle Lustenau, Datum: 2023-12-07
+[Mon Dec 04 2023 20:36:49 GMT+0100 (Srednjeevropski standardni čas)] Sodnik JägerRi uspesno zamenjal WiestAl Lokacija: Eishalle Lustenau, Datum: 2023-12-07
+[Mon Dec 04 2023 21:17:14 GMT+0100 (Srednjeevropski standardni čas)] Sodnik FormaioniTh uspesno zamenjal AbeltinoSi Lokacija: Eishalle Dornbirn, Datum: 2023-12-26
+[Tue Dec 05 2023 11:43:33 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PuffWo uspesno zamenjal WuchererGe Lokacija: Linz AG Eisarena, Datum: 2023-12-07
+[Tue Dec 05 2023 11:58:33 GMT+0100 (Srednjeevropski standardni čas)] Sodnik RivisFe uspesno zamenjal SoraperraSi Lokacija: Eishalle Meran, Datum: 2023-12-19
+[Tue Dec 05 2023 12:13:33 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SoraperraSi uspesno zamenjal RivisFe Lokacija: Eishalle Canazei, Datum: 2023-12-26
+[Tue Dec 05 2023 12:28:34 GMT+0100 (Srednjeevropski standardni čas)] Sodnik FleischmannLu uspesno zamenjal HesinaCh Lokacija: Eishalle Ritten, Datum: 2023-12-23
+[Wed Dec 06 2023 06:13:42 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicKr uspesno zamenjal NikolicMa Lokacija: Tiroler Wasserkraft Arena, Datum: 2023-12-30
+[Wed Dec 06 2023 06:13:42 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicMa uspesno zamenjal NikolicKr Lokacija: Tiroler Wasserkraft Arena, Datum: 2023-12-30
