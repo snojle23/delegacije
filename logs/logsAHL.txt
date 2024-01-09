@@ -1222,3 +1222,26 @@ Sodniku ArlicMa se je izbrisal datum iz AHL sheme. Datum:2023-12-09
 Sodniku LehnerMo se je izbrisal datum iz AHL sheme. Datum:2023-12-19
 Sodniku PötscherMi se je izbrisal datum iz AHL sheme. Datum:2023-12-26
 Sodniku HesinaCh se je izbrisal datum iz AHL sheme. Datum:2023-12-19
+Sodniku HlavatyAl se je izbrisal datum iz AHL sheme. Datum:2023-12-19
+[Tue Dec 19 2023 06:56:47 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikHeadEi uspesno dodan 
+Sodniku HeadEi se je izbrisal datum iz AHL sheme. Datum:2023-12-19
+[Tue Dec 19 2023 07:11:47 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikHolzerDa uspesno dodan 
+[Tue Dec 19 2023 09:57:04 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-12-19
+Sodniku TelesklavFa se je izbrisal datum iz AHL sheme. Datum:2023-12-19
+Sodniku MoidlDa se je izbrisal datum iz AHL sheme. Datum:2023-12-19
+[Tue Dec 19 2023 10:27:03 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnik uspesno dodan 
+[Tue Dec 19 2023 11:12:04 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-12-19
+Sodniku  se je izbrisal datum iz AHL sheme. Datum:2023-12-19
+Sodniku JavornikBl se je izbrisal datum iz AHL sheme. Datum:2023-12-26
+Sodniku MurnikPe se je izbrisal datum iz AHL sheme. Datum:2023-12-21
+Sodniku MoidlMa se je izbrisal datum iz AHL sheme. Datum:2023-12-21
+Sodniku MoidlDa se je izbrisal datum iz AHL sheme. Datum:2023-12-21
+Sodniku MattheyPh se je izbrisal datum iz AHL sheme. Datum:2024-01-05
+Sodniku VignoloSi se je izbrisal datum iz AHL sheme. Datum:2024-01-05
+Sodniku EislCh se je izbrisal datum iz AHL sheme. Datum:2024-01-05
+Sodniku DieberDo se je izbrisal datum iz AHL sheme. Datum:2024-01-05
+[Wed Jan 03 2024 09:30:23 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-13
+[Wed Jan 03 2024 09:30:23 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-13
+[Wed Jan 03 2024 09:30:23 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-10
+[Wed Jan 03 2024 09:30:23 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-11
+Sodniku WiestAl se je izbrisal datum iz AHL sheme. Datum:2024-01-03

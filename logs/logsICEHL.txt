@@ -6855,3 +6855,8 @@ Sodniku SeewaldEl se je izbrisal datum iz ICEHL sheme. Datum:2024-01-03
 [Mon Dec 18 2023 21:06:33 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-23
 [Mon Dec 18 2023 21:06:33 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-23
 [Mon Dec 18 2023 21:06:33 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-23
+Sodniku RieckenSi se je izbrisal datum iz ICEHL sheme. Datum:2024-01-13
+Sodniku MartinFl se je izbrisal datum iz ICEHL sheme. Datum:2023-12-21
+Sodniku GroznikBo se je izbrisal datum iz ICEHL sheme. Datum:2024-01-01
+Sodniku NikolicMa se je izbrisal datum iz ICEHL sheme. Datum:2024-01-09
+Sodniku JedlickaPe se je izbrisal datum iz ICEHL sheme. Datum:2024-01-09
