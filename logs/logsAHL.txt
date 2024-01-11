@@ -1245,3 +1245,19 @@ Sodniku DieberDo se je izbrisal datum iz AHL sheme. Datum:2024-01-05
 [Wed Jan 03 2024 09:30:23 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-10
 [Wed Jan 03 2024 09:30:23 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-11
 Sodniku WiestAl se je izbrisal datum iz AHL sheme. Datum:2024-01-03
+Sodniku LehnerMo se je izbrisal datum iz AHL sheme. Datum:2024-01-11
+[Thu Jan 11 2024 19:43:24 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-20
+[Thu Jan 11 2024 19:43:24 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-20
+[Thu Jan 11 2024 19:43:24 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-20
+[Thu Jan 11 2024 19:43:24 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-20
+[Thu Jan 11 2024 19:43:24 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-20
+[Thu Jan 11 2024 19:43:24 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-20
+[Thu Jan 11 2024 19:43:24 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-20
+[Thu Jan 11 2024 19:43:24 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-17
+[Thu Jan 11 2024 19:43:24 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-18
+[Thu Jan 11 2024 19:43:24 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-18
+[Thu Jan 11 2024 19:43:24 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-18
+[Thu Jan 11 2024 19:43:24 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-18
+[Thu Jan 11 2024 19:43:24 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-18
+[Thu Jan 11 2024 19:43:24 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-18
+Sodniku KainbergerJu se je izbrisal datum iz AHL sheme. Datum:2024-01-18
