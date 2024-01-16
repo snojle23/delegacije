@@ -1007,3 +1007,10 @@
 [Wed Jan 10 2024 14:22:28 GMT+0100 (Srednjeevropski standardni čas)] Sodnik OrelSt uspesno zamenjal LehnerMo Lokacija: Eishalle Lustenau, Datum: 2024-01-11
 [Thu Jan 11 2024 19:58:24 GMT+0100 (Srednjeevropski standardni čas)] Sodnik LehnerMo uspesno zamenjal KainbergerJu Lokacija: Linz AG Eisarena, Datum: 2024-01-18
 [Thu Jan 11 2024 19:58:24 GMT+0100 (Srednjeevropski standardni čas)] Sodnik WidmannFl uspesno zamenjal LehnerMo Lokacija: Linz AG Eisarena, Datum: 2024-01-18
+[Thu Jan 11 2024 21:35:29 GMT+0100 (Srednjeevropski standardni čas)] Sodnik JeramFi uspesno zamenjal MurnikPe Lokacija: Eishalle Canazei, Datum: 2024-01-20
+[Thu Jan 11 2024 21:35:29 GMT+0100 (Srednjeevropski standardni čas)] Sodnik MurnikPe uspesno zamenjal JeramFi Lokacija: Eishalle Cortina, Datum: 2024-01-18
+[Fri Jan 12 2024 11:43:15 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SoosDa uspesno zamenjal SternatCh Lokacija: Merkur Eisstadion Graz, Datum: 2024-01-12
+[Fri Jan 12 2024 19:13:15 GMT+0100 (Srednjeevropski standardni čas)] Sodnik LehnerMo uspesno zamenjal KummerSt Lokacija: Eisarena Salzburg, Datum: 2024-01-13
+[Mon Jan 15 2024 15:41:54 GMT+0100 (Srednjeevropski standardni čas)] Sodnik GiacomozziFe uspesno zamenjal SoraperraSi Lokacija: Eishalle Canazei, Datum: 2024-01-20
+[Mon Jan 15 2024 17:11:52 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PiragicTr uspesno zamenjal PalköviZs Lokacija: Eishalle Bruneck, Datum: 2024-01-26
+[Mon Jan 15 2024 17:11:52 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SchauerJa uspesno zamenjal PiragicTr Lokacija: Eishalle Bruneck, Datum: 2024-01-26
