@@ -1020,3 +1020,4 @@
 [Tue Jan 16 2024 15:17:05 GMT+0100 (Srednjeevropski standardni čas)] Sodnik VacziDa uspesno zamenjal MuzsikNo Lokacija: Gabor Ocskay Eisarena, Datum: 2024-02-02
 [Tue Jan 16 2024 20:17:10 GMT+0100 (Srednjeevropski standardni čas)] Sodnik MurnikPe uspesno zamenjal JavornikBl Lokacija: Linz AG Eisarena, Datum: 2024-01-20
 [Tue Jan 16 2024 20:17:10 GMT+0100 (Srednjeevropski standardni čas)] Sodnik JavornikBl uspesno zamenjal MurnikPe Lokacija: Eishalle Cortina, Datum: 2024-01-18
+[Wed Jan 17 2024 11:03:16 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BrockAd uspesno zamenjal LehnerMo Lokacija: Linz AG Eisarena, Datum: 2024-01-18
