@@ -1014,3 +1014,9 @@
 [Mon Jan 15 2024 15:41:54 GMT+0100 (Srednjeevropski standardni čas)] Sodnik GiacomozziFe uspesno zamenjal SoraperraSi Lokacija: Eishalle Canazei, Datum: 2024-01-20
 [Mon Jan 15 2024 17:11:52 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PiragicTr uspesno zamenjal PalköviZs Lokacija: Eishalle Bruneck, Datum: 2024-01-26
 [Mon Jan 15 2024 17:11:52 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SchauerJa uspesno zamenjal PiragicTr Lokacija: Eishalle Bruneck, Datum: 2024-01-26
+[Tue Jan 16 2024 09:04:55 GMT+0100 (Srednjeevropski standardni čas)] Sodnik JägerRi uspesno zamenjal EislCh Lokacija: Eishalle Dornbirn, Datum: 2024-01-17
+[Tue Jan 16 2024 15:17:05 GMT+0100 (Srednjeevropski standardni čas)] Sodnik MuzsikNo uspesno zamenjal NotheggerDa Lokacija: Eisarena Salzburg, Datum: 2024-01-28
+[Tue Jan 16 2024 15:17:05 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NotheggerDa uspesno zamenjal VacziDa Lokacija: Eisarena Salzburg, Datum: 2024-01-28
+[Tue Jan 16 2024 15:17:05 GMT+0100 (Srednjeevropski standardni čas)] Sodnik VacziDa uspesno zamenjal MuzsikNo Lokacija: Gabor Ocskay Eisarena, Datum: 2024-02-02
+[Tue Jan 16 2024 20:17:10 GMT+0100 (Srednjeevropski standardni čas)] Sodnik MurnikPe uspesno zamenjal JavornikBl Lokacija: Linz AG Eisarena, Datum: 2024-01-20
+[Tue Jan 16 2024 20:17:10 GMT+0100 (Srednjeevropski standardni čas)] Sodnik JavornikBl uspesno zamenjal MurnikPe Lokacija: Eishalle Cortina, Datum: 2024-01-18

@@ -6893,3 +6893,5 @@ Sodniku VacziDa se je izbrisal datum iz ICEHL sheme. Datum:2024-01-23
 [Fri Jan 12 2024 07:25:40 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-04
 Sodniku SternatCh se je izbrisal datum iz ICEHL sheme. Datum:2024-01-12
 Sodniku PalköviZs se je izbrisal datum iz ICEHL sheme. Datum:2024-01-26
+Sodniku VacziDa se je izbrisal datum iz ICEHL sheme. Datum:2024-01-28
+Sodniku MuzsikNo se je izbrisal datum iz ICEHL sheme. Datum:2024-02-02
