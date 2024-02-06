@@ -6895,3 +6895,28 @@ Sodniku SternatCh se je izbrisal datum iz ICEHL sheme. Datum:2024-01-12
 Sodniku PalköviZs se je izbrisal datum iz ICEHL sheme. Datum:2024-01-26
 Sodniku VacziDa se je izbrisal datum iz ICEHL sheme. Datum:2024-01-28
 Sodniku MuzsikNo se je izbrisal datum iz ICEHL sheme. Datum:2024-02-02
+Sodniku EislCh se je izbrisal datum iz ICEHL sheme. Datum:2024-01-19
+Sodniku SternatCh se je izbrisal datum iz ICEHL sheme. Datum:2024-01-20
+Sodniku SternatCh se je izbrisal datum iz ICEHL sheme. Datum:2024-01-23
+Sodniku NotheggerDa se je izbrisal datum iz ICEHL sheme. Datum:2024-01-23
+Sodniku NikolicKr se je izbrisal datum iz ICEHL sheme. Datum:2024-02-04
+[Thu Jan 25 2024 12:48:08 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-02
+Sodniku HuberAn se je izbrisal datum iz ICEHL sheme. Datum:2024-02-02
+Sodniku JedlickaPe se je izbrisal datum iz ICEHL sheme. Datum:2024-02-04
+Sodniku WimmlerAl se je izbrisal datum iz ICEHL sheme. Datum:2024-01-26
+[Mon Jan 29 2024 16:40:01 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-02
+Sodniku BärnthalerCh se je izbrisal datum iz ICEHL sheme. Datum:2024-02-02
+[Fri Feb 02 2024 17:39:55 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-13
+[Fri Feb 02 2024 17:39:55 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-02-13
+[Fri Feb 02 2024 17:54:55 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-13
+[Fri Feb 02 2024 17:54:55 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-13
+[Fri Feb 02 2024 17:54:55 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-13
+[Fri Feb 02 2024 17:54:55 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-13
+[Fri Feb 02 2024 18:09:55 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-13
+[Sat Feb 03 2024 06:29:09 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-04
+Sodniku BernekerTh se je izbrisal datum iz ICEHL sheme. Datum:2024-02-04
+[Sat Feb 03 2024 06:29:09 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikHeadEi uspesno dodan 
+Sodniku RigoniDa se je izbrisal datum iz ICEHL sheme. Datum:2024-02-04
+Sodniku HeadEi se je izbrisal datum iz ICEHL sheme. Datum:2024-02-04
+[Sat Feb 03 2024 10:29:12 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnik uspesno dodan 
+Sodniku  se je izbrisal datum iz ICEHL sheme. Datum:2024-02-04
