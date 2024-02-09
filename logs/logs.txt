@@ -1070,3 +1070,23 @@
 [Sat Feb 03 2024 10:29:12 GMT+0100 (Srednjeevropski standardni čas)] Sodnik  uspesno zamenjal SparerDa Lokacija: Eiswelle Bozen, Datum: 2024-02-04
 [Sat Feb 03 2024 10:44:12 GMT+0100 (Srednjeevropski standardni čas)] Sodnik RigoniDa uspesno zamenjal SparerDa Lokacija: Eiswelle Bozen, Datum: 2024-02-04
 [Sat Feb 03 2024 10:44:12 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SparerDa uspesno zamenjal  Lokacija: Eiswelle Bozen, Datum: 2024-02-04
+[Tue Feb 06 2024 17:08:01 GMT+0100 (Srednjeevropski standardni čas)] Sodnik De zordoMa uspesno zamenjal CusinFe Lokacija: Eishalle Meran, Datum: 2024-02-15
+[Tue Feb 06 2024 17:08:01 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BulovecMi uspesno zamenjal BrockAd Lokacija: Eishalle Jesenice, Datum: 2024-02-24
+[Tue Feb 06 2024 17:08:01 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BergantAn uspesno zamenjal KanyoTa Lokacija: Eishalle Jesenice, Datum: 2024-02-24
+[Tue Feb 06 2024 17:08:01 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BrockAd uspesno zamenjal BulovecMi Lokacija: Eisarena Salzburg, Datum: 2024-02-24
+[Tue Feb 06 2024 17:08:01 GMT+0100 (Srednjeevropski standardni čas)] Sodnik KanyoTa uspesno zamenjal BergantAn Lokacija: Eisarena Salzburg, Datum: 2024-02-24
+[Wed Feb 07 2024 08:24:28 GMT+0100 (Srednjeevropski standardni čas)] Sodnik CristeliMa uspesno zamenjal WuchererGe Lokacija: Sportpark Kitzbühel, Datum: 2024-02-17
+[Wed Feb 07 2024 08:24:28 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PuffWo uspesno zamenjal CristeliMa Lokacija: Eishalle Lustenau, Datum: 2024-02-24
+[Wed Feb 07 2024 08:24:28 GMT+0100 (Srednjeevropski standardni čas)] Sodnik WuchererGe uspesno zamenjal PuffWo Lokacija: Eishalle Lustenau, Datum: 2024-02-24
+[Thu Feb 08 2024 20:08:04 GMT+0100 (Srednjeevropski standardni čas)] Sodnik AbeltinoSi uspesno zamenjal CristeliMa Lokacija: Eishalle Sterzing, Datum: 2024-02-18
+[Thu Feb 08 2024 20:08:04 GMT+0100 (Srednjeevropski standardni čas)] Sodnik CristeliMa uspesno zamenjal VignoloSi Lokacija: Eishalle Sterzing, Datum: 2024-02-18
+[Fri Feb 09 2024 09:50:50 GMT+0100 (Srednjeevropski standardni čas)] Sodnik AbeltinoSi uspesno zamenjal CristeliMa Lokacija: Eishalle Sterzing, Datum: 2024-02-18
+[Fri Feb 09 2024 09:50:50 GMT+0100 (Srednjeevropski standardni čas)] Sodnik CristeliMa uspesno zamenjal VignoloSi Lokacija: Eishalle Sterzing, Datum: 2024-02-18
+[Fri Feb 09 2024 09:50:50 GMT+0100 (Srednjeevropski standardni čas)] Sodnik De zordoMa uspesno zamenjal CusinFe Lokacija: Eishalle Meran, Datum: 2024-02-15
+[Fri Feb 09 2024 09:50:50 GMT+0100 (Srednjeevropski standardni čas)] Sodnik CristeliMa uspesno zamenjal WuchererGe Lokacija: Sportpark Kitzbühel, Datum: 2024-02-17
+[Fri Feb 09 2024 09:50:50 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PuffWo uspesno zamenjal CristeliMa Lokacija: Eishalle Lustenau, Datum: 2024-02-24
+[Fri Feb 09 2024 09:50:50 GMT+0100 (Srednjeevropski standardni čas)] Sodnik WuchererGe uspesno zamenjal PuffWo Lokacija: Eishalle Lustenau, Datum: 2024-02-24
+[Fri Feb 09 2024 09:50:50 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BulovecMi uspesno zamenjal BrockAd Lokacija: Eishalle Jesenice, Datum: 2024-02-24
+[Fri Feb 09 2024 09:50:50 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BergantAn uspesno zamenjal KanyoTa Lokacija: Eishalle Jesenice, Datum: 2024-02-24
+[Fri Feb 09 2024 09:50:50 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BrockAd uspesno zamenjal BulovecMi Lokacija: Eisarena Salzburg, Datum: 2024-02-24
+[Fri Feb 09 2024 09:50:50 GMT+0100 (Srednjeevropski standardni čas)] Sodnik KanyoTa uspesno zamenjal BergantAn Lokacija: Eisarena Salzburg, Datum: 2024-02-24

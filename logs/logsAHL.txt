@@ -1371,3 +1371,27 @@ Sodniku WeissAl se je izbrisal datum iz AHL sheme. Datum:2024-02-03
 [Tue Feb 06 2024 10:55:20 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-24
 [Tue Feb 06 2024 10:55:20 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-24
 [Tue Feb 06 2024 10:55:20 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-24
+Sodniku CusinFe se je izbrisal datum iz AHL sheme. Datum:2024-02-15
+Sodniku WuchererGe se je izbrisal datum iz AHL sheme. Datum:2024-02-17
+Sodniku CristeliMa se je izbrisal datum iz AHL sheme. Datum:2024-02-24
+Sodniku LazzeriAl se je izbrisal datum iz AHL sheme. Datum:2024-02-14
+Sodniku BrondiPa se je izbrisal datum iz AHL sheme. Datum:2024-02-14
+Sodniku AbeltinoSi se je izbrisal datum iz AHL sheme. Datum:2024-02-14
+Sodniku EggerTh se je izbrisal datum iz AHL sheme. Datum:2024-02-14
+Sodniku BajtMi se je izbrisal datum iz AHL sheme. Datum:2024-02-14
+Sodniku LesniakBo se je izbrisal datum iz AHL sheme. Datum:2024-02-14
+Sodniku ArlicMa se je izbrisal datum iz AHL sheme. Datum:2024-02-14
+Sodniku MarkizetiGr se je izbrisal datum iz AHL sheme. Datum:2024-02-14
+Sodniku VignoloSi se je izbrisal datum iz AHL sheme. Datum:2024-02-18
+Sodniku VignoloSi se je izbrisal datum iz AHL sheme. Datum:2024-02-18
+Sodniku CusinFe se je izbrisal datum iz AHL sheme. Datum:2024-02-15
+Sodniku WuchererGe se je izbrisal datum iz AHL sheme. Datum:2024-02-17
+Sodniku CristeliMa se je izbrisal datum iz AHL sheme. Datum:2024-02-24
+Sodniku BajtMi se je izbrisal datum iz AHL sheme. Datum:2024-02-14
+Sodniku LesniakBo se je izbrisal datum iz AHL sheme. Datum:2024-02-14
+Sodniku ArlicMa se je izbrisal datum iz AHL sheme. Datum:2024-02-14
+Sodniku MarkizetiGr se je izbrisal datum iz AHL sheme. Datum:2024-02-14
+Sodniku LazzeriAl se je izbrisal datum iz AHL sheme. Datum:2024-02-14
+Sodniku BrondiPa se je izbrisal datum iz AHL sheme. Datum:2024-02-14
+Sodniku AbeltinoSi se je izbrisal datum iz AHL sheme. Datum:2024-02-14
+Sodniku EggerTh se je izbrisal datum iz AHL sheme. Datum:2024-02-14

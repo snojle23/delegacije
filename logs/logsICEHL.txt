@@ -6920,3 +6920,26 @@ Sodniku RigoniDa se je izbrisal datum iz ICEHL sheme. Datum:2024-02-04
 Sodniku HeadEi se je izbrisal datum iz ICEHL sheme. Datum:2024-02-04
 [Sat Feb 03 2024 10:29:12 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnik uspesno dodan 
 Sodniku  se je izbrisal datum iz ICEHL sheme. Datum:2024-02-04
+[Wed Feb 07 2024 19:34:08 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-16
+[Wed Feb 07 2024 19:34:08 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-02-16
+[Wed Feb 07 2024 19:34:08 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-16
+[Wed Feb 07 2024 19:34:08 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-16
+[Wed Feb 07 2024 19:34:08 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-16
+[Wed Feb 07 2024 19:34:08 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-16
+[Wed Feb 07 2024 19:34:08 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-16
+[Wed Feb 07 2024 20:04:23 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-16
+[Wed Feb 07 2024 20:04:23 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-18
+[Wed Feb 07 2024 20:04:23 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-02-18
+[Wed Feb 07 2024 20:04:23 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-18
+[Wed Feb 07 2024 20:04:23 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-18
+[Wed Feb 07 2024 20:04:23 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-18
+[Wed Feb 07 2024 20:04:23 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-18
+[Wed Feb 07 2024 20:04:23 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-18
+Sodniku NotheggerDa se je izbrisal datum iz ICEHL sheme. Datum:2024-02-16
+Sodniku NotheggerDa se je izbrisal datum iz ICEHL sheme. Datum:2024-02-16
+Sodniku HuberAn se je izbrisal datum iz ICEHL sheme. Datum:2024-02-16
+Sodniku HuberAn se je izbrisal datum iz ICEHL sheme. Datum:2024-02-16
+Sodniku BärnthalerCh se je izbrisal datum iz ICEHL sheme. Datum:2024-02-16
+Sodniku BärnthalerCh se je izbrisal datum iz ICEHL sheme. Datum:2024-02-16
+Sodniku NikolicMa se je izbrisal datum iz ICEHL sheme. Datum:2024-02-16
+Sodniku NikolicMa se je izbrisal datum iz ICEHL sheme. Datum:2024-02-16
