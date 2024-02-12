@@ -1090,3 +1090,7 @@
 [Fri Feb 09 2024 09:50:50 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BergantAn uspesno zamenjal KanyoTa Lokacija: Eishalle Jesenice, Datum: 2024-02-24
 [Fri Feb 09 2024 09:50:50 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BrockAd uspesno zamenjal BulovecMi Lokacija: Eisarena Salzburg, Datum: 2024-02-24
 [Fri Feb 09 2024 09:50:50 GMT+0100 (Srednjeevropski standardni čas)] Sodnik KanyoTa uspesno zamenjal BergantAn Lokacija: Eisarena Salzburg, Datum: 2024-02-24
+[Fri Feb 09 2024 18:41:33 GMT+0100 (Srednjeevropski standardni čas)] Sodnik WendnerMa uspesno zamenjal RinkerDa Lokacija: Eishalle Dornbirn, Datum: 2024-02-24
+[Sun Feb 11 2024 10:41:12 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BärnthalerCh uspesno zamenjal MartinFl Lokacija: Eisarena Salzburg, Datum: 2024-02-18
+[Sun Feb 11 2024 10:41:12 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BedynekSe uspesno zamenjal BärnthalerCh Lokacija: Linz AG Eisarena, Datum: 2024-02-18
+[Sun Feb 11 2024 10:41:12 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HribarMa uspesno zamenjal BedynekSe Lokacija: Linz AG Eisarena, Datum: 2024-02-18
