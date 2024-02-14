@@ -1094,3 +1094,10 @@
 [Sun Feb 11 2024 10:41:12 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BärnthalerCh uspesno zamenjal MartinFl Lokacija: Eisarena Salzburg, Datum: 2024-02-18
 [Sun Feb 11 2024 10:41:12 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BedynekSe uspesno zamenjal BärnthalerCh Lokacija: Linz AG Eisarena, Datum: 2024-02-18
 [Sun Feb 11 2024 10:41:12 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HribarMa uspesno zamenjal BedynekSe Lokacija: Linz AG Eisarena, Datum: 2024-02-18
+[Wed Feb 14 2024 07:53:44 GMT+0100 (Srednjeevropski standardni čas)] Sodnik JavornikBl uspesno zamenjal KummerSt Lokacija: Klagenfurter Stadthalle, Datum: 2024-02-15
+[Wed Feb 14 2024 07:53:44 GMT+0100 (Srednjeevropski standardni čas)] Sodnik TelesklavFa uspesno zamenjal JavornikBl Lokacija: Klagenfurter Stadthalle, Datum: 2024-02-15
+[Wed Feb 14 2024 07:53:44 GMT+0100 (Srednjeevropski standardni čas)] Sodnik  uspesno zamenjal TelesklavFa Lokacija: Klagenfurter Stadthalle, Datum: 2024-02-15
+[Wed Feb 14 2024 08:08:44 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HeadZw uspesno zamenjal JavornikBl Lokacija: Klagenfurter Stadthalle, Datum: 2024-02-15
+[Wed Feb 14 2024 08:08:44 GMT+0100 (Srednjeevropski standardni čas)] Sodnik JavornikBl uspesno zamenjal TelesklavFa Lokacija: Klagenfurter Stadthalle, Datum: 2024-02-15
+[Wed Feb 14 2024 08:08:44 GMT+0100 (Srednjeevropski standardni čas)] Sodnik TelesklavFa uspesno zamenjal  Lokacija: Klagenfurter Stadthalle, Datum: 2024-02-15
+[Wed Feb 14 2024 10:10:04 GMT+0100 (Srednjeevropski standardni čas)] Sodnik WidmannFl uspesno zamenjal HeadZw Lokacija: Klagenfurter Stadthalle, Datum: 2024-02-15

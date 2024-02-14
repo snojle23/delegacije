@@ -6948,3 +6948,4 @@ Sodniku GroznikBo se je izbrisal datum iz ICEHL sheme. Datum:2024-02-18
 Sodniku HribarMa se je izbrisal datum iz ICEHL sheme. Datum:2024-02-18
 Sodniku NikolicKr se je izbrisal datum iz ICEHL sheme. Datum:2024-02-18
 Sodniku BedynekSe se je izbrisal datum iz ICEHL sheme. Datum:2024-02-18
+[Mon Feb 12 2024 08:06:03 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-18

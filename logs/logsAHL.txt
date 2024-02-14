@@ -1396,3 +1396,7 @@ Sodniku BrondiPa se je izbrisal datum iz AHL sheme. Datum:2024-02-14
 Sodniku AbeltinoSi se je izbrisal datum iz AHL sheme. Datum:2024-02-14
 Sodniku EggerTh se je izbrisal datum iz AHL sheme. Datum:2024-02-14
 Sodniku RinkerDa se je izbrisal datum iz AHL sheme. Datum:2024-02-24
+Sodniku KummerSt se je izbrisal datum iz AHL sheme. Datum:2024-02-15
+Sodniku  se je izbrisal datum iz AHL sheme. Datum:2024-02-15
+[Wed Feb 14 2024 08:08:44 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikHeadZw uspesno dodan 
+Sodniku HeadZw se je izbrisal datum iz AHL sheme. Datum:2024-02-15
