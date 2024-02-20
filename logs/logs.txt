@@ -1101,3 +1101,9 @@
 [Wed Feb 14 2024 08:08:44 GMT+0100 (Srednjeevropski standardni čas)] Sodnik JavornikBl uspesno zamenjal TelesklavFa Lokacija: Klagenfurter Stadthalle, Datum: 2024-02-15
 [Wed Feb 14 2024 08:08:44 GMT+0100 (Srednjeevropski standardni čas)] Sodnik TelesklavFa uspesno zamenjal  Lokacija: Klagenfurter Stadthalle, Datum: 2024-02-15
 [Wed Feb 14 2024 10:10:04 GMT+0100 (Srednjeevropski standardni čas)] Sodnik WidmannFl uspesno zamenjal HeadZw Lokacija: Klagenfurter Stadthalle, Datum: 2024-02-15
+[Sat Feb 17 2024 14:56:58 GMT+0100 (Srednjeevropski standardni čas)] Sodnik EggerTh uspesno zamenjal RuetzMa Lokacija: Eishalle Gröden, Datum: 2024-02-24
+[Sat Feb 17 2024 14:56:58 GMT+0100 (Srednjeevropski standardni čas)] Sodnik RuetzMa uspesno zamenjal SchauerJa Lokacija: Eishalle Gröden, Datum: 2024-02-24
+[Mon Feb 19 2024 21:28:22 GMT+0100 (Srednjeevropski standardni čas)] Sodnik MoschenAn uspesno zamenjal KainbergerJu Lokacija: Eishalle Sterzing, Datum: 2024-02-24
+[Mon Feb 19 2024 21:28:22 GMT+0100 (Srednjeevropski standardni čas)] Sodnik KainbergerJu uspesno zamenjal HlavatyAl Lokacija: Eishalle Dornbirn, Datum: 2024-02-24
+[Tue Feb 20 2024 09:43:25 GMT+0100 (Srednjeevropski standardni čas)] Sodnik KainbergerJu uspesno zamenjal HolzerTo Lokacija: Eishalle Sterzing, Datum: 2024-02-24
+[Tue Feb 20 2024 09:43:25 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HolzerTo uspesno zamenjal KainbergerJu Lokacija: Eishalle Dornbirn, Datum: 2024-02-24
