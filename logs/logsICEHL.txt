@@ -6963,3 +6963,6 @@ Sodniku BedynekSe se je izbrisal datum iz ICEHL sheme. Datum:2024-02-18
 [Mon Feb 19 2024 20:43:22 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-23
 [Mon Feb 19 2024 20:43:22 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-23
 [Mon Feb 19 2024 20:58:22 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-23
+Sodniku HlavatyAl se je izbrisal datum iz ICEHL sheme. Datum:2024-02-23
+Sodniku FichtnerPa se je izbrisal datum iz ICEHL sheme. Datum:2024-02-23
+Sodniku FichtnerPa se je izbrisal datum iz ICEHL sheme. Datum:2024-02-23

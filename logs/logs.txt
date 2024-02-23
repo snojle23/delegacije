@@ -1107,3 +1107,16 @@
 [Mon Feb 19 2024 21:28:22 GMT+0100 (Srednjeevropski standardni čas)] Sodnik KainbergerJu uspesno zamenjal HlavatyAl Lokacija: Eishalle Dornbirn, Datum: 2024-02-24
 [Tue Feb 20 2024 09:43:25 GMT+0100 (Srednjeevropski standardni čas)] Sodnik KainbergerJu uspesno zamenjal HolzerTo Lokacija: Eishalle Sterzing, Datum: 2024-02-24
 [Tue Feb 20 2024 09:43:25 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HolzerTo uspesno zamenjal KainbergerJu Lokacija: Eishalle Dornbirn, Datum: 2024-02-24
+[Thu Feb 22 2024 18:58:28 GMT+0100 (Srednjeevropski standardni čas)] Sodnik FichtnerPa uspesno zamenjal HlavatyAl Lokacija: Merkur Eisstadion Graz, Datum: 2024-02-23
+[Thu Feb 22 2024 18:58:28 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SmetanaLa uspesno zamenjal RezekGr Lokacija: Merkur Eisstadion Graz, Datum: 2024-02-23
+[Thu Feb 22 2024 18:58:28 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HronskyTo uspesno zamenjal OfnerCh Lokacija: Eiswelle Bozen, Datum: 2024-02-23
+[Thu Feb 22 2024 18:58:28 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HuberAn uspesno zamenjal PiragicTr Lokacija: Eiswelle Bozen, Datum: 2024-02-23
+[Thu Feb 22 2024 18:58:28 GMT+0100 (Srednjeevropski standardni čas)] Sodnik DurmisOt uspesno zamenjal HribarMa Lokacija: Eiswelle Bozen, Datum: 2024-02-23
+[Thu Feb 22 2024 18:58:28 GMT+0100 (Srednjeevropski standardni čas)] Sodnik KoncDa uspesno zamenjal ZgoncGa Lokacija: Eiswelle Bozen, Datum: 2024-02-23
+[Thu Feb 22 2024 18:58:28 GMT+0100 (Srednjeevropski standardni čas)] Sodnik RezekGr uspesno zamenjal SiegelSt Lokacija: Eishalle KagranEins, Datum: 2024-02-23
+[Thu Feb 22 2024 18:58:28 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SiegelSt uspesno zamenjal SmetanaLa Lokacija: Eishalle KagranEins, Datum: 2024-02-23
+[Thu Feb 22 2024 18:58:28 GMT+0100 (Srednjeevropski standardni čas)] Sodnik OfnerCh uspesno zamenjal HronskyTo Lokacija: Eishalle Bruneck, Datum: 2024-02-23
+[Thu Feb 22 2024 18:58:28 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PiragicTr uspesno zamenjal HuberAn Lokacija: Eishalle Bruneck, Datum: 2024-02-23
+[Thu Feb 22 2024 18:58:28 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HribarMa uspesno zamenjal DurmisOt Lokacija: Eishalle Bruneck, Datum: 2024-02-23
+[Thu Feb 22 2024 18:58:28 GMT+0100 (Srednjeevropski standardni čas)] Sodnik ZgoncGa uspesno zamenjal KoncDa Lokacija: Eishalle Bruneck, Datum: 2024-02-23
+[Thu Feb 22 2024 19:13:28 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HlavatyAl uspesno zamenjal FichtnerPa Lokacija: Linz AG Eisarena, Datum: 2024-02-23
