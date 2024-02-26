@@ -1120,3 +1120,8 @@
 [Thu Feb 22 2024 18:58:28 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HribarMa uspesno zamenjal DurmisOt Lokacija: Eishalle Bruneck, Datum: 2024-02-23
 [Thu Feb 22 2024 18:58:28 GMT+0100 (Srednjeevropski standardni čas)] Sodnik ZgoncGa uspesno zamenjal KoncDa Lokacija: Eishalle Bruneck, Datum: 2024-02-23
 [Thu Feb 22 2024 19:13:28 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HlavatyAl uspesno zamenjal FichtnerPa Lokacija: Linz AG Eisarena, Datum: 2024-02-23
+[Fri Feb 23 2024 18:11:28 GMT+0100 (Srednjeevropski standardni čas)] Sodnik VirtaTu uspesno zamenjal HuberAn Lokacija: Eiswelle Bozen, Datum: 2024-02-23
+[Sat Feb 24 2024 08:45:09 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PiragicTr uspesno zamenjal NikolicMa Lokacija: Hala Tivoli Ljubljana, Datum: 2024-02-27
+[Sat Feb 24 2024 08:45:09 GMT+0100 (Srednjeevropski standardni čas)] Sodnik ZrnicMi uspesno zamenjal SmetanaLa Lokacija: Hala Tivoli Ljubljana, Datum: 2024-02-27
+[Sat Feb 24 2024 08:45:09 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HribarMa uspesno zamenjal NotheggerDa Lokacija: Hala Tivoli Ljubljana, Datum: 2024-02-27
+[Sat Feb 24 2024 08:45:09 GMT+0100 (Srednjeevropski standardni čas)] Sodnik ZgoncGa uspesno zamenjal RieckenSi Lokacija: Hala Tivoli Ljubljana, Datum: 2024-02-27

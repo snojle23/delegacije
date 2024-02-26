@@ -6966,3 +6966,15 @@ Sodniku BedynekSe se je izbrisal datum iz ICEHL sheme. Datum:2024-02-18
 Sodniku HlavatyAl se je izbrisal datum iz ICEHL sheme. Datum:2024-02-23
 Sodniku FichtnerPa se je izbrisal datum iz ICEHL sheme. Datum:2024-02-23
 Sodniku FichtnerPa se je izbrisal datum iz ICEHL sheme. Datum:2024-02-23
+Sodniku ZrnicMi se je izbrisal datum iz ICEHL sheme. Datum:2024-02-23
+Sodniku GroznikBo se je izbrisal datum iz ICEHL sheme. Datum:2024-02-23
+Sodniku SnojTa se je izbrisal datum iz ICEHL sheme. Datum:2024-02-23
+Sodniku NotheggerDa se je izbrisal datum iz ICEHL sheme. Datum:2024-02-23
+Sodniku HuberAn se je izbrisal datum iz ICEHL sheme. Datum:2024-02-23
+[Fri Feb 23 2024 18:11:28 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikVirtaTu uspesno dodan 
+[Sat Feb 24 2024 08:30:09 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-25
+[Sat Feb 24 2024 08:30:09 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-02-25
+[Sat Feb 24 2024 08:30:09 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-25
+[Sat Feb 24 2024 08:30:09 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-27
+[Sat Feb 24 2024 08:30:09 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-02-27
+[Sat Feb 24 2024 08:45:09 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-27
