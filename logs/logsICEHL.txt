@@ -6978,3 +6978,5 @@ Sodniku HuberAn se je izbrisal datum iz ICEHL sheme. Datum:2024-02-23
 [Sat Feb 24 2024 08:30:09 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-27
 [Sat Feb 24 2024 08:30:09 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-02-27
 [Sat Feb 24 2024 08:45:09 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-27
+[Wed Feb 28 2024 06:58:55 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-29
+[Wed Feb 28 2024 06:58:55 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-02-29
