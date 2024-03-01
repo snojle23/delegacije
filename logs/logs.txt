@@ -1125,3 +1125,4 @@
 [Sat Feb 24 2024 08:45:09 GMT+0100 (Srednjeevropski standardni čas)] Sodnik ZrnicMi uspesno zamenjal SmetanaLa Lokacija: Hala Tivoli Ljubljana, Datum: 2024-02-27
 [Sat Feb 24 2024 08:45:09 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HribarMa uspesno zamenjal NotheggerDa Lokacija: Hala Tivoli Ljubljana, Datum: 2024-02-27
 [Sat Feb 24 2024 08:45:09 GMT+0100 (Srednjeevropski standardni čas)] Sodnik ZgoncGa uspesno zamenjal RieckenSi Lokacija: Hala Tivoli Ljubljana, Datum: 2024-02-27
+[Fri Mar 01 2024 05:10:55 GMT+0100 (Srednjeevropski standardni čas)] Sodnik KoncDa uspesno zamenjal ZgoncGa Lokacija: Eiswelle Bozen, Datum: 2024-03-03

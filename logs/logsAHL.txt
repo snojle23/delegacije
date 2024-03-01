@@ -1408,3 +1408,7 @@ Sodniku HlavatyAl se je izbrisal datum iz AHL sheme. Datum:2024-02-24
 [Sun Feb 25 2024 14:35:04 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-29
 [Sun Feb 25 2024 14:35:04 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-03-02
 [Sun Feb 25 2024 14:35:04 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-03-02
+Sodniku De zordoMa se je izbrisal datum iz AHL sheme. Datum:2024-03-02
+Sodniku LazzeriAl se je izbrisal datum iz AHL sheme. Datum:2024-03-02
+Sodniku KainbergerJu se je izbrisal datum iz AHL sheme. Datum:2024-03-02
+Sodniku EislCh se je izbrisal datum iz AHL sheme. Datum:2024-03-02
