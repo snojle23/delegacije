@@ -1135,3 +1135,9 @@
 [Mon Mar 11 2024 06:33:54 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HlavatyAl uspesno zamenjal VoicanCh Lokacija: KELIT Arena Zell am See, Datum: 2024-03-12
 [Mon Mar 11 2024 09:03:54 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HolzerTo uspesno zamenjal LazzeriAl Lokacija: Eishalle Sterzing, Datum: 2024-03-14
 [Mon Mar 11 2024 09:03:54 GMT+0100 (Srednjeevropski standardni čas)] Sodnik LazzeriAl uspesno zamenjal VoicanCh Lokacija: Eishalle Sterzing, Datum: 2024-03-14
+[Sat Mar 16 2024 17:49:19 GMT+0100 (Srednjeevropski standardni čas)] Sodnik De zordoMa uspesno zamenjal FleischmannLu Lokacija: Eishalle Ritten, Datum: 2024-03-19
+[Sat Mar 16 2024 17:49:19 GMT+0100 (Srednjeevropski standardni čas)] Sodnik FleischmannLu uspesno zamenjal LinesmanEi Lokacija: Eishalle Ritten, Datum: 2024-03-19
+[Wed Mar 20 2024 07:22:48 GMT+0100 (Srednjeevropski standardni čas)] Sodnik EislCh uspesno zamenjal FleischmannLu Lokacija: Eisarena Salzburg, Datum: 2024-03-26
+[Wed Mar 20 2024 07:22:48 GMT+0100 (Srednjeevropski standardni čas)] Sodnik FleischmannLu uspesno zamenjal EislCh Lokacija: Eishalle Cortina, Datum: 2024-03-23
+[Wed Mar 27 2024 08:54:50 GMT+0100 (Srednjeevropski standardni čas)] Sodnik KoncDa uspesno zamenjal DurmisOt Lokacija: Eisarena Salzburg, Datum: 2024-03-28
+[Wed Mar 27 2024 08:54:50 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NotheggerDa uspesno zamenjal KoncDa Lokacija: Eisarena Salzburg, Datum: 2024-03-28
