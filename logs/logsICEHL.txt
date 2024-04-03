@@ -7043,3 +7043,9 @@ Sodniku DurmisOt se je izbrisal datum iz ICEHL sheme. Datum:2024-03-28
 [Wed Mar 27 2024 19:14:03 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-03-30
 [Sun Mar 31 2024 07:41:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-04-02
 [Sun Mar 31 2024 07:41:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-04-02
+[Wed Apr 03 2024 11:46:09 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-04-05
+[Wed Apr 03 2024 11:46:09 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-04-05
+[Wed Apr 03 2024 11:46:09 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-04-07
+[Wed Apr 03 2024 11:46:09 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-04-07
+[Wed Apr 03 2024 12:01:09 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-04-09
+[Wed Apr 03 2024 12:01:09 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-04-09

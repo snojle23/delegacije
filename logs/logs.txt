@@ -1141,3 +1141,6 @@
 [Wed Mar 20 2024 07:22:48 GMT+0100 (Srednjeevropski standardni čas)] Sodnik FleischmannLu uspesno zamenjal EislCh Lokacija: Eishalle Cortina, Datum: 2024-03-23
 [Wed Mar 27 2024 08:54:50 GMT+0100 (Srednjeevropski standardni čas)] Sodnik KoncDa uspesno zamenjal DurmisOt Lokacija: Eisarena Salzburg, Datum: 2024-03-28
 [Wed Mar 27 2024 08:54:50 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NotheggerDa uspesno zamenjal KoncDa Lokacija: Eisarena Salzburg, Datum: 2024-03-28
+[Wed Apr 03 2024 08:24:36 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SeewaldJe uspesno zamenjal PuffWo Lokacija: Eishalle Ritten, Datum: 2024-04-04
+[Wed Apr 03 2024 08:24:36 GMT+0200 (Srednjeevropski poletni čas)] Sodnik WeissAl uspesno zamenjal SeewaldJe Lokacija: Eishalle Ritten, Datum: 2024-04-04
+[Wed Apr 03 2024 08:24:36 GMT+0200 (Srednjeevropski poletni čas)] Sodnik PuffWo uspesno zamenjal WeissAl Lokacija: Eishalle Cortina, Datum: 2024-04-06
