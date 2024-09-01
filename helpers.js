@@ -296,7 +296,8 @@ function getAllSudije(worksheet, datum) {
 }
 
 function dodajSodnikomDatum(worksheet, list, datum, isAHL, arrayForMail) {
-    const mailing = ["snojta", "bajtmi", "miklicgr", "rezekgr", "hribarma", "zrnicmi", "trilarvi", "zgoncga", "bergantan", "bulovecmi", "piragictr", "seewaldel", "markizetigr", "murnikpe", "milovanovicja"]; // todo : Object.keys za mailing
+    // ["snojta", "bajtmi", "miklicgr", "rezekgr", "hribarma", "zrnicmi", "trilarvi", "zgoncga", "bergantan", "bulovecmi", "piragictr", "seewaldel", "markizetigr", "murnikpe", "milovanovicja"];
+    const mailing = ["snojta", "rezekgr", "hribarma", "zrnicmi", "piragictr", "seewaldel", "markizetigr", "murnikpe"]; // todo : Object.keys za mailing
     list.forEach(sodnik => {
         let cellSodnik = vrniCellSodnik(worksheet, sodnik, isAHL);
         let rowSudija = 4

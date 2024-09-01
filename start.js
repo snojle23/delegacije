@@ -30,33 +30,35 @@ function scheduledFunction() {
 
             const mailing = {
                 "snojta": "tadej.snoj@gmail.com",
-                "bajtmi": "miha.bajt@gmail.com",
-                "miklicgr": "gregor.miklic.sp@gmail.com",
+                // "bajtmi": "miha.bajt@gmail.com",
+                // "miklicgr": "gregor.miklic.sp@gmail.com",
                 "rezekgr": "gregor.rezek@gmail.com",
                 "hribarma": "matjazhribar@hotmail.com",
                 "zrnicmi": "milan_zrnic@hotmail.com",
-                "trilarvi": "viki@hokej.si",
-                "zgoncga": "jaka.zgonc@gmail.com",
-                "bergantan": "anze.bergant@gmail.com",
-                "bulovecmi": "miha.bulovec@gmail.com",
+                // "trilarvi": "viki@hokej.si", -- viki ni dal sixpacka za 2022-23 in za 2023-24
+                // "zgoncga": "jaka.zgonc@gmail.com",
+                // "bergantan": "anze.bergant@gmail.com", bergi ni plaču za 2022-23 in za 2023-24
+                // "bulovecmi": "miha.bulovec@gmail.com",
                 "piragictr": "trpimir.piragic@gmail.com",
                 "seewaldel": "seewald30@gmail.com",
-                "milovanovicja": "jakobmilovanovic@gmail.com",
                 "murnikpe": "petja.murnik@gmail.com",
                 "markizetigr": "grega.markizeti@gmail.com"
             }
+
+            // 'snojta', 'hribarma', 'zrnicmi', 'seewaldel', 'markizetigr', 'rezekgr', 'piragictr' teli so mel poravnan za 2022-23
+            // bajtmi, miklicgr, zgoncga, bulovecmi
             arrayForMail.forEach(i => {
                 const tekme = JSON.stringify(i.tekme);
                 if (Object.keys(mailing).includes(i.sodnik)) {
                     let htmlTekst = `
-                            <p><strong>🍻Please do not forget</strong> for yearly subscription of one six-pack for season 2022-23🍻</p>
-                            <p>Here are new games for you:</p>
+                            <p><strong>Dobrodošli v sezono 2024-25.</strong>🍻 Če si dobil ta mail pomeni, da si za 2022-23 prinesel pivo. Praksa je enaka za prejšno sezono - 2023-24🍻</p>
+                            <p>Pivo pričakujem najkasneje do CC-ja v Romuniji, kar je 18.10.2024</p>
+                            <p>Nove tekme:</p>
                             <ul>
                                 ${i.tekme.map(t => `<li>${t.liga} - ${t.datum}</li>`).join('')}
                             </ul>
                             `;
-
-                    if(['snojta', 'hribarma', 'zrnicmi', 'seewaldel', 'milovanovicja', 'murnikpe', 'markizetigr', 'rezekgr', 'piragictr'].includes(i.sodnik)){
+                    if(['snojta', 'seewaldel',].includes(i.sodnik)){
                         htmlTekst = `
                             <p>New games in https://www.referee-manager.com/, check them:</p>
                             <ul>
@@ -94,5 +96,5 @@ function scheduledFunction() {
         }
 
         counter++;
-    }, 1 * 120 * 60 * 1000); // 1 hour = 1 * 60 * 60 * 1000
+    }, 1 * 60 * 60 * 1000); // 1 hour = 1 * 60 * 60 * 1000
 }       // 1 * 1 * 30 * 1000 30sec
