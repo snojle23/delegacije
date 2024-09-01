@@ -7049,3 +7049,13 @@ Sodniku DurmisOt se je izbrisal datum iz ICEHL sheme. Datum:2024-03-28
 [Wed Apr 03 2024 11:46:09 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-04-07
 [Wed Apr 03 2024 12:01:09 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-04-09
 [Wed Apr 03 2024 12:01:09 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-04-09
+[Mon Apr 08 2024 11:18:56 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-04-12
+[Mon Apr 08 2024 11:18:56 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-04-12
+[Wed Apr 10 2024 17:04:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-04-14
+[Wed Apr 10 2024 17:04:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-04-14
+[Wed Apr 10 2024 17:04:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-04-16
+[Wed Apr 10 2024 17:04:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-04-16
+Sodniku SmetanaLa se je izbrisal datum iz ICEHL sheme. Datum:2024-04-14
+Sodniku SternatCh se je izbrisal datum iz ICEHL sheme. Datum:2024-04-16
+[Wed Apr 17 2024 08:45:19 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-04-19
+[Wed Apr 17 2024 08:45:19 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-04-19

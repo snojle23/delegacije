@@ -1144,3 +1144,5 @@
 [Wed Apr 03 2024 08:24:36 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SeewaldJe uspesno zamenjal PuffWo Lokacija: Eishalle Ritten, Datum: 2024-04-04
 [Wed Apr 03 2024 08:24:36 GMT+0200 (Srednjeevropski poletni čas)] Sodnik WeissAl uspesno zamenjal SeewaldJe Lokacija: Eishalle Ritten, Datum: 2024-04-04
 [Wed Apr 03 2024 08:24:36 GMT+0200 (Srednjeevropski poletni čas)] Sodnik PuffWo uspesno zamenjal WeissAl Lokacija: Eishalle Cortina, Datum: 2024-04-06
+[Sun Apr 14 2024 10:17:22 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SternatCh uspesno zamenjal SmetanaLa Lokacija: Heidi Horten Arena Klagenfurt, Datum: 2024-04-14
+[Mon Apr 15 2024 10:02:21 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SmetanaLa uspesno zamenjal SternatCh Lokacija: Eisarena Salzburg, Datum: 2024-04-16
