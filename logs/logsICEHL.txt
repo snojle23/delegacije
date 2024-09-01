@@ -6362,3 +6362,700 @@ Sodniku KONC se je izbrisal datum iz ICEHL sheme. Datum:2023-04-16
 [Sun Apr 16 2023 22:46:58 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-04-18
 [Wed Apr 19 2023 10:17:11 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-04-21
 [Wed Apr 19 2023 10:17:11 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-04-21
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-15
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-09-15
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-15
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-15
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-15
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-15
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-15
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-16
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-09-16
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-17
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-09-17
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-17
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-17
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-17
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-17
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-19
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-09-19
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-22
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-09-22
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-22
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-22
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-22
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-22
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-22
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-23
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-09-23
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-24
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-09-24
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-24
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-24
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-24
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-24
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-26
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-09-26
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-26
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-26
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-26
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-26
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-26
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-29
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-09-29
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-29
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-29
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-29
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-29
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-29
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-09-30
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-09-30
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-01
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-10-01
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-01
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-01
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-01
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-01
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikRenczDa uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikTrilarVi uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikHribarMa uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikMuzsikNo uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikBernekerTh uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikHuberAn uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikSeewaldEl uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikWimmlerAl uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikNagyAt uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikSoosDa uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikBärnthalerCh uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikVacziDa uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikGroznikBo uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikNikolicMa uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikEislCh uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikNotheggerDa uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikSmetanaLa uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikSternatCh uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikGatol-schafranekMa uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikPuffWo uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikRezekGr uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikZrnicMi uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikMantovaniDa uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikRigoniDa uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikMoschenAn uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikPardatscherUl uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikNikolicKr uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikPiragicTr uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikBedynekSe uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikZgoncGa uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikSchauerJa uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikMartinFl uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikSparerDa uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikHolzerTo uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikSnojTa uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikHronskyTo uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikSiegelSt uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikDurmisOt uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikJedlickaPe uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikMiklicGr uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikRieckenSi uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikKoncDa uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikFichtnerPa uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikHlavatyAl uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikFleischmannLu uspesno dodan 
+[Sun Aug 20 2023 12:56:44 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikWeissAl uspesno dodan 
+[Sun Aug 20 2023 12:56:45 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikSeewaldJe uspesno dodan 
+[Sun Aug 20 2023 12:56:45 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikMoidlMa uspesno dodan 
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-03
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-10-03
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-03
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-03
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-03
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-03
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-03
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-05
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-10-05
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-06
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-10-06
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-06
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-06
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-06
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-07
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-10-07
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-08
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-10-08
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-08
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-08
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-08
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-08
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-11
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-10-11
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-13
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-10-13
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-13
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-13
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-13
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-13
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-14
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-10-14
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-14
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-15
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-10-15
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-15
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-15
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-15
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-20
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-10-20
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-20
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-21
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-10-21
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-21
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-22
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-10-22
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-22
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-22
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-22
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikOfnerCh uspesno dodan 
+[Wed Sep 06 2023 08:32:48 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikPalköviZs uspesno dodan 
+Sodniku TrilarVi se je izbrisal datum iz ICEHL sheme. Datum:2023-09-29
+Sodniku TrilarVi se je izbrisal datum iz ICEHL sheme. Datum:2023-10-22
+Sodniku BedynekSe se je izbrisal datum iz ICEHL sheme. Datum:2023-09-17
+[Wed Sep 20 2023 06:53:52 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-20
+[Wed Sep 20 2023 06:53:52 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-20
+Sodniku SchauerJa se je izbrisal datum iz ICEHL sheme. Datum:2023-10-06
+Sodniku NikolicMa se je izbrisal datum iz ICEHL sheme. Datum:2023-10-07
+[Wed Sep 20 2023 23:19:11 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-03
+Sodniku BärnthalerCh se je izbrisal datum iz ICEHL sheme. Datum:2023-10-03
+Sodniku BärnthalerCh se je izbrisal datum iz ICEHL sheme. Datum:2023-10-03
+Sodniku GroznikBo se je izbrisal datum iz ICEHL sheme. Datum:2023-10-03
+Sodniku GroznikBo se je izbrisal datum iz ICEHL sheme. Datum:2023-10-03
+Sodniku MiklicGr se je izbrisal datum iz ICEHL sheme. Datum:2023-10-03
+Sodniku MiklicGr se je izbrisal datum iz ICEHL sheme. Datum:2023-10-03
+Sodniku OfnerCh se je izbrisal datum iz ICEHL sheme. Datum:2023-10-03
+Sodniku OfnerCh se je izbrisal datum iz ICEHL sheme. Datum:2023-10-03
+[Thu Sep 21 2023 19:59:22 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-20
+[Thu Sep 21 2023 20:04:22 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-20
+Sodniku JedlickaPe se je izbrisal datum iz ICEHL sheme. Datum:2023-09-24
+[Sat Sep 23 2023 19:50:47 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikZacherlPa uspesno dodan 
+Sodniku FichtnerPa se je izbrisal datum iz ICEHL sheme. Datum:2023-09-30
+[Thu Sep 28 2023 12:00:00 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-25
+[Thu Sep 28 2023 12:00:00 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-10-25
+[Thu Sep 28 2023 12:00:00 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-25
+[Thu Sep 28 2023 12:10:43 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-25
+[Thu Sep 28 2023 12:10:43 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-25
+[Thu Sep 28 2023 12:10:43 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-25
+[Thu Sep 28 2023 12:10:43 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-25
+[Thu Sep 28 2023 12:20:45 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-27
+[Thu Sep 28 2023 12:20:45 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-10-27
+[Thu Sep 28 2023 12:20:45 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-27
+[Thu Sep 28 2023 12:20:45 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-27
+[Thu Sep 28 2023 12:20:45 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-27
+[Thu Sep 28 2023 12:20:45 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-27
+[Thu Sep 28 2023 12:20:45 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-27
+[Thu Sep 28 2023 12:20:45 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikHeadEi uspesno dodan 
+[Thu Sep 28 2023 12:45:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-29
+[Thu Sep 28 2023 12:45:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-10-29
+[Thu Sep 28 2023 12:50:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-29
+[Thu Sep 28 2023 12:50:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-29
+[Thu Sep 28 2023 12:50:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-29
+[Thu Sep 28 2023 12:50:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-29
+[Thu Sep 28 2023 12:50:44 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-29
+[Thu Sep 28 2023 13:00:43 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-01
+[Thu Sep 28 2023 13:00:43 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-11-01
+[Thu Sep 28 2023 13:00:43 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-01
+[Thu Sep 28 2023 13:00:43 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-01
+[Thu Sep 28 2023 13:00:43 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-01
+[Thu Sep 28 2023 13:00:43 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-01
+[Thu Sep 28 2023 13:15:43 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-03
+[Thu Sep 28 2023 13:15:43 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-11-03
+[Thu Sep 28 2023 13:15:43 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-03
+[Thu Sep 28 2023 13:15:43 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-03
+[Thu Sep 28 2023 13:15:43 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-03
+[Thu Sep 28 2023 13:15:43 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-03
+[Thu Sep 28 2023 13:15:43 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-03
+[Thu Sep 28 2023 13:15:43 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-04
+[Thu Sep 28 2023 13:15:43 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-11-04
+[Thu Sep 28 2023 13:30:51 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-05
+[Thu Sep 28 2023 13:30:51 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-11-05
+[Thu Sep 28 2023 13:30:51 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-05
+[Thu Sep 28 2023 13:30:51 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-05
+[Thu Sep 28 2023 13:30:51 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-05
+[Thu Sep 28 2023 13:30:51 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikLinesmanEi uspesno dodan 
+[Thu Sep 28 2023 13:35:46 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-05
+Sodniku PalköviZs se je izbrisal datum iz ICEHL sheme. Datum:2023-11-03
+[Thu Sep 28 2023 13:55:52 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnik uspesno dodan 
+[Thu Sep 28 2023 14:00:50 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-05
+Sodniku  se je izbrisal datum iz ICEHL sheme. Datum:2023-11-03
+Sodniku NikolicKr se je izbrisal datum iz ICEHL sheme. Datum:2023-09-29
+Sodniku NotheggerDa se je izbrisal datum iz ICEHL sheme. Datum:2023-10-27
+Sodniku SmetanaLa se je izbrisal datum iz ICEHL sheme. Datum:2023-10-27
+Sodniku Gatol-schafranekMa se je izbrisal datum iz ICEHL sheme. Datum:2023-10-27
+Sodniku NikolicKr se je izbrisal datum iz ICEHL sheme. Datum:2023-10-27
+Sodniku SeewaldEl se je izbrisal datum iz ICEHL sheme. Datum:2023-10-29
+Sodniku SmetanaLa se je izbrisal datum iz ICEHL sheme. Datum:2023-10-29
+Sodniku Gatol-schafranekMa se je izbrisal datum iz ICEHL sheme. Datum:2023-10-29
+Sodniku HlavatyAl se je izbrisal datum iz ICEHL sheme. Datum:2023-10-29
+Sodniku RenczDa se je izbrisal datum iz ICEHL sheme. Datum:2023-11-05
+Sodniku MuzsikNo se je izbrisal datum iz ICEHL sheme. Datum:2023-11-05
+Sodniku OfnerCh se je izbrisal datum iz ICEHL sheme. Datum:2023-11-05
+Sodniku LinesmanEi se je izbrisal datum iz ICEHL sheme. Datum:2023-11-05
+Sodniku TrilarVi se je izbrisal datum iz ICEHL sheme. Datum:2023-11-03
+Sodniku ZgoncGa se je izbrisal datum iz ICEHL sheme. Datum:2023-11-03
+Sodniku SnojTa se je izbrisal datum iz ICEHL sheme. Datum:2023-11-03
+Sodniku HeadEi se je izbrisal datum iz ICEHL sheme. Datum:2023-11-03
+Sodniku HeadEi se je izbrisal datum iz ICEHL sheme. Datum:2023-11-03
+[Sat Sep 30 2023 20:15:58 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-27
+[Sat Sep 30 2023 20:20:58 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-29
+[Sat Sep 30 2023 20:20:58 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-03
+[Sat Sep 30 2023 20:20:58 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-05
+Sodniku RenczDa se je izbrisal datum iz ICEHL sheme. Datum:2023-10-05
+Sodniku SoosDa se je izbrisal datum iz ICEHL sheme. Datum:2023-10-08
+Sodniku DurmisOt se je izbrisal datum iz ICEHL sheme. Datum:2023-10-06
+Sodniku NikolicMa se je izbrisal datum iz ICEHL sheme. Datum:2023-10-06
+Sodniku HronskyTo se je izbrisal datum iz ICEHL sheme. Datum:2023-10-06
+Sodniku KoncDa se je izbrisal datum iz ICEHL sheme. Datum:2023-10-06
+Sodniku BärnthalerCh se je izbrisal datum iz ICEHL sheme. Datum:2023-10-08
+Sodniku SmetanaLa se je izbrisal datum iz ICEHL sheme. Datum:2023-10-08
+Sodniku FichtnerPa se je izbrisal datum iz ICEHL sheme. Datum:2023-10-08
+Sodniku WeissAl se je izbrisal datum iz ICEHL sheme. Datum:2023-10-08
+[Sun Oct 08 2023 18:40:11 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-08
+[Sun Oct 08 2023 18:40:11 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-10-14
+Sodniku ZrnicMi se je izbrisal datum iz ICEHL sheme. Datum:2023-10-08
+Sodniku ZrnicMi se je izbrisal datum iz ICEHL sheme. Datum:2023-10-08
+Sodniku MuzsikNo se je izbrisal datum iz ICEHL sheme. Datum:2023-10-08
+Sodniku MuzsikNo se je izbrisal datum iz ICEHL sheme. Datum:2023-10-08
+Sodniku VacziDa se je izbrisal datum iz ICEHL sheme. Datum:2023-10-08
+Sodniku VacziDa se je izbrisal datum iz ICEHL sheme. Datum:2023-10-08
+Sodniku OfnerCh se je izbrisal datum iz ICEHL sheme. Datum:2023-10-08
+Sodniku OfnerCh se je izbrisal datum iz ICEHL sheme. Datum:2023-10-08
+Sodniku BernekerTh se je izbrisal datum iz ICEHL sheme. Datum:2023-10-14
+Sodniku BernekerTh se je izbrisal datum iz ICEHL sheme. Datum:2023-10-14
+Sodniku BärnthalerCh se je izbrisal datum iz ICEHL sheme. Datum:2023-10-14
+Sodniku BärnthalerCh se je izbrisal datum iz ICEHL sheme. Datum:2023-10-14
+Sodniku NikolicMa se je izbrisal datum iz ICEHL sheme. Datum:2023-10-14
+Sodniku NikolicMa se je izbrisal datum iz ICEHL sheme. Datum:2023-10-14
+Sodniku MoidlMa se je izbrisal datum iz ICEHL sheme. Datum:2023-10-14
+Sodniku MoidlMa se je izbrisal datum iz ICEHL sheme. Datum:2023-10-14
+Sodniku SparerDa se je izbrisal datum iz ICEHL sheme. Datum:2023-10-20
+Sodniku SparerDa se je izbrisal datum iz ICEHL sheme. Datum:2023-10-25
+Sodniku NikolicKr se je izbrisal datum iz ICEHL sheme. Datum:2023-10-27
+Sodniku HeadEi se je izbrisal datum iz ICEHL sheme. Datum:2023-10-27
+Sodniku SparerDa se je izbrisal datum iz ICEHL sheme. Datum:2023-10-29
+Sodniku SparerDa se je izbrisal datum iz ICEHL sheme. Datum:2023-11-01
+Sodniku SparerDa se je izbrisal datum iz ICEHL sheme. Datum:2023-11-03
+Sodniku HeadEi se je izbrisal datum iz ICEHL sheme. Datum:2023-11-03
+[Mon Oct 09 2023 13:45:29 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikVoicanCh uspesno dodan 
+Sodniku NikolicMa se je izbrisal datum iz ICEHL sheme. Datum:2023-11-05
+Sodniku HeadEi se je izbrisal datum iz ICEHL sheme. Datum:2023-11-05
+Sodniku PalköviZs se je izbrisal datum iz ICEHL sheme. Datum:2023-10-21
+[Mon Oct 09 2023 18:45:28 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-03
+Sodniku NikolicMa se je izbrisal datum iz ICEHL sheme. Datum:2023-11-03
+Sodniku RigoniDa se je izbrisal datum iz ICEHL sheme. Datum:2023-10-20
+[Wed Oct 18 2023 20:23:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-17
+[Wed Oct 18 2023 20:23:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-11-17
+[Wed Oct 18 2023 20:23:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-17
+[Wed Oct 18 2023 20:23:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-17
+[Wed Oct 18 2023 20:23:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-17
+[Wed Oct 18 2023 20:23:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-17
+[Wed Oct 18 2023 20:23:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-17
+[Wed Oct 18 2023 20:23:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-18
+[Wed Oct 18 2023 20:23:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-11-18
+[Wed Oct 18 2023 20:23:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-18
+[Wed Oct 18 2023 20:23:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-18
+[Wed Oct 18 2023 20:23:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-19
+[Wed Oct 18 2023 20:23:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-11-19
+[Wed Oct 18 2023 20:23:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-19
+[Wed Oct 18 2023 20:38:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-19
+[Wed Oct 18 2023 20:38:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-24
+[Wed Oct 18 2023 20:38:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-11-24
+[Wed Oct 18 2023 20:38:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-24
+[Wed Oct 18 2023 20:38:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-24
+[Wed Oct 18 2023 20:38:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-24
+[Wed Oct 18 2023 20:38:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-24
+[Wed Oct 18 2023 20:38:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-24
+[Wed Oct 18 2023 20:38:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-26
+[Wed Oct 18 2023 20:38:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-11-26
+[Wed Oct 18 2023 20:38:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-26
+[Wed Oct 18 2023 20:38:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-26
+[Wed Oct 18 2023 20:38:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-26
+[Wed Oct 18 2023 20:38:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-26
+[Wed Oct 18 2023 20:38:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-26
+[Wed Oct 18 2023 20:38:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-28
+[Wed Oct 18 2023 20:38:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-11-28
+[Wed Oct 18 2023 20:38:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-28
+[Wed Oct 18 2023 20:38:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-28
+[Wed Oct 18 2023 20:38:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-28
+[Wed Oct 18 2023 20:53:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-28
+[Wed Oct 18 2023 20:53:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-28
+[Wed Oct 18 2023 20:53:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-12-01
+[Wed Oct 18 2023 20:53:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-12-01
+[Wed Oct 18 2023 20:53:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-12-01
+[Wed Oct 18 2023 20:53:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-12-01
+[Wed Oct 18 2023 20:53:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-12-01
+[Wed Oct 18 2023 20:53:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-12-01
+[Wed Oct 18 2023 20:53:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-12-01
+[Wed Oct 18 2023 20:53:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-12-02
+[Wed Oct 18 2023 20:53:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-12-02
+[Wed Oct 18 2023 20:53:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-12-02
+[Wed Oct 18 2023 20:53:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-12-03
+[Wed Oct 18 2023 20:53:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-12-03
+[Wed Oct 18 2023 20:53:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-12-03
+[Wed Oct 18 2023 20:53:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-12-03
+[Wed Oct 18 2023 21:08:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-12-03
+[Wed Oct 18 2023 21:08:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-12-05
+[Wed Oct 18 2023 21:08:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-12-05
+[Wed Oct 18 2023 21:08:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-12-08
+[Wed Oct 18 2023 21:08:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-12-08
+[Wed Oct 18 2023 21:08:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-12-08
+[Wed Oct 18 2023 21:08:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-12-08
+[Wed Oct 18 2023 21:08:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-12-08
+[Wed Oct 18 2023 21:08:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-12-08
+[Wed Oct 18 2023 21:08:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-12-08
+[Wed Oct 18 2023 21:08:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-12-09
+[Wed Oct 18 2023 21:08:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-12-09
+[Wed Oct 18 2023 21:08:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-12-09
+[Wed Oct 18 2023 21:08:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-12-10
+[Wed Oct 18 2023 21:08:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-12-10
+[Wed Oct 18 2023 21:08:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-12-10
+[Wed Oct 18 2023 21:08:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-12-10
+[Wed Oct 18 2023 21:08:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-12-10
+[Wed Oct 18 2023 21:08:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-12-16
+[Wed Oct 18 2023 21:08:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-12-16
+Sodniku NikolicKr se je izbrisal datum iz ICEHL sheme. Datum:2023-10-29
+Sodniku FleischmannLu se je izbrisal datum iz ICEHL sheme. Datum:2023-11-17
+Sodniku FleischmannLu se je izbrisal datum iz ICEHL sheme. Datum:2023-11-19
+Sodniku EislCh se je izbrisal datum iz ICEHL sheme. Datum:2023-10-20
+Sodniku WimmlerAl se je izbrisal datum iz ICEHL sheme. Datum:2023-11-19
+Sodniku MartinFl se je izbrisal datum iz ICEHL sheme. Datum:2023-10-25
+Sodniku MartinFl se je izbrisal datum iz ICEHL sheme. Datum:2023-11-24
+[Sat Oct 28 2023 13:04:19 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2023-11-22
+[Sat Oct 28 2023 13:04:19 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-11-22
+Sodniku HuberAn se je izbrisal datum iz ICEHL sheme. Datum:2023-11-24
+Sodniku  se je izbrisal datum iz ICEHL sheme. Datum:2023-11-24
+Sodniku SternatCh se je izbrisal datum iz ICEHL sheme. Datum:2023-11-03
+Sodniku MantovaniDa se je izbrisal datum iz ICEHL sheme. Datum:2023-11-03
+Sodniku PardatscherUl se je izbrisal datum iz ICEHL sheme. Datum:2023-11-05
+Sodniku OfnerCh se je izbrisal datum iz ICEHL sheme. Datum:2023-12-08
+Sodniku SchauerJa se je izbrisal datum iz ICEHL sheme. Datum:2023-11-17
+Sodniku HolzerTo se je izbrisal datum iz ICEHL sheme. Datum:2023-11-28
+Sodniku KoncDa se je izbrisal datum iz ICEHL sheme. Datum:2023-12-05
+Sodniku SnojTa se je izbrisal datum iz ICEHL sheme. Datum:2023-12-08
+Sodniku HribarMa se je izbrisal datum iz ICEHL sheme. Datum:2023-11-17
+Sodniku MoschenAn se je izbrisal datum iz ICEHL sheme. Datum:2023-12-10
+[Mon Nov 20 2023 16:50:17 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikHeadEi uspesno dodan 
+Sodniku VoicanCh se je izbrisal datum iz ICEHL sheme. Datum:2023-11-28
+Sodniku ZrnicMi se je izbrisal datum iz ICEHL sheme. Datum:2023-12-16
+Sodniku  se je izbrisal datum iz ICEHL sheme. Datum:2023-12-16
+Sodniku VoicanCh se je izbrisal datum iz ICEHL sheme. Datum:2023-12-01
+Sodniku RezekGr se je izbrisal datum iz ICEHL sheme. Datum:2023-12-10
+Sodniku SeewaldEl se je izbrisal datum iz ICEHL sheme. Datum:2023-12-10
+Sodniku SeewaldEl se je izbrisal datum iz ICEHL sheme. Datum:2023-12-10
+Sodniku HeadEi se je izbrisal datum iz ICEHL sheme. Datum:2023-12-10
+[Thu Nov 23 2023 22:31:42 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-12-20
+[Thu Nov 23 2023 22:31:42 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-12-20
+[Thu Nov 23 2023 22:31:42 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-12-20
+[Thu Nov 23 2023 22:31:42 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-12-20
+[Thu Nov 23 2023 22:31:42 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-12-20
+[Thu Nov 23 2023 22:31:42 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-12-21
+[Thu Nov 23 2023 22:31:42 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-12-21
+[Thu Nov 23 2023 22:31:42 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-12-22
+[Thu Nov 23 2023 22:31:42 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-12-22
+[Thu Nov 23 2023 22:31:42 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-12-22
+[Thu Nov 23 2023 22:31:42 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-12-22
+[Thu Nov 23 2023 22:46:41 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-12-22
+[Thu Nov 23 2023 22:46:41 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-12-22
+[Thu Nov 23 2023 22:46:41 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-12-22
+[Thu Nov 23 2023 22:46:41 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-12-26
+[Thu Nov 23 2023 22:46:41 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-12-26
+[Thu Nov 23 2023 22:46:41 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-12-26
+[Thu Nov 23 2023 22:46:41 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-12-26
+[Thu Nov 23 2023 22:46:41 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-12-26
+[Thu Nov 23 2023 22:46:41 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-12-26
+[Thu Nov 23 2023 22:46:41 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-12-26
+[Thu Nov 23 2023 22:46:41 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-12-28
+[Thu Nov 23 2023 22:46:41 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-12-28
+[Thu Nov 23 2023 22:46:41 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-12-28
+[Thu Nov 23 2023 22:46:41 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-12-28
+[Thu Nov 23 2023 22:46:41 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-12-28
+[Thu Nov 23 2023 22:46:41 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-12-28
+[Thu Nov 23 2023 22:46:41 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-12-28
+[Thu Nov 23 2023 22:46:41 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-12-30
+[Thu Nov 23 2023 22:46:41 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2023-12-30
+[Thu Nov 23 2023 22:46:41 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-12-30
+[Thu Nov 23 2023 22:46:41 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-01
+[Thu Nov 23 2023 22:46:41 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-01-01
+[Thu Nov 23 2023 23:21:41 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-12-30
+[Thu Nov 23 2023 23:21:41 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-12-30
+[Thu Nov 23 2023 23:21:41 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-12-30
+[Thu Nov 23 2023 23:21:41 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-01
+[Thu Nov 23 2023 23:21:41 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-01
+[Thu Nov 23 2023 23:21:41 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-01
+[Thu Nov 23 2023 23:21:41 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-01
+[Thu Nov 23 2023 23:21:41 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-01
+[Thu Nov 23 2023 23:21:41 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-03
+[Thu Nov 23 2023 23:21:41 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-01-03
+[Thu Nov 23 2023 23:21:41 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-03
+[Thu Nov 23 2023 23:21:41 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-03
+[Thu Nov 23 2023 23:21:41 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-03
+[Thu Nov 23 2023 23:21:41 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-03
+[Thu Nov 23 2023 23:21:41 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-03
+[Thu Nov 23 2023 23:21:41 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-06
+[Thu Nov 23 2023 23:21:41 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-01-06
+[Thu Nov 23 2023 23:21:41 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-06
+[Thu Nov 23 2023 23:21:41 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-06
+[Thu Nov 23 2023 23:21:41 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-06
+[Thu Nov 23 2023 23:21:41 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-06
+[Thu Nov 23 2023 23:21:41 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-06
+[Thu Nov 23 2023 23:21:41 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikKainbergerJu uspesno dodan 
+[Thu Nov 23 2023 23:53:38 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2023-12-30
+Sodniku MartinFl se je izbrisal datum iz ICEHL sheme. Datum:2023-11-26
+Sodniku KoncDa se je izbrisal datum iz ICEHL sheme. Datum:2023-11-28
+Sodniku WimmlerAl se je izbrisal datum iz ICEHL sheme. Datum:2023-12-01
+Sodniku NikolicKr se je izbrisal datum iz ICEHL sheme. Datum:2023-12-28
+Sodniku SeewaldEl se je izbrisal datum iz ICEHL sheme. Datum:2024-01-03
+[Mon Dec 18 2023 20:51:33 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-09
+[Mon Dec 18 2023 20:51:33 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-01-09
+[Mon Dec 18 2023 20:51:33 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-09
+[Mon Dec 18 2023 20:51:33 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-09
+[Mon Dec 18 2023 20:51:33 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-09
+[Mon Dec 18 2023 20:51:33 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-09
+[Mon Dec 18 2023 20:51:33 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-09
+[Mon Dec 18 2023 20:51:33 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-12
+[Mon Dec 18 2023 20:51:33 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-01-12
+[Mon Dec 18 2023 20:51:33 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-12
+[Mon Dec 18 2023 20:51:33 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-12
+[Mon Dec 18 2023 20:51:33 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-12
+[Mon Dec 18 2023 20:51:33 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-12
+[Mon Dec 18 2023 20:51:33 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-12
+[Mon Dec 18 2023 20:51:33 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-13
+[Mon Dec 18 2023 20:51:33 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-01-13
+[Mon Dec 18 2023 20:51:33 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-13
+[Mon Dec 18 2023 20:51:33 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-13
+[Mon Dec 18 2023 20:51:33 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-14
+[Mon Dec 18 2023 20:51:33 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-01-14
+[Mon Dec 18 2023 20:51:33 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-14
+[Mon Dec 18 2023 20:51:33 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-14
+[Mon Dec 18 2023 20:51:33 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-19
+[Mon Dec 18 2023 20:51:33 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-01-19
+[Mon Dec 18 2023 20:51:33 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-19
+[Mon Dec 18 2023 20:51:33 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-19
+[Mon Dec 18 2023 20:51:33 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-19
+[Mon Dec 18 2023 20:51:33 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-19
+[Mon Dec 18 2023 20:51:33 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-19
+[Mon Dec 18 2023 20:51:33 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-20
+[Mon Dec 18 2023 20:51:33 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-01-20
+[Mon Dec 18 2023 20:51:33 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-20
+[Mon Dec 18 2023 20:51:33 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-20
+[Mon Dec 18 2023 21:06:33 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-21
+[Mon Dec 18 2023 21:06:33 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-01-21
+[Mon Dec 18 2023 21:06:33 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-21
+[Mon Dec 18 2023 21:06:33 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-21
+[Mon Dec 18 2023 21:06:33 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-23
+[Mon Dec 18 2023 21:06:33 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-01-23
+[Mon Dec 18 2023 21:06:33 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-23
+[Mon Dec 18 2023 21:06:33 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-23
+[Mon Dec 18 2023 21:06:33 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-23
+[Mon Dec 18 2023 21:06:33 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-23
+[Mon Dec 18 2023 21:06:33 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-23
+Sodniku RieckenSi se je izbrisal datum iz ICEHL sheme. Datum:2024-01-13
+Sodniku MartinFl se je izbrisal datum iz ICEHL sheme. Datum:2023-12-21
+Sodniku GroznikBo se je izbrisal datum iz ICEHL sheme. Datum:2024-01-01
+Sodniku NikolicMa se je izbrisal datum iz ICEHL sheme. Datum:2024-01-09
+Sodniku JedlickaPe se je izbrisal datum iz ICEHL sheme. Datum:2024-01-09
+Sodniku WimmlerAl se je izbrisal datum iz ICEHL sheme. Datum:2024-01-09
+Sodniku VacziDa se je izbrisal datum iz ICEHL sheme. Datum:2024-01-23
+[Thu Jan 11 2024 19:58:24 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-26
+[Thu Jan 11 2024 19:58:24 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-01-26
+[Thu Jan 11 2024 19:58:24 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-26
+[Thu Jan 11 2024 19:58:24 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-26
+[Thu Jan 11 2024 19:58:24 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-26
+[Thu Jan 11 2024 20:13:24 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-26
+[Thu Jan 11 2024 20:13:24 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-27
+[Thu Jan 11 2024 20:13:24 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-01-27
+[Thu Jan 11 2024 20:13:24 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-27
+[Thu Jan 11 2024 20:13:24 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-27
+[Thu Jan 11 2024 20:13:24 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-28
+[Thu Jan 11 2024 20:13:24 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-01-28
+[Thu Jan 11 2024 20:13:24 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-28
+[Thu Jan 11 2024 20:13:24 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-28
+[Thu Jan 11 2024 20:26:11 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-01-30
+[Thu Jan 11 2024 20:26:11 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-01-30
+[Thu Jan 11 2024 20:26:11 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-02
+[Thu Jan 11 2024 20:26:11 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-02-02
+[Thu Jan 11 2024 20:26:11 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-02
+[Thu Jan 11 2024 20:26:11 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-02
+[Thu Jan 11 2024 20:26:11 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-02
+[Thu Jan 11 2024 20:26:11 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-02
+[Thu Jan 11 2024 20:26:11 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-02
+[Thu Jan 11 2024 20:26:11 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-04
+[Thu Jan 11 2024 20:26:11 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-02-04
+[Thu Jan 11 2024 20:26:11 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-04
+[Thu Jan 11 2024 20:27:11 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-04
+[Thu Jan 11 2024 20:28:11 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-04
+[Fri Jan 12 2024 07:25:40 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-04
+Sodniku SternatCh se je izbrisal datum iz ICEHL sheme. Datum:2024-01-12
+Sodniku PalköviZs se je izbrisal datum iz ICEHL sheme. Datum:2024-01-26
+Sodniku VacziDa se je izbrisal datum iz ICEHL sheme. Datum:2024-01-28
+Sodniku MuzsikNo se je izbrisal datum iz ICEHL sheme. Datum:2024-02-02
+Sodniku EislCh se je izbrisal datum iz ICEHL sheme. Datum:2024-01-19
+Sodniku SternatCh se je izbrisal datum iz ICEHL sheme. Datum:2024-01-20
+Sodniku SternatCh se je izbrisal datum iz ICEHL sheme. Datum:2024-01-23
+Sodniku NotheggerDa se je izbrisal datum iz ICEHL sheme. Datum:2024-01-23
+Sodniku NikolicKr se je izbrisal datum iz ICEHL sheme. Datum:2024-02-04
+[Thu Jan 25 2024 12:48:08 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-02
+Sodniku HuberAn se je izbrisal datum iz ICEHL sheme. Datum:2024-02-02
+Sodniku JedlickaPe se je izbrisal datum iz ICEHL sheme. Datum:2024-02-04
+Sodniku WimmlerAl se je izbrisal datum iz ICEHL sheme. Datum:2024-01-26
+[Mon Jan 29 2024 16:40:01 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-02
+Sodniku BärnthalerCh se je izbrisal datum iz ICEHL sheme. Datum:2024-02-02
+[Fri Feb 02 2024 17:39:55 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-13
+[Fri Feb 02 2024 17:39:55 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-02-13
+[Fri Feb 02 2024 17:54:55 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-13
+[Fri Feb 02 2024 17:54:55 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-13
+[Fri Feb 02 2024 17:54:55 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-13
+[Fri Feb 02 2024 17:54:55 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-13
+[Fri Feb 02 2024 18:09:55 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-13
+[Sat Feb 03 2024 06:29:09 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-04
+Sodniku BernekerTh se je izbrisal datum iz ICEHL sheme. Datum:2024-02-04
+[Sat Feb 03 2024 06:29:09 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikHeadEi uspesno dodan 
+Sodniku RigoniDa se je izbrisal datum iz ICEHL sheme. Datum:2024-02-04
+Sodniku HeadEi se je izbrisal datum iz ICEHL sheme. Datum:2024-02-04
+[Sat Feb 03 2024 10:29:12 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnik uspesno dodan 
+Sodniku  se je izbrisal datum iz ICEHL sheme. Datum:2024-02-04
+[Wed Feb 07 2024 19:34:08 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-16
+[Wed Feb 07 2024 19:34:08 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-02-16
+[Wed Feb 07 2024 19:34:08 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-16
+[Wed Feb 07 2024 19:34:08 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-16
+[Wed Feb 07 2024 19:34:08 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-16
+[Wed Feb 07 2024 19:34:08 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-16
+[Wed Feb 07 2024 19:34:08 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-16
+[Wed Feb 07 2024 20:04:23 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-16
+[Wed Feb 07 2024 20:04:23 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-18
+[Wed Feb 07 2024 20:04:23 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-02-18
+[Wed Feb 07 2024 20:04:23 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-18
+[Wed Feb 07 2024 20:04:23 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-18
+[Wed Feb 07 2024 20:04:23 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-18
+[Wed Feb 07 2024 20:04:23 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-18
+[Wed Feb 07 2024 20:04:23 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-18
+Sodniku NotheggerDa se je izbrisal datum iz ICEHL sheme. Datum:2024-02-16
+Sodniku NotheggerDa se je izbrisal datum iz ICEHL sheme. Datum:2024-02-16
+Sodniku HuberAn se je izbrisal datum iz ICEHL sheme. Datum:2024-02-16
+Sodniku HuberAn se je izbrisal datum iz ICEHL sheme. Datum:2024-02-16
+Sodniku BärnthalerCh se je izbrisal datum iz ICEHL sheme. Datum:2024-02-16
+Sodniku BärnthalerCh se je izbrisal datum iz ICEHL sheme. Datum:2024-02-16
+Sodniku NikolicMa se je izbrisal datum iz ICEHL sheme. Datum:2024-02-16
+Sodniku NikolicMa se je izbrisal datum iz ICEHL sheme. Datum:2024-02-16
+Sodniku MartinFl se je izbrisal datum iz ICEHL sheme. Datum:2024-02-18
+Sodniku GroznikBo se je izbrisal datum iz ICEHL sheme. Datum:2024-02-18
+Sodniku HribarMa se je izbrisal datum iz ICEHL sheme. Datum:2024-02-18
+Sodniku NikolicKr se je izbrisal datum iz ICEHL sheme. Datum:2024-02-18
+Sodniku BedynekSe se je izbrisal datum iz ICEHL sheme. Datum:2024-02-18
+[Mon Feb 12 2024 08:06:03 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-18
+[Wed Feb 14 2024 10:47:26 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-21
+[Wed Feb 14 2024 10:47:26 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-02-21
+[Wed Feb 14 2024 10:47:26 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-21
+[Wed Feb 14 2024 11:02:26 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-21
+[Wed Feb 14 2024 11:02:26 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-21
+[Wed Feb 14 2024 11:02:26 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-21
+[Wed Feb 14 2024 11:02:26 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-21
+[Mon Feb 19 2024 20:43:22 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-23
+[Mon Feb 19 2024 20:43:22 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-02-23
+[Mon Feb 19 2024 20:43:22 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-23
+[Mon Feb 19 2024 20:43:22 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-23
+[Mon Feb 19 2024 20:43:22 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-23
+[Mon Feb 19 2024 20:43:22 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-23
+[Mon Feb 19 2024 20:58:22 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-23
+Sodniku HlavatyAl se je izbrisal datum iz ICEHL sheme. Datum:2024-02-23
+Sodniku FichtnerPa se je izbrisal datum iz ICEHL sheme. Datum:2024-02-23
+Sodniku FichtnerPa se je izbrisal datum iz ICEHL sheme. Datum:2024-02-23
+Sodniku ZrnicMi se je izbrisal datum iz ICEHL sheme. Datum:2024-02-23
+Sodniku GroznikBo se je izbrisal datum iz ICEHL sheme. Datum:2024-02-23
+Sodniku SnojTa se je izbrisal datum iz ICEHL sheme. Datum:2024-02-23
+Sodniku NotheggerDa se je izbrisal datum iz ICEHL sheme. Datum:2024-02-23
+Sodniku HuberAn se je izbrisal datum iz ICEHL sheme. Datum:2024-02-23
+[Fri Feb 23 2024 18:11:28 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikVirtaTu uspesno dodan 
+[Sat Feb 24 2024 08:30:09 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-25
+[Sat Feb 24 2024 08:30:09 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-02-25
+[Sat Feb 24 2024 08:30:09 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-25
+[Sat Feb 24 2024 08:30:09 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-27
+[Sat Feb 24 2024 08:30:09 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-02-27
+[Sat Feb 24 2024 08:45:09 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-27
+[Wed Feb 28 2024 06:58:55 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-02-29
+[Wed Feb 28 2024 06:58:55 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-02-29
+[Thu Feb 29 2024 22:55:55 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-03-03
+[Thu Feb 29 2024 22:55:55 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-03-03
+[Thu Feb 29 2024 22:55:55 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-03-03
+[Thu Feb 29 2024 22:55:55 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-03-03
+[Thu Feb 29 2024 22:55:55 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-03-03
+Sodniku ZgoncGa se je izbrisal datum iz ICEHL sheme. Datum:2024-03-03
+[Fri Mar 01 2024 21:15:23 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-03-04
+[Fri Mar 01 2024 21:15:23 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-03-04
+[Fri Mar 01 2024 21:15:23 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-03-05
+[Fri Mar 01 2024 21:15:23 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-03-05
+[Fri Mar 01 2024 21:15:23 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-03-05
+[Fri Mar 01 2024 21:15:23 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-03-05
+[Fri Mar 01 2024 21:15:23 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-03-07
+[Fri Mar 01 2024 21:15:23 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-03-07
+[Fri Mar 01 2024 21:15:23 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-03-07
+[Fri Mar 01 2024 21:15:23 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-03-07
+[Fri Mar 01 2024 21:15:23 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-03-07
+[Fri Mar 01 2024 21:15:23 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-03-08
+[Fri Mar 01 2024 21:15:23 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-03-08
+[Fri Mar 01 2024 21:30:23 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-03-09
+[Fri Mar 01 2024 21:30:23 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-03-09
+[Fri Mar 01 2024 21:30:23 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-03-09
+[Fri Mar 01 2024 21:30:23 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-03-09
+[Fri Mar 01 2024 21:30:23 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-03-11
+[Fri Mar 01 2024 21:30:23 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-03-11
+[Fri Mar 01 2024 21:30:23 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-03-11
+[Fri Mar 01 2024 21:30:23 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-03-11
+[Fri Mar 01 2024 21:30:23 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-03-11
+[Fri Mar 08 2024 14:03:24 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-03-09
+Sodniku SternatCh se je izbrisal datum iz ICEHL sheme. Datum:2024-03-09
+Sodniku SternatCh se je izbrisal datum iz ICEHL sheme. Datum:2024-03-11
+Sodniku GroznikBo se je izbrisal datum iz ICEHL sheme. Datum:2024-03-11
+Sodniku GroznikBo se je izbrisal datum iz ICEHL sheme. Datum:2024-03-11
+Sodniku SmetanaLa se je izbrisal datum iz ICEHL sheme. Datum:2024-03-11
+[Tue Mar 12 2024 05:03:52 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-03-13
+[Tue Mar 12 2024 05:03:52 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-03-13
+[Tue Mar 12 2024 05:03:52 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-03-13
+[Thu Mar 14 2024 08:39:12 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-03-16
+[Thu Mar 14 2024 08:39:12 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-03-16
+[Sun Mar 17 2024 08:09:20 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-03-19
+[Sun Mar 17 2024 08:09:20 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-03-19
+[Sun Mar 17 2024 08:09:20 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-03-19
+[Mon Mar 18 2024 18:32:30 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-03-22
+[Mon Mar 18 2024 18:32:30 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-03-22
+[Mon Mar 18 2024 18:32:30 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-03-22
+[Mon Mar 18 2024 18:47:31 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-03-24
+[Mon Mar 18 2024 18:47:31 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-03-24
+[Mon Mar 18 2024 18:47:31 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-03-24
+[Mon Mar 18 2024 18:47:31 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-03-26
+[Mon Mar 18 2024 18:47:31 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-03-26
+[Mon Mar 18 2024 18:47:31 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-03-26
+[Mon Mar 18 2024 18:47:31 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-03-28
+[Mon Mar 18 2024 18:47:31 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-03-28
+[Mon Mar 18 2024 19:02:31 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-03-28
+Sodniku ZrnicMi se je izbrisal datum iz ICEHL sheme. Datum:2024-03-28
+Sodniku NotheggerDa se je izbrisal datum iz ICEHL sheme. Datum:2024-03-28
+Sodniku MantovaniDa se je izbrisal datum iz ICEHL sheme. Datum:2024-03-28
+Sodniku SternatCh se je izbrisal datum iz ICEHL sheme. Datum:2024-03-28
+Sodniku DurmisOt se je izbrisal datum iz ICEHL sheme. Datum:2024-03-28
+[Wed Mar 27 2024 19:14:03 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-03-30
+[Wed Mar 27 2024 19:14:03 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-03-30
+[Sun Mar 31 2024 07:41:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-04-02
+[Sun Mar 31 2024 07:41:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-04-02
+[Wed Apr 03 2024 11:46:09 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-04-05
+[Wed Apr 03 2024 11:46:09 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-04-05
+[Wed Apr 03 2024 11:46:09 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-04-07
+[Wed Apr 03 2024 11:46:09 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-04-07
+[Wed Apr 03 2024 12:01:09 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-04-09
+[Wed Apr 03 2024 12:01:09 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-04-09
+[Mon Apr 08 2024 11:18:56 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-04-12
+[Mon Apr 08 2024 11:18:56 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-04-12
+[Wed Apr 10 2024 17:04:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-04-14
+[Wed Apr 10 2024 17:04:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-04-14
+[Wed Apr 10 2024 17:04:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-04-16
+[Wed Apr 10 2024 17:04:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-04-16
+Sodniku SmetanaLa se je izbrisal datum iz ICEHL sheme. Datum:2024-04-14
+Sodniku SternatCh se je izbrisal datum iz ICEHL sheme. Datum:2024-04-16
+[Wed Apr 17 2024 08:45:19 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-04-19
+[Wed Apr 17 2024 08:45:19 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-04-19

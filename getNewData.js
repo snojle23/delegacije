@@ -63,16 +63,11 @@ function transform(body, tekme = []) {
             });
 
         } else {
-            cells.each((index, cell) => {
-                if (index === 1) { // sodnik
-                    const celltext = $(cell).text();
-                    obj.sodniki.push({ ime: celltext });
-                    // obj.sodniki.push(celltext);
-                    // console.log(celltext);
-                }
-                const celltext = $(cell).text();
-                // console.log(celltext);
-            });
+            const name = $(cells[1]).text();
+            let lowerCaseStr = name.toLowerCase();
+            let capitalizedStr = lowerCaseStr.charAt(0).toUpperCase() + lowerCaseStr.slice(1);
+            const lastName = $(cells[2]).text();
+            obj.sodniki.push({ ime: `${capitalizedStr}${lastName.substring(0, 2)}`});
         }
     });
     const a = tekme.find(i => i.datum === obj.datum);

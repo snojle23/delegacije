@@ -22,7 +22,6 @@ function vrniCellSodnik(worksheet, sodnik, isAHL) {
     }
 }
 
-
 function writeToExcel(DAT_STRING, lokacije, liga, datum) {
     let lokacija = lokacije.lokacija;
     let sodniki = lokacije.sodniki;
@@ -265,20 +264,6 @@ function dodajDatumSodnik(worksheet, countCell, datum, sodnik) {
     }
 }
 
-function date(worksheet, datum) {
-    let cell = 1
-    let d;
-    while ((d = worksheet.getRow(3).getCell(cell).value) != null) {
-        if (new Date(d) > datum) {
-            return cell - 1;
-        }
-
-        cell++;
-    }
-
-    return cell - 1;
-}
-
 function seznamSodnikovNaDatum(worksheetAHL_DAT, cell) {
     let row = 4
     let seznam = [];
@@ -311,7 +296,7 @@ function getAllSudije(worksheet, datum) {
 }
 
 function dodajSodnikomDatum(worksheet, list, datum, isAHL, arrayForMail) {
-    const mailing = ["snoj", "bajt", "miklic", "rezek", "hribar", "zrnic", "trilar", "zgonc", "bergant", "bulovec", "piragic"]; // todo : Object.keys za mailing
+    const mailing = ["snojta", "bajtmi", "miklicgr", "rezekgr", "hribarma", "zrnicmi", "trilarvi", "zgoncga", "bergantan", "bulovecmi", "piragictr", "seewaldel", "markizetigr", "murnikpe", "milovanovicja"]; // todo : Object.keys za mailing
     list.forEach(sodnik => {
         let cellSodnik = vrniCellSodnik(worksheet, sodnik, isAHL);
         let rowSudija = 4
@@ -347,7 +332,7 @@ function dodajSodnikomDatum(worksheet, list, datum, isAHL, arrayForMail) {
         } else {
             console.log("Za sodnika " + sodnik + " dodan nov datum: " + datum + " [ICEHL]");
             const sodnikZaMail = sodnik.toLowerCase();
-            if (mailing.includes(sodnikZaMail) || sodnikZaMail === 'seewald') {
+            if (mailing.includes(sodnikZaMail)) {
                 const obst = arrayForMail.find(i => i.sodnik === sodnik.toLowerCase());
                 if (obst) {
                     obst.tekme.push(
@@ -365,7 +350,7 @@ function dodajSodnikomDatum(worksheet, list, datum, isAHL, arrayForMail) {
                         }]
                     })
                 }
-                if (sodnikZaMail === 'snoj') {
+                if (sodnikZaMail === 'snojta') {
                     console.log("---------------------------\n NOVA ICEHL TEKMA \n -------------------------- \n");
                 }
             }

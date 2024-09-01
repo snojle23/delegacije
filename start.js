@@ -1,6 +1,4 @@
 const { delegacije } = require('./delegacije');
-const fs = require('fs')
-const { getNewJson, magic } = require('./getNewJson');
 const { getData2 } = require('./getNewData')
 const nodemailer = require("nodemailer");
 // create reusable transporter object using the default SMTP transport
@@ -15,7 +13,6 @@ let counter = 1;
 let countHour = 0;
 scheduledFunction();
 
-
 function scheduledFunction() {
     setInterval(async function () {
         const today = new Date();
@@ -28,46 +25,51 @@ function scheduledFunction() {
         const json_data = await getData2();
 
         if (json_data.length > 0) {
-            // console.log(json_data);
             const arrayForMail = [];
-            // console.log("2. klicem delegaije.js");
             await delegacije(json_data, arrayForMail);
 
-            // console.log("3. klicem delegaije.js");
-            // await delegacije(json_data, arrayForMail);
-
-            // console.log("4. klicem delegaije.js");
-            // await delegacije(json_data, arrayForMail);
-
-
-            // // POSLJI MAIL
-            // if (arrayForMail.length > 0) {
-            //     console.log('posiljam mail');
-            // } else {
-            //     console.log("-------------------------------------------------------------------")
-            // }
             const mailing = {
-                "snoj": "tadej.snoj@gmail.com",
-                "bajt": "miha.bajt@gmail.com",
-                "miklic": "gregor.miklic.sp@gmail.com",
-                "rezek": "gregor.rezek@gmail.com",
-                "hribar": "matjazhribar@hotmail.com",
-                "zrnic": "milan_zrnic@hotmail.com",
-                "trilar": "viki@hokej.si",
-                "zgonc": "jaka.zgonc@gmail.com",
-                "bergant": "anze.bergant@gmail.com",
-                "bulovec": "miha.bulovec@gmail.com",
-                "piragic": "trpimir.piragic@gmail.com",
-                "seewald": "seewald30@gmail.com"
+                "snojta": "tadej.snoj@gmail.com",
+                "bajtmi": "miha.bajt@gmail.com",
+                "miklicgr": "gregor.miklic.sp@gmail.com",
+                "rezekgr": "gregor.rezek@gmail.com",
+                "hribarma": "matjazhribar@hotmail.com",
+                "zrnicmi": "milan_zrnic@hotmail.com",
+                "trilarvi": "viki@hokej.si",
+                "zgoncga": "jaka.zgonc@gmail.com",
+                "bergantan": "anze.bergant@gmail.com",
+                "bulovecmi": "miha.bulovec@gmail.com",
+                "piragictr": "trpimir.piragic@gmail.com",
+                "seewaldel": "seewald30@gmail.com",
+                "milovanovicja": "jakobmilovanovic@gmail.com",
+                "murnikpe": "petja.murnik@gmail.com",
+                "markizetigr": "grega.markizeti@gmail.com"
             }
             arrayForMail.forEach(i => {
                 const tekme = JSON.stringify(i.tekme);
                 if (Object.keys(mailing).includes(i.sodnik)) {
+                    let htmlTekst = `
+                            <p><strong>🍻Please do not forget</strong> for yearly subscription of one six-pack for season 2022-23🍻</p>
+                            <p>Here are new games for you:</p>
+                            <ul>
+                                ${i.tekme.map(t => `<li>${t.liga} - ${t.datum}</li>`).join('')}
+                            </ul>
+                            `;
+
+                    if(['snojta', 'hribarma', 'zrnicmi', 'seewaldel', 'milovanovicja', 'murnikpe', 'markizetigr', 'rezekgr', 'piragictr'].includes(i.sodnik)){
+                        htmlTekst = `
+                            <p>New games in https://www.referee-manager.com/, check them:</p>
+                            <ul>
+                                ${i.tekme.map(t => `<li>${t.liga} - ${t.datum}</li>`).join('')}
+                            </ul>
+                            `;
+                    }
                     const mailOptions = {
                         from: 'delegacijeice@gmail.com',
                         to: mailing[i.sodnik],
                         subject: `New game AHL/ICEHL`,
-                        text: `New games: ${tekme}`
+                        html: htmlTekst
+                        //text: `Program is back on!\nWelcome to the season 2023-24!.\n\n Please do not forget for yearly subscription of one six-pack for season 2022-23 :) \n\n here are new games for you: ${tekme}`
                     };
                     transporter.sendMail(mailOptions, function (error, info) {
                         if (error) {
@@ -82,19 +84,15 @@ function scheduledFunction() {
             });
         }
         countHour++
-        if (countHour === 120) {
+        if (countHour === 24) {
             const today = new Date();
             console.log('');
-            console.log("Še ena ura je šla mimo. Skupen stevec: " + counter + " datum:" + today);
+            console.log("Še 6 ur je šlo mimo. Skupen stevec: " + counter + " datum:" + `${today.getHours()}:${today.getMinutes()}`);
             countHour = 0;
         } else {
-            process.stdout.write(`\rProgress: ${(countHour / 120 * 100).toFixed(2)}%`);
+            process.stdout.write(`\rProgress: ${(countHour / 24 * 100).toFixed(2)}% Zadnja ura: ${today.getHours()}:${today.getMinutes()}`);
         }
 
         counter++;
-    }, 1 * 1 * 30 * 1000); // 1 hour = 1 * 60 * 60 * 1000
+    }, 1 * 120 * 60 * 1000); // 1 hour = 1 * 60 * 60 * 1000
 }       // 1 * 1 * 30 * 1000 30sec
-
-function sleep(ms) {
-    return new Promise(resolve => setTimeout(resolve, ms));
-}
