@@ -7,3 +7,5 @@
 [Sun Sep 01 2024 21:51:38 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikMoidlDa uspesno dodan 
 [Sun Sep 01 2024 21:51:38 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikTelesklavFa uspesno dodan 
 [Sun Sep 01 2024 21:51:38 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikWuchererGe uspesno dodan 
+Sodniku BärnthalerCh se je izbrisal datum iz AHL sheme. Datum:2024-09-07
+[Tue Sep 03 2024 12:54:11 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikSparerDa uspesno dodan 

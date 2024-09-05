@@ -38,12 +38,13 @@ function scheduledFunction() {
                 // "trilarvi": "viki@hokej.si", -- viki ni dal sixpacka za 2022-23 in za 2023-24
                 // "zgoncga": "jaka.zgonc@gmail.com",
                 // "bergantan": "anze.bergant@gmail.com", bergi ni plaču za 2022-23 in za 2023-24
-                // "bulovecmi": "miha.bulovec@gmail.com",
+                "bulovecmi": "miha.bulovec@gmail.com", //plačano do konca 2024-25
                 "piragictr": "trpimir.piragic@gmail.com",
                 "seewaldel": "seewald30@gmail.com",
                 "murnikpe": "petja.murnik@gmail.com",
                 "markizetigr": "grega.markizeti@gmail.com"
             }
+
 
             // 'snojta', 'hribarma', 'zrnicmi', 'seewaldel', 'markizetigr', 'rezekgr', 'piragictr' teli so mel poravnan za 2022-23
             // bajtmi, miklicgr, zgoncga, bulovecmi
@@ -58,7 +59,18 @@ function scheduledFunction() {
                                 ${i.tekme.map(t => `<li>${t.liga} - ${t.datum}</li>`).join('')}
                             </ul>
                             `;
-                    if(['snojta', 'seewaldel',].includes(i.sodnik)){
+                    if (['markizetigr', 'murnikpe'].includes(i.sodnik)) { 
+                        htmlTekst = `
+                        <p><strong>Dobrodošli v sezono 2024-25.</strong>🍻</p>
+                        <p>Pivo za prejšno sezono pričakujem najkasneje do CC-ja v Romuniji, kar je 18.10.2024</p>
+                        <p>Nove tekme:</p>
+                        <ul>
+                            ${i.tekme.map(t => `<li>${t.liga} - ${t.datum}</li>`).join('')}
+                        </ul>
+                        `;
+                    }
+
+                    if (['snojta', 'seewaldel', "bulovecmi"].includes(i.sodnik)) {
                         htmlTekst = `
                             <p>New games in https://www.referee-manager.com/, check them:</p>
                             <ul>
