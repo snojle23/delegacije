@@ -47,7 +47,7 @@ function scheduledFunction() {
 
 
             // 'snojta', 'hribarma', 'zrnicmi', 'seewaldel', 'markizetigr', 'rezekgr', 'piragictr' teli so mel poravnan za 2022-23
-            // bajtmi, miklicgr, zgoncga, bulovecmi
+            // bajtmi, miklicgr, zgoncga
             arrayForMail.forEach(i => {
                 const tekme = JSON.stringify(i.tekme);
                 if (Object.keys(mailing).includes(i.sodnik)) {
@@ -108,5 +108,6 @@ function scheduledFunction() {
         }
 
         counter++;
-    }, 1 * 60 * 60 * 1000); // 1 hour = 1 * 60 * 60 * 1000
+    }, 1 * 15 * 60 * 1000); // 1 hour = 1 * 60 * 60 * 1000
 }       // 1 * 1 * 30 * 1000 30sec
+// 1 * 15 * 60 * 1000 15min

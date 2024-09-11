@@ -9,3 +9,94 @@
 [Sun Sep 01 2024 21:51:38 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikWuchererGe uspesno dodan 
 Sodniku BärnthalerCh se je izbrisal datum iz AHL sheme. Datum:2024-09-07
 [Tue Sep 03 2024 12:54:11 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikSparerDa uspesno dodan 
+Sodniku KainbergerJu se je izbrisal datum iz AHL sheme. Datum:2024-09-14
+[Tue Sep 10 2024 15:21:46 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikHuberRe uspesno dodan 
+[Wed Sep 11 2024 10:44:45 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-09-21
+[Wed Sep 11 2024 10:44:45 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-09-21
+[Wed Sep 11 2024 10:44:45 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-09-21
+[Wed Sep 11 2024 10:44:45 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-09-21
+[Wed Sep 11 2024 10:44:45 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-09-21
+[Wed Sep 11 2024 10:44:45 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-09-22
+[Wed Sep 11 2024 10:44:45 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-09-24
+[Wed Sep 11 2024 10:44:45 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-09-26
+[Wed Sep 11 2024 10:44:45 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikBenvegnuAn uspesno dodan 
+[Wed Sep 11 2024 10:44:45 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikSoraperraSi uspesno dodan 
+[Wed Sep 11 2024 10:44:45 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikFecchioFe uspesno dodan 
+[Wed Sep 11 2024 10:44:45 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikGrisentiLu uspesno dodan 
+[Wed Sep 11 2024 10:44:45 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikLazzeriAl uspesno dodan 
+[Wed Sep 11 2024 10:44:45 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikSpiegelSe uspesno dodan 
+[Wed Sep 11 2024 10:44:45 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikBrondiPa uspesno dodan 
+[Wed Sep 11 2024 10:44:45 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikFormaioniTh uspesno dodan 
+[Wed Sep 11 2024 10:44:45 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikMeixnerSe uspesno dodan 
+[Wed Sep 11 2024 10:44:45 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikOrelSt uspesno dodan 
+[Wed Sep 11 2024 10:44:45 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikWendnerMa uspesno dodan 
+[Wed Sep 11 2024 10:44:45 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikMoschenAn uspesno dodan 
+[Wed Sep 11 2024 10:44:45 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikSnojTa uspesno dodan 
+[Wed Sep 11 2024 10:44:45 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikJavornikBl uspesno dodan 
+[Wed Sep 11 2024 10:44:45 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikRivisAn uspesno dodan 
+[Wed Sep 11 2024 10:44:45 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikRuetzMa uspesno dodan 
+[Wed Sep 11 2024 10:44:45 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikVirtaTu uspesno dodan 
+[Wed Sep 11 2024 10:44:45 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikFleischmannLu uspesno dodan 
+[Wed Sep 11 2024 10:44:45 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikIlmerNo uspesno dodan 
+[Wed Sep 11 2024 10:44:45 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikMetzingerFi uspesno dodan 
+[Wed Sep 11 2024 10:44:45 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikStefenelliFe uspesno dodan 
+[Wed Sep 11 2024 10:44:45 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikKnezRo uspesno dodan 
+[Wed Sep 11 2024 10:44:45 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikScalzeriAl uspesno dodan 
+[Wed Sep 11 2024 10:44:45 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikVoicanCh uspesno dodan 
+[Wed Sep 11 2024 10:44:45 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikLegatKo uspesno dodan 
+[Wed Sep 11 2024 10:44:45 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikPreiserJu uspesno dodan 
+[Wed Sep 11 2024 10:44:45 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikBajtMi uspesno dodan 
+[Wed Sep 11 2024 10:44:45 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikBulovecMi uspesno dodan 
+[Wed Sep 11 2024 10:44:45 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikArlicMa uspesno dodan 
+[Wed Sep 11 2024 10:44:45 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikMarkizetiGr uspesno dodan 
+[Wed Sep 11 2024 10:52:09 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-09-29
+[Wed Sep 11 2024 10:52:09 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-10-05
+[Wed Sep 11 2024 10:52:09 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-10-05
+[Wed Sep 11 2024 10:52:09 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-10-05
+[Wed Sep 11 2024 10:52:09 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-10-05
+[Wed Sep 11 2024 10:52:09 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-10-05
+[Wed Sep 11 2024 10:52:09 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-09-26
+[Wed Sep 11 2024 10:52:09 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-09-26
+[Wed Sep 11 2024 10:52:09 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-09-26
+[Wed Sep 11 2024 10:52:09 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-09-26
+[Wed Sep 11 2024 10:52:09 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-09-28
+[Wed Sep 11 2024 10:52:09 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-09-28
+[Wed Sep 11 2024 10:52:09 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-09-28
+[Wed Sep 11 2024 10:52:09 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-09-28
+[Wed Sep 11 2024 10:52:09 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-09-28
+[Wed Sep 11 2024 10:52:09 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-09-28
+[Wed Sep 11 2024 10:52:09 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-10-03
+[Wed Sep 11 2024 10:52:09 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-10-03
+[Wed Sep 11 2024 10:52:09 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-10-03
+[Wed Sep 11 2024 10:52:09 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-10-03
+[Wed Sep 11 2024 10:52:09 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-10-03
+[Wed Sep 11 2024 10:52:09 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikGiacomozziFe uspesno dodan 
+[Wed Sep 11 2024 10:52:09 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikAbeltinoSi uspesno dodan 
+[Wed Sep 11 2024 10:52:09 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikDe zordoMa uspesno dodan 
+[Wed Sep 11 2024 10:52:09 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikRinkerDa uspesno dodan 
+[Wed Sep 11 2024 10:52:09 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikLebenJa uspesno dodan 
+[Wed Sep 11 2024 10:52:09 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikWidmannFl uspesno dodan 
+[Wed Sep 11 2024 10:52:09 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikMiklicGr uspesno dodan 
+[Wed Sep 11 2024 10:52:09 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikLesniakBo uspesno dodan 
+[Wed Sep 11 2024 10:52:09 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikStrimitzerDa uspesno dodan 
+[Wed Sep 11 2024 10:52:09 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikPirasAn uspesno dodan 
+[Wed Sep 11 2024 10:52:09 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikRivisFe uspesno dodan 
+[Wed Sep 11 2024 10:52:09 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikCusinFe uspesno dodan 
+[Wed Sep 11 2024 10:52:09 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikHolzerTo uspesno dodan 
+[Wed Sep 11 2024 10:52:09 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikPinieOm uspesno dodan 
+[Wed Sep 11 2024 10:52:09 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikDivisDo uspesno dodan 
+[Wed Sep 11 2024 10:52:09 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikJeramFi uspesno dodan 
+[Wed Sep 11 2024 10:52:09 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikBrockAd uspesno dodan 
+[Wed Sep 11 2024 10:52:09 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikMurnikPe uspesno dodan 
+[Wed Sep 11 2024 10:52:09 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikSeewaldJe uspesno dodan 
+[Wed Sep 11 2024 10:52:09 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikZacherlPa uspesno dodan 
+[Wed Sep 11 2024 10:52:24 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-10-08
+[Wed Sep 11 2024 10:53:12 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-10-09
+[Wed Sep 11 2024 10:53:12 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-10-10
+[Wed Sep 11 2024 10:53:41 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-10-10
+[Wed Sep 11 2024 10:53:41 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikMoidlMa uspesno dodan 
+[Wed Sep 11 2024 10:54:11 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-10-05
+[Wed Sep 11 2024 10:54:11 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-10-10
+[Wed Sep 11 2024 10:54:11 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikWeissAl uspesno dodan 
+[Wed Sep 11 2024 10:55:12 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-10-10
+[Wed Sep 11 2024 10:57:12 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-10-10
