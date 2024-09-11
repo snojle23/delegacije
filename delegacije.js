@@ -28,7 +28,7 @@ async function delegacije(json_data, arrayForMail) {
     const noviDatumiICEHL = [];
     //const filterDates = ['2022-09-09','2022-09-11'];
 
-    (json_data || []).filter(i => i.datum > '2023-09-19').forEach(elementDate => { // gre cez use datume
+    (json_data || []).filter(i => i.datum > '2024-09-19').forEach(elementDate => { // gre cez use datume
         let datum = elementDate.datum;
         let ahlDatum = false;
         let icehlDatum = false;
