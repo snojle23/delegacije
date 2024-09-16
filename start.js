@@ -32,7 +32,7 @@ function scheduledFunction() {
                 "snojta": "tadej.snoj@gmail.com",
                 // "bajtmi": "miha.bajt@gmail.com",
                 // "miklicgr": "gregor.miklic.sp@gmail.com",
-                "rezekgr": "gregor.rezek@gmail.com",
+                "rezekgr": "gregor.rezek@gmail.com", // prinesel za sezono 2023-24
                 "hribarma": "matjazhribar@hotmail.com",
                 "zrnicmi": "milan_zrnic@hotmail.com",
                 // "trilarvi": "viki@hokej.si", -- viki ni dal sixpacka za 2022-23 in za 2023-24
@@ -70,7 +70,7 @@ function scheduledFunction() {
                         `;
                     }
 
-                    if (['snojta', 'seewaldel', "bulovecmi"].includes(i.sodnik)) {
+                    if (['snojta', 'seewaldel', "bulovecmi", "rezekgr"].includes(i.sodnik)) {
                         htmlTekst = `
                             <p>New games in https://www.referee-manager.com/, check them:</p>
                             <ul>
