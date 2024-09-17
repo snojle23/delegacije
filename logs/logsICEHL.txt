@@ -115,3 +115,9 @@
 Sodniku NotheggerDa se je izbrisal datum iz ICEHL sheme. Datum:2024-10-01
 Sodniku PalköviZs se je izbrisal datum iz ICEHL sheme. Datum:2024-09-27
 Sodniku PalköviZs se je izbrisal datum iz ICEHL sheme. Datum:2024-10-11
+[Mon Sep 16 2024 19:32:30 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-10-02
+[Mon Sep 16 2024 19:32:30 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-10-02
+Sodniku HuberAn se je izbrisal datum iz ICEHL sheme. Datum:2024-10-01
+Sodniku BedynekSe se je izbrisal datum iz ICEHL sheme. Datum:2024-10-01
+Sodniku Gatol-schafranekMa se je izbrisal datum iz ICEHL sheme. Datum:2024-10-01
+Sodniku NikolicKr se je izbrisal datum iz ICEHL sheme. Datum:2024-10-01

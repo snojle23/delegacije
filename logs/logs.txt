@@ -12,3 +12,6 @@
 [Sat Sep 14 2024 18:31:20 GMT+0200 (Srednjeevropski poletni čas)] Sodnik OrelSt uspesno zamenjal MeixnerSe Lokacija: KELIT Arena Zell am See, Datum: 2024-09-21
 [Sat Sep 14 2024 18:31:20 GMT+0200 (Srednjeevropski poletni čas)] Sodnik WidmannFl uspesno zamenjal OrelSt Lokacija: KELIT Arena Zell am See, Datum: 2024-09-21
 [Sat Sep 14 2024 18:31:20 GMT+0200 (Srednjeevropski poletni čas)] Sodnik MeixnerSe uspesno zamenjal WidmannFl Lokacija: Eisarena Salzburg, Datum: 2024-09-26
+[Mon Sep 16 2024 10:25:56 GMT+0200 (Srednjeevropski poletni čas)] Sodnik WendnerMa uspesno zamenjal TelesklavFa Lokacija: KELIT Arena Zell am See, Datum: 2024-09-21
+[Mon Sep 16 2024 10:25:56 GMT+0200 (Srednjeevropski poletni čas)] Sodnik WuchererGe uspesno zamenjal WendnerMa Lokacija: KELIT Arena Zell am See, Datum: 2024-09-21
+[Mon Sep 16 2024 10:25:56 GMT+0200 (Srednjeevropski poletni čas)] Sodnik TelesklavFa uspesno zamenjal WuchererGe Lokacija: Eisarena Salzburg, Datum: 2024-09-26
