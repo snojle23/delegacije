@@ -15,3 +15,6 @@
 [Mon Sep 16 2024 10:25:56 GMT+0200 (Srednjeevropski poletni čas)] Sodnik WendnerMa uspesno zamenjal TelesklavFa Lokacija: KELIT Arena Zell am See, Datum: 2024-09-21
 [Mon Sep 16 2024 10:25:56 GMT+0200 (Srednjeevropski poletni čas)] Sodnik WuchererGe uspesno zamenjal WendnerMa Lokacija: KELIT Arena Zell am See, Datum: 2024-09-21
 [Mon Sep 16 2024 10:25:56 GMT+0200 (Srednjeevropski poletni čas)] Sodnik TelesklavFa uspesno zamenjal WuchererGe Lokacija: Eisarena Salzburg, Datum: 2024-09-26
+[Tue Sep 17 2024 14:34:50 GMT+0200 (Srednjeevropski poletni čas)] Sodnik LazzeriAl uspesno zamenjal OrelSt Lokacija: Eishalle Meran, Datum: 2024-10-10
+[Tue Sep 17 2024 14:34:50 GMT+0200 (Srednjeevropski poletni čas)] Sodnik OrelSt uspesno zamenjal LazzeriAl Lokacija: Eishalle Gröden, Datum: 2024-10-16
+[Wed Sep 18 2024 18:52:16 GMT+0200 (Srednjeevropski poletni čas)] Sodnik FecchioFe uspesno zamenjal RivisAn Lokacija: Sportpark Kitzbühel, Datum: 2024-10-17

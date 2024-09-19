@@ -296,8 +296,8 @@ function getAllSudije(worksheet, datum) {
 }
 
 function dodajSodnikomDatum(worksheet, list, datum, isAHL, arrayForMail) {
-    // ["bajtmi", "miklicgr", "trilarvi", "zgoncga", "bergantan", "markizetigr", "murnikpe"];
-    const mailing = ["snojta", "rezekgr", "hribarma", "zrnicmi", "piragictr", "seewaldel", "markizetigr", "murnikpe", "bulovecmi"]; 
+    // ["bajtmi", "trilarvi", "zgoncga", "bergantan"];
+    const mailing = ["snojta", "rezekgr", "hribarma", "zrnicmi", "piragictr", "seewaldel", "markizetigr", "murnikpe", "bulovecmi", "miklicgr"]; 
     // todo : Object.keys za mailing
     list.forEach(sodnik => {
         let cellSodnik = vrniCellSodnik(worksheet, sodnik, isAHL);
@@ -327,9 +327,6 @@ function dodajSodnikomDatum(worksheet, list, datum, isAHL, arrayForMail) {
                         }]
                     })
                 }
-                if (sodnikZaMail === 'snoj') {
-                    console.log("---------------------------\n NOVA AHL TEKMA \n -------------------------- \n");
-                }
             }
         } else {
             console.log("Za sodnika " + sodnik + " dodan nov datum: " + datum + " [ICEHL]");
@@ -351,9 +348,6 @@ function dodajSodnikomDatum(worksheet, list, datum, isAHL, arrayForMail) {
                             datum: datum
                         }]
                     })
-                }
-                if (sodnikZaMail === 'snojta') {
-                    console.log("---------------------------\n NOVA ICEHL TEKMA \n -------------------------- \n");
                 }
             }
         }

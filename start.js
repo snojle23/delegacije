@@ -31,7 +31,7 @@ function scheduledFunction() {
             const mailing = {
                 "snojta": "tadej.snoj@gmail.com",
                 // "bajtmi": "miha.bajt@gmail.com",
-                // "miklicgr": "gregor.miklic.sp@gmail.com",
+                "miklicgr": "gregor.miklic.sp@gmail.com",
                 "rezekgr": "gregor.rezek@gmail.com", // prinesel za sezono 2023-24
                 "hribarma": "matjazhribar@hotmail.com",
                 "zrnicmi": "milan_zrnic@hotmail.com",
@@ -69,7 +69,16 @@ function scheduledFunction() {
                         </ul>
                         `;
                     }
-
+                    if (['miklicgr'].includes(i.sodnik)) { 
+                        htmlTekst = `
+                        <p><strong>Dobrodošel v sezono 2024-25.</strong>🍻</p>
+                        <p>Imaš vklopnjene delegacije. Od prevoza se odbije 20€.</p>
+                        <p>Nove tekme:</p>
+                        <ul>
+                            ${i.tekme.map(t => `<li>${t.liga} - ${t.datum}</li>`).join('')}
+                        </ul>
+                        `;
+                    }
                     if (['snojta', 'seewaldel', "bulovecmi", "rezekgr"].includes(i.sodnik)) {
                         htmlTekst = `
                             <p>New games in https://www.referee-manager.com/, check them:</p>
