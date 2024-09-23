@@ -121,3 +121,5 @@ Sodniku HuberAn se je izbrisal datum iz ICEHL sheme. Datum:2024-10-01
 Sodniku BedynekSe se je izbrisal datum iz ICEHL sheme. Datum:2024-10-01
 Sodniku Gatol-schafranekMa se je izbrisal datum iz ICEHL sheme. Datum:2024-10-01
 Sodniku NikolicKr se je izbrisal datum iz ICEHL sheme. Datum:2024-10-01
+Sodniku BärnthalerCh se je izbrisal datum iz ICEHL sheme. Datum:2024-09-20
+[Fri Sep 20 2024 19:01:06 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikSnojTa uspesno dodan 

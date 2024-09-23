@@ -133,3 +133,12 @@ Sodniku WuchererGe se je izbrisal datum iz AHL sheme. Datum:2024-09-26
 Sodniku OrelSt se je izbrisal datum iz AHL sheme. Datum:2024-10-10
 Sodniku LazzeriAl se je izbrisal datum iz AHL sheme. Datum:2024-10-16
 Sodniku RivisAn se je izbrisal datum iz AHL sheme. Datum:2024-10-17
+[Sun Sep 22 2024 19:24:43 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-10-06
+Sodniku FleischmannLu se je izbrisal datum iz AHL sheme. Datum:2024-10-08
+Sodniku FleischmannLu se je izbrisal datum iz AHL sheme. Datum:2024-10-16
+[Sun Sep 22 2024 19:24:43 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikLinesmanEi uspesno dodan 
+Sodniku KainbergerJu se je izbrisal datum iz AHL sheme. Datum:2024-10-05
+Sodniku TelesklavFa se je izbrisal datum iz AHL sheme. Datum:2024-10-05
+Sodniku OrelSt se je izbrisal datum iz AHL sheme. Datum:2024-10-05
+Sodniku RinkerDa se je izbrisal datum iz AHL sheme. Datum:2024-10-05
+Sodniku TelesklavFa se je izbrisal datum iz AHL sheme. Datum:2024-10-06
