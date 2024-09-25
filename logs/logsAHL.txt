@@ -142,3 +142,21 @@ Sodniku TelesklavFa se je izbrisal datum iz AHL sheme. Datum:2024-10-05
 Sodniku OrelSt se je izbrisal datum iz AHL sheme. Datum:2024-10-05
 Sodniku RinkerDa se je izbrisal datum iz AHL sheme. Datum:2024-10-05
 Sodniku TelesklavFa se je izbrisal datum iz AHL sheme. Datum:2024-10-06
+Sodniku KainbergerJu se je izbrisal datum iz AHL sheme. Datum:2024-10-06
+Sodniku VirtaTu se je izbrisal datum iz AHL sheme. Datum:2024-10-17
+Sodniku RinkerDa se je izbrisal datum iz AHL sheme. Datum:2024-10-06
+Sodniku StrimitzerDa se je izbrisal datum iz AHL sheme. Datum:2024-10-12
+Sodniku WuchererGe se je izbrisal datum iz AHL sheme. Datum:2024-09-28
+[Mon Sep 23 2024 20:28:56 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikMurnikPe uspesno dodan 
+Sodniku MurnikPe se je izbrisal datum iz AHL sheme. Datum:2024-09-28
+Sodniku LinesmanEi se je izbrisal datum iz AHL sheme. Datum:2024-10-16
+Sodniku MeixnerSe se je izbrisal datum iz AHL sheme. Datum:2024-10-05
+Sodniku RuetzMa se je izbrisal datum iz AHL sheme. Datum:2024-10-05
+Sodniku LegatKo se je izbrisal datum iz AHL sheme. Datum:2024-10-05
+Sodniku BrockAd se je izbrisal datum iz AHL sheme. Datum:2024-10-05
+Sodniku WeissAl se je izbrisal datum iz AHL sheme. Datum:2024-10-05
+Sodniku ArlicMa se je izbrisal datum iz AHL sheme. Datum:2024-09-28
+[Tue Sep 24 2024 14:42:48 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-10-05
+Sodniku De zordoMa se je izbrisal datum iz AHL sheme. Datum:2024-10-05
+[Tue Sep 24 2024 20:44:02 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikLinesmanZw uspesno dodan 
+Sodniku De zordoMa se je izbrisal datum iz AHL sheme. Datum:2024-10-12
