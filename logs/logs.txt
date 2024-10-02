@@ -44,3 +44,23 @@
 [Tue Sep 24 2024 20:44:02 GMT+0200 (Srednjeevropski poletni čas)] Sodnik LinesmanZw uspesno zamenjal De zordoMa Lokacija: Eishalle Ritten, Datum: 2024-10-05
 [Tue Sep 24 2024 20:44:02 GMT+0200 (Srednjeevropski poletni čas)] Sodnik GrisentiLu uspesno zamenjal De zordoMa Lokacija: Würtharena Neumarkt, Datum: 2024-10-12
 [Tue Sep 24 2024 20:44:02 GMT+0200 (Srednjeevropski poletni čas)] Sodnik LinesmanEi uspesno zamenjal GrisentiLu Lokacija: Würtharena Neumarkt, Datum: 2024-10-12
+[Wed Sep 25 2024 11:21:16 GMT+0200 (Srednjeevropski poletni čas)] Sodnik ScalzeriAl uspesno zamenjal LinesmanEi Lokacija: Würtharena Neumarkt, Datum: 2024-10-12
+[Thu Sep 26 2024 16:20:55 GMT+0200 (Srednjeevropski poletni čas)] Sodnik ZgoncGa uspesno zamenjal WimmlerAl Lokacija: Hala Tivoli, Datum: 2024-09-27
+[Thu Sep 26 2024 16:20:55 GMT+0200 (Srednjeevropski poletni čas)] Sodnik MartinFl uspesno zamenjal RigoniDa Lokacija: Eiswelle Bozen, Datum: 2024-09-27
+[Thu Sep 26 2024 16:20:55 GMT+0200 (Srednjeevropski poletni čas)] Sodnik RigoniDa uspesno zamenjal ZgoncGa Lokacija: Eiswelle Bozen, Datum: 2024-09-27
+[Mon Sep 30 2024 15:27:38 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SeewaldEl uspesno zamenjal NikolicMa Lokacija: Eisarena Salzburg, Datum: 2024-10-13
+[Mon Sep 30 2024 15:27:38 GMT+0200 (Srednjeevropski poletni čas)] Sodnik NikolicMa uspesno zamenjal SeewaldEl Lokacija: Tiroler Wasserkraft Arena, Datum: 2024-10-13
+[Tue Oct 01 2024 09:30:36 GMT+0200 (Srednjeevropski poletni čas)] Sodnik LinesmanZw uspesno zamenjal RieckenSi Lokacija: Eishalle KagranEins, Datum: 2024-10-18
+[Tue Oct 01 2024 09:30:36 GMT+0200 (Srednjeevropski poletni čas)] Sodnik LinesmanEi uspesno zamenjal Gatol-schafranekMa Lokacija: Stadthalle Villach, Datum: 2024-11-03
+[Tue Oct 01 2024 10:45:35 GMT+0200 (Srednjeevropski poletni čas)] Sodnik BedynekSe uspesno zamenjal Gatol-schafranekMa Lokacija: Eishalle KagranEins, Datum: 2024-10-18
+[Tue Oct 01 2024 10:45:35 GMT+0200 (Srednjeevropski poletni čas)] Sodnik Gatol-schafranekMa uspesno zamenjal LinesmanZw Lokacija: Eishalle KagranEins, Datum: 2024-10-18
+[Tue Oct 01 2024 10:45:35 GMT+0200 (Srednjeevropski poletni čas)] Sodnik MantovaniDa uspesno zamenjal LinesmanEi Lokacija: Stadthalle Villach, Datum: 2024-11-03
+[Tue Oct 01 2024 10:45:35 GMT+0200 (Srednjeevropski poletni čas)] Sodnik WimmlerAl uspesno zamenjal MantovaniDa Lokacija: Stadthalle Villach, Datum: 2024-11-03
+[Tue Oct 01 2024 11:15:36 GMT+0200 (Srednjeevropski poletni čas)] Sodnik WimmlerAl uspesno zamenjal SparerDa Lokacija: Eisarena Salzburg, Datum: 2024-11-01
+[Tue Oct 01 2024 11:15:36 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SparerDa uspesno zamenjal WimmlerAl Lokacija: Eishalle Bruneck, Datum: 2024-11-01
+[Tue Oct 01 2024 13:32:02 GMT+0200 (Srednjeevropski poletni čas)] Sodnik GroznikBo uspesno zamenjal BernekerTh Lokacija: Eishalle Asiago, Datum: 2024-11-01
+[Tue Oct 01 2024 13:32:02 GMT+0200 (Srednjeevropski poletni čas)] Sodnik NikolicMa uspesno zamenjal GroznikBo Lokacija: Eishalle Asiago, Datum: 2024-11-01
+[Tue Oct 01 2024 13:32:02 GMT+0200 (Srednjeevropski poletni čas)] Sodnik BernekerTh uspesno zamenjal NikolicMa Lokacija: Eisarena Salzburg, Datum: 2024-11-01
+[Tue Oct 01 2024 16:34:17 GMT+0200 (Srednjeevropski poletni čas)] Sodnik NagyAt uspesno zamenjal OfnerCh Lokacija: Hala Tivoli, Datum: 2024-10-27
+[Tue Oct 01 2024 16:34:17 GMT+0200 (Srednjeevropski poletni čas)] Sodnik OfnerCh uspesno zamenjal SoosDa Lokacija: Hala Tivoli, Datum: 2024-10-27
+[Tue Oct 01 2024 16:34:17 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SoosDa uspesno zamenjal NagyAt Lokacija: Eishalle KagranEins, Datum: 2024-10-29
