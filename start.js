@@ -30,19 +30,19 @@ function scheduledFunction() {
 
             const mailing = {
                 "snojta": "tadej.snoj@gmail.com",
-                // "bajtmi": "miha.bajt@gmail.com",
-                "miklicgr": "gregor.miklic.sp@gmail.com",
+                // "bajtmi": "miha.bajt@gmail.com", ni plaču za 2022-23 in za 2023-24
+                "miklicgr": "gregor.miklic.sp@gmail.com", // plačano do konca 2024-25
                 "rezekgr": "gregor.rezek@gmail.com", // prinesel za sezono 2023-24
-                "hribarma": "matjazhribar@hotmail.com",
-                "zrnicmi": "milan_zrnic@hotmail.com",
+                "hribarma": "matjazhribar@hotmail.com", // ni plaču za 23-24
+                "zrnicmi": "milan_zrnic@hotmail.com", // ni plaču za 23-24
                 // "trilarvi": "viki@hokej.si", -- viki ni dal sixpacka za 2022-23 in za 2023-24
-                // "zgoncga": "jaka.zgonc@gmail.com",
+                // "zgoncga": "jaka.zgonc@gmail.com", prvi mail 10.10.2022 (ni plaču za 22-23, 23-24)
                 // "bergantan": "anze.bergant@gmail.com", bergi ni plaču za 2022-23 in za 2023-24
                 "bulovecmi": "miha.bulovec@gmail.com", //plačano do konca 2024-25
                 "piragictr": "trpimir.piragic@gmail.com",
                 "seewaldel": "seewald30@gmail.com",
-                "murnikpe": "petja.murnik@gmail.com",
-                "markizetigr": "grega.markizeti@gmail.com"
+                "murnikpe": "petja.murnik@gmail.com", // ni plaču za 23-24
+                "markizetigr": "grega.markizeti@gmail.com" // ni plaču za 23-24
             }
 
 
@@ -69,17 +69,7 @@ function scheduledFunction() {
                         </ul>
                         `;
                     }
-                    if (['miklicgr'].includes(i.sodnik)) { 
-                        htmlTekst = `
-                        <p><strong>Dobrodošel v sezono 2024-25.</strong>🍻</p>
-                        <p>Imaš vklopnjene delegacije. Od prevoza se odbije 20€.</p>
-                        <p>Nove tekme:</p>
-                        <ul>
-                            ${i.tekme.map(t => `<li>${t.liga} - ${t.datum}</li>`).join('')}
-                        </ul>
-                        `;
-                    }
-                    if (['snojta', 'seewaldel', "bulovecmi", "rezekgr"].includes(i.sodnik)) {
+                    if (['snojta', 'seewaldel', "bulovecmi", "rezekgr", 'miklicgr'].includes(i.sodnik)) {
                         htmlTekst = `
                             <p>New games in https://www.referee-manager.com/, check them:</p>
                             <ul>

@@ -82,3 +82,7 @@
 [Sat Oct 05 2024 21:46:58 GMT+0200 (Srednjeevropski poletni čas)] Sodnik RivisAn uspesno zamenjal FormaioniTh Lokacija: Eishalle Sterzing, Datum: 2024-10-26
 [Sat Oct 05 2024 21:46:58 GMT+0200 (Srednjeevropski poletni čas)] Sodnik FormaioniTh uspesno zamenjal JeramFi Lokacija: Eishalle Celje, Datum: 2024-10-27
 [Sat Oct 05 2024 21:46:58 GMT+0200 (Srednjeevropski poletni čas)] Sodnik JeramFi uspesno zamenjal RivisAn Lokacija: Eishalle Celje, Datum: 2024-10-27
+[Tue Oct 08 2024 13:43:51 GMT+0200 (Srednjeevropski poletni čas)] Sodnik JägerRi uspesno zamenjal SeewaldJe Lokacija: Eishalle Dornbirn, Datum: 2024-10-09
+[Tue Oct 08 2024 13:43:51 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SeewaldJe uspesno zamenjal ZacherlPa Lokacija: Eishalle Dornbirn, Datum: 2024-10-09
+[Wed Oct 09 2024 09:47:51 GMT+0200 (Srednjeevropski poletni čas)] Sodnik TelesklavFa uspesno zamenjal WuchererGe Lokacija: Eishalle Sissek Zibel, Datum: 2024-10-26
+[Wed Oct 09 2024 09:47:51 GMT+0200 (Srednjeevropski poletni čas)] Sodnik WuchererGe uspesno zamenjal TelesklavFa Lokacija: Eisarena Salzburg, Datum: 2024-10-29

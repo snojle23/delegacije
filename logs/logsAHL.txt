@@ -249,3 +249,6 @@ Sodniku EggerTh se je izbrisal datum iz AHL sheme. Datum:2024-10-23
 Sodniku JägerRi se je izbrisal datum iz AHL sheme. Datum:2024-10-23
 Sodniku LegaSi se je izbrisal datum iz AHL sheme. Datum:2024-10-27
 [Mon Oct 07 2024 20:33:41 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-10-23
+Sodniku ZacherlPa se je izbrisal datum iz AHL sheme. Datum:2024-10-09
+Sodniku WuchererGe se je izbrisal datum iz AHL sheme. Datum:2024-10-26
+Sodniku TelesklavFa se je izbrisal datum iz AHL sheme. Datum:2024-10-29
