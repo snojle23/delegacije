@@ -11,6 +11,9 @@ const transporter = nodemailer.createTransport({ // 'ICEObvescanje1'
 });
 let counter = 1;
 let countHour = 0;
+const min = 10;
+const sestUr = 360 / min;
+
 scheduledFunction();
 
 function scheduledFunction() {
@@ -39,7 +42,7 @@ function scheduledFunction() {
                 // "zgoncga": "jaka.zgonc@gmail.com", prvi mail 10.10.2022 (ni plaču za 22-23, 23-24)
                 // "bergantan": "anze.bergant@gmail.com", bergi ni plaču za 2022-23 in za 2023-24
                 "bulovecmi": "miha.bulovec@gmail.com", //plačano do konca 2024-25
-                "piragictr": "trpimir.piragic@gmail.com",
+                "piragictr": "trpimir.piragic@gmail.com", // 2023-24 plačana z rakijo
                 "seewaldel": "seewald30@gmail.com",
                 "murnikpe": "petja.murnik@gmail.com", // ni plaču za 23-24
                 "markizetigr": "grega.markizeti@gmail.com" // ni plaču za 23-24
@@ -69,7 +72,7 @@ function scheduledFunction() {
                         </ul>
                         `;
                     }
-                    if (['snojta', 'seewaldel', "bulovecmi", "rezekgr", 'miklicgr'].includes(i.sodnik)) {
+                    if (['snojta', 'seewaldel', "bulovecmi", "rezekgr", 'miklicgr', 'piragictr'].includes(i.sodnik)) {
                         htmlTekst = `
                             <p>New games in https://www.referee-manager.com/, check them:</p>
                             <ul>
@@ -97,16 +100,15 @@ function scheduledFunction() {
             });
         }
         countHour++
-        if (countHour === 24) {
+        if (countHour === sestUr) {
             const today = new Date();
             console.log('');
             console.log("Še 6 ur je šlo mimo. Skupen stevec: " + counter + " datum:" + `${today.getHours()}:${today.getMinutes()}`);
             countHour = 0;
         } else {
-            process.stdout.write(`\rProgress: ${(countHour / 24 * 100).toFixed(2)}% Zadnja ura: ${today.getHours()}:${today.getMinutes()}`);
+            process.stdout.write(`\rProgress: ${(countHour / sestUr * 100).toFixed(2)}% Zadnja ura: ${today.getHours()}:${today.getMinutes()}`);
         }
-
         counter++;
-    }, 1 * 15 * 60 * 1000); // 1 hour = 1 * 60 * 60 * 1000
+    }, min * 60 * 1000); // 1 hour = 1 * 60 * 60 * 1000
 }       // 1 * 1 * 30 * 1000 30sec
 // 1 * 15 * 60 * 1000 15min
