@@ -254,3 +254,5 @@ Sodniku WuchererGe se je izbrisal datum iz AHL sheme. Datum:2024-10-26
 Sodniku TelesklavFa se je izbrisal datum iz AHL sheme. Datum:2024-10-29
 [Wed Oct 09 2024 20:15:55 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-10-17
 Sodniku MiklicGr se je izbrisal datum iz AHL sheme. Datum:2024-10-17
+Sodniku HuberRe se je izbrisal datum iz AHL sheme. Datum:2024-10-12
+Sodniku LegaSi se je izbrisal datum iz AHL sheme. Datum:2024-10-23

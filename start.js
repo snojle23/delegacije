@@ -11,7 +11,7 @@ const transporter = nodemailer.createTransport({ // 'ICEObvescanje1'
 });
 let counter = 1;
 let countHour = 0;
-const min = 10;
+const min = 60;
 const sestUr = 360 / min;
 
 scheduledFunction();
@@ -37,7 +37,7 @@ function scheduledFunction() {
                 "miklicgr": "gregor.miklic.sp@gmail.com", // plačano do konca 2024-25
                 "rezekgr": "gregor.rezek@gmail.com", // prinesel za sezono 2023-24
                 "hribarma": "matjazhribar@hotmail.com", // ni plaču za 23-24
-                "zrnicmi": "milan_zrnic@hotmail.com", // ni plaču za 23-24
+                "zrnicmi": "milan_zrnic@hotmail.com", // za 23-24 prinesel sixpacka 11.10.2024 na tekmo
                 // "trilarvi": "viki@hokej.si", -- viki ni dal sixpacka za 2022-23 in za 2023-24
                 // "zgoncga": "jaka.zgonc@gmail.com", prvi mail 10.10.2022 (ni plaču za 22-23, 23-24)
                 // "bergantan": "anze.bergant@gmail.com", bergi ni plaču za 2022-23 in za 2023-24
@@ -72,7 +72,7 @@ function scheduledFunction() {
                         </ul>
                         `;
                     }
-                    if (['snojta', 'seewaldel', "bulovecmi", "rezekgr", 'miklicgr', 'piragictr'].includes(i.sodnik)) {
+                    if (['snojta', 'seewaldel', "bulovecmi", "rezekgr", 'miklicgr', 'piragictr', 'zrnicmi'].includes(i.sodnik)) {
                         htmlTekst = `
                             <p>New games in https://www.referee-manager.com/, check them:</p>
                             <ul>

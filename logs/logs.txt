@@ -86,3 +86,6 @@
 [Tue Oct 08 2024 13:43:51 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SeewaldJe uspesno zamenjal ZacherlPa Lokacija: Eishalle Dornbirn, Datum: 2024-10-09
 [Wed Oct 09 2024 09:47:51 GMT+0200 (Srednjeevropski poletni čas)] Sodnik TelesklavFa uspesno zamenjal WuchererGe Lokacija: Eishalle Sissek Zibel, Datum: 2024-10-26
 [Wed Oct 09 2024 09:47:51 GMT+0200 (Srednjeevropski poletni čas)] Sodnik WuchererGe uspesno zamenjal TelesklavFa Lokacija: Eisarena Salzburg, Datum: 2024-10-29
+[Thu Oct 10 2024 19:23:59 GMT+0200 (Srednjeevropski poletni čas)] Sodnik LegaSi uspesno zamenjal HuberRe Lokacija: Würtharena Neumarkt, Datum: 2024-10-12
+[Thu Oct 10 2024 19:23:59 GMT+0200 (Srednjeevropski poletni čas)] Sodnik HuberRe uspesno zamenjal LazzeriAl Lokacija: Eishalle Dornbirn, Datum: 2024-10-23
+[Thu Oct 10 2024 19:23:59 GMT+0200 (Srednjeevropski poletni čas)] Sodnik LazzeriAl uspesno zamenjal LegaSi Lokacija: Eishalle Dornbirn, Datum: 2024-10-23

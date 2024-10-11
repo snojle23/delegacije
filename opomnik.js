@@ -12,9 +12,9 @@ const transporter = nodemailer.createTransport({ // 'ICEObvescanje1'
 opomnik();
 function opomnik() {
     // "grega.markizeti@gmail.com", "petja.murnik@gmail.com", "milan_zrnic@hotmail.com", "matjazhribar@hotmail.com", "trpimir.piragic@gmail.com", 
-    ["tadej.snoj@gmail.com", "grega.markizeti@gmail.com", "petja.murnik@gmail.com", "milan_zrnic@hotmail.com", "matjazhribar@hotmail.com"].forEach(i => {
+    ["tadej.snoj@gmail.com", "grega.markizeti@gmail.com", "petja.murnik@gmail.com", "matjazhribar@hotmail.com"].forEach(i => {
         let htmlTekst = `
-    <p><strong>NOVE TEKME, NOVE TEKME, NOVE TEKMEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE</strong></p>
+    <p><strong>NOVE TEKME, NOVE TEKME, NOVE TEKME</strong></p>
     <br></br>
     <br> </br>
     <br> </br>
