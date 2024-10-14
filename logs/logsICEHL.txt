@@ -194,3 +194,5 @@ Sodniku NagyAt se je izbrisal datum iz ICEHL sheme. Datum:2024-10-29
 Sodniku WimmlerAl se je izbrisal datum iz ICEHL sheme. Datum:2024-10-04
 Sodniku MantovaniDa se je izbrisal datum iz ICEHL sheme. Datum:2024-10-04
 [Fri Oct 04 2024 15:48:09 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikStrimitzerDa uspesno dodan 
+Sodniku WimmlerAl se je izbrisal datum iz ICEHL sheme. Datum:2024-10-22
+Sodniku WimmlerAl se je izbrisal datum iz ICEHL sheme. Datum:2024-10-25
