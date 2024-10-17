@@ -12,14 +12,10 @@ const transporter = nodemailer.createTransport({ // 'ICEObvescanje1'
 opomnik();
 function opomnik() {
     // "grega.markizeti@gmail.com", "petja.murnik@gmail.com", "milan_zrnic@hotmail.com", "matjazhribar@hotmail.com", "trpimir.piragic@gmail.com", 
-    ["tadej.snoj@gmail.com", "grega.markizeti@gmail.com", "petja.murnik@gmail.com", "matjazhribar@hotmail.com"].forEach(i => {
+    ["tadej.snoj@gmail.com", "grega.markizeti@gmail.com", "matjazhribar@hotmail.com"].forEach(i => {
         let htmlTekst = `
-    <p><strong>NOVE TEKME, NOVE TEKME, NOVE TEKME</strong></p>
+    <p><strong>>New games in https://www.referee-manager-nisi-prnesu-piva.com/, check them:</p>
     <br></br>
-    <br> </br>
-    <br> </br>
-    <p>Ni novih tekem, samo opomnik, da se bliža 18.10.2024 in še nimaš poravnane LANSKE sezone!</p>
-    <p>Še enkrat: Pivo pričakujem najkasneje do CC-ja v Romuniji, kar je 18.10.2024, oziroma se lahko na tvoj predlog kaj drugega dogovoriva</p>
     `;
         const mailOptions = {
             from: 'delegacijeice@gmail.com',
