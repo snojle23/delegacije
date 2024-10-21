@@ -91,3 +91,14 @@
 [Thu Oct 10 2024 19:23:59 GMT+0200 (Srednjeevropski poletni čas)] Sodnik LazzeriAl uspesno zamenjal LegaSi Lokacija: Eishalle Dornbirn, Datum: 2024-10-23
 [Fri Oct 11 2024 20:27:03 GMT+0200 (Srednjeevropski poletni čas)] Sodnik MoidlMa uspesno zamenjal WimmlerAl Lokacija: Tiroler Wasserkraft Arena, Datum: 2024-10-22
 [Fri Oct 11 2024 20:27:03 GMT+0200 (Srednjeevropski poletni čas)] Sodnik PuffWo uspesno zamenjal WimmlerAl Lokacija: Klagenfurter Stadthalle, Datum: 2024-10-25
+[Sat Oct 19 2024 19:46:19 GMT+0200 (Srednjeevropski poletni čas)] Sodnik MeixnerSe uspesno zamenjal BulovecMi Lokacija: Eishalle Celje, Datum: 2024-11-03
+[Sat Oct 19 2024 19:46:19 GMT+0200 (Srednjeevropski poletni čas)] Sodnik OrelSt uspesno zamenjal KainbergerJu Lokacija: Eishalle Celje, Datum: 2024-11-03
+[Sat Oct 19 2024 19:46:19 GMT+0200 (Srednjeevropski poletni čas)] Sodnik JeramFi uspesno zamenjal SeewaldJe Lokacija: Eishalle Celje, Datum: 2024-11-03
+[Sat Oct 19 2024 19:46:19 GMT+0200 (Srednjeevropski poletni čas)] Sodnik WendnerMa uspesno zamenjal ZacherlPa Lokacija: Eishalle Celje, Datum: 2024-11-03
+[Sat Oct 19 2024 19:46:19 GMT+0200 (Srednjeevropski poletni čas)] Sodnik BulovecMi uspesno zamenjal MeixnerSe Lokacija: Eishalle Jesenice, Datum: 2024-11-03
+[Sat Oct 19 2024 19:46:19 GMT+0200 (Srednjeevropski poletni čas)] Sodnik KainbergerJu uspesno zamenjal OrelSt Lokacija: Eishalle Jesenice, Datum: 2024-11-03
+[Sat Oct 19 2024 19:46:19 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SeewaldJe uspesno zamenjal JeramFi Lokacija: Eishalle Jesenice, Datum: 2024-11-03
+[Sat Oct 19 2024 19:46:19 GMT+0200 (Srednjeevropski poletni čas)] Sodnik ZacherlPa uspesno zamenjal WendnerMa Lokacija: Eishalle Jesenice, Datum: 2024-11-03
+[Sun Oct 20 2024 19:46:17 GMT+0200 (Srednjeevropski poletni čas)] Sodnik LegatKo uspesno zamenjal PreiserJu Lokacija: Eisarena Salzburg, Datum: 2024-10-25
+[Sun Oct 20 2024 19:46:17 GMT+0200 (Srednjeevropski poletni čas)] Sodnik MarkizetiGr uspesno zamenjal LegatKo Lokacija: KELIT Arena Zell am See, Datum: 2024-10-26
+[Sun Oct 20 2024 19:46:17 GMT+0200 (Srednjeevropski poletni čas)] Sodnik PreiserJu uspesno zamenjal MarkizetiGr Lokacija: KELIT Arena Zell am See, Datum: 2024-10-26
