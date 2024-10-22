@@ -102,3 +102,5 @@
 [Sun Oct 20 2024 19:46:17 GMT+0200 (Srednjeevropski poletni čas)] Sodnik LegatKo uspesno zamenjal PreiserJu Lokacija: Eisarena Salzburg, Datum: 2024-10-25
 [Sun Oct 20 2024 19:46:17 GMT+0200 (Srednjeevropski poletni čas)] Sodnik MarkizetiGr uspesno zamenjal LegatKo Lokacija: KELIT Arena Zell am See, Datum: 2024-10-26
 [Sun Oct 20 2024 19:46:17 GMT+0200 (Srednjeevropski poletni čas)] Sodnik PreiserJu uspesno zamenjal MarkizetiGr Lokacija: KELIT Arena Zell am See, Datum: 2024-10-26
+[Mon Oct 21 2024 18:10:05 GMT+0200 (Srednjeevropski poletni čas)] Sodnik IlmerNo uspesno zamenjal JägerRi Lokacija: Eishalle Dornbirn, Datum: 2024-10-23
+[Mon Oct 21 2024 21:10:06 GMT+0200 (Srednjeevropski poletni čas)] Sodnik GroznikBo uspesno zamenjal NikolicKr Lokacija: Eishalle Asiago, Datum: 2024-10-27

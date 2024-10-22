@@ -266,3 +266,4 @@ Sodniku WimmlerAl se je izbrisal datum iz ICEHL sheme. Datum:2024-10-25
 [Fri Oct 18 2024 22:46:25 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-12-04
 [Fri Oct 18 2024 22:46:25 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-12-04
 [Fri Oct 18 2024 22:46:25 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2024-12-04
+Sodniku NikolicKr se je izbrisal datum iz ICEHL sheme. Datum:2024-10-27

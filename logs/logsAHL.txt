@@ -258,3 +258,4 @@ Sodniku HuberRe se je izbrisal datum iz AHL sheme. Datum:2024-10-12
 Sodniku LegaSi se je izbrisal datum iz AHL sheme. Datum:2024-10-23
 Sodniku PreiserJu se je izbrisal datum iz AHL sheme. Datum:2024-10-25
 Sodniku LegatKo se je izbrisal datum iz AHL sheme. Datum:2024-10-26
+Sodniku JägerRi se je izbrisal datum iz AHL sheme. Datum:2024-10-23
