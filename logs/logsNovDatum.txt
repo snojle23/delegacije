@@ -27,3 +27,17 @@
 [Sat Oct 05 2024 13:13:12 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v AHL_DAT. Datum:2024-11-03
 [Sat Oct 05 2024 13:13:12 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v AHL_DAT. Datum:2024-10-24
 [Sat Oct 05 2024 13:13:12 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v AHL_DAT. Datum:2024-10-31
+[Tue Oct 22 2024 11:23:01 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v AHL_DAT. Datum:2024-11-16
+[Tue Oct 22 2024 11:23:01 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v AHL_DAT. Datum:2024-11-17
+[Tue Oct 22 2024 11:23:01 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v AHL_DAT. Datum:2024-11-23
+[Tue Oct 22 2024 11:23:01 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v AHL_DAT. Datum:2024-11-30
+[Tue Oct 22 2024 11:23:01 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v AHL_DAT. Datum:2024-12-03
+[Tue Oct 22 2024 11:23:01 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v AHL_DAT. Datum:2024-12-04
+[Tue Oct 22 2024 11:23:01 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v AHL_DAT. Datum:2024-11-12
+[Tue Oct 22 2024 11:23:01 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v AHL_DAT. Datum:2024-11-14
+[Tue Oct 22 2024 11:23:01 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v AHL_DAT. Datum:2024-11-19
+[Tue Oct 22 2024 11:23:01 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v AHL_DAT. Datum:2024-11-21
+[Tue Oct 22 2024 11:23:01 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v AHL_DAT. Datum:2024-11-26
+[Tue Oct 22 2024 11:23:01 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v AHL_DAT. Datum:2024-11-28
+[Tue Oct 22 2024 11:23:01 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v AHL_DAT. Datum:2024-12-05
+[Tue Oct 22 2024 11:23:01 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v AHL_DAT. Datum:2024-12-07
