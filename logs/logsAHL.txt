@@ -339,3 +339,23 @@ Sodniku CristeliMa se je izbrisal datum iz AHL sheme. Datum:2024-11-30
 Sodniku CusinFe se je izbrisal datum iz AHL sheme. Datum:2024-11-21
 Sodniku CusinFe se je izbrisal datum iz AHL sheme. Datum:2024-11-28
 Sodniku CristeliMa se je izbrisal datum iz AHL sheme. Datum:2024-12-07
+Sodniku PreiserJu se je izbrisal datum iz AHL sheme. Datum:2024-11-21
+Sodniku EislCh se je izbrisal datum iz AHL sheme. Datum:2024-11-28
+Sodniku HuberRe se je izbrisal datum iz AHL sheme. Datum:2024-10-29
+[Mon Oct 28 2024 16:32:14 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikHuber rRe uspesno dodan 
+Sodniku HuberRe se je izbrisal datum iz AHL sheme. Datum:2024-11-03
+Sodniku HuberRe se je izbrisal datum iz AHL sheme. Datum:2024-11-23
+Sodniku HuberRe se je izbrisal datum iz AHL sheme. Datum:2024-11-14
+Sodniku EggerTh se je izbrisal datum iz AHL sheme. Datum:2024-10-29
+Sodniku SoraperraSi se je izbrisal datum iz AHL sheme. Datum:2024-11-01
+Sodniku WeissAl se je izbrisal datum iz AHL sheme. Datum:2024-11-30
+Sodniku WendnerMa se je izbrisal datum iz AHL sheme. Datum:2024-12-07
+Sodniku OrelSt se je izbrisal datum iz AHL sheme. Datum:2024-11-23
+Sodniku BrockAd se je izbrisal datum iz AHL sheme. Datum:2024-12-07
+[Wed Oct 30 2024 18:10:32 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-12-01
+Sodniku RinkerDa se je izbrisal datum iz AHL sheme. Datum:2024-11-16
+Sodniku IlmerNo se je izbrisal datum iz AHL sheme. Datum:2024-11-03
+Sodniku CristeliMa se je izbrisal datum iz AHL sheme. Datum:2024-11-14
+Sodniku CusinFe se je izbrisal datum iz AHL sheme. Datum:2024-11-14
+[Mon Nov 04 2024 20:11:02 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-12-05
+Sodniku MiklicGr se je izbrisal datum iz AHL sheme. Datum:2024-12-05

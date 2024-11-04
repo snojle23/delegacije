@@ -269,3 +269,16 @@ Sodniku WimmlerAl se je izbrisal datum iz ICEHL sheme. Datum:2024-10-25
 Sodniku NikolicKr se je izbrisal datum iz ICEHL sheme. Datum:2024-10-27
 Sodniku JedlickaPe se je izbrisal datum iz ICEHL sheme. Datum:2024-10-23
 Sodniku DurmisOt se je izbrisal datum iz ICEHL sheme. Datum:2024-10-25
+Sodniku HuberAn se je izbrisal datum iz ICEHL sheme. Datum:2024-11-02
+[Mon Oct 28 2024 16:32:14 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikHuber aAn uspesno dodan 
+Sodniku HuberAn se je izbrisal datum iz ICEHL sheme. Datum:2024-11-13
+Sodniku HuberAn se je izbrisal datum iz ICEHL sheme. Datum:2024-11-20
+Sodniku HuberAn se je izbrisal datum iz ICEHL sheme. Datum:2024-11-24
+Sodniku HuberAn se je izbrisal datum iz ICEHL sheme. Datum:2024-11-27
+Sodniku HuberAn se je izbrisal datum iz ICEHL sheme. Datum:2024-11-30
+Sodniku DurmisOt se je izbrisal datum iz ICEHL sheme. Datum:2024-11-02
+Sodniku DurmisOt se je izbrisal datum iz ICEHL sheme. Datum:2024-11-03
+Sodniku Huber aAn se je izbrisal datum iz ICEHL sheme. Datum:2024-11-13
+Sodniku DurmisOt se je izbrisal datum iz ICEHL sheme. Datum:2024-11-15
+Sodniku OfnerCh se je izbrisal datum iz ICEHL sheme. Datum:2024-11-20
+Sodniku OfnerCh se je izbrisal datum iz ICEHL sheme. Datum:2024-11-13
