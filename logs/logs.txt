@@ -156,3 +156,16 @@
 [Thu Oct 31 2024 19:10:38 GMT+0100 (Srednjeevropski standardni čas)] Sodnik CristeliMa uspesno zamenjal IlmerNo Lokacija: Eishalle Cortina, Datum: 2024-11-03
 [Thu Oct 31 2024 19:10:38 GMT+0100 (Srednjeevropski standardni čas)] Sodnik IlmerNo uspesno zamenjal CristeliMa Lokacija: Eisarena Salzburg, Datum: 2024-11-14
 [Mon Nov 04 2024 12:11:01 GMT+0100 (Srednjeevropski standardni čas)] Sodnik CristeliMa uspesno zamenjal CusinFe Lokacija: Sportpark Kitzbühel, Datum: 2024-11-14
+[Tue Nov 05 2024 13:22:46 GMT+0100 (Srednjeevropski standardni čas)] Sodnik ArlicMa uspesno zamenjal JeramFi Lokacija: Eishalle Meran, Datum: 2024-11-16
+[Tue Nov 05 2024 13:22:46 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HribarMa uspesno zamenjal PardatscherUl Lokacija: Eishalle Asiago, Datum: 2024-11-20
+[Tue Nov 05 2024 13:22:46 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PardatscherUl uspesno zamenjal ZgoncGa Lokacija: Eishalle Asiago, Datum: 2024-11-20
+[Tue Nov 05 2024 13:22:46 GMT+0100 (Srednjeevropski standardni čas)] Sodnik JeramFi uspesno zamenjal ArlicMa Lokacija: Eishalle Sissek Zibel, Datum: 2024-11-14
+[Tue Nov 05 2024 20:53:01 GMT+0100 (Srednjeevropski standardni čas)] Sodnik ArlicMa uspesno zamenjal JeramFi Lokacija: Eishalle Meran, Datum: 2024-11-16
+[Tue Nov 05 2024 20:53:01 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HribarMa uspesno zamenjal PardatscherUl Lokacija: Eishalle Asiago, Datum: 2024-11-20
+[Tue Nov 05 2024 20:53:01 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PardatscherUl uspesno zamenjal ZgoncGa Lokacija: Eishalle Asiago, Datum: 2024-11-20
+[Tue Nov 05 2024 20:53:01 GMT+0100 (Srednjeevropski standardni čas)] Sodnik JeramFi uspesno zamenjal ArlicMa Lokacija: Eishalle Sissek Zibel, Datum: 2024-11-14
+[Mon Nov 11 2024 08:52:10 GMT+0100 (Srednjeevropski standardni čas)] Sodnik KainbergerJu uspesno zamenjal NikolicKr Lokacija: Tiroler Wasserkraft Arena, Datum: 2024-11-13
+[Mon Nov 11 2024 18:52:10 GMT+0100 (Srednjeevropski standardni čas)] Sodnik IlmerNo uspesno zamenjal FleischmannLu Lokacija: Eishalle Ritten, Datum: 2024-11-23
+[Mon Nov 11 2024 18:52:10 GMT+0100 (Srednjeevropski standardni čas)] Sodnik WuchererGe uspesno zamenjal ZacherlPa Lokacija: KELIT Arena Zell am See, Datum: 2024-11-21
+[Mon Nov 11 2024 18:52:10 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PaceJa uspesno zamenjal FleischmannLu Lokacija: Eishalle Meran, Datum: 2024-11-21
+[Wed Nov 13 2024 08:25:13 GMT+0100 (Srednjeevropski standardni čas)] Sodnik MoschenAn uspesno zamenjal EggerTh Lokacija: Eishalle Dornbirn, Datum: 2024-11-16

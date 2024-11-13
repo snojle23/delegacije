@@ -42,3 +42,4 @@
 [Tue Oct 22 2024 11:23:01 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v AHL_DAT. Datum:2024-12-05
 [Tue Oct 22 2024 11:23:01 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v AHL_DAT. Datum:2024-12-07
 [Wed Oct 30 2024 18:10:32 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v AHL_DAT. Datum:2024-12-01
+[Wed Nov 13 2024 09:25:13 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v AHL_DAT. Datum:2024-11-24
