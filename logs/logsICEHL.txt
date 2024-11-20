@@ -370,3 +370,4 @@ Sodniku MuzsikNo se je izbrisal datum iz ICEHL sheme. Datum:2024-11-16
 [Thu Nov 14 2024 22:02:47 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikHlavatyAl uspesno dodan 
 Sodniku SternatCh se je izbrisal datum iz ICEHL sheme. Datum:2024-12-08
 Sodniku MoidlMa se je izbrisal datum iz ICEHL sheme. Datum:2024-12-30
+Sodniku NikolicKr se je izbrisal datum iz ICEHL sheme. Datum:2024-11-20
