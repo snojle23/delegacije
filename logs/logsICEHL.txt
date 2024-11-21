@@ -371,3 +371,12 @@ Sodniku MuzsikNo se je izbrisal datum iz ICEHL sheme. Datum:2024-11-16
 Sodniku SternatCh se je izbrisal datum iz ICEHL sheme. Datum:2024-12-08
 Sodniku MoidlMa se je izbrisal datum iz ICEHL sheme. Datum:2024-12-30
 Sodniku NikolicKr se je izbrisal datum iz ICEHL sheme. Datum:2024-11-20
+[Wed Nov 20 2024 20:05:50 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-12-06
+Sodniku SternatCh se je izbrisal datum iz ICEHL sheme. Datum:2024-12-06
+Sodniku SternatCh se je izbrisal datum iz ICEHL sheme. Datum:2024-12-06
+Sodniku JedlickaPe se je izbrisal datum iz ICEHL sheme. Datum:2024-12-06
+Sodniku JedlickaPe se je izbrisal datum iz ICEHL sheme. Datum:2024-12-06
+Sodniku DurmisOt se je izbrisal datum iz ICEHL sheme. Datum:2024-12-06
+Sodniku DurmisOt se je izbrisal datum iz ICEHL sheme. Datum:2024-12-06
+Sodniku KainbergerJu se je izbrisal datum iz ICEHL sheme. Datum:2024-12-06
+Sodniku KainbergerJu se je izbrisal datum iz ICEHL sheme. Datum:2024-12-06
