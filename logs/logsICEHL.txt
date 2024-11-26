@@ -380,3 +380,6 @@ Sodniku DurmisOt se je izbrisal datum iz ICEHL sheme. Datum:2024-12-06
 Sodniku DurmisOt se je izbrisal datum iz ICEHL sheme. Datum:2024-12-06
 Sodniku KainbergerJu se je izbrisal datum iz ICEHL sheme. Datum:2024-12-06
 Sodniku KainbergerJu se je izbrisal datum iz ICEHL sheme. Datum:2024-12-06
+Sodniku WimmlerAl se je izbrisal datum iz ICEHL sheme. Datum:2024-11-22
+Sodniku NikolicKr se je izbrisal datum iz ICEHL sheme. Datum:2024-11-24
+Sodniku VoicanCh se je izbrisal datum iz ICEHL sheme. Datum:2024-11-27
