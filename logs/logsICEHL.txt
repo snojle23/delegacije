@@ -383,3 +383,13 @@ Sodniku KainbergerJu se je izbrisal datum iz ICEHL sheme. Datum:2024-12-06
 Sodniku WimmlerAl se je izbrisal datum iz ICEHL sheme. Datum:2024-11-22
 Sodniku NikolicKr se je izbrisal datum iz ICEHL sheme. Datum:2024-11-24
 Sodniku VoicanCh se je izbrisal datum iz ICEHL sheme. Datum:2024-11-27
+Sodniku JeramFi se je izbrisal datum iz ICEHL sheme. Datum:2024-12-04
+Sodniku FleischmannLu se je izbrisal datum iz ICEHL sheme. Datum:2024-12-06
+[Tue Nov 26 2024 15:14:42 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-12-04
+[Tue Nov 26 2024 15:14:42 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-12-10
+[Tue Nov 26 2024 15:14:42 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2024-12-10
+Sodniku PiragicTr se je izbrisal datum iz ICEHL sheme. Datum:2024-12-04
+Sodniku PiragicTr se je izbrisal datum iz ICEHL sheme. Datum:2024-12-04
+Sodniku SternatCh se je izbrisal datum iz ICEHL sheme. Datum:2024-12-04
+Sodniku ZgoncGa se je izbrisal datum iz ICEHL sheme. Datum:2024-12-04
+Sodniku HribarMa se je izbrisal datum iz ICEHL sheme. Datum:2024-12-04
