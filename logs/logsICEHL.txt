@@ -393,3 +393,4 @@ Sodniku PiragicTr se je izbrisal datum iz ICEHL sheme. Datum:2024-12-04
 Sodniku SternatCh se je izbrisal datum iz ICEHL sheme. Datum:2024-12-04
 Sodniku ZgoncGa se je izbrisal datum iz ICEHL sheme. Datum:2024-12-04
 Sodniku HribarMa se je izbrisal datum iz ICEHL sheme. Datum:2024-12-04
+Sodniku SternatCh se je izbrisal datum iz ICEHL sheme. Datum:2024-12-10

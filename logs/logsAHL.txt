@@ -463,3 +463,12 @@ Sodniku LegatKo se je izbrisal datum iz AHL sheme. Datum:2024-11-28
 [Tue Nov 26 2024 19:55:45 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2024-12-17
 Sodniku PreiserJu se je izbrisal datum iz AHL sheme. Datum:2024-12-17
 Sodniku LegatKo se je izbrisal datum iz AHL sheme. Datum:2024-11-30
+Sodniku BulovecMi se je izbrisal datum iz AHL sheme. Datum:2024-12-07
+Sodniku ArlicMa se je izbrisal datum iz AHL sheme. Datum:2024-12-07
+Sodniku WuchererGe se je izbrisal datum iz AHL sheme. Datum:2024-12-07
+Sodniku WidmannFl se je izbrisal datum iz AHL sheme. Datum:2024-12-07
+[Fri Nov 29 2024 14:56:57 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2025-01-03
+Sodniku SpiegelSe se je izbrisal datum iz AHL sheme. Datum:2024-12-26
+Sodniku EggerTh se je izbrisal datum iz AHL sheme. Datum:2024-12-28
+Sodniku WeissAl se je izbrisal datum iz AHL sheme. Datum:2024-12-07
+Sodniku PreiserJu se je izbrisal datum iz AHL sheme. Datum:2024-12-05
