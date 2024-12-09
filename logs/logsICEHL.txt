@@ -398,3 +398,4 @@ Sodniku Huber aAn se je izbrisal datum iz ICEHL sheme. Datum:2024-12-20
 Sodniku Huber aAn se je izbrisal datum iz ICEHL sheme. Datum:2024-12-22
 [Mon Dec 02 2024 13:45:25 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikHeadSc uspesno dodan 
 Sodniku SeewaldEl se je izbrisal datum iz ICEHL sheme. Datum:2024-12-30
+Sodniku NotheggerDa se je izbrisal datum iz ICEHL sheme. Datum:2024-12-08
