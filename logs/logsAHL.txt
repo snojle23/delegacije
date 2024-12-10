@@ -480,3 +480,4 @@ Sodniku PinieOm se je izbrisal datum iz AHL sheme. Datum:2025-01-06
 Sodniku MattheyPh se je izbrisal datum iz AHL sheme. Datum:2024-12-07
 Sodniku VoicanCh se je izbrisal datum iz AHL sheme. Datum:2024-12-21
 Sodniku WenuschHe se je izbrisal datum iz AHL sheme. Datum:2025-01-02
+Sodniku LazzeriAl se je izbrisal datum iz AHL sheme. Datum:2024-12-22
