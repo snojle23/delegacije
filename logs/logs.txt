@@ -334,3 +334,38 @@
 [Mon Dec 09 2024 06:44:56 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicMa uspesno zamenjal NikolicKr Lokacija: Tiroler Wasserkraft Arena, Datum: 2025-01-01
 [Mon Dec 09 2024 20:24:05 GMT+0100 (Srednjeevropski standardni čas)] Sodnik LazzeriAl uspesno zamenjal HeadSc Lokacija: Eishalle Asiago, Datum: 2024-12-22
 [Mon Dec 09 2024 20:24:05 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PinieOm uspesno zamenjal LazzeriAl Lokacija: Eishalle Gröden, Datum: 2024-12-22
+[Tue Dec 10 2024 19:40:09 GMT+0100 (Srednjeevropski standardni čas)] Sodnik LegaSi uspesno zamenjal Huber rRe Lokacija: Eishalle Sterzing, Datum: 2024-12-26
+[Tue Dec 10 2024 19:40:09 GMT+0100 (Srednjeevropski standardni čas)] Sodnik Huber rRe uspesno zamenjal LegaSi Lokacija: Eishalle Dornbirn, Datum: 2024-12-17
+[Wed Dec 11 2024 06:40:09 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicMa uspesno zamenjal NikolicKr Lokacija: Tiroler Wasserkraft Arena, Datum: 2025-01-01
+[Wed Dec 11 2024 06:40:09 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicKr uspesno zamenjal NikolicMa Lokacija: Tiroler Wasserkraft Arena, Datum: 2025-01-01
+[Fri Dec 13 2024 05:41:20 GMT+0100 (Srednjeevropski standardni čas)] Sodnik GiacomozziFe uspesno zamenjal LegaSi Lokacija: Eishalle Sterzing, Datum: 2024-12-26
+[Fri Dec 13 2024 05:41:20 GMT+0100 (Srednjeevropski standardni čas)] Sodnik LegaSi uspesno zamenjal GiacomozziFe Lokacija: Eishalle Cortina, Datum: 2024-12-30
+[Fri Dec 13 2024 18:28:39 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicMa uspesno zamenjal NikolicKr Lokacija: Eishalle Asiago, Datum: 2024-12-28
+[Fri Dec 13 2024 18:28:39 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicKr uspesno zamenjal NikolicMa Lokacija: Eishalle Asiago, Datum: 2024-12-28
+[Fri Dec 13 2024 18:28:39 GMT+0100 (Srednjeevropski standardni čas)] Sodnik ArlicMa uspesno zamenjal FleischmannLu Lokacija: Eishalle Sterzing, Datum: 2025-01-05
+[Sat Dec 14 2024 18:28:39 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicKr uspesno zamenjal NikolicMa Lokacija: Eishalle Asiago, Datum: 2024-12-28
+[Sat Dec 14 2024 18:28:39 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicMa uspesno zamenjal NikolicKr Lokacija: Eishalle Asiago, Datum: 2024-12-28
+[Sat Dec 14 2024 21:28:40 GMT+0100 (Srednjeevropski standardni čas)] Sodnik MoschenAn uspesno zamenjal SoraperraSi Lokacija: Eishalle Ritten, Datum: 2024-12-30
+[Sat Dec 14 2024 21:28:40 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicMa uspesno zamenjal NikolicKr Lokacija: Tiroler Wasserkraft Arena, Datum: 2025-01-10
+[Sat Dec 14 2024 21:28:40 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicKr uspesno zamenjal NikolicMa Lokacija: Tiroler Wasserkraft Arena, Datum: 2025-01-10
+[Sat Dec 14 2024 22:28:39 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicMa uspesno zamenjal NikolicKr Lokacija: Eishalle Asiago, Datum: 2024-12-28
+[Sat Dec 14 2024 22:28:39 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicKr uspesno zamenjal NikolicMa Lokacija: Eishalle Asiago, Datum: 2024-12-28
+[Sat Dec 14 2024 22:28:39 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NotheggerDa uspesno zamenjal JedlickaPe Lokacija: Gabor Ocskay Eisarena, Datum: 2025-01-05
+[Sat Dec 14 2024 22:28:39 GMT+0100 (Srednjeevropski standardni čas)] Sodnik VacziDa uspesno zamenjal KoncDa Lokacija: Gabor Ocskay Eisarena, Datum: 2025-01-05
+[Sat Dec 14 2024 22:28:39 GMT+0100 (Srednjeevropski standardni čas)] Sodnik JedlickaPe uspesno zamenjal BedynekSe Lokacija: Eishalle Wien-Kagran, Datum: 2025-01-05
+[Sat Dec 14 2024 22:28:39 GMT+0100 (Srednjeevropski standardni čas)] Sodnik KoncDa uspesno zamenjal VacziDa Lokacija: Eishalle Wien-Kagran, Datum: 2025-01-05
+[Sat Dec 14 2024 22:28:39 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicKr uspesno zamenjal NikolicMa Lokacija: Tiroler Wasserkraft Arena, Datum: 2025-01-10
+[Sat Dec 14 2024 22:28:39 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicMa uspesno zamenjal NikolicKr Lokacija: Tiroler Wasserkraft Arena, Datum: 2025-01-10
+[Sat Dec 14 2024 23:28:39 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SeewaldJe uspesno zamenjal NotheggerDa Lokacija: Tiroler Wasserkraft Arena, Datum: 2025-01-05
+[Sat Dec 14 2024 23:28:39 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicMa uspesno zamenjal NikolicKr Lokacija: Tiroler Wasserkraft Arena, Datum: 2025-01-10
+[Sat Dec 14 2024 23:28:39 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicKr uspesno zamenjal NikolicMa Lokacija: Tiroler Wasserkraft Arena, Datum: 2025-01-10
+[Sat Dec 14 2024 23:28:39 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicMa uspesno zamenjal NikolicKr Lokacija: Eishalle Bruneck, Datum: 2025-01-19
+[Sat Dec 14 2024 23:28:39 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicKr uspesno zamenjal NikolicMa Lokacija: Eishalle Bruneck, Datum: 2025-01-19
+[Sun Dec 15 2024 06:28:41 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicKr uspesno zamenjal NikolicMa Lokacija: Tiroler Wasserkraft Arena, Datum: 2025-01-10
+[Sun Dec 15 2024 06:28:41 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicMa uspesno zamenjal NikolicKr Lokacija: Tiroler Wasserkraft Arena, Datum: 2025-01-10
+[Sun Dec 15 2024 06:28:41 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicKr uspesno zamenjal NikolicMa Lokacija: Eishalle Bruneck, Datum: 2025-01-19
+[Sun Dec 15 2024 06:28:41 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicMa uspesno zamenjal NikolicKr Lokacija: Eishalle Bruneck, Datum: 2025-01-19
+[Sun Dec 15 2024 22:28:44 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicKr uspesno zamenjal NikolicMa Lokacija: Eishalle Asiago, Datum: 2024-12-28
+[Sun Dec 15 2024 22:28:44 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicMa uspesno zamenjal NikolicKr Lokacija: Eishalle Asiago, Datum: 2024-12-28
+[Mon Dec 16 2024 06:28:42 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicMa uspesno zamenjal NikolicKr Lokacija: Eishalle Bruneck, Datum: 2025-01-19
+[Mon Dec 16 2024 06:28:42 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicKr uspesno zamenjal NikolicMa Lokacija: Eishalle Bruneck, Datum: 2025-01-19
