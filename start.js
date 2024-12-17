@@ -43,9 +43,9 @@ function scheduledFunction() {
                 "bulovecmi": "miha.bulovec@gmail.com", //plačano do konca 2024-25
                 "piragictr": "trpimir.piragic@gmail.com", // 2023-24 plačana z rakijo
                 "seewaldel": "seewald30@gmail.com",
-                "murnikpe": "petja.murnik@gmail.com" // ni plaču za 23-24
+                "murnikpe": "petja.murnik@gmail.com", // ni plaču za 23-24
                 //"markizetigr": "grega.markizeti@gmail.com" // ni plaču za 23-24 - izklopljeno 18.10. (delegacije do 3.11.)
-                //"hribarma": "matjazhribar@hotmail.com", // ni plaču za 23-24 - izklopljeno 18.10. (delegacije do 3.11.)
+                "hribarma": "matjazhribar@hotmail.com", // ni plaču za 23-24 - izklopljeno 18.10. (delegacije do 3.11.) 16-12- vključeno.. baje bo prinesel sixpacka
             }
 
 

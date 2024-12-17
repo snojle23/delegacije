@@ -477,3 +477,8 @@ Sodniku SoosDa se je izbrisal datum iz ICEHL sheme. Datum:2024-12-22
 [Sun Dec 15 2024 22:28:44 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2025-01-18
 [Sun Dec 15 2024 22:28:44 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2025-01-18
 [Sun Dec 15 2024 22:28:44 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2025-01-18
+Sodniku SmetanaLa se je izbrisal datum iz ICEHL sheme. Datum:2024-12-18
+Sodniku PiragicTr se je izbrisal datum iz ICEHL sheme. Datum:2024-12-18
+Sodniku OfnerCh se je izbrisal datum iz ICEHL sheme. Datum:2024-12-18
+Sodniku PuffWo se je izbrisal datum iz ICEHL sheme. Datum:2024-12-18
+Sodniku RigoniDa se je izbrisal datum iz ICEHL sheme. Datum:2024-12-18
