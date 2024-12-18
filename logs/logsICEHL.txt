@@ -482,3 +482,5 @@ Sodniku PiragicTr se je izbrisal datum iz ICEHL sheme. Datum:2024-12-18
 Sodniku OfnerCh se je izbrisal datum iz ICEHL sheme. Datum:2024-12-18
 Sodniku PuffWo se je izbrisal datum iz ICEHL sheme. Datum:2024-12-18
 Sodniku RigoniDa se je izbrisal datum iz ICEHL sheme. Datum:2024-12-18
+Sodniku SmetanaLa se je izbrisal datum iz ICEHL sheme. Datum:2024-12-20
+Sodniku SmetanaLa se je izbrisal datum iz ICEHL sheme. Datum:2024-12-22

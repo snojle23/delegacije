@@ -383,3 +383,11 @@
 [Tue Dec 17 2024 12:53:36 GMT+0100 (Srednjeevropski standardni čas)] Sodnik WidmannFl uspesno zamenjal BulovecMi Lokacija: Eishalle Celje, Datum: 2025-01-05
 [Tue Dec 17 2024 12:53:36 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BajtMi uspesno zamenjal OrelSt Lokacija: Eishalle Celje, Datum: 2024-12-21
 [Tue Dec 17 2024 12:53:36 GMT+0100 (Srednjeevropski standardni čas)] Sodnik OrelSt uspesno zamenjal WidmannFl Lokacija: Eishalle Celje, Datum: 2024-12-21
+[Tue Dec 17 2024 15:14:13 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicKr uspesno zamenjal NikolicMa Lokacija: Eishalle Bruneck, Datum: 2025-01-19
+[Tue Dec 17 2024 15:14:13 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicMa uspesno zamenjal NikolicKr Lokacija: Eishalle Bruneck, Datum: 2025-01-19
+[Tue Dec 17 2024 18:14:13 GMT+0100 (Srednjeevropski standardni čas)] Sodnik FichtnerPa uspesno zamenjal SmetanaLa Lokacija: Merkur Eisstadion Graz, Datum: 2024-12-20
+[Tue Dec 17 2024 18:14:13 GMT+0100 (Srednjeevropski standardni čas)] Sodnik GroznikBo uspesno zamenjal SmetanaLa Lokacija: Eishalle KagranEins, Datum: 2024-12-22
+[Tue Dec 17 2024 18:14:13 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicKr uspesno zamenjal NikolicMa Lokacija: Eishalle Asiago, Datum: 2024-12-28
+[Tue Dec 17 2024 18:14:13 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicMa uspesno zamenjal NikolicKr Lokacija: Eishalle Asiago, Datum: 2024-12-28
+[Tue Dec 17 2024 18:14:13 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicMa uspesno zamenjal NikolicKr Lokacija: Eishalle Bruneck, Datum: 2025-01-19
+[Tue Dec 17 2024 18:14:13 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicKr uspesno zamenjal NikolicMa Lokacija: Eishalle Bruneck, Datum: 2025-01-19
