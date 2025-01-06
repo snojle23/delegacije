@@ -536,3 +536,17 @@ Sodniku KainbergerJu se je izbrisal datum iz AHL sheme. Datum:2024-12-26
 Sodniku GrisentiLu se je izbrisal datum iz AHL sheme. Datum:2024-12-26
 Sodniku Huber rRe se je izbrisal datum iz AHL sheme. Datum:2025-01-02
 Sodniku EggerTh se je izbrisal datum iz AHL sheme. Datum:2025-01-16
+Sodniku KainbergerJu se je izbrisal datum iz AHL sheme. Datum:2025-01-04
+Sodniku PaceJa se je izbrisal datum iz AHL sheme. Datum:2025-01-04
+Sodniku GrisentiLu se je izbrisal datum iz AHL sheme. Datum:2025-01-04
+Sodniku WidmannFl se je izbrisal datum iz AHL sheme. Datum:2025-01-05
+Sodniku OrelSt se je izbrisal datum iz AHL sheme. Datum:2025-01-18
+Sodniku WidmannFl se je izbrisal datum iz AHL sheme. Datum:2025-01-06
+Sodniku BajtMi se je izbrisal datum iz AHL sheme. Datum:2025-01-23
+Sodniku PinieOm se je izbrisal datum iz AHL sheme. Datum:2025-01-04
+[Sat Jan 04 2025 13:21:49 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikPianezzeCl uspesno dodan 
+Sodniku PianezzeCl se je izbrisal datum iz AHL sheme. Datum:2025-01-04
+Sodniku Huber rRe se je izbrisal datum iz AHL sheme. Datum:2025-01-05
+Sodniku BenvegnuAn se je izbrisal datum iz AHL sheme. Datum:2025-01-08
+Sodniku TelesklavFa se je izbrisal datum iz AHL sheme. Datum:2025-01-06
+Sodniku PirasAn se je izbrisal datum iz AHL sheme. Datum:2025-01-06

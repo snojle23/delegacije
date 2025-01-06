@@ -45,7 +45,7 @@ function scheduledFunction() {
                 "seewaldel": "seewald30@gmail.com",
                 "murnikpe": "petja.murnik@gmail.com", // ni plaču za 23-24
                 //"markizetigr": "grega.markizeti@gmail.com" // ni plaču za 23-24 - izklopljeno 18.10. (delegacije do 3.11.)
-                "hribarma": "matjazhribar@hotmail.com", // ni plaču za 23-24 - izklopljeno 18.10. (delegacije do 3.11.) 16-12- vključeno.. baje bo prinesel sixpacka
+                "hribarma": "matjazhribar@hotmail.com", // plaču za 23-24 in 24-25 (4.1.2025 z dvema sixpackoma)
             }
 
 
