@@ -528,3 +528,7 @@ Sodniku LinesmanEi se je izbrisal datum iz ICEHL sheme. Datum:2025-01-17
 [Mon Jan 06 2025 12:52:37 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2025-01-28
 [Mon Jan 06 2025 12:52:37 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2025-01-29
 [Mon Jan 06 2025 12:52:37 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2025-01-29
+Sodniku FleischmannLu se je izbrisal datum iz ICEHL sheme. Datum:2025-01-26
+Sodniku DurmisOt se je izbrisal datum iz ICEHL sheme. Datum:2025-01-10
+Sodniku DurmisOt se je izbrisal datum iz ICEHL sheme. Datum:2025-01-12
+Sodniku HribarMa se je izbrisal datum iz ICEHL sheme. Datum:2025-01-24

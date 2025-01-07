@@ -78,3 +78,8 @@
 [Tue Dec 17 2024 18:14:13 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v AHL_DAT. Datum:2025-01-14
 [Tue Dec 17 2024 18:14:13 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v AHL_DAT. Datum:2025-01-16
 [Tue Dec 17 2024 18:14:13 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v AHL_DAT. Datum:2025-01-23
+[Tue Jan 07 2025 15:08:21 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v AHL_DAT. Datum:2025-01-25
+[Tue Jan 07 2025 15:08:21 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v AHL_DAT. Datum:2025-01-26
+[Tue Jan 07 2025 15:08:21 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v AHL_DAT. Datum:2025-01-28
+[Tue Jan 07 2025 15:08:21 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v AHL_DAT. Datum:2025-01-29
+[Tue Jan 07 2025 15:08:21 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v AHL_DAT. Datum:2025-01-30
