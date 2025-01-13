@@ -540,3 +540,46 @@
 [Tue Jan 07 2025 13:54:10 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicMa uspesno zamenjal NikolicKr Lokacija: Eishalle Bruneck, Datum: 2025-01-19
 [Tue Jan 07 2025 13:54:10 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicKr uspesno zamenjal NikolicMa Lokacija: Eishalle Bruneck, Datum: 2025-01-19
 [Tue Jan 07 2025 13:54:10 GMT+0100 (Srednjeevropski standardni čas)] Sodnik JeramFi uspesno zamenjal HribarMa Lokacija: Eishalle Asiago, Datum: 2025-01-24
+[Tue Jan 07 2025 19:23:10 GMT+0100 (Srednjeevropski standardni čas)] Sodnik RieckenSi uspesno zamenjal NotheggerDa Lokacija: Eisarena Salzburg, Datum: 2025-01-08
+[Tue Jan 07 2025 19:23:10 GMT+0100 (Srednjeevropski standardni čas)] Sodnik ZacherlPa uspesno zamenjal RieckenSi Lokacija: Eisarena Salzburg, Datum: 2025-01-08
+[Tue Jan 07 2025 20:23:09 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HribarMa uspesno zamenjal RieckenSi Lokacija: Merkur Eisstadion Graz, Datum: 2025-01-10
+[Tue Jan 07 2025 20:23:09 GMT+0100 (Srednjeevropski standardni čas)] Sodnik RieckenSi uspesno zamenjal WimmlerAl Lokacija: Merkur Eisstadion Graz, Datum: 2025-01-10
+[Tue Jan 07 2025 20:23:09 GMT+0100 (Srednjeevropski standardni čas)] Sodnik WeissAl uspesno zamenjal NotheggerDa Lokacija: Linz AG Eisarena, Datum: 2025-01-10
+[Tue Jan 07 2025 20:23:09 GMT+0100 (Srednjeevropski standardni čas)] Sodnik WimmlerAl uspesno zamenjal WeissAl Lokacija: Linz AG Eisarena, Datum: 2025-01-10
+[Tue Jan 07 2025 20:23:09 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicKr uspesno zamenjal NikolicMa Lokacija: Tiroler Wasserkraft Arena, Datum: 2025-01-10
+[Tue Jan 07 2025 20:23:09 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicMa uspesno zamenjal NikolicKr Lokacija: Tiroler Wasserkraft Arena, Datum: 2025-01-10
+[Tue Jan 07 2025 20:23:09 GMT+0100 (Srednjeevropski standardni čas)] Sodnik WeissAl uspesno zamenjal NotheggerDa Lokacija: Eisarena Salzburg, Datum: 2025-01-12
+[Tue Jan 07 2025 22:43:43 GMT+0100 (Srednjeevropski standardni čas)] Sodnik DivisDo uspesno zamenjal SeewaldJe Lokacija: KELIT Arena Zell am See, Datum: 2025-01-25
+[Tue Jan 07 2025 22:43:43 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SeewaldJe uspesno zamenjal DivisDo Lokacija: Eisarena Salzburg, Datum: 2025-01-30
+[Thu Jan 09 2025 06:36:15 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicKr uspesno zamenjal NikolicMa Lokacija: Eishalle Bruneck, Datum: 2025-01-19
+[Thu Jan 09 2025 06:36:15 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicMa uspesno zamenjal NikolicKr Lokacija: Eishalle Bruneck, Datum: 2025-01-19
+[Thu Jan 09 2025 12:46:46 GMT+0100 (Srednjeevropski standardni čas)] Sodnik Gatol-schafranekMa uspesno zamenjal DurmisOt Lokacija: Eishalle Wien-Kagran, Datum: 2025-01-17
+[Thu Jan 09 2025 12:46:46 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NotheggerDa uspesno zamenjal DurmisOt Lokacija: Linz AG Eisarena, Datum: 2025-01-19
+[Thu Jan 09 2025 12:46:46 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicMa uspesno zamenjal NikolicKr Lokacija: Eishalle Bruneck, Datum: 2025-01-19
+[Thu Jan 09 2025 12:46:46 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicKr uspesno zamenjal NikolicMa Lokacija: Eishalle Bruneck, Datum: 2025-01-19
+[Thu Jan 09 2025 12:46:46 GMT+0100 (Srednjeevropski standardni čas)] Sodnik RieckenSi uspesno zamenjal KoncDa Lokacija: Eisarena Salzburg, Datum: 2025-01-24
+[Thu Jan 09 2025 12:46:46 GMT+0100 (Srednjeevropski standardni čas)] Sodnik WimmlerAl uspesno zamenjal RieckenSi Lokacija: Eisarena Salzburg, Datum: 2025-01-24
+[Thu Jan 09 2025 12:46:46 GMT+0100 (Srednjeevropski standardni čas)] Sodnik JedlickaPe uspesno zamenjal DurmisOt Lokacija: Eishalle Feldkirch, Datum: 2025-01-24
+[Thu Jan 09 2025 12:46:46 GMT+0100 (Srednjeevropski standardni čas)] Sodnik KoncDa uspesno zamenjal JedlickaPe Lokacija: Eishalle Feldkirch, Datum: 2025-01-24
+[Thu Jan 09 2025 12:46:46 GMT+0100 (Srednjeevropski standardni čas)] Sodnik JedlickaPe uspesno zamenjal DurmisOt Lokacija: Eishalle Bruneck, Datum: 2025-01-25
+[Thu Jan 09 2025 12:46:46 GMT+0100 (Srednjeevropski standardni čas)] Sodnik KoncDa uspesno zamenjal JedlickaPe Lokacija: Eishalle Bruneck, Datum: 2025-01-25
+[Thu Jan 09 2025 20:56:03 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HolzerTo uspesno zamenjal MoidlDa Lokacija: Eishalle Dornbirn, Datum: 2025-01-18
+[Thu Jan 09 2025 20:56:03 GMT+0100 (Srednjeevropski standardni čas)] Sodnik Huber rRe uspesno zamenjal SpiegelSe Lokacija: Eishalle Dornbirn, Datum: 2025-01-18
+[Thu Jan 09 2025 20:56:03 GMT+0100 (Srednjeevropski standardni čas)] Sodnik JägerRi uspesno zamenjal MattheyPh Lokacija: Eishalle Dornbirn, Datum: 2025-01-18
+[Thu Jan 09 2025 20:56:03 GMT+0100 (Srednjeevropski standardni čas)] Sodnik StrimitzerDa uspesno zamenjal MoidlMa Lokacija: Eishalle Dornbirn, Datum: 2025-01-18
+[Fri Jan 10 2025 11:26:19 GMT+0100 (Srednjeevropski standardni čas)] Sodnik GiacomozziFe uspesno zamenjal PirasAn Lokacija: Würtharena Neumarkt, Datum: 2025-01-28
+[Fri Jan 10 2025 11:26:19 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PirasAn uspesno zamenjal GiacomozziFe Lokacija: Eishalle Meran, Datum: 2025-01-16
+[Fri Jan 10 2025 15:21:36 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicMa uspesno zamenjal NikolicKr Lokacija: Tiroler Wasserkraft Arena, Datum: 2025-01-10
+[Fri Jan 10 2025 15:21:36 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicKr uspesno zamenjal NikolicMa Lokacija: Tiroler Wasserkraft Arena, Datum: 2025-01-10
+[Fri Jan 10 2025 15:21:36 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicKr uspesno zamenjal NikolicMa Lokacija: Eishalle Bruneck, Datum: 2025-01-19
+[Fri Jan 10 2025 15:21:36 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicMa uspesno zamenjal NikolicKr Lokacija: Eishalle Bruneck, Datum: 2025-01-19
+[Fri Jan 10 2025 15:21:36 GMT+0100 (Srednjeevropski standardni čas)] Sodnik MantovaniDa uspesno zamenjal LinesmanEi Lokacija: Eishalle Bruneck, Datum: 2025-01-19
+[Fri Jan 10 2025 15:21:36 GMT+0100 (Srednjeevropski standardni čas)] Sodnik RigoniDa uspesno zamenjal MantovaniDa Lokacija: Eishalle Bruneck, Datum: 2025-01-19
+[Fri Jan 10 2025 21:26:31 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PaceJa uspesno zamenjal CristeliMa Lokacija: Eishalle Cortina, Datum: 2025-01-11
+[Fri Jan 10 2025 22:26:30 GMT+0100 (Srednjeevropski standardni čas)] Sodnik MeixnerSe uspesno zamenjal BajtMi Lokacija: Eishalle Ritten, Datum: 2025-01-12
+[Fri Jan 10 2025 22:26:30 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SnojTa uspesno zamenjal MeixnerSe Lokacija: Eishalle Ritten, Datum: 2025-01-12
+[Fri Jan 10 2025 22:26:30 GMT+0100 (Srednjeevropski standardni čas)] Sodnik EggerTh uspesno zamenjal BajtMi Lokacija: Würtharena Neumarkt, Datum: 2025-01-25
+[Fri Jan 10 2025 22:26:30 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SnojTa uspesno zamenjal EggerTh Lokacija: Würtharena Neumarkt, Datum: 2025-01-25
+[Sat Jan 11 2025 06:00:45 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicMa uspesno zamenjal NikolicKr Lokacija: Eishalle Bruneck, Datum: 2025-01-19
+[Sat Jan 11 2025 06:00:45 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicKr uspesno zamenjal NikolicMa Lokacija: Eishalle Bruneck, Datum: 2025-01-19
+[Sat Jan 11 2025 22:01:55 GMT+0100 (Srednjeevropski standardni čas)] Sodnik JeramFi uspesno zamenjal MarkizetiGr Lokacija: Eishalle Ritten, Datum: 2025-01-12
