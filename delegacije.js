@@ -26,9 +26,9 @@ async function delegacije(json_data, arrayForMail) {
     const workICEHL_DAT_STRING = await icehlWorkbook.getWorksheet('ICEHL_DAT_STRING');
     const noviDatumiAHL = [];
     const noviDatumiICEHL = [];
-    //const filterDates = ['2022-09-09','2022-09-11'];
+    const filterDates = ['2025-02-06', '2025-02-08'];
 
-    (json_data || []).filter(i => i.datum > '2024-09-19').forEach(elementDate => { // gre cez use datume
+    (json_data || []).filter(i => !filterDates.includes(i.datum)).forEach(elementDate => { // gre cez use datume
         let datum = elementDate.datum;
         let ahlDatum = false;
         let icehlDatum = false;
@@ -38,21 +38,21 @@ async function delegacije(json_data, arrayForMail) {
                 ahlDatum = true;
                 writeToExcel(workAHL_DAT_STRING, lokacije, liga, datum);
             }
-            else { 
+            else {
                 icehlDatum = true;
                 writeToExcel(workICEHL_DAT_STRING, lokacije, liga, datum);
             }
-            if(ahlDatum){
+            if (ahlDatum) {
                 let cell = vrniCellOdDatuma(workAHL_DAT_STRING, datum);
                 updateAhlSchema(datum, workAHL_DAT, workAHL_DAT_STRING, cell, true);
-                if(!noviDatumiAHL.includes(datum)){
+                if (!noviDatumiAHL.includes(datum)) {
                     noviDatumiAHL.push(datum);
                 }
             }
-            if(icehlDatum){
+            if (icehlDatum) {
                 let cell = vrniCellOdDatuma(workICEHL_DAT_STRING, datum);
                 updateAhlSchema(datum, workICEHL_DAT, workICEHL_DAT_STRING, cell, false);
-                if(!noviDatumiICEHL.includes(datum)){
+                if (!noviDatumiICEHL.includes(datum)) {
                     noviDatumiICEHL.push(datum);
                 }
             }
