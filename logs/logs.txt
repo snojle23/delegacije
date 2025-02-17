@@ -649,3 +649,14 @@
 [Tue Feb 04 2025 13:45:52 GMT+0100 (Srednjeevropski standardni čas)] Sodnik JägerRi uspesno zamenjal RinkerDa Lokacija: Eishalle Dornbirn, Datum: 2025-02-05
 [Mon Feb 10 2025 09:42:17 GMT+0100 (Srednjeevropski standardni čas)] Sodnik IlmerNo uspesno zamenjal CusinFe Lokacija: Eishalle Meran, Datum: 2025-02-18
 [Wed Feb 12 2025 10:36:38 GMT+0100 (Srednjeevropski standardni čas)] Sodnik WendnerMa uspesno zamenjal ZacherlPa Lokacija: Eisarena Salzburg, Datum: 2025-02-13
+[Wed Feb 12 2025 20:13:06 GMT+0100 (Srednjeevropski standardni čas)] Sodnik MoidlMa uspesno zamenjal EislCh Lokacija: Eishalle Sterzing, Datum: 2025-02-20
+[Wed Feb 12 2025 20:13:06 GMT+0100 (Srednjeevropski standardni čas)] Sodnik StrimitzerDa uspesno zamenjal MoidlMa Lokacija: Eishalle Sterzing, Datum: 2025-02-20
+[Thu Feb 13 2025 12:54:22 GMT+0100 (Srednjeevropski standardni čas)] Sodnik StrimitzerDa uspesno zamenjal SeewaldJe Lokacija: Sportpark Kitzbühel, Datum: 2025-02-13
+[Sat Feb 15 2025 09:10:38 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PinieOm uspesno zamenjal LehnerMo Lokacija: Eishalle Sterzing, Datum: 2025-02-20
+[Sat Feb 15 2025 09:10:38 GMT+0100 (Srednjeevropski standardni čas)] Sodnik CristeliMa uspesno zamenjal MoidlMa Lokacija: Eishalle Sterzing, Datum: 2025-02-20
+[Sat Feb 15 2025 19:12:40 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SchauerJa uspesno zamenjal SiegelSt Lokacija: Eisarena Salzburg, Datum: 2025-02-16
+[Sat Feb 15 2025 19:12:40 GMT+0100 (Srednjeevropski standardni čas)] Sodnik RezekGr uspesno zamenjal OfnerCh Lokacija: Hala Tivoli, Datum: 2025-02-16
+[Sat Feb 15 2025 19:12:40 GMT+0100 (Srednjeevropski standardni čas)] Sodnik ZrnicMi uspesno zamenjal RezekGr Lokacija: Hala Tivoli, Datum: 2025-02-16
+[Sat Feb 15 2025 19:12:40 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SiegelSt uspesno zamenjal SternatCh Lokacija: Merkur Eisstadion Graz, Datum: 2025-02-16
+[Sat Feb 15 2025 19:12:40 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SternatCh uspesno zamenjal ZrnicMi Lokacija: Merkur Eisstadion Graz, Datum: 2025-02-16
+[Sun Feb 16 2025 19:22:12 GMT+0100 (Srednjeevropski standardni čas)] Sodnik JeramFi uspesno zamenjal MarkizetiGr Lokacija: Eishalle Cortina, Datum: 2025-02-18

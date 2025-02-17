@@ -686,3 +686,15 @@ Sodniku CusinFe se je izbrisal datum iz AHL sheme. Datum:2025-02-18
 [Wed Feb 12 2025 07:36:39 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2025-02-13
 Sodniku LehnerMo se je izbrisal datum iz AHL sheme. Datum:2025-02-13
 Sodniku ZacherlPa se je izbrisal datum iz AHL sheme. Datum:2025-02-13
+[Wed Feb 12 2025 13:11:01 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2025-02-22
+[Wed Feb 12 2025 13:11:01 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2025-02-22
+[Wed Feb 12 2025 13:11:01 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2025-02-22
+[Wed Feb 12 2025 13:11:01 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2025-02-22
+[Wed Feb 12 2025 13:11:01 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2025-02-22
+[Wed Feb 12 2025 13:11:01 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2025-02-22
+[Wed Feb 12 2025 13:11:01 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2025-02-23
+Sodniku EislCh se je izbrisal datum iz AHL sheme. Datum:2025-02-20
+Sodniku SeewaldJe se je izbrisal datum iz AHL sheme. Datum:2025-02-13
+Sodniku MoidlMa se je izbrisal datum iz AHL sheme. Datum:2025-02-20
+Sodniku LehnerMo se je izbrisal datum iz AHL sheme. Datum:2025-02-20
+Sodniku MarkizetiGr se je izbrisal datum iz AHL sheme. Datum:2025-02-18
