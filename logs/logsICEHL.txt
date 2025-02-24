@@ -594,3 +594,20 @@ Sodniku SeewaldJe se je izbrisal datum iz ICEHL sheme. Datum:2025-02-01
 [Wed Feb 12 2025 20:13:06 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2025-02-19
 [Wed Feb 12 2025 20:13:06 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2025-02-19
 Sodniku OfnerCh se je izbrisal datum iz ICEHL sheme. Datum:2025-02-16
+Sodniku OfnerCh se je izbrisal datum iz ICEHL sheme. Datum:2025-02-19
+[Mon Feb 17 2025 17:11:39 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2025-02-21
+[Mon Feb 17 2025 17:11:39 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2025-02-21
+[Mon Feb 17 2025 17:11:39 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2025-02-21
+[Mon Feb 17 2025 17:11:39 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2025-02-21
+[Mon Feb 17 2025 17:11:39 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2025-02-21
+[Mon Feb 17 2025 17:11:39 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2025-02-21
+[Mon Feb 17 2025 17:11:39 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2025-02-21
+Sodniku KoncDa se je izbrisal datum iz ICEHL sheme. Datum:2025-02-19
+Sodniku KoncDa se je izbrisal datum iz ICEHL sheme. Datum:2025-02-21
+Sodniku MantovaniDa se je izbrisal datum iz ICEHL sheme. Datum:2025-02-21
+[Sat Feb 22 2025 00:29:00 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2025-02-23
+[Sat Feb 22 2025 00:29:00 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2025-02-23
+[Sat Feb 22 2025 00:29:00 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2025-02-23
+[Sat Feb 22 2025 00:29:00 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2025-02-25
+[Sat Feb 22 2025 00:29:00 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2025-02-25
+[Sat Feb 22 2025 00:29:00 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2025-02-25
