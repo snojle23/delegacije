@@ -11,7 +11,7 @@ const transporter = nodemailer.createTransport({ // 'ICEObvescanje1'
 });
 let counter = 1;
 let countHour = 0;
-const min = 60 ;
+const min = 15;
 const sestUr = 360 / min;
 
 scheduledFunction();

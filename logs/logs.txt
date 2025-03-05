@@ -675,3 +675,19 @@
 [Fri Feb 21 2025 09:06:46 GMT+0100 (Srednjeevropski standardni čas)] Sodnik FleischmannLu uspesno zamenjal MantovaniDa Lokacija: Sparkasse Arena Bozen, Datum: 2025-02-21
 [Sat Feb 22 2025 11:36:05 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BulovecMi uspesno zamenjal KainbergerJu Lokacija: Sportpark Kitzbühel, Datum: 2025-02-22
 [Sat Feb 22 2025 11:36:05 GMT+0100 (Srednjeevropski standardni čas)] Sodnik KainbergerJu uspesno zamenjal SnojTa Lokacija: Sportpark Kitzbühel, Datum: 2025-02-22
+[Tue Feb 25 2025 10:41:46 GMT+0100 (Srednjeevropski standardni čas)] Sodnik FecchioFe uspesno zamenjal JägerRi Lokacija: Sportpark Kitzbühel, Datum: 2025-02-27
+[Tue Feb 25 2025 14:32:52 GMT+0100 (Srednjeevropski standardni čas)] Sodnik KainbergerJu uspesno zamenjal VirtaTu Lokacija: Eishalle Sissek Zibel, Datum: 2025-03-01
+[Tue Feb 25 2025 14:32:52 GMT+0100 (Srednjeevropski standardni čas)] Sodnik MoidlMa uspesno zamenjal FleischmannLu Lokacija: Eishalle Sissek Zibel, Datum: 2025-03-01
+[Tue Feb 25 2025 14:32:52 GMT+0100 (Srednjeevropski standardni čas)] Sodnik VirtaTu uspesno zamenjal LehnerMo Lokacija: Eishalle Gröden, Datum: 2025-03-01
+[Tue Feb 25 2025 14:32:52 GMT+0100 (Srednjeevropski standardni čas)] Sodnik FleischmannLu uspesno zamenjal MoidlMa Lokacija: Eishalle Gröden, Datum: 2025-03-01
+[Wed Feb 26 2025 08:02:02 GMT+0100 (Srednjeevropski standardni čas)] Sodnik JeramFi uspesno zamenjal CristeliMa Lokacija: Eishalle Celje, Datum: 2025-03-01
+[Wed Feb 26 2025 08:02:02 GMT+0100 (Srednjeevropski standardni čas)] Sodnik MarkizetiGr uspesno zamenjal JeramFi Lokacija: Eishalle Celje, Datum: 2025-03-01
+[Thu Feb 27 2025 14:18:44 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SeewaldJe uspesno zamenjal DivisDo Lokacija: KELIT Arena Zell am See, Datum: 2025-03-01
+[Thu Feb 27 2025 14:18:44 GMT+0100 (Srednjeevropski standardni čas)] Sodnik DivisDo uspesno zamenjal FleischmannLu Lokacija: Eishalle Gröden, Datum: 2025-03-01
+[Thu Feb 27 2025 14:18:44 GMT+0100 (Srednjeevropski standardni čas)] Sodnik FleischmannLu uspesno zamenjal SeewaldJe Lokacija: Eishalle Gröden, Datum: 2025-03-01
+[Sun Mar 02 2025 13:19:19 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicMa uspesno zamenjal NikolicKr Lokacija: Eisarena Salzburg, Datum: 2025-03-11
+[Sun Mar 02 2025 13:19:19 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicKr uspesno zamenjal NikolicMa Lokacija: Eisarena Salzburg, Datum: 2025-03-11
+[Mon Mar 03 2025 06:19:20 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicKr uspesno zamenjal NikolicMa Lokacija: Eisarena Salzburg, Datum: 2025-03-11
+[Mon Mar 03 2025 06:19:20 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicMa uspesno zamenjal NikolicKr Lokacija: Eisarena Salzburg, Datum: 2025-03-11
+[Mon Mar 03 2025 12:19:21 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicMa uspesno zamenjal NikolicKr Lokacija: Eisarena Salzburg, Datum: 2025-03-11
+[Mon Mar 03 2025 12:19:21 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicKr uspesno zamenjal NikolicMa Lokacija: Eisarena Salzburg, Datum: 2025-03-11
