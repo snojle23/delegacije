@@ -691,3 +691,13 @@
 [Mon Mar 03 2025 06:19:20 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicMa uspesno zamenjal NikolicKr Lokacija: Eisarena Salzburg, Datum: 2025-03-11
 [Mon Mar 03 2025 12:19:21 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicMa uspesno zamenjal NikolicKr Lokacija: Eisarena Salzburg, Datum: 2025-03-11
 [Mon Mar 03 2025 12:19:21 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicKr uspesno zamenjal NikolicMa Lokacija: Eisarena Salzburg, Datum: 2025-03-11
+[Thu Mar 06 2025 21:19:25 GMT+0100 (Srednjeevropski standardni čas)] Sodnik FichtnerPa uspesno zamenjal SmetanaLa Lokacija: Gabor Ocskay Eisarena, Datum: 2025-03-09
+[Thu Mar 06 2025 21:19:25 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SmetanaLa uspesno zamenjal SternatCh Lokacija: Gabor Ocskay Eisarena, Datum: 2025-03-09
+[Thu Mar 06 2025 21:19:25 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SeewaldEl uspesno zamenjal FichtnerPa Lokacija: Stadthalle Villach, Datum: 2025-03-09
+[Thu Mar 06 2025 21:19:25 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicKr uspesno zamenjal NikolicMa Lokacija: Eisarena Salzburg, Datum: 2025-03-11
+[Thu Mar 06 2025 21:19:25 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicMa uspesno zamenjal NikolicKr Lokacija: Eisarena Salzburg, Datum: 2025-03-11
+[Fri Mar 07 2025 09:51:35 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicMa uspesno zamenjal NikolicKr Lokacija: Eisarena Salzburg, Datum: 2025-03-11
+[Fri Mar 07 2025 09:51:35 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicKr uspesno zamenjal NikolicMa Lokacija: Eisarena Salzburg, Datum: 2025-03-11
+[Fri Mar 07 2025 21:53:52 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicKr uspesno zamenjal NikolicMa Lokacija: Eisarena Salzburg, Datum: 2025-03-11
+[Fri Mar 07 2025 21:53:52 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicMa uspesno zamenjal NikolicKr Lokacija: Eisarena Salzburg, Datum: 2025-03-11
+[Sat Mar 08 2025 07:26:20 GMT+0100 (Srednjeevropski standardni čas)] Sodnik VirtaTu uspesno zamenjal HolzerTo Lokacija: Eishalle Ritten, Datum: 2025-03-08

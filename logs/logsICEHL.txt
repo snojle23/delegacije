@@ -640,3 +640,8 @@ Sodniku MantovaniDa se je izbrisal datum iz ICEHL sheme. Datum:2025-02-21
 [Sun Mar 02 2025 12:19:18 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2025-03-11
 [Sun Mar 02 2025 12:19:18 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2025-03-11
 [Sun Mar 02 2025 12:19:18 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2025-03-11
+Sodniku SternatCh se je izbrisal datum iz ICEHL sheme. Datum:2025-03-09
+Sodniku NikolicMa se je izbrisal datum iz ICEHL sheme. Datum:2025-03-11
+Sodniku BedynekSe se je izbrisal datum iz ICEHL sheme. Datum:2025-03-11
+Sodniku NotheggerDa se je izbrisal datum iz ICEHL sheme. Datum:2025-03-11
+Sodniku NikolicKr se je izbrisal datum iz ICEHL sheme. Datum:2025-03-11

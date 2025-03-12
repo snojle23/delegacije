@@ -746,3 +746,4 @@ Sodniku HolzerTo se je izbrisal datum iz AHL sheme. Datum:2025-03-04
 [Wed Mar 05 2025 19:47:17 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2025-03-15
 [Wed Mar 05 2025 19:47:17 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2025-03-15
 [Wed Mar 05 2025 19:47:17 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2025-03-16
+Sodniku HolzerTo se je izbrisal datum iz AHL sheme. Datum:2025-03-08
