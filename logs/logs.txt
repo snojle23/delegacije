@@ -701,3 +701,9 @@
 [Fri Mar 07 2025 21:53:52 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicKr uspesno zamenjal NikolicMa Lokacija: Eisarena Salzburg, Datum: 2025-03-11
 [Fri Mar 07 2025 21:53:52 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicMa uspesno zamenjal NikolicKr Lokacija: Eisarena Salzburg, Datum: 2025-03-11
 [Sat Mar 08 2025 07:26:20 GMT+0100 (Srednjeevropski standardni čas)] Sodnik VirtaTu uspesno zamenjal HolzerTo Lokacija: Eishalle Ritten, Datum: 2025-03-08
+[Thu Mar 13 2025 13:02:28 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicKr uspesno zamenjal NikolicMa Lokacija: Merkur Eisstadion Graz, Datum: 2025-03-14
+[Thu Mar 13 2025 13:02:28 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicMa uspesno zamenjal NikolicKr Lokacija: Merkur Eisstadion Graz, Datum: 2025-03-14
+[Fri Mar 14 2025 11:49:51 GMT+0100 (Srednjeevropski standardni čas)] Sodnik MoidlMa uspesno zamenjal RinkerDa Lokacija: Eishalle Cortina, Datum: 2025-03-15
+[Fri Mar 14 2025 11:49:51 GMT+0100 (Srednjeevropski standardni čas)] Sodnik RinkerDa uspesno zamenjal StrimitzerDa Lokacija: Eishalle Cortina, Datum: 2025-03-15
+[Sat Mar 15 2025 01:45:44 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicMa uspesno zamenjal NikolicKr Lokacija: Merkur Eisstadion Graz, Datum: 2025-03-14
+[Sat Mar 15 2025 01:45:44 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicKr uspesno zamenjal NikolicMa Lokacija: Merkur Eisstadion Graz, Datum: 2025-03-14
