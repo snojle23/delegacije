@@ -765,3 +765,9 @@ Sodniku ZacherlPa se je izbrisal datum iz AHL sheme. Datum:2025-03-18
 [Sun Mar 23 2025 13:56:29 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2025-03-29
 [Sun Mar 23 2025 14:01:29 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2025-04-01
 [Sun Mar 23 2025 14:01:29 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2025-04-01
+[Thu Apr 03 2025 08:27:20 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-04-08
+[Thu Apr 03 2025 08:27:20 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-04-13
+[Thu Apr 03 2025 08:27:20 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-04-05
+[Thu Apr 03 2025 08:27:20 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-04-10
+[Thu Apr 03 2025 08:27:20 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-04-15
+[Mon Apr 14 2025 09:15:04 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-04-17

@@ -668,3 +668,19 @@ Sodniku NikolicKr se je izbrisal datum iz ICEHL sheme. Datum:2025-03-11
 [Wed Mar 26 2025 18:07:38 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2025-03-28
 [Sat Mar 29 2025 05:45:48 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2025-03-30
 [Sat Mar 29 2025 05:45:48 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2025-03-30
+[Mon Mar 31 2025 03:52:13 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-04-01
+[Mon Mar 31 2025 03:52:13 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2025-04-01
+[Wed Apr 02 2025 17:02:21 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-04-04
+[Wed Apr 02 2025 17:02:21 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2025-04-04
+[Wed Apr 02 2025 17:02:21 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-04-06
+[Wed Apr 02 2025 17:02:21 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2025-04-06
+[Wed Apr 02 2025 17:02:21 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-04-08
+[Wed Apr 02 2025 17:02:21 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2025-04-08
+[Wed Apr 02 2025 17:02:21 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-04-11
+[Wed Apr 02 2025 17:02:21 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2025-04-11
+[Wed Apr 02 2025 17:02:21 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-04-13
+[Wed Apr 02 2025 17:02:21 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2025-04-13
+Sodniku OfnerCh se je izbrisal datum iz ICEHL sheme. Datum:2025-04-06
+Sodniku SternatCh se je izbrisal datum iz ICEHL sheme. Datum:2025-04-08
+Sodniku OfnerCh se je izbrisal datum iz ICEHL sheme. Datum:2025-04-11
+Sodniku SternatCh se je izbrisal datum iz ICEHL sheme. Datum:2025-04-13
