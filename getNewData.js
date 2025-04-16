@@ -113,6 +113,7 @@ async function getData2() {
         const icehlTekme = transform(icehlData);
         vsetekme = transform(ahlData, icehlTekme);
     } catch (err) {
+        console.log('Prislo je do napake pri pridobivanju podatkov iz strani. Najbrž ni doseglijva');
        // do nothing
     }
     // console.log(JSON.stringify(vsetekme));
