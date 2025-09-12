@@ -1,0 +1,20 @@
+[Tue Sep 02 2025 09:48:11 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SeewaldEl uspesno zamenjal SeewaldJe Lokacija: Eisarena Salzburg, Datum: 2025-09-19
+[Tue Sep 02 2025 09:48:11 GMT+0200 (Srednjeevropski poletni čas)] Sodnik RieckenSi uspesno zamenjal RezekGr Lokacija: Eishalle Feldkirch, Datum: 2025-09-19
+[Tue Sep 02 2025 10:13:11 GMT+0200 (Srednjeevropski poletni čas)] Sodnik MartinFl uspesno zamenjal RieckenSi Lokacija: Eishalle Feldkirch, Datum: 2025-09-19
+[Tue Sep 02 2025 10:13:11 GMT+0200 (Srednjeevropski poletni čas)] Sodnik RieckenSi uspesno zamenjal ZacherlPa Lokacija: Eishalle Feldkirch, Datum: 2025-09-19
+[Wed Sep 03 2025 10:54:14 GMT+0200 (Srednjeevropski poletni čas)] Sodnik BedynekSe uspesno zamenjal SeewaldJe Lokacija: Linz AG Eisarena, Datum: 2025-09-26
+[Wed Sep 03 2025 10:54:14 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SeewaldJe uspesno zamenjal WimmlerAl Lokacija: Linz AG Eisarena, Datum: 2025-09-26
+[Wed Sep 03 2025 10:54:14 GMT+0200 (Srednjeevropski poletni čas)] Sodnik HribarMa uspesno zamenjal PuffWo Lokacija: Heidi Horten Arena Klagenfurt, Datum: 2025-09-26
+[Wed Sep 03 2025 10:54:14 GMT+0200 (Srednjeevropski poletni čas)] Sodnik PuffWo uspesno zamenjal RieckenSi Lokacija: Heidi Horten Arena Klagenfurt, Datum: 2025-09-26
+[Wed Sep 03 2025 10:54:14 GMT+0200 (Srednjeevropski poletni čas)] Sodnik MantovaniDa uspesno zamenjal MartinFl Lokacija: Tiroler Wasserkraft Arena, Datum: 2025-09-26
+[Wed Sep 03 2025 10:54:14 GMT+0200 (Srednjeevropski poletni čas)] Sodnik MartinFl uspesno zamenjal ZacherlPa Lokacija: Tiroler Wasserkraft Arena, Datum: 2025-09-26
+[Wed Sep 03 2025 10:54:14 GMT+0200 (Srednjeevropski poletni čas)] Sodnik WimmlerAl uspesno zamenjal LinesmanZw Lokacija: Eishalle Feldkirch, Datum: 2025-09-26
+[Fri Sep 05 2025 13:10:44 GMT+0200 (Srednjeevropski poletni čas)] Sodnik NikolicMa uspesno zamenjal NikolicKr Lokacija: Tiroler Wasserkraft Arena, Datum: 2025-09-12
+[Fri Sep 05 2025 13:10:44 GMT+0200 (Srednjeevropski poletni čas)] Sodnik NikolicKr uspesno zamenjal SeewaldEl Lokacija: Tiroler Wasserkraft Arena, Datum: 2025-09-12
+[Mon Sep 08 2025 09:58:21 GMT+0200 (Srednjeevropski poletni čas)] Sodnik NikolicKr uspesno zamenjal NikolicMa Lokacija: Tiroler Wasserkraft Arena, Datum: 2025-09-12
+[Mon Sep 08 2025 09:58:21 GMT+0200 (Srednjeevropski poletni čas)] Sodnik NikolicMa uspesno zamenjal NikolicKr Lokacija: Tiroler Wasserkraft Arena, Datum: 2025-09-12
+[Tue Sep 09 2025 08:54:38 GMT+0200 (Srednjeevropski poletni čas)] Sodnik NikolicMa uspesno zamenjal NikolicKr Lokacija: Tiroler Wasserkraft Arena, Datum: 2025-09-12
+[Tue Sep 09 2025 08:54:38 GMT+0200 (Srednjeevropski poletni čas)] Sodnik NikolicKr uspesno zamenjal NikolicMa Lokacija: Tiroler Wasserkraft Arena, Datum: 2025-09-12
+[Thu Sep 11 2025 16:32:03 GMT+0200 (Srednjeevropski poletni čas)] Sodnik Gatol-schafranekMa uspesno zamenjal MoidlMa Lokacija: Linz AG Eisarena, Datum: 2025-09-12
+[Thu Sep 11 2025 16:32:03 GMT+0200 (Srednjeevropski poletni čas)] Sodnik NikolicKr uspesno zamenjal NikolicMa Lokacija: Tiroler Wasserkraft Arena, Datum: 2025-09-12
+[Thu Sep 11 2025 16:32:03 GMT+0200 (Srednjeevropski poletni čas)] Sodnik NikolicMa uspesno zamenjal NikolicKr Lokacija: Tiroler Wasserkraft Arena, Datum: 2025-09-12
