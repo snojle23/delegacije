@@ -102,3 +102,33 @@ Sodniku Gatol-schafranekMa se je izbrisal datum iz ICEHL sheme. Datum:2025-09-21
 Sodniku VoicanCh se je izbrisal datum iz ICEHL sheme. Datum:2025-09-21
 Sodniku SeewaldEl se je izbrisal datum iz ICEHL sheme. Datum:2025-09-12
 Sodniku MoidlMa se je izbrisal datum iz ICEHL sheme. Datum:2025-09-12
+[Mon Sep 15 2025 20:50:56 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-10-03
+[Mon Sep 15 2025 20:50:56 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2025-10-03
+[Mon Sep 15 2025 20:50:56 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-10-03
+[Mon Sep 15 2025 20:50:56 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-10-03
+[Mon Sep 15 2025 20:50:56 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-10-03
+[Mon Sep 15 2025 20:50:56 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-10-03
+[Mon Sep 15 2025 20:50:56 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-10-04
+[Mon Sep 15 2025 20:50:56 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2025-10-04
+[Mon Sep 15 2025 20:50:56 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-10-04
+[Mon Sep 15 2025 20:50:56 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-10-05
+[Mon Sep 15 2025 20:50:56 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2025-10-05
+[Mon Sep 15 2025 20:50:56 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-10-05
+[Mon Sep 15 2025 20:50:56 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-10-05
+[Mon Sep 15 2025 20:50:56 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-10-05
+[Mon Sep 15 2025 20:50:57 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-10-05
+[Mon Sep 15 2025 20:50:57 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-10-10
+[Mon Sep 15 2025 20:50:57 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2025-10-10
+[Mon Sep 15 2025 20:50:57 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-10-10
+[Mon Sep 15 2025 20:50:57 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-10-10
+[Mon Sep 15 2025 20:50:57 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-10-10
+[Mon Sep 15 2025 20:50:57 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-10-11
+[Mon Sep 15 2025 20:50:57 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2025-10-11
+[Mon Sep 15 2025 20:50:57 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-10-11
+[Mon Sep 15 2025 20:50:57 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-10-12
+[Mon Sep 15 2025 20:50:57 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v ICEHL_DAT. Datum:2025-10-12
+[Mon Sep 15 2025 20:50:57 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-10-12
+[Mon Sep 15 2025 20:50:57 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-10-12
+[Mon Sep 15 2025 20:50:57 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-10-12
+[Mon Sep 15 2025 20:50:57 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-10-12
+[Mon Sep 15 2025 20:50:57 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-10-12
