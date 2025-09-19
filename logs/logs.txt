@@ -25,3 +25,5 @@
 [Mon Sep 15 2025 09:50:57 GMT+0200 (Srednjeevropski poletni čas)] Sodnik BrondiMa uspesno zamenjal BrondiPa Lokacija: Würtharena Neumarkt, Datum: 2025-10-02
 [Tue Sep 16 2025 10:22:36 GMT+0200 (Srednjeevropski poletni čas)] Sodnik BrondiMa uspesno zamenjal BrondiPa Lokacija: Würtharena Neumarkt, Datum: 2025-10-02
 [Tue Sep 16 2025 10:22:36 GMT+0200 (Srednjeevropski poletni čas)] Sodnik BrondiPa uspesno zamenjal BrondiMa Lokacija: Würtharena Neumarkt, Datum: 2025-10-02
+[Wed Sep 17 2025 11:33:10 GMT+0200 (Srednjeevropski poletni čas)] Sodnik GroznikBo uspesno zamenjal SchauerJa Lokacija: Stadthalle Villach, Datum: 2025-09-21
+[Wed Sep 17 2025 11:33:10 GMT+0200 (Srednjeevropski poletni čas)] Sodnik FichtnerPa uspesno zamenjal NagyAt Lokacija: Gabor Ocskay Eisarena, Datum: 2025-10-03
