@@ -188,3 +188,7 @@ Sodniku NagyAt se je izbrisal datum iz ICEHL sheme. Datum:2025-10-03
 [Tue Sep 23 2025 15:38:41 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-11-02
 [Tue Sep 23 2025 15:38:41 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikSiegelSt uspesno dodan 
 [Tue Sep 23 2025 15:38:41 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikLinesmanZw uspesno dodan 
+Sodniku LinesmanZw se je izbrisal datum iz ICEHL sheme. Datum:2025-10-29
+Sodniku LinesmanZw se je izbrisal datum iz ICEHL sheme. Datum:2025-10-29
+Sodniku JeramFi se je izbrisal datum iz ICEHL sheme. Datum:2025-11-01
+Sodniku WimmlerAl se je izbrisal datum iz ICEHL sheme. Datum:2025-09-26

@@ -11,7 +11,7 @@ const transporter = nodemailer.createTransport({ // 'ICEObvescanje1'
 });
 let counter = 1;
 let countHour = 0;
-const min = 60;
+const min = 30;
 const sestUr = 360 / min;
 
 scheduledFunction();
@@ -44,8 +44,8 @@ function scheduledFunction() {
                 "piragictr": "trpimir.piragic@gmail.com", // 2023-24 plačana z rakijo
                 "seewaldel": "seewald30@gmail.com",
                 "murnikpe": "petja.murnik@gmail.com", // ni plaču za 23-24
-                //"markizetigr": "grega.markizeti@gmail.com" // ni plaču za 23-24 - izklopljeno 18.10. (delegacije do 3.11.)
-                "hribarma": "matjazhribar@hotmail.com", // plaču za 23-24 in 24-25 (4.1.2025 z dvema sixpackoma)
+                //"markizetigr": "grega.markizeti@gmail.com" // ni plaču za 23-24 - izklopljeno 18.10.2024 (delegacije do 3.11.)
+                "hribarma": "matjazhribar@hotmail.com", // plaču za 23-24 in 24-25 (4.1.2025 z dvema sixpackoma), 28.9.2025 v zalogu plačal sezono 25-26
             }
 
 

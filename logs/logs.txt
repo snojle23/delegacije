@@ -27,3 +27,25 @@
 [Tue Sep 16 2025 10:22:36 GMT+0200 (Srednjeevropski poletni čas)] Sodnik BrondiPa uspesno zamenjal BrondiMa Lokacija: Würtharena Neumarkt, Datum: 2025-10-02
 [Wed Sep 17 2025 11:33:10 GMT+0200 (Srednjeevropski poletni čas)] Sodnik GroznikBo uspesno zamenjal SchauerJa Lokacija: Stadthalle Villach, Datum: 2025-09-21
 [Wed Sep 17 2025 11:33:10 GMT+0200 (Srednjeevropski poletni čas)] Sodnik FichtnerPa uspesno zamenjal NagyAt Lokacija: Gabor Ocskay Eisarena, Datum: 2025-10-03
+[Wed Sep 24 2025 22:08:34 GMT+0200 (Srednjeevropski poletni čas)] Sodnik HribarMa uspesno zamenjal JeramFi Lokacija: Merkur Eisstadion Graz, Datum: 2025-10-29
+[Wed Sep 24 2025 22:08:34 GMT+0200 (Srednjeevropski poletni čas)] Sodnik JeramFi uspesno zamenjal LinesmanZw Lokacija: Merkur Eisstadion Graz, Datum: 2025-10-29
+[Wed Sep 24 2025 22:08:34 GMT+0200 (Srednjeevropski poletni čas)] Sodnik ZgoncGa uspesno zamenjal LinesmanZw Lokacija: Sparkasse Arena Bozen, Datum: 2025-10-29
+[Wed Sep 24 2025 22:08:34 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SeewaldJe uspesno zamenjal JeramFi Lokacija: Hala Tivoli, Datum: 2025-11-01
+[Fri Sep 26 2025 08:50:04 GMT+0200 (Srednjeevropski poletni čas)] Sodnik BrondiPa uspesno zamenjal BrondiMa Lokacija: Würtharena Neumarkt, Datum: 2025-10-02
+[Fri Sep 26 2025 08:50:04 GMT+0200 (Srednjeevropski poletni čas)] Sodnik BrondiMa uspesno zamenjal BrondiPa Lokacija: Würtharena Neumarkt, Datum: 2025-10-02
+[Fri Sep 26 2025 11:20:29 GMT+0200 (Srednjeevropski poletni čas)] Sodnik BrondiMa uspesno zamenjal BrondiPa Lokacija: Würtharena Neumarkt, Datum: 2025-10-02
+[Fri Sep 26 2025 11:20:29 GMT+0200 (Srednjeevropski poletni čas)] Sodnik BrondiPa uspesno zamenjal BrondiMa Lokacija: Würtharena Neumarkt, Datum: 2025-10-02
+[Fri Sep 26 2025 12:49:21 GMT+0200 (Srednjeevropski poletni čas)] Sodnik SparerDa uspesno zamenjal WimmlerAl Lokacija: Eishalle Feldkirch, Datum: 2025-09-26
+[Fri Sep 26 2025 12:49:21 GMT+0200 (Srednjeevropski poletni čas)] Sodnik CusinFe uspesno zamenjal RivisAn Lokacija: Eishalle Ritten, Datum: 2025-10-18
+[Fri Sep 26 2025 12:49:21 GMT+0200 (Srednjeevropski poletni čas)] Sodnik RivisAn uspesno zamenjal CusinFe Lokacija: Würtharena Neumarkt, Datum: 2025-10-16
+[Fri Sep 26 2025 13:58:46 GMT+0200 (Srednjeevropski poletni čas)] Sodnik BrondiPa uspesno zamenjal BrondiMa Lokacija: Würtharena Neumarkt, Datum: 2025-10-02
+[Fri Sep 26 2025 13:58:46 GMT+0200 (Srednjeevropski poletni čas)] Sodnik BrondiMa uspesno zamenjal BrondiPa Lokacija: Würtharena Neumarkt, Datum: 2025-10-02
+[Fri Sep 26 2025 14:28:46 GMT+0200 (Srednjeevropski poletni čas)] Sodnik BrondiMa uspesno zamenjal BrondiPa Lokacija: Würtharena Neumarkt, Datum: 2025-10-02
+[Fri Sep 26 2025 14:28:46 GMT+0200 (Srednjeevropski poletni čas)] Sodnik BrondiPa uspesno zamenjal BrondiMa Lokacija: Würtharena Neumarkt, Datum: 2025-10-02
+[Fri Sep 26 2025 14:58:46 GMT+0200 (Srednjeevropski poletni čas)] Sodnik CristeliMa uspesno zamenjal BrondiPa Lokacija: Eishalle Asiago, Datum: 2025-11-01
+[Fri Sep 26 2025 14:58:46 GMT+0200 (Srednjeevropski poletni čas)] Sodnik CusinFe uspesno zamenjal CristeliMa Lokacija: Eishalle Asiago, Datum: 2025-11-01
+[Fri Sep 26 2025 14:58:46 GMT+0200 (Srednjeevropski poletni čas)] Sodnik BrondiPa uspesno zamenjal BrondiMa Lokacija: Würtharena Neumarkt, Datum: 2025-10-02
+[Fri Sep 26 2025 14:58:46 GMT+0200 (Srednjeevropski poletni čas)] Sodnik BrondiMa uspesno zamenjal BrondiPa Lokacija: Würtharena Neumarkt, Datum: 2025-10-02
+[Fri Sep 26 2025 14:58:46 GMT+0200 (Srednjeevropski poletni čas)] Sodnik BrondiPa uspesno zamenjal CusinFe Lokacija: Würtharena Neumarkt, Datum: 2025-10-30
+[Sat Sep 27 2025 04:57:07 GMT+0200 (Srednjeevropski poletni čas)] Sodnik BrondiMa uspesno zamenjal BrondiPa Lokacija: Würtharena Neumarkt, Datum: 2025-10-02
+[Sat Sep 27 2025 04:57:07 GMT+0200 (Srednjeevropski poletni čas)] Sodnik BrondiPa uspesno zamenjal BrondiMa Lokacija: Würtharena Neumarkt, Datum: 2025-10-02
