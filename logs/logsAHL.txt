@@ -152,3 +152,130 @@ Sodniku PreiserJu se je izbrisal datum iz AHL sheme. Datum:2025-10-09
 Sodniku ZacherlPa se je izbrisal datum iz AHL sheme. Datum:2025-10-11
 [Tue Sep 30 2025 10:43:38 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-10-23
 Sodniku DivisDo se je izbrisal datum iz AHL sheme. Datum:2025-10-23
+Sodniku SeewaldJe se je izbrisal datum iz AHL sheme. Datum:2025-10-09
+[Wed Oct 01 2025 15:18:13 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikLinesmanEi uspesno dodan 
+Sodniku GiacomozziFe se je izbrisal datum iz AHL sheme. Datum:2025-10-07
+Sodniku LinesmanEi se je izbrisal datum iz AHL sheme. Datum:2025-10-09
+Sodniku ArlicMa se je izbrisal datum iz AHL sheme. Datum:2025-10-10
+Sodniku JeramFi se je izbrisal datum iz AHL sheme. Datum:2025-10-11
+Sodniku GrisentiLu se je izbrisal datum iz AHL sheme. Datum:2025-10-11
+Sodniku CristeliMa se je izbrisal datum iz AHL sheme. Datum:2025-10-14
+Sodniku BrondiPa se je izbrisal datum iz AHL sheme. Datum:2025-10-10
+Sodniku CristeliMa se je izbrisal datum iz AHL sheme. Datum:2025-10-07
+[Tue Oct 07 2025 16:55:37 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-11-01
+[Tue Oct 07 2025 17:25:37 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-10-16
+Sodniku SnojTa se je izbrisal datum iz AHL sheme. Datum:2025-10-16
+Sodniku MurnikPe se je izbrisal datum iz AHL sheme. Datum:2025-10-16
+Sodniku VirtaTu se je izbrisal datum iz AHL sheme. Datum:2025-10-16
+Sodniku BrondiMa se je izbrisal datum iz AHL sheme. Datum:2025-10-16
+[Tue Oct 07 2025 17:55:37 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-10-29
+Sodniku BergantAn se je izbrisal datum iz AHL sheme. Datum:2025-11-01
+Sodniku WendnerMa se je izbrisal datum iz AHL sheme. Datum:2025-11-01
+Sodniku HlavatyAl se je izbrisal datum iz AHL sheme. Datum:2025-11-01
+Sodniku LegatKo se je izbrisal datum iz AHL sheme. Datum:2025-11-01
+Sodniku HlavatyAl se je izbrisal datum iz AHL sheme. Datum:2025-10-16
+Sodniku VirtaTu se je izbrisal datum iz AHL sheme. Datum:2025-11-01
+Sodniku VirtaTu se je izbrisal datum iz AHL sheme. Datum:2025-11-01
+[Tue Oct 07 2025 18:25:37 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikHeadEi uspesno dodan 
+Sodniku MoschenAn se je izbrisal datum iz AHL sheme. Datum:2025-10-30
+Sodniku BrondiPa se je izbrisal datum iz AHL sheme. Datum:2025-10-30
+Sodniku WuchererGe se je izbrisal datum iz AHL sheme. Datum:2025-10-30
+Sodniku OrelSt se je izbrisal datum iz AHL sheme. Datum:2025-10-30
+[Tue Oct 07 2025 19:25:36 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-10-16
+Sodniku StefenelliFe se je izbrisal datum iz AHL sheme. Datum:2025-11-01
+Sodniku WendnerMa se je izbrisal datum iz AHL sheme. Datum:2025-10-16
+Sodniku WendnerMa se je izbrisal datum iz AHL sheme. Datum:2025-10-16
+Sodniku LegatKo se je izbrisal datum iz AHL sheme. Datum:2025-10-16
+Sodniku LegatKo se je izbrisal datum iz AHL sheme. Datum:2025-10-16
+Sodniku HeadEi se je izbrisal datum iz AHL sheme. Datum:2025-11-01
+Sodniku SnojTa se je izbrisal datum iz AHL sheme. Datum:2025-11-01
+Sodniku MetzingerFi se je izbrisal datum iz AHL sheme. Datum:2025-10-16
+Sodniku OrelSt se je izbrisal datum iz AHL sheme. Datum:2025-10-25
+Sodniku WidmannFl se je izbrisal datum iz AHL sheme. Datum:2025-10-14
+Sodniku HolzerTo se je izbrisal datum iz AHL sheme. Datum:2025-10-23
+Sodniku HolzerTo se je izbrisal datum iz AHL sheme. Datum:2025-10-14
+Sodniku MoidlMa se je izbrisal datum iz AHL sheme. Datum:2025-10-16
+Sodniku ZacherlPa se je izbrisal datum iz AHL sheme. Datum:2025-10-23
+Sodniku CristeliMa se je izbrisal datum iz AHL sheme. Datum:2025-10-23
+Sodniku LegatKo se je izbrisal datum iz AHL sheme. Datum:2025-10-25
+[Sat Oct 25 2025 11:58:28 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-11-05
+[Sat Oct 25 2025 11:58:28 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-11-07
+[Sat Oct 25 2025 11:58:28 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-11-08
+[Sat Oct 25 2025 11:58:28 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-11-08
+[Sat Oct 25 2025 11:58:28 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-11-08
+[Sat Oct 25 2025 11:58:28 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-11-09
+[Sat Oct 25 2025 11:58:28 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-11-11
+[Sat Oct 25 2025 11:58:28 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-11-12
+[Sat Oct 25 2025 11:58:28 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-11-13
+[Sat Oct 25 2025 11:58:28 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-11-13
+[Sat Oct 25 2025 11:58:28 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-11-14
+[Sat Oct 25 2025 11:58:28 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-11-15
+[Sat Oct 25 2025 11:58:28 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-11-15
+[Sat Oct 25 2025 11:58:28 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-11-15
+[Sat Oct 25 2025 11:58:28 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-11-15
+[Sat Oct 25 2025 11:58:28 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-11-15
+[Sat Oct 25 2025 11:58:28 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-11-15
+[Sat Oct 25 2025 11:58:28 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-11-18
+[Sat Oct 25 2025 11:58:28 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-11-20
+[Sat Oct 25 2025 11:58:28 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-11-20
+[Sat Oct 25 2025 11:58:28 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-11-20
+[Sat Oct 25 2025 11:58:28 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-11-20
+[Sat Oct 25 2025 11:58:28 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-11-20
+[Sat Oct 25 2025 11:58:28 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-11-22
+[Sat Oct 25 2025 11:58:28 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-11-22
+[Sat Oct 25 2025 11:58:28 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-11-22
+[Sat Oct 25 2025 11:58:28 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-11-22
+[Sat Oct 25 2025 11:58:28 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-11-22
+[Sat Oct 25 2025 11:58:28 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-11-22
+[Sat Oct 25 2025 11:58:28 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-11-23
+[Sat Oct 25 2025 11:58:28 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-11-25
+[Sat Oct 25 2025 11:58:28 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-11-26
+[Sat Oct 25 2025 11:58:28 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-11-27
+[Sat Oct 25 2025 11:58:28 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-11-27
+[Sat Oct 25 2025 12:37:18 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-11-27
+[Sat Oct 25 2025 12:37:18 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-11-27
+Sodniku StefenelliFe se je izbrisal datum iz AHL sheme. Datum:2025-11-15
+Sodniku GrisentiLu se je izbrisal datum iz AHL sheme. Datum:2025-11-15
+Sodniku DivisDo se je izbrisal datum iz AHL sheme. Datum:2025-11-15
+Sodniku SpiegelSe se je izbrisal datum iz AHL sheme. Datum:2025-11-15
+[Sat Oct 25 2025 23:23:41 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-11-13
+[Sat Oct 25 2025 23:23:41 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-11-15
+[Sat Oct 25 2025 23:23:41 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-11-27
+[Sat Oct 25 2025 23:23:41 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-11-28
+[Sat Oct 25 2025 23:23:41 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-11-29
+[Sat Oct 25 2025 23:23:41 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-11-29
+[Sat Oct 25 2025 23:23:41 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-11-29
+[Sat Oct 25 2025 23:23:41 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-11-29
+[Sat Oct 25 2025 23:23:41 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-11-29
+[Sat Oct 25 2025 23:23:41 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-11-30
+[Sat Oct 25 2025 23:23:41 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-12-03
+[Sat Oct 25 2025 23:23:41 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-12-04
+[Sat Oct 25 2025 23:23:41 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-12-04
+[Sat Oct 25 2025 23:23:41 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-12-04
+[Sat Oct 25 2025 23:23:41 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-12-06
+[Sat Oct 25 2025 23:23:41 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-12-06
+[Sat Oct 25 2025 23:23:41 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-12-06
+[Sat Oct 25 2025 23:23:41 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-12-06
+[Sat Oct 25 2025 23:23:41 GMT+0200 (Srednjeevropski poletni čas)] Nov datum dodan v delegacije. Datum:2025-12-06
+Sodniku LebenJa se je izbrisal datum iz AHL sheme. Datum:2025-11-15
+Sodniku JeramFi se je izbrisal datum iz AHL sheme. Datum:2025-11-15
+Sodniku WinklerDa se je izbrisal datum iz AHL sheme. Datum:2025-11-15
+Sodniku SnojTa se je izbrisal datum iz AHL sheme. Datum:2025-11-20
+[Sat Oct 25 2025 23:23:41 GMT+0200 (Srednjeevropski poletni čas)] Nov sodnikCalloviniAn uspesno dodan 
+Sodniku VoicanCh se je izbrisal datum iz AHL sheme. Datum:2025-11-15
+Sodniku AbeltinoSi se je izbrisal datum iz AHL sheme. Datum:2025-10-28
+Sodniku PinieOm se je izbrisal datum iz AHL sheme. Datum:2025-10-28
+Sodniku CristeliMa se je izbrisal datum iz AHL sheme. Datum:2025-10-28
+Sodniku PirasAn se je izbrisal datum iz AHL sheme. Datum:2025-10-28
+Sodniku StrimitzerDa se je izbrisal datum iz AHL sheme. Datum:2025-11-05
+Sodniku IlmerNo se je izbrisal datum iz AHL sheme. Datum:2025-12-04
+[Sat Nov 01 2025 11:01:06 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2025-11-09
+Sodniku MetzingerFi se je izbrisal datum iz AHL sheme. Datum:2025-11-01
+[Mon Nov 03 2025 16:44:26 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2025-11-23
+Sodniku RivisAn se je izbrisal datum iz AHL sheme. Datum:2025-11-08
+Sodniku FleischmannLu se je izbrisal datum iz AHL sheme. Datum:2025-11-08
+Sodniku UnterwegerDo se je izbrisal datum iz AHL sheme. Datum:2025-11-08
+Sodniku SpiegelSe se je izbrisal datum iz AHL sheme. Datum:2025-11-08
+Sodniku RivisAn se je izbrisal datum iz AHL sheme. Datum:2025-11-23
+Sodniku SeewaldJe se je izbrisal datum iz AHL sheme. Datum:2025-11-25
+Sodniku ZacherlPa se je izbrisal datum iz AHL sheme. Datum:2025-11-29

@@ -11,7 +11,7 @@ const transporter = nodemailer.createTransport({ // 'ICEObvescanje1'
 });
 let counter = 1;
 let countHour = 0;
-const min = 30;
+const min = 15;
 const sestUr = 360 / min;
 
 scheduledFunction();
@@ -43,7 +43,7 @@ function scheduledFunction() {
                 "bulovecmi": "miha.bulovec@gmail.com", //plačano do konca 2024-25
                 "piragictr": "trpimir.piragic@gmail.com", // 2023-24 plačana z rakijo
                 "seewaldel": "seewald30@gmail.com",
-                "murnikpe": "petja.murnik@gmail.com", // ni plaču za 23-24
+                "murnikpe": "petja.murnik@gmail.com", // 23-24 plaču na tekmi v sisku(2.10.2025)
                 //"markizetigr": "grega.markizeti@gmail.com" // ni plaču za 23-24 - izklopljeno 18.10.2024 (delegacije do 3.11.)
                 "hribarma": "matjazhribar@hotmail.com", // plaču za 23-24 in 24-25 (4.1.2025 z dvema sixpackoma), 28.9.2025 v zalogu plačal sezono 25-26
             }
@@ -60,9 +60,9 @@ function scheduledFunction() {
                                 ${i.tekme.map(t => `<li>${t.liga} - ${t.datum}</li>`).join('')}
                             </ul>
                             `;
-                    if (['murnikpe','rezekgr', 'piragictr'].includes(i.sodnik)) { 
+                    if (['rezekgr', 'piragictr'].includes(i.sodnik)) { 
                         htmlTekst = `
-                        <p>Tika, taka.. Piva še kar ni v hladilniku,</p>
+                        <p>Tika, taka.. Piva za še kar ni v hladilniku,</p>
                         <p>Sicer pa, nove tekme:</p>
                         <ul>
                             ${i.tekme.map(t => `<li>${t.liga} - ${t.datum}</li>`).join('')}
