@@ -279,3 +279,11 @@ Sodniku SpiegelSe se je izbrisal datum iz AHL sheme. Datum:2025-11-08
 Sodniku RivisAn se je izbrisal datum iz AHL sheme. Datum:2025-11-23
 Sodniku SeewaldJe se je izbrisal datum iz AHL sheme. Datum:2025-11-25
 Sodniku ZacherlPa se je izbrisal datum iz AHL sheme. Datum:2025-11-29
+Sodniku BrockAd se je izbrisal datum iz AHL sheme. Datum:2025-11-14
+Sodniku WidmannFl se je izbrisal datum iz AHL sheme. Datum:2025-11-25
+Sodniku BrondiMa se je izbrisal datum iz AHL sheme. Datum:2025-11-28
+Sodniku MoidlMa se je izbrisal datum iz AHL sheme. Datum:2025-11-12
+Sodniku JeramFi se je izbrisal datum iz AHL sheme. Datum:2025-11-27
+Sodniku MiklicGr se je izbrisal datum iz AHL sheme. Datum:2025-11-29
+Sodniku HlavatyAl se je izbrisal datum iz AHL sheme. Datum:2025-11-14
+Sodniku WinklerDa se je izbrisal datum iz AHL sheme. Datum:2025-12-06
