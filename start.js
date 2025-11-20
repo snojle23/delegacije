@@ -11,7 +11,7 @@ const transporter = nodemailer.createTransport({ // 'ICEObvescanje1'
 });
 let counter = 1;
 let countHour = 0;
-const min = 15;
+const min = 30;
 const sestUr = 360 / min;
 
 scheduledFunction();
@@ -19,12 +19,6 @@ scheduledFunction();
 function scheduledFunction() {
     setInterval(async function () {
         const today = new Date();
-        // console.log("1. Pridobivam nove podatke, poizkus " + counter + " " + today);
-        // const mess = await getNewJson();
-        //await sleep(5000);
-        //console.log("  " + mess);
-        //const json_data = JSON.parse(fs.readFileSync("json/tekme.json", 'utf8'));
-
         const json_data = await getData2();
 
         if (json_data.length > 0) {
@@ -48,9 +42,15 @@ function scheduledFunction() {
                 "hribarma": "matjazhribar@hotmail.com", // plaču za 23-24 in 24-25 (4.1.2025 z dvema sixpackoma), 28.9.2025 v zalogu plačal sezono 25-26
             }
 
+            //|Sezona  | 2024-25| 2025-26|
+            // miklicgr|    DA  |   NE   |
+            // rezekgr |    NE  |   NE   |
+            // zrnicmi |    DA  |   DA   |
+            // bulovec |    DA  |   NE   |
+            // murnikp |    -   |   NE   |
+            // hribarm |    DA  |   DA   |
+            // piragic |    NE  |   NE   |
 
-            // 'snojta', 'hribarma', 'zrnicmi', 'seewaldel', 'markizetigr', 'rezekgr', 'piragictr' teli so mel poravnan za 2022-23
-            // bajtmi, zgoncga
             arrayForMail.forEach(i => {
                 const tekme = JSON.stringify(i.tekme);
                 if (Object.keys(mailing).includes(i.sodnik)) {
@@ -62,13 +62,13 @@ function scheduledFunction() {
                             `;
                     if (['rezekgr', 'piragictr'].includes(i.sodnik)) { 
                         htmlTekst = `
-                        <p>Tika, taka.. Piva za še kar ni v hladilniku,</p>
-                        <p>Sicer pa, nove tekme:</p>
-                        <ul>
-                            ${i.tekme.map(t => `<li>${t.liga} - ${t.datum}</li>`).join('')}
-                        </ul>
+                        <p>alooo, kje je pivo?</p>
+                        <p>pejt pogledat v RM, mogoče maš, mogoče nimaš</p>
                         `;
                     }
+                                            // <ul>
+                        //     ${i.tekme.map(t => `<li>${t.liga} - ${t.datum}</li>`).join('')}
+                        // </ul>
 
                     const mailOptions = {
                         from: 'delegacijeice@gmail.com',

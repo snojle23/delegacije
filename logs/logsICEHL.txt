@@ -321,3 +321,7 @@ Sodniku VoicanCh se je izbrisal datum iz ICEHL sheme. Datum:2025-12-03
 Sodniku RezekGr se je izbrisal datum iz ICEHL sheme. Datum:2025-12-03
 Sodniku VoicanCh se je izbrisal datum iz ICEHL sheme. Datum:2025-12-05
 Sodniku ZacherlPa se je izbrisal datum iz ICEHL sheme. Datum:2025-11-16
+Sodniku NikolicMa se je izbrisal datum iz ICEHL sheme. Datum:2025-12-03
+Sodniku Huber aAn se je izbrisal datum iz ICEHL sheme. Datum:2025-12-05
+Sodniku MantovaniDa se je izbrisal datum iz ICEHL sheme. Datum:2025-11-21
+[Wed Nov 19 2025 11:29:56 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikStrimitzerDa uspesno dodan 
