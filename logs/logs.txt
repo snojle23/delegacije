@@ -193,3 +193,40 @@
 [Sun Nov 23 2025 10:32:36 GMT+0100 (Srednjeevropski standardni čas)] Sodnik WendnerMa uspesno zamenjal ZacherlPa Lokacija: Eisarena Salzburg, Datum: 2025-11-25
 [Mon Nov 24 2025 10:17:01 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BrondiMa uspesno zamenjal CusinFe Lokacija: Eishalle Ritten, Datum: 2025-12-18
 [Mon Nov 24 2025 10:17:01 GMT+0100 (Srednjeevropski standardni čas)] Sodnik CusinFe uspesno zamenjal BrondiMa Lokacija: Eishalle Meran, Datum: 2025-12-20
+[Tue Nov 25 2025 10:58:23 GMT+0100 (Srednjeevropski standardni čas)] Sodnik VeselkaMa uspesno zamenjal SeewaldJe Lokacija: Eisarena Salzburg, Datum: 2025-11-25
+[Tue Nov 25 2025 10:58:23 GMT+0100 (Srednjeevropski standardni čas)] Sodnik GrisentiLu uspesno zamenjal AbeltinoSi Lokacija: Eishalle Asiago, Datum: 2025-12-18
+[Tue Nov 25 2025 10:58:23 GMT+0100 (Srednjeevropski standardni čas)] Sodnik AbeltinoSi uspesno zamenjal BrondiPa Lokacija: Würtharena Neumarkt, Datum: 2025-12-18
+[Tue Nov 25 2025 10:58:23 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BrondiPa uspesno zamenjal GrisentiLu Lokacija: Würtharena Neumarkt, Datum: 2025-12-18
+[Wed Nov 26 2025 09:35:03 GMT+0100 (Srednjeevropski standardni čas)] Sodnik StrimitzerDa uspesno zamenjal MoidlMa Lokacija: Eishalle Gröden, Datum: 2025-12-06
+[Wed Nov 26 2025 09:35:03 GMT+0100 (Srednjeevropski standardni čas)] Sodnik VeselkaMa uspesno zamenjal StrimitzerDa Lokacija: Eishalle Gröden, Datum: 2025-12-06
+[Wed Nov 26 2025 11:15:03 GMT+0100 (Srednjeevropski standardni čas)] Sodnik VoicanCh uspesno zamenjal SternatCh Lokacija: Linz AG Eisarena, Datum: 2025-11-26
+[Wed Nov 26 2025 11:15:03 GMT+0100 (Srednjeevropski standardni čas)] Sodnik ZrnicMi uspesno zamenjal VoicanCh Lokacija: Linz AG Eisarena, Datum: 2025-11-26
+[Wed Nov 26 2025 11:15:03 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicMa uspesno zamenjal PiragicTr Lokacija: Sparkasse Arena Bozen, Datum: 2025-11-28
+[Wed Nov 26 2025 11:15:03 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PiragicTr uspesno zamenjal SternatCh Lokacija: Sparkasse Arena Bozen, Datum: 2025-11-28
+[Wed Nov 26 2025 11:15:03 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HolzerTo uspesno zamenjal HlavatyAl Lokacija: Sportpark Kitzbühel, Datum: 2025-12-13
+[Wed Nov 26 2025 11:15:03 GMT+0100 (Srednjeevropski standardni čas)] Sodnik UnterwegerDo uspesno zamenjal HolzerTo Lokacija: Sportpark Kitzbühel, Datum: 2025-12-13
+[Wed Nov 26 2025 21:03:04 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PuffWo uspesno zamenjal RieckenSi Lokacija: Stadthalle Villach, Datum: 2025-11-28
+[Wed Nov 26 2025 21:03:04 GMT+0100 (Srednjeevropski standardni čas)] Sodnik RieckenSi uspesno zamenjal WimmlerAl Lokacija: Stadthalle Villach, Datum: 2025-11-28
+[Wed Nov 26 2025 21:03:04 GMT+0100 (Srednjeevropski standardni čas)] Sodnik WimmlerAl uspesno zamenjal PuffWo Lokacija: Eishalle Bruneck, Datum: 2025-11-30
+[Thu Nov 27 2025 13:02:16 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PinieOm uspesno zamenjal GiacomozziFe Lokacija: Eishalle Meran, Datum: 2025-11-28
+[Thu Nov 27 2025 13:02:16 GMT+0100 (Srednjeevropski standardni čas)] Sodnik UnterwegerDo uspesno zamenjal PinieOm Lokacija: Eishalle Meran, Datum: 2025-11-28
+[Thu Nov 27 2025 21:26:58 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HolzerTo uspesno zamenjal Huber aAn Lokacija: Eishalle Bruneck, Datum: 2025-12-03
+[Thu Nov 27 2025 21:26:58 GMT+0100 (Srednjeevropski standardni čas)] Sodnik Huber aAn uspesno zamenjal OfnerCh Lokacija: Eishalle Bruneck, Datum: 2025-12-03
+[Thu Nov 27 2025 22:27:27 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SpiegelSe uspesno zamenjal HolzerTo Lokacija: Eishalle Dornbirn, Datum: 2025-12-03
+[Thu Nov 27 2025 22:27:27 GMT+0100 (Srednjeevropski standardni čas)] Sodnik WinklerDa uspesno zamenjal SpiegelSe Lokacija: Eishalle Dornbirn, Datum: 2025-12-03
+[Sun Nov 30 2025 13:19:00 GMT+0100 (Srednjeevropski standardni čas)] Sodnik MuzsikNo uspesno zamenjal MoidlMa Lokacija: Gabor Ocskay Eisarena, Datum: 2025-12-03
+[Sun Nov 30 2025 13:19:00 GMT+0100 (Srednjeevropski standardni čas)] Sodnik WeissAl uspesno zamenjal RigoniDa Lokacija: Sparkasse Arena Bozen, Datum: 2025-12-17
+[Sun Nov 30 2025 13:19:00 GMT+0100 (Srednjeevropski standardni čas)] Sodnik RigoniDa uspesno zamenjal WeissAl Lokacija: Sparkasse Arena Bozen, Datum: 2025-12-20
+[Sun Nov 30 2025 13:19:00 GMT+0100 (Srednjeevropski standardni čas)] Sodnik FichtnerPa uspesno zamenjal SiegelSt Lokacija: Gabor Ocskay Eisarena, Datum: 2025-12-21
+[Sun Nov 30 2025 13:19:00 GMT+0100 (Srednjeevropski standardni čas)] Sodnik MantovaniDa uspesno zamenjal LinesmanEi Lokacija: Eisarena Salzburg, Datum: 2025-12-28
+[Sun Nov 30 2025 13:19:00 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HribarMa uspesno zamenjal JedlickaPe Lokacija: Hala Tivoli, Datum: 2025-12-28
+[Sun Nov 30 2025 13:19:00 GMT+0100 (Srednjeevropski standardni čas)] Sodnik JedlickaPe uspesno zamenjal LinesmanZw Lokacija: Hala Tivoli, Datum: 2025-12-28
+[Sun Nov 30 2025 13:19:00 GMT+0100 (Srednjeevropski standardni čas)] Sodnik GatolMa uspesno zamenjal MoidlMa Lokacija: FTC-Telekom Rink, Datum: 2025-12-30
+[Sun Nov 30 2025 13:19:00 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PuffWo uspesno zamenjal MoidlMa Lokacija: Merkur Eisstadion Graz, Datum: 2026-01-01
+[Sun Nov 30 2025 13:19:00 GMT+0100 (Srednjeevropski standardni čas)] Sodnik RieckenSi uspesno zamenjal PuffWo Lokacija: Merkur Eisstadion Graz, Datum: 2026-01-01
+[Sun Nov 30 2025 15:49:51 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SnojTa uspesno zamenjal WidmannFl Lokacija: Eishalle Gröden, Datum: 2025-12-20
+[Sun Nov 30 2025 15:49:51 GMT+0100 (Srednjeevropski standardni čas)] Sodnik ArlicMa uspesno zamenjal FleischmannLu Lokacija: Eishalle Gröden, Datum: 2025-12-20
+[Sun Nov 30 2025 15:49:51 GMT+0100 (Srednjeevropski standardni čas)] Sodnik FleischmannLu uspesno zamenjal WuchererGe Lokacija: Eishalle Gröden, Datum: 2025-12-20
+[Sun Nov 30 2025 15:49:51 GMT+0100 (Srednjeevropski standardni čas)] Sodnik LinesmanEi uspesno zamenjal PuffWo Lokacija: Merkur Eisstadion Graz, Datum: 2026-01-01
+[Sun Nov 30 2025 15:49:51 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PuffWo uspesno zamenjal RieckenSi Lokacija: Merkur Eisstadion Graz, Datum: 2026-01-01
+[Tue Dec 02 2025 13:20:30 GMT+0100 (Srednjeevropski standardni čas)] Sodnik CusinFe uspesno zamenjal IlmerNo Lokacija: Eishalle Meran, Datum: 2025-12-13

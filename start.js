@@ -27,7 +27,7 @@ function scheduledFunction() {
 
             const mailing = {
                 "snojta": "tadej.snoj@gmail.com",
-                // "bajtmi": "miha.bajt@gmail.com", ni plaču za 2022-23 in za 2023-24
+                // "c": "miha.bajt@gmail.com", ni plaču za 2022-23 in za 2023-24
                 "miklicgr": "gregor.miklic.sp@gmail.com", // plačano do konca 2024-25
                 "rezekgr": "gregor.rezek@gmail.com", // prinesel za sezono 2023-24
                 "zrnicmi": "milan_zrnic@hotmail.com", // za 23-24 prinesel sixpacka 11.10.2024 na tekmo, 5.9.2025 plačal za sezono 24/25 in za 25/26 (2 six packa)
