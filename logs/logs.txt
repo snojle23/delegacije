@@ -230,3 +230,6 @@
 [Sun Nov 30 2025 15:49:51 GMT+0100 (Srednjeevropski standardni čas)] Sodnik LinesmanEi uspesno zamenjal PuffWo Lokacija: Merkur Eisstadion Graz, Datum: 2026-01-01
 [Sun Nov 30 2025 15:49:51 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PuffWo uspesno zamenjal RieckenSi Lokacija: Merkur Eisstadion Graz, Datum: 2026-01-01
 [Tue Dec 02 2025 13:20:30 GMT+0100 (Srednjeevropski standardni čas)] Sodnik CusinFe uspesno zamenjal IlmerNo Lokacija: Eishalle Meran, Datum: 2025-12-13
+[Wed Dec 03 2025 12:25:47 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SeewaldJe uspesno zamenjal ZacherlPa Lokacija: Eishalle Dornbirn, Datum: 2025-12-26
+[Wed Dec 03 2025 12:55:47 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BedynekSe uspesno zamenjal GatolMa Lokacija: Linz AG Eisarena, Datum: 2025-12-03
+[Wed Dec 03 2025 12:55:47 GMT+0100 (Srednjeevropski standardni čas)] Sodnik GatolMa uspesno zamenjal JedlickaPe Lokacija: Linz AG Eisarena, Datum: 2025-12-03
