@@ -233,3 +233,14 @@
 [Wed Dec 03 2025 12:25:47 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SeewaldJe uspesno zamenjal ZacherlPa Lokacija: Eishalle Dornbirn, Datum: 2025-12-26
 [Wed Dec 03 2025 12:55:47 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BedynekSe uspesno zamenjal GatolMa Lokacija: Linz AG Eisarena, Datum: 2025-12-03
 [Wed Dec 03 2025 12:55:47 GMT+0100 (Srednjeevropski standardni čas)] Sodnik GatolMa uspesno zamenjal JedlickaPe Lokacija: Linz AG Eisarena, Datum: 2025-12-03
+[Fri Dec 05 2025 12:07:31 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PuffWo uspesno zamenjal MuzsikNo Lokacija: Hala Tivoli, Datum: 2025-12-05
+[Fri Dec 05 2025 12:07:31 GMT+0100 (Srednjeevropski standardni čas)] Sodnik ZgoncGa uspesno zamenjal PuffWo Lokacija: Hala Tivoli, Datum: 2025-12-05
+[Sun Dec 07 2025 10:41:48 GMT+0100 (Srednjeevropski standardni čas)] Sodnik StrimitzerDa uspesno zamenjal WimmlerAl Lokacija: Tiroler Wasserkraft Arena, Datum: 2025-12-07
+[Sun Dec 07 2025 12:41:48 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PinieOm uspesno zamenjal PirasAn Lokacija: Eishalle Cortina, Datum: 2025-12-07
+[Sun Dec 07 2025 12:41:48 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PirasAn uspesno zamenjal PinieOm Lokacija: Würtharena Neumarkt, Datum: 2025-12-18
+[Mon Dec 08 2025 13:54:28 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SmetanaLa uspesno zamenjal OfnerCh Lokacija: Stadthalle Villach, Datum: 2025-12-12
+[Mon Dec 08 2025 16:18:32 GMT+0100 (Srednjeevropski standardni čas)] Sodnik Dummermuth-haasEl uspesno zamenjal LinesmanEi Lokacija: Merkur Eisstadion Graz, Datum: 2026-01-01
+[Fri Dec 12 2025 09:07:19 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BedynekSe uspesno zamenjal BärnthalerCh Lokacija: Stadthalle Villach, Datum: 2025-12-12
+[Fri Dec 12 2025 09:07:19 GMT+0100 (Srednjeevropski standardni čas)] Sodnik ZacherlPa uspesno zamenjal BedynekSe Lokacija: Stadthalle Villach, Datum: 2025-12-12
+[Fri Dec 12 2025 09:07:19 GMT+0100 (Srednjeevropski standardni čas)] Sodnik VoicanCh uspesno zamenjal MetzingerFi Lokacija: Eishalle Jesenice, Datum: 2025-12-20
+[Fri Dec 12 2025 09:07:19 GMT+0100 (Srednjeevropski standardni čas)] Sodnik MetzingerFi uspesno zamenjal VoicanCh Lokacija: Eishalle Sissek Zibel, Datum: 2025-12-26
