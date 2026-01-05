@@ -60,7 +60,7 @@ function scheduledFunction() {
                                 ${i.tekme.map(t => `<li>${t.liga} - ${t.datum}</li>`).join('')}
                             </ul>
                             `;
-                    if (['rezekgr', 'piragictr'].includes(i.sodnik)) { 
+                    if (['rezekgr'].includes(i.sodnik)) { 
                         htmlTekst = `
                         <p>alooo, kje je pivo?</p>
                         <p>pejt pogledat v RM, mogoče maš, mogoče nimaš</p>
