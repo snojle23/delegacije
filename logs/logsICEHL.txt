@@ -513,3 +513,8 @@ Sodniku SiegelSt se je izbrisal datum iz ICEHL sheme. Datum:2026-01-01
 Sodniku VoicanCh se je izbrisal datum iz ICEHL sheme. Datum:2026-01-03
 Sodniku SiegelSt se je izbrisal datum iz ICEHL sheme. Datum:2026-01-03
 Sodniku OfnerCh se je izbrisal datum iz ICEHL sheme. Datum:2026-01-05
+Sodniku SternatCh se je izbrisal datum iz ICEHL sheme. Datum:2026-01-09
+Sodniku OfnerCh se je izbrisal datum iz ICEHL sheme. Datum:2026-01-09
+Sodniku SternatCh se je izbrisal datum iz ICEHL sheme. Datum:2026-01-11
+Sodniku JedlickaPe se je izbrisal datum iz ICEHL sheme. Datum:2026-01-10
+Sodniku OfnerCh se je izbrisal datum iz ICEHL sheme. Datum:2026-01-11

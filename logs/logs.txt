@@ -331,3 +331,24 @@
 [Sun Jan 04 2026 15:46:07 GMT+0100 (Srednjeevropski standardni čas)] Sodnik MarkizetiGr uspesno zamenjal WuchererGe Lokacija: Eishalle Jesenice, Datum: 2026-01-06
 [Sun Jan 04 2026 15:46:07 GMT+0100 (Srednjeevropski standardni čas)] Sodnik MurnikPe uspesno zamenjal MarkizetiGr Lokacija: Eishalle Jesenice, Datum: 2026-01-08
 [Sun Jan 04 2026 15:46:07 GMT+0100 (Srednjeevropski standardni čas)] Sodnik WuchererGe uspesno zamenjal MurnikPe Lokacija: Eishalle Jesenice, Datum: 2026-01-08
+[Tue Jan 06 2026 08:39:29 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PirasAn uspesno zamenjal VoicanCh Lokacija: Eisarena Salzburg, Datum: 2026-01-06
+[Tue Jan 06 2026 09:39:29 GMT+0100 (Srednjeevropski standardni čas)] Sodnik StrimitzerDa uspesno zamenjal SeewaldJe Lokacija: KELIT Arena Zell am See, Datum: 2026-01-06
+[Wed Jan 07 2026 17:59:12 GMT+0100 (Srednjeevropski standardni čas)] Sodnik MoschenAn uspesno zamenjal GiacomozziFe Lokacija: Eishalle Meran, Datum: 2026-01-08
+[Thu Jan 08 2026 10:30:53 GMT+0100 (Srednjeevropski standardni čas)] Sodnik GroznikBo uspesno zamenjal RezekGr Lokacija: Merkur Eisstadion Graz, Datum: 2026-01-09
+[Thu Jan 08 2026 10:30:53 GMT+0100 (Srednjeevropski standardni čas)] Sodnik RezekGr uspesno zamenjal SternatCh Lokacija: Merkur Eisstadion Graz, Datum: 2026-01-09
+[Thu Jan 08 2026 10:30:53 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SiegelSt uspesno zamenjal OfnerCh Lokacija: Eishalle Wien-Kagran, Datum: 2026-01-09
+[Thu Jan 08 2026 14:11:20 GMT+0100 (Srednjeevropski standardni čas)] Sodnik Huber aAn uspesno zamenjal KainbergerJu Lokacija: Sparkasse Arena Bozen, Datum: 2026-01-11
+[Thu Jan 08 2026 14:11:20 GMT+0100 (Srednjeevropski standardni čas)] Sodnik KainbergerJu uspesno zamenjal SternatCh Lokacija: Sparkasse Arena Bozen, Datum: 2026-01-11
+[Thu Jan 08 2026 14:11:20 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HolzerTo uspesno zamenjal Huber aAn Lokacija: Eishalle Bruneck, Datum: 2026-01-11
+[Fri Jan 09 2026 14:36:42 GMT+0100 (Srednjeevropski standardni čas)] Sodnik OrelSt uspesno zamenjal WidmannFl Lokacija: Eisarena Salzburg, Datum: 2026-01-29
+[Fri Jan 09 2026 15:06:42 GMT+0100 (Srednjeevropski standardni čas)] Sodnik RivisFe uspesno zamenjal BenvegnuAn Lokacija: Eishalle Dornbirn, Datum: 2026-01-31
+[Sat Jan 10 2026 15:15:40 GMT+0100 (Srednjeevropski standardni čas)] Sodnik IlmerNo uspesno zamenjal CristeliMa Lokacija: Eishalle Dornbirn, Datum: 2026-01-11
+[Sat Jan 10 2026 15:15:40 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BergantAn uspesno zamenjal LebenJa Lokacija: Eishalle Sissek Zibel, Datum: 2026-01-22
+[Sat Jan 10 2026 15:15:40 GMT+0100 (Srednjeevropski standardni čas)] Sodnik LebenJa uspesno zamenjal BergantAn Lokacija: Eishalle Pieve di Cadore, Datum: 2026-01-29
+[Sat Jan 10 2026 15:45:40 GMT+0100 (Srednjeevropski standardni čas)] Sodnik MuzsikNo uspesno zamenjal JedlickaPe Lokacija: FTC-Telekom Rink, Datum: 2026-01-10
+[Sat Jan 10 2026 15:45:40 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SmetanaLa uspesno zamenjal OfnerCh Lokacija: Merkur Eisstadion Graz, Datum: 2026-01-11
+[Sat Jan 10 2026 21:45:40 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HolzerTo uspesno zamenjal Huber aAn Lokacija: Sparkasse Arena Bozen, Datum: 2026-01-11
+[Sat Jan 10 2026 21:45:40 GMT+0100 (Srednjeevropski standardni čas)] Sodnik Huber aAn uspesno zamenjal KainbergerJu Lokacija: Sparkasse Arena Bozen, Datum: 2026-01-11
+[Sat Jan 10 2026 21:45:40 GMT+0100 (Srednjeevropski standardni čas)] Sodnik KainbergerJu uspesno zamenjal HolzerTo Lokacija: Eishalle Bruneck, Datum: 2026-01-11
+[Wed Jan 14 2026 00:07:21 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicKr uspesno zamenjal OfnerCh Lokacija: Eishalle Wien-Kagran, Datum: 2026-01-31
+[Wed Jan 14 2026 00:07:21 GMT+0100 (Srednjeevropski standardni čas)] Sodnik OfnerCh uspesno zamenjal NikolicKr Lokacija: Merkur Eisstadion Graz, Datum: 2026-01-31

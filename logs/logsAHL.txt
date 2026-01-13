@@ -478,3 +478,13 @@ Sodniku VoicanCh se je izbrisal datum iz AHL sheme. Datum:2026-01-02
 Sodniku WuchererGe se je izbrisal datum iz AHL sheme. Datum:2026-01-02
 Sodniku WuchererGe se je izbrisal datum iz AHL sheme. Datum:2026-01-06
 Sodniku MarkizetiGr se je izbrisal datum iz AHL sheme. Datum:2026-01-08
+Sodniku VoicanCh se je izbrisal datum iz AHL sheme. Datum:2026-01-06
+Sodniku SeewaldJe se je izbrisal datum iz AHL sheme. Datum:2026-01-06
+Sodniku GiacomozziFe se je izbrisal datum iz AHL sheme. Datum:2026-01-08
+Sodniku WidmannFl se je izbrisal datum iz AHL sheme. Datum:2026-01-29
+[Fri Jan 09 2026 15:06:42 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2026-01-29
+Sodniku BenvegnuAn se je izbrisal datum iz AHL sheme. Datum:2026-01-31
+Sodniku BenvegnuAn se je izbrisal datum iz AHL sheme. Datum:2026-01-29
+Sodniku CristeliMa se je izbrisal datum iz AHL sheme. Datum:2026-01-11
+Sodniku LebenJa se je izbrisal datum iz AHL sheme. Datum:2026-01-22
+Sodniku BergantAn se je izbrisal datum iz AHL sheme. Datum:2026-01-29
