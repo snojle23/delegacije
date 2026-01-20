@@ -29,7 +29,7 @@ function scheduledFunction() {
                 "snojta": "tadej.snoj@gmail.com",
                 // "c": "miha.bajt@gmail.com", ni plaču za 2022-23 in za 2023-24
                 "miklicgr": "gregor.miklic.sp@gmail.com", // plačano do konca 2024-25
-                "rezekgr": "gregor.rezek@gmail.com", // prinesel za sezono 2023-24
+                "rezekgr": "gregor.rezek@gmail.com", // prinesel za sezono 2023-24, 13.1.2025 prinese sixpack za sezono 24-25
                 "zrnicmi": "milan_zrnic@hotmail.com", // za 23-24 prinesel sixpacka 11.10.2024 na tekmo, 5.9.2025 plačal za sezono 24/25 in za 25/26 (2 six packa)
                 // "trilarvi": "viki@hokej.si", -- viki ni dal sixpacka za 2022-23 in za 2023-24
                 // "zgoncga": "jaka.zgonc@gmail.com", prvi mail 10.10.2022 (ni plaču za 22-23, 23-24)
@@ -44,7 +44,7 @@ function scheduledFunction() {
 
             //|Sezona  | 2024-25| 2025-26|
             // miklicgr|    DA  |   NE   |
-            // rezekgr |    NE  |   NE   |
+            // rezekgr |    DA  |   NE   |
             // zrnicmi |    DA  |   DA   |
             // bulovec |    DA  |   NE   |
             // murnikp |    -   |   NE   |
@@ -60,12 +60,6 @@ function scheduledFunction() {
                                 ${i.tekme.map(t => `<li>${t.liga} - ${t.datum}</li>`).join('')}
                             </ul>
                             `;
-                    if (['rezekgr'].includes(i.sodnik)) { 
-                        htmlTekst = `
-                        <p>alooo, kje je pivo?</p>
-                        <p>pejt pogledat v RM, mogoče maš, mogoče nimaš</p>
-                        `;
-                    }
                                             // <ul>
                         //     ${i.tekme.map(t => `<li>${t.liga} - ${t.datum}</li>`).join('')}
                         // </ul>

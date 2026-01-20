@@ -488,3 +488,8 @@ Sodniku BenvegnuAn se je izbrisal datum iz AHL sheme. Datum:2026-01-29
 Sodniku CristeliMa se je izbrisal datum iz AHL sheme. Datum:2026-01-11
 Sodniku LebenJa se je izbrisal datum iz AHL sheme. Datum:2026-01-22
 Sodniku BergantAn se je izbrisal datum iz AHL sheme. Datum:2026-01-29
+Sodniku ZacherlPa se je izbrisal datum iz AHL sheme. Datum:2026-01-31
+Sodniku Dummermuth-haasEl se je izbrisal datum iz AHL sheme. Datum:2026-01-29
+[Fri Jan 16 2026 10:00:34 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2026-02-12
+[Fri Jan 16 2026 10:00:34 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2026-02-14
+Sodniku JeramFi se je izbrisal datum iz AHL sheme. Datum:2026-01-31

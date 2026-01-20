@@ -518,3 +518,7 @@ Sodniku OfnerCh se je izbrisal datum iz ICEHL sheme. Datum:2026-01-09
 Sodniku SternatCh se je izbrisal datum iz ICEHL sheme. Datum:2026-01-11
 Sodniku JedlickaPe se je izbrisal datum iz ICEHL sheme. Datum:2026-01-10
 Sodniku OfnerCh se je izbrisal datum iz ICEHL sheme. Datum:2026-01-11
+Sodniku Huber aAn se je izbrisal datum iz ICEHL sheme. Datum:2026-01-16
+Sodniku Huber aAn se je izbrisal datum iz ICEHL sheme. Datum:2026-01-16
+Sodniku ZrnicMi se je izbrisal datum iz ICEHL sheme. Datum:2026-01-23
+Sodniku SeewaldEl se je izbrisal datum iz ICEHL sheme. Datum:2026-01-28
