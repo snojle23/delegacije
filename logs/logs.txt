@@ -364,3 +364,15 @@
 [Sat Jan 17 2026 18:13:53 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SmetanaLa uspesno zamenjal SeewaldEl Lokacija: Eisarena Salzburg, Datum: 2026-01-28
 [Sat Jan 17 2026 18:13:53 GMT+0100 (Srednjeevropski standardni čas)] Sodnik ZrnicMi uspesno zamenjal SmetanaLa Lokacija: Eisarena Salzburg, Datum: 2026-01-28
 [Tue Jan 20 2026 08:38:38 GMT+0100 (Srednjeevropski standardni čas)] Sodnik MarkizetiGr uspesno zamenjal JeramFi Lokacija: Eishalle Gröden, Datum: 2026-01-31
+[Tue Jan 20 2026 17:57:36 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicMa uspesno zamenjal NikolicKr Lokacija: Tiroler Wasserkraft Arena, Datum: 2026-01-21
+[Tue Jan 20 2026 17:57:36 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicKr uspesno zamenjal SchauerJa Lokacija: Tiroler Wasserkraft Arena, Datum: 2026-01-21
+[Tue Jan 20 2026 17:57:36 GMT+0100 (Srednjeevropski standardni čas)] Sodnik JeramFi uspesno zamenjal LegatKo Lokacija: Eishalle Sissek Zibel, Datum: 2026-01-22
+[Wed Jan 21 2026 17:31:16 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SoraperraSi uspesno zamenjal GiacomozziFe Lokacija: Würtharena Neumarkt, Datum: 2026-01-22
+[Wed Jan 21 2026 17:31:16 GMT+0100 (Srednjeevropski standardni čas)] Sodnik StefenelliFe uspesno zamenjal SoraperraSi Lokacija: Würtharena Neumarkt, Datum: 2026-01-22
+[Thu Jan 22 2026 23:44:06 GMT+0100 (Srednjeevropski standardni čas)] Sodnik MartinFl uspesno zamenjal StrimitzerDa Lokacija: Eishalle Feldkirch, Datum: 2026-01-23
+[Thu Jan 22 2026 23:44:06 GMT+0100 (Srednjeevropski standardni čas)] Sodnik FleischmannLu uspesno zamenjal StrimitzerDa Lokacija: Eishalle Sterzing, Datum: 2026-01-24
+[Fri Jan 23 2026 09:53:32 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BrondiPa uspesno zamenjal GrisentiLu Lokacija: Eishalle Dornbirn, Datum: 2026-01-31
+[Fri Jan 23 2026 10:23:32 GMT+0100 (Srednjeevropski standardni čas)] Sodnik OfnerCh uspesno zamenjal PiragicTr Lokacija: FTC-Telekom Rink, Datum: 2026-01-24
+[Tue Jan 27 2026 10:17:15 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SnojTa uspesno zamenjal PiragicTr Lokacija: Hala Tivoli, Datum: 2026-01-27
+[Tue Jan 27 2026 10:17:15 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SternatCh uspesno zamenjal SnojTa Lokacija: Hala Tivoli, Datum: 2026-01-27
+[Tue Jan 27 2026 16:06:35 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BrondiPa uspesno zamenjal BrondiMa Lokacija: Eishalle Asiago, Datum: 2026-01-27
