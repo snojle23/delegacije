@@ -376,3 +376,11 @@
 [Tue Jan 27 2026 10:17:15 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SnojTa uspesno zamenjal PiragicTr Lokacija: Hala Tivoli, Datum: 2026-01-27
 [Tue Jan 27 2026 10:17:15 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SternatCh uspesno zamenjal SnojTa Lokacija: Hala Tivoli, Datum: 2026-01-27
 [Tue Jan 27 2026 16:06:35 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BrondiPa uspesno zamenjal BrondiMa Lokacija: Eishalle Asiago, Datum: 2026-01-27
+[Thu Jan 29 2026 08:48:45 GMT+0100 (Srednjeevropski standardni čas)] Sodnik RivisFe uspesno zamenjal HeadEi Lokacija: Eishalle Sterzing, Datum: 2026-01-29
+[Thu Jan 29 2026 08:48:45 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SpiegelSe uspesno zamenjal RivisFe Lokacija: Eishalle Sterzing, Datum: 2026-01-29
+[Thu Jan 29 2026 16:35:28 GMT+0100 (Srednjeevropski standardni čas)] Sodnik LazzeriAl uspesno zamenjal GiacomozziFe Lokacija: Eishalle Ritten, Datum: 2026-01-31
+[Thu Jan 29 2026 19:05:25 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PuffWo uspesno zamenjal SeewaldJe Lokacija: Merkur Eisstadion Graz, Datum: 2026-01-31
+[Thu Jan 29 2026 19:05:25 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SeewaldJe uspesno zamenjal WimmlerAl Lokacija: Merkur Eisstadion Graz, Datum: 2026-01-31
+[Thu Jan 29 2026 19:05:25 GMT+0100 (Srednjeevropski standardni čas)] Sodnik WimmlerAl uspesno zamenjal PuffWo Lokacija: Heidi Horten Arena Klagenfurt, Datum: 2026-02-01
+[Fri Jan 30 2026 15:33:35 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BergantAn uspesno zamenjal SnojTa Lokacija: Eishalle Sissek Zibel, Datum: 2026-01-31
+[Fri Jan 30 2026 15:33:35 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SnojTa uspesno zamenjal VoicanCh Lokacija: Eishalle Sissek Zibel, Datum: 2026-01-31

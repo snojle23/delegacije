@@ -526,3 +526,5 @@ Sodniku SchauerJa se je izbrisal datum iz ICEHL sheme. Datum:2026-01-21
 Sodniku StrimitzerDa se je izbrisal datum iz ICEHL sheme. Datum:2026-01-23
 Sodniku PiragicTr se je izbrisal datum iz ICEHL sheme. Datum:2026-01-24
 Sodniku PiragicTr se je izbrisal datum iz ICEHL sheme. Datum:2026-01-27
+Sodniku WimmlerAl se je izbrisal datum iz ICEHL sheme. Datum:2026-01-31
+Sodniku PuffWo se je izbrisal datum iz ICEHL sheme. Datum:2026-02-01
