@@ -408,3 +408,38 @@
 [Wed Feb 04 2026 22:22:20 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BrondiMa uspesno zamenjal BrondiPa Lokacija: Eishalle Sterzing, Datum: 2026-02-17
 [Thu Feb 05 2026 06:10:18 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BrondiMa uspesno zamenjal BrondiPa Lokacija: Eishalle Sterzing, Datum: 2026-02-17
 [Thu Feb 05 2026 06:10:18 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BrondiPa uspesno zamenjal BrondiMa Lokacija: Eishalle Sterzing, Datum: 2026-02-17
+[Thu Feb 05 2026 11:59:30 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BrondiPa uspesno zamenjal BrondiMa Lokacija: Eishalle Sterzing, Datum: 2026-02-17
+[Thu Feb 05 2026 11:59:30 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BrondiMa uspesno zamenjal BrondiPa Lokacija: Eishalle Sterzing, Datum: 2026-02-17
+[Thu Feb 05 2026 13:29:30 GMT+0100 (Srednjeevropski standardni čas)] Sodnik RinkerDa uspesno zamenjal DivisDo Lokacija: Sportpark Kitzbühel, Datum: 2026-02-05
+[Thu Feb 05 2026 13:29:30 GMT+0100 (Srednjeevropski standardni čas)] Sodnik GrisentiLu uspesno zamenjal RinkerDa Lokacija: Eishalle Pieve di Cadore, Datum: 2026-02-05
+[Fri Feb 06 2026 11:09:41 GMT+0100 (Srednjeevropski standardni čas)] Sodnik GrisentiLu uspesno zamenjal FleischmannLu Lokacija: Würtharena Neumarkt, Datum: 2026-02-07
+[Fri Feb 06 2026 11:09:41 GMT+0100 (Srednjeevropski standardni čas)] Sodnik FleischmannLu uspesno zamenjal GrisentiLu Lokacija: Eishalle Meran, Datum: 2026-02-07
+[Fri Feb 06 2026 11:09:41 GMT+0100 (Srednjeevropski standardni čas)] Sodnik OrelSt uspesno zamenjal VoicanCh Lokacija: Eishalle Jesenice, Datum: 2026-02-10
+[Fri Feb 06 2026 11:09:41 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BrondiMa uspesno zamenjal BrondiPa Lokacija: Eishalle Sterzing, Datum: 2026-02-17
+[Fri Feb 06 2026 11:09:41 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BrondiPa uspesno zamenjal BrondiMa Lokacija: Eishalle Sterzing, Datum: 2026-02-17
+[Sun Feb 08 2026 06:04:23 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BrondiPa uspesno zamenjal BrondiMa Lokacija: Eishalle Sterzing, Datum: 2026-02-17
+[Sun Feb 08 2026 06:04:23 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BrondiMa uspesno zamenjal BrondiPa Lokacija: Eishalle Sterzing, Datum: 2026-02-17
+[Sun Feb 08 2026 20:14:53 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BrondiMa uspesno zamenjal BrondiPa Lokacija: Eishalle Sterzing, Datum: 2026-02-17
+[Sun Feb 08 2026 20:14:53 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BrondiPa uspesno zamenjal BrondiMa Lokacija: Eishalle Sterzing, Datum: 2026-02-17
+[Mon Feb 09 2026 11:46:34 GMT+0100 (Srednjeevropski standardni čas)] Sodnik Huber rRe uspesno zamenjal BenvegnuAn Lokacija: Sportpark Kitzbühel, Datum: 2026-02-14
+[Mon Feb 09 2026 11:46:34 GMT+0100 (Srednjeevropski standardni čas)] Sodnik LazzeriAl uspesno zamenjal HeadZw Lokacija: Sportpark Kitzbühel, Datum: 2026-02-14
+[Mon Feb 09 2026 11:46:34 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BrondiPa uspesno zamenjal BrondiMa Lokacija: Eishalle Sterzing, Datum: 2026-02-17
+[Mon Feb 09 2026 11:46:34 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BrondiMa uspesno zamenjal BrondiPa Lokacija: Eishalle Sterzing, Datum: 2026-02-17
+[Mon Feb 09 2026 20:48:52 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BrondiMa uspesno zamenjal BrondiPa Lokacija: Eishalle Sterzing, Datum: 2026-02-17
+[Mon Feb 09 2026 20:48:52 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BrondiPa uspesno zamenjal BrondiMa Lokacija: Eishalle Sterzing, Datum: 2026-02-17
+[Mon Feb 09 2026 20:48:52 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BenvegnuAn uspesno zamenjal GiacomozziFe Lokacija: Eishalle Pieve di Cadore, Datum: 2026-02-17
+[Tue Feb 10 2026 18:08:00 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HlavatyAl uspesno zamenjal GiacomozziFe Lokacija: Eishalle Ritten, Datum: 2026-02-21
+[Tue Feb 10 2026 18:08:00 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BrondiPa uspesno zamenjal BrondiMa Lokacija: Eishalle Sterzing, Datum: 2026-02-17
+[Tue Feb 10 2026 18:08:00 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BrondiMa uspesno zamenjal BrondiPa Lokacija: Eishalle Sterzing, Datum: 2026-02-17
+[Wed Feb 11 2026 10:01:43 GMT+0100 (Srednjeevropski standardni čas)] Sodnik GrisentiLu uspesno zamenjal CristeliMa Lokacija: Sportpark Kitzbühel, Datum: 2026-02-14
+[Wed Feb 11 2026 10:01:43 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BrondiMa uspesno zamenjal BrondiPa Lokacija: Eishalle Sterzing, Datum: 2026-02-17
+[Wed Feb 11 2026 10:01:43 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BrondiPa uspesno zamenjal BrondiMa Lokacija: Eishalle Sterzing, Datum: 2026-02-17
+[Wed Feb 11 2026 10:01:43 GMT+0100 (Srednjeevropski standardni čas)] Sodnik CristeliMa uspesno zamenjal GrisentiLu Lokacija: Eishalle Pieve di Cadore, Datum: 2026-02-17
+[Fri Feb 13 2026 06:39:19 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BrondiPa uspesno zamenjal BrondiMa Lokacija: Eishalle Sterzing, Datum: 2026-02-17
+[Fri Feb 13 2026 06:39:19 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BrondiMa uspesno zamenjal BrondiPa Lokacija: Eishalle Sterzing, Datum: 2026-02-17
+[Sun Feb 15 2026 09:35:11 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicMa uspesno zamenjal NikolicKr Lokacija: Heidi Horten Arena Klagenfurt, Datum: 2026-02-20
+[Sun Feb 15 2026 09:35:11 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicKr uspesno zamenjal NikolicMa Lokacija: Heidi Horten Arena Klagenfurt, Datum: 2026-02-20
+[Sun Feb 15 2026 09:35:11 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SeewaldEl uspesno zamenjal SeewaldJe Lokacija: Eisarena Salzburg, Datum: 2026-02-20
+[Sun Feb 15 2026 09:35:11 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SeewaldJe uspesno zamenjal SeewaldEl Lokacija: Eisarena Salzburg, Datum: 2026-02-20
+[Sun Feb 15 2026 09:35:11 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BrondiMa uspesno zamenjal BrondiPa Lokacija: Eishalle Sterzing, Datum: 2026-02-17
+[Sun Feb 15 2026 09:35:11 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BrondiPa uspesno zamenjal BrondiMa Lokacija: Eishalle Sterzing, Datum: 2026-02-17
