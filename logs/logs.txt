@@ -443,3 +443,42 @@
 [Sun Feb 15 2026 09:35:11 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SeewaldJe uspesno zamenjal SeewaldEl Lokacija: Eisarena Salzburg, Datum: 2026-02-20
 [Sun Feb 15 2026 09:35:11 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BrondiMa uspesno zamenjal BrondiPa Lokacija: Eishalle Sterzing, Datum: 2026-02-17
 [Sun Feb 15 2026 09:35:11 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BrondiPa uspesno zamenjal BrondiMa Lokacija: Eishalle Sterzing, Datum: 2026-02-17
+[Mon Feb 16 2026 12:53:16 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BrondiPa uspesno zamenjal BrondiMa Lokacija: Eishalle Sterzing, Datum: 2026-02-17
+[Mon Feb 16 2026 12:53:16 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BrondiMa uspesno zamenjal BrondiPa Lokacija: Eishalle Sterzing, Datum: 2026-02-17
+[Mon Feb 16 2026 12:53:16 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BulovecMi uspesno zamenjal BenvegnuAn Lokacija: Würtharena Neumarkt, Datum: 2026-02-19
+[Mon Feb 16 2026 12:53:16 GMT+0100 (Srednjeevropski standardni čas)] Sodnik MiklicGr uspesno zamenjal RivisAn Lokacija: Würtharena Neumarkt, Datum: 2026-02-19
+[Mon Feb 16 2026 12:53:16 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BenvegnuAn uspesno zamenjal BulovecMi Lokacija: Eishalle Gröden, Datum: 2026-02-19
+[Mon Feb 16 2026 12:53:16 GMT+0100 (Srednjeevropski standardni čas)] Sodnik RivisAn uspesno zamenjal MiklicGr Lokacija: Eishalle Gröden, Datum: 2026-02-19
+[Tue Feb 17 2026 17:38:36 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HeadEi uspesno zamenjal BrockAd Lokacija: Eishalle Ritten, Datum: 2026-02-21
+[Tue Feb 17 2026 17:38:36 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BrondiMa uspesno zamenjal BrondiPa Lokacija: Eishalle Sterzing, Datum: 2026-02-17
+[Tue Feb 17 2026 17:38:36 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BrondiPa uspesno zamenjal BrondiMa Lokacija: Eishalle Sterzing, Datum: 2026-02-17
+[Wed Feb 18 2026 09:46:10 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicMa uspesno zamenjal NikolicKr Lokacija: Eishalle Feldkirch, Datum: 2026-02-18
+[Wed Feb 18 2026 09:46:10 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SeewaldJe uspesno zamenjal SeewaldEl Lokacija: Eisarena Salzburg, Datum: 2026-02-20
+[Wed Feb 18 2026 09:46:10 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SeewaldEl uspesno zamenjal SeewaldJe Lokacija: Eisarena Salzburg, Datum: 2026-02-20
+[Wed Feb 18 2026 11:16:34 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HeadEi uspesno zamenjal PinieOm Lokacija: Eishalle Sterzing, Datum: 2026-02-21
+[Wed Feb 18 2026 11:16:34 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PinieOm uspesno zamenjal SpiegelSe Lokacija: Eishalle Sterzing, Datum: 2026-02-21
+[Wed Feb 18 2026 12:46:25 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HolzerTo uspesno zamenjal LazzeriAl Lokacija: Eishalle Dornbirn, Datum: 2026-02-25
+[Wed Feb 18 2026 12:46:25 GMT+0100 (Srednjeevropski standardni čas)] Sodnik LazzeriAl uspesno zamenjal SpiegelSe Lokacija: Eishalle Dornbirn, Datum: 2026-02-25
+[Wed Feb 18 2026 17:20:07 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HeadEi uspesno zamenjal HolzerTo Lokacija: Eishalle Asiago, Datum: 2026-02-19
+[Wed Feb 18 2026 18:52:08 GMT+0100 (Srednjeevropski standardni čas)] Sodnik HlavatyAl uspesno zamenjal HeadEi Lokacija: Eishalle Ritten, Datum: 2026-02-21
+[Wed Feb 18 2026 18:52:08 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PinieOm uspesno zamenjal HlavatyAl Lokacija: Eishalle Ritten, Datum: 2026-02-21
+[Wed Feb 18 2026 18:53:08 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PinieOm uspesno zamenjal HeadEi Lokacija: Eishalle Sterzing, Datum: 2026-02-21
+[Wed Feb 18 2026 18:53:08 GMT+0100 (Srednjeevropski standardni čas)] Sodnik CusinFe uspesno zamenjal PinieOm Lokacija: Eishalle Sterzing, Datum: 2026-02-21
+[Wed Feb 18 2026 18:53:08 GMT+0100 (Srednjeevropski standardni čas)] Sodnik DivisDo uspesno zamenjal CusinFe Lokacija: Eishalle Sterzing, Datum: 2026-02-21
+[Wed Feb 18 2026 18:53:08 GMT+0100 (Srednjeevropski standardni čas)] Sodnik  uspesno zamenjal DivisDo Lokacija: Eishalle Sterzing, Datum: 2026-02-21
+[Wed Feb 18 2026 18:54:08 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BulovecMi uspesno zamenjal PinieOm Lokacija: Eishalle Sterzing, Datum: 2026-02-21
+[Wed Feb 18 2026 18:54:08 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SnojTa uspesno zamenjal CusinFe Lokacija: Eishalle Sterzing, Datum: 2026-02-21
+[Wed Feb 18 2026 18:54:08 GMT+0100 (Srednjeevropski standardni čas)] Sodnik CusinFe uspesno zamenjal DivisDo Lokacija: Eishalle Sterzing, Datum: 2026-02-21
+[Wed Feb 18 2026 18:54:08 GMT+0100 (Srednjeevropski standardni čas)] Sodnik DivisDo uspesno zamenjal  Lokacija: Eishalle Sterzing, Datum: 2026-02-21
+[Wed Feb 18 2026 18:56:09 GMT+0100 (Srednjeevropski standardni čas)] Sodnik StefenelliFe uspesno zamenjal HeadEi Lokacija: Eishalle Asiago, Datum: 2026-02-19
+[Wed Feb 18 2026 18:56:09 GMT+0100 (Srednjeevropski standardni čas)] Sodnik FecchioFe uspesno zamenjal StefenelliFe Lokacija: Eishalle Asiago, Datum: 2026-02-19
+[Wed Feb 18 2026 18:56:09 GMT+0100 (Srednjeevropski standardni čas)] Sodnik RinkerDa uspesno zamenjal FecchioFe Lokacija: Eishalle Asiago, Datum: 2026-02-19
+[Wed Feb 18 2026 18:56:09 GMT+0100 (Srednjeevropski standardni čas)] Sodnik  uspesno zamenjal RinkerDa Lokacija: Eishalle Asiago, Datum: 2026-02-19
+[Wed Feb 18 2026 18:57:08 GMT+0100 (Srednjeevropski standardni čas)] Sodnik RuetzMa uspesno zamenjal StefenelliFe Lokacija: Eishalle Asiago, Datum: 2026-02-19
+[Wed Feb 18 2026 18:57:08 GMT+0100 (Srednjeevropski standardni čas)] Sodnik StefenelliFe uspesno zamenjal FecchioFe Lokacija: Eishalle Asiago, Datum: 2026-02-19
+[Wed Feb 18 2026 18:57:08 GMT+0100 (Srednjeevropski standardni čas)] Sodnik FecchioFe uspesno zamenjal RinkerDa Lokacija: Eishalle Asiago, Datum: 2026-02-19
+[Wed Feb 18 2026 18:57:08 GMT+0100 (Srednjeevropski standardni čas)] Sodnik RinkerDa uspesno zamenjal  Lokacija: Eishalle Asiago, Datum: 2026-02-19
+[Thu Feb 19 2026 06:00:13 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicKr uspesno zamenjal NikolicMa Lokacija: Heidi Horten Arena Klagenfurt, Datum: 2026-02-20
+[Thu Feb 19 2026 06:00:13 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicMa uspesno zamenjal NikolicKr Lokacija: Heidi Horten Arena Klagenfurt, Datum: 2026-02-20
+[Thu Feb 19 2026 06:00:13 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SeewaldEl uspesno zamenjal SeewaldJe Lokacija: Eisarena Salzburg, Datum: 2026-02-20
+[Thu Feb 19 2026 06:00:13 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SeewaldJe uspesno zamenjal SeewaldEl Lokacija: Eisarena Salzburg, Datum: 2026-02-20

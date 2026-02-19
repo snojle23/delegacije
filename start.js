@@ -34,7 +34,7 @@ function scheduledFunction() {
                 // "trilarvi": "viki@hokej.si", -- viki ni dal sixpacka za 2022-23 in za 2023-24
                 // "zgoncga": "jaka.zgonc@gmail.com", prvi mail 10.10.2022 (ni plaču za 22-23, 23-24)
                 // "bergantan": "anze.bergant@gmail.com", bergi ni plaču za 2022-23 in za 2023-24
-                "bulovecmi": "miha.bulovec@gmail.com", //plačano do konca 2024-25
+                "bulovecmi": "miha.bulovec@gmail.com", // plačano do konca 2024-25
                 "piragictr": "trpimir.piragic@gmail.com", // 2023-24 plačana z rakijo
                 "seewaldel": "seewald30@gmail.com",
                 "murnikpe": "petja.murnik@gmail.com", // 23-24 plaču na tekmi v sisku(2.10.2025)

@@ -590,3 +590,16 @@ Sodniku GiacomozziFe se je izbrisal datum iz AHL sheme. Datum:2026-02-17
 Sodniku GiacomozziFe se je izbrisal datum iz AHL sheme. Datum:2026-02-21
 Sodniku CristeliMa se je izbrisal datum iz AHL sheme. Datum:2026-02-14
 Sodniku GrisentiLu se je izbrisal datum iz AHL sheme. Datum:2026-02-17
+Sodniku BrockAd se je izbrisal datum iz AHL sheme. Datum:2026-02-21
+[Tue Feb 17 2026 17:38:36 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnikHeadEi uspesno dodan 
+Sodniku SpiegelSe se je izbrisal datum iz AHL sheme. Datum:2026-02-21
+Sodniku SpiegelSe se je izbrisal datum iz AHL sheme. Datum:2026-02-25
+Sodniku HolzerTo se je izbrisal datum iz AHL sheme. Datum:2026-02-19
+Sodniku HeadEi se je izbrisal datum iz AHL sheme. Datum:2026-02-21
+Sodniku HeadEi se je izbrisal datum iz AHL sheme. Datum:2026-02-21
+[Wed Feb 18 2026 18:53:08 GMT+0100 (Srednjeevropski standardni čas)] Nov sodnik uspesno dodan 
+Sodniku PinieOm se je izbrisal datum iz AHL sheme. Datum:2026-02-21
+Sodniku PinieOm se je izbrisal datum iz AHL sheme. Datum:2026-02-21
+Sodniku  se je izbrisal datum iz AHL sheme. Datum:2026-02-21
+Sodniku HeadEi se je izbrisal datum iz AHL sheme. Datum:2026-02-19
+Sodniku  se je izbrisal datum iz AHL sheme. Datum:2026-02-19

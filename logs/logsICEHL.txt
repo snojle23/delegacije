@@ -568,3 +568,4 @@ Sodniku HeadZw se je izbrisal datum iz ICEHL sheme. Datum:2026-02-25
 Sodniku HeadEi se je izbrisal datum iz ICEHL sheme. Datum:2026-02-25
 Sodniku LinesmanEi se je izbrisal datum iz ICEHL sheme. Datum:2026-02-25
 Sodniku LinesmanZw se je izbrisal datum iz ICEHL sheme. Datum:2026-02-25
+Sodniku NikolicKr se je izbrisal datum iz ICEHL sheme. Datum:2026-02-18
