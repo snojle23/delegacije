@@ -482,3 +482,20 @@
 [Thu Feb 19 2026 06:00:13 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicMa uspesno zamenjal NikolicKr Lokacija: Heidi Horten Arena Klagenfurt, Datum: 2026-02-20
 [Thu Feb 19 2026 06:00:13 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SeewaldEl uspesno zamenjal SeewaldJe Lokacija: Eisarena Salzburg, Datum: 2026-02-20
 [Thu Feb 19 2026 06:00:13 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SeewaldJe uspesno zamenjal SeewaldEl Lokacija: Eisarena Salzburg, Datum: 2026-02-20
+[Thu Feb 19 2026 18:39:56 GMT+0100 (Srednjeevropski standardni čas)] Sodnik LazzeriAl uspesno zamenjal PinieOm Lokacija: Eishalle Ritten, Datum: 2026-02-19
+[Thu Feb 19 2026 18:39:56 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PinieOm uspesno zamenjal WinklerDa Lokacija: Eishalle Ritten, Datum: 2026-02-19
+[Sat Feb 21 2026 12:16:49 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicKr uspesno zamenjal SmetanaLa Lokacija: Tiroler Wasserkraft Arena, Datum: 2026-02-21
+[Sat Feb 21 2026 12:16:49 GMT+0100 (Srednjeevropski standardni čas)] Sodnik Dummermuth-haasEl uspesno zamenjal BedynekSe Lokacija: Tiroler Wasserkraft Arena, Datum: 2026-02-21
+[Sat Feb 21 2026 12:16:49 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PardatscherUl uspesno zamenjal Dummermuth-haasEl Lokacija: Tiroler Wasserkraft Arena, Datum: 2026-02-21
+[Sat Feb 21 2026 12:49:46 GMT+0100 (Srednjeevropski standardni čas)] Sodnik RivisFe uspesno zamenjal Huber aAn Lokacija: Sparkasse Arena Bozen, Datum: 2026-02-21
+[Sat Feb 21 2026 12:49:46 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SmetanaLa uspesno zamenjal RivisFe Lokacija: Sparkasse Arena Bozen, Datum: 2026-02-21
+[Sat Feb 21 2026 12:49:46 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BedynekSe uspesno zamenjal MantovaniDa Lokacija: Sparkasse Arena Bozen, Datum: 2026-02-21
+[Sat Feb 21 2026 12:49:46 GMT+0100 (Srednjeevropski standardni čas)] Sodnik MantovaniDa uspesno zamenjal PardatscherUl Lokacija: Sparkasse Arena Bozen, Datum: 2026-02-21
+[Sun Feb 22 2026 14:26:47 GMT+0100 (Srednjeevropski standardni čas)] Sodnik RieckenSi uspesno zamenjal JeramFi Lokacija: Stadthalle Villach, Datum: 2026-02-22
+[Sun Feb 22 2026 14:26:47 GMT+0100 (Srednjeevropski standardni čas)] Sodnik ZgoncGa uspesno zamenjal RieckenSi Lokacija: Stadthalle Villach, Datum: 2026-02-22
+[Sun Feb 22 2026 14:26:47 GMT+0100 (Srednjeevropski standardni čas)] Sodnik NikolicMa uspesno zamenjal Huber aAn Lokacija: Hala Tivoli, Datum: 2026-02-25
+[Sun Feb 22 2026 14:26:47 GMT+0100 (Srednjeevropski standardni čas)] Sodnik OfnerCh uspesno zamenjal NikolicMa Lokacija: Hala Tivoli, Datum: 2026-02-25
+[Sun Feb 22 2026 14:26:47 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SternatCh uspesno zamenjal OfnerCh Lokacija: Heidi Horten Arena Klagenfurt, Datum: 2026-02-25
+[Sun Feb 22 2026 14:26:47 GMT+0100 (Srednjeevropski standardni čas)] Sodnik UnterwegerDo uspesno zamenjal SternatCh Lokacija: Heidi Horten Arena Klagenfurt, Datum: 2026-02-25
+[Sun Feb 22 2026 14:26:47 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PirasAn uspesno zamenjal GiacomozziFe Lokacija: Eishalle Asiago, Datum: 2026-02-28
+[Sun Feb 22 2026 14:26:47 GMT+0100 (Srednjeevropski standardni čas)] Sodnik StefenelliFe uspesno zamenjal PirasAn Lokacija: Eishalle Asiago, Datum: 2026-02-28

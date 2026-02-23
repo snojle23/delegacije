@@ -603,3 +603,5 @@ Sodniku PinieOm se je izbrisal datum iz AHL sheme. Datum:2026-02-21
 Sodniku  se je izbrisal datum iz AHL sheme. Datum:2026-02-21
 Sodniku HeadEi se je izbrisal datum iz AHL sheme. Datum:2026-02-19
 Sodniku  se je izbrisal datum iz AHL sheme. Datum:2026-02-19
+Sodniku WinklerDa se je izbrisal datum iz AHL sheme. Datum:2026-02-19
+Sodniku GiacomozziFe se je izbrisal datum iz AHL sheme. Datum:2026-02-28
