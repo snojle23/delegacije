@@ -499,3 +499,4 @@
 [Sun Feb 22 2026 14:26:47 GMT+0100 (Srednjeevropski standardni čas)] Sodnik UnterwegerDo uspesno zamenjal SternatCh Lokacija: Heidi Horten Arena Klagenfurt, Datum: 2026-02-25
 [Sun Feb 22 2026 14:26:47 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PirasAn uspesno zamenjal GiacomozziFe Lokacija: Eishalle Asiago, Datum: 2026-02-28
 [Sun Feb 22 2026 14:26:47 GMT+0100 (Srednjeevropski standardni čas)] Sodnik StefenelliFe uspesno zamenjal PirasAn Lokacija: Eishalle Asiago, Datum: 2026-02-28
+[Tue Feb 24 2026 04:39:34 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SchauerJa uspesno zamenjal HolzerTo Lokacija: Tiroler Wasserkraft Arena, Datum: 2026-02-27

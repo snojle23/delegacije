@@ -605,3 +605,9 @@ Sodniku HeadEi se je izbrisal datum iz AHL sheme. Datum:2026-02-19
 Sodniku  se je izbrisal datum iz AHL sheme. Datum:2026-02-19
 Sodniku WinklerDa se je izbrisal datum iz AHL sheme. Datum:2026-02-19
 Sodniku GiacomozziFe se je izbrisal datum iz AHL sheme. Datum:2026-02-28
+[Tue Feb 24 2026 04:39:34 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2026-03-03
+[Tue Feb 24 2026 04:39:34 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2026-03-03
+[Tue Feb 24 2026 04:39:34 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2026-03-05
+[Tue Feb 24 2026 04:39:34 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2026-03-05
+[Tue Feb 24 2026 04:39:34 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2026-03-07
+[Tue Feb 24 2026 04:39:34 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2026-03-07
