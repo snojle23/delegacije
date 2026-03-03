@@ -589,3 +589,9 @@ Sodniku PardatscherUl se je izbrisal datum iz ICEHL sheme. Datum:2026-02-21
 Sodniku JeramFi se je izbrisal datum iz ICEHL sheme. Datum:2026-02-22
 Sodniku Huber aAn se je izbrisal datum iz ICEHL sheme. Datum:2026-02-25
 Sodniku HolzerTo se je izbrisal datum iz ICEHL sheme. Datum:2026-02-27
+[Mon Mar 02 2026 08:47:54 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2026-03-04
+[Mon Mar 02 2026 08:47:54 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2026-03-04
+[Mon Mar 02 2026 08:47:54 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2026-03-04
+[Tue Mar 03 2026 08:12:21 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2026-03-06
+[Tue Mar 03 2026 08:12:21 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2026-03-06
+[Tue Mar 03 2026 08:12:21 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2026-03-06

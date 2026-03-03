@@ -500,3 +500,9 @@
 [Sun Feb 22 2026 14:26:47 GMT+0100 (Srednjeevropski standardni čas)] Sodnik PirasAn uspesno zamenjal GiacomozziFe Lokacija: Eishalle Asiago, Datum: 2026-02-28
 [Sun Feb 22 2026 14:26:47 GMT+0100 (Srednjeevropski standardni čas)] Sodnik StefenelliFe uspesno zamenjal PirasAn Lokacija: Eishalle Asiago, Datum: 2026-02-28
 [Tue Feb 24 2026 04:39:34 GMT+0100 (Srednjeevropski standardni čas)] Sodnik SchauerJa uspesno zamenjal HolzerTo Lokacija: Tiroler Wasserkraft Arena, Datum: 2026-02-27
+[Thu Feb 26 2026 09:10:33 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BergantAn uspesno zamenjal LebenJa Lokacija: Eishalle Pieve di Cadore, Datum: 2026-02-26
+[Thu Feb 26 2026 15:44:08 GMT+0100 (Srednjeevropski standardni čas)] Sodnik GrisentiLu uspesno zamenjal CristeliMa Lokacija: Würtharena Neumarkt, Datum: 2026-02-26
+[Thu Feb 26 2026 15:44:08 GMT+0100 (Srednjeevropski standardni čas)] Sodnik CristeliMa uspesno zamenjal FecchioFe Lokacija: Eishalle Gröden, Datum: 2026-02-26
+[Thu Feb 26 2026 15:44:08 GMT+0100 (Srednjeevropski standardni čas)] Sodnik FecchioFe uspesno zamenjal GrisentiLu Lokacija: Eishalle Gröden, Datum: 2026-02-26
+[Sat Feb 28 2026 18:17:53 GMT+0100 (Srednjeevropski standardni čas)] Sodnik IlmerNo uspesno zamenjal RivisAn Lokacija: Eishalle Dornbirn, Datum: 2026-03-05
+[Sat Feb 28 2026 18:17:53 GMT+0100 (Srednjeevropski standardni čas)] Sodnik RivisAn uspesno zamenjal IlmerNo Lokacija: Eishalle Asiago, Datum: 2026-03-07
