@@ -506,3 +506,6 @@
 [Thu Feb 26 2026 15:44:08 GMT+0100 (Srednjeevropski standardni čas)] Sodnik FecchioFe uspesno zamenjal GrisentiLu Lokacija: Eishalle Gröden, Datum: 2026-02-26
 [Sat Feb 28 2026 18:17:53 GMT+0100 (Srednjeevropski standardni čas)] Sodnik IlmerNo uspesno zamenjal RivisAn Lokacija: Eishalle Dornbirn, Datum: 2026-03-05
 [Sat Feb 28 2026 18:17:53 GMT+0100 (Srednjeevropski standardni čas)] Sodnik RivisAn uspesno zamenjal IlmerNo Lokacija: Eishalle Asiago, Datum: 2026-03-07
+[Thu Mar 05 2026 11:29:50 GMT+0100 (Srednjeevropski standardni čas)] Sodnik MartinFl uspesno zamenjal IlmerNo Lokacija: Eishalle Dornbirn, Datum: 2026-03-05
+[Thu Mar 05 2026 11:29:50 GMT+0100 (Srednjeevropski standardni čas)] Sodnik CristeliMa uspesno zamenjal BrondiMa Lokacija: Eishalle Sterzing, Datum: 2026-03-05
+[Thu Mar 05 2026 11:29:50 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BrondiMa uspesno zamenjal CristeliMa Lokacija: Eishalle Asiago, Datum: 2026-03-07
