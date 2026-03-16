@@ -615,3 +615,19 @@ Sodniku HolzerTo se je izbrisal datum iz ICEHL sheme. Datum:2026-02-27
 [Tue Mar 10 2026 16:25:13 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2026-03-17
 [Tue Mar 10 2026 16:25:13 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2026-03-17
 [Tue Mar 10 2026 16:25:13 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2026-03-17
+Sodniku PiragicTr se je izbrisal datum iz ICEHL sheme. Datum:2026-03-12
+Sodniku SmetanaLa se je izbrisal datum iz ICEHL sheme. Datum:2026-03-12
+Sodniku RieckenSi se je izbrisal datum iz ICEHL sheme. Datum:2026-03-12
+Sodniku MuzsikNo se je izbrisal datum iz ICEHL sheme. Datum:2026-03-12
+Sodniku OfnerCh se je izbrisal datum iz ICEHL sheme. Datum:2026-03-14
+Sodniku KoncDa se je izbrisal datum iz ICEHL sheme. Datum:2026-03-14
+Sodniku SchauerJa se je izbrisal datum iz ICEHL sheme. Datum:2026-03-14
+Sodniku JedlickaPe se je izbrisal datum iz ICEHL sheme. Datum:2026-03-14
+[Thu Mar 12 2026 14:58:22 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2026-03-15
+[Thu Mar 12 2026 14:58:22 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2026-03-15
+Sodniku NikolicKr se je izbrisal datum iz ICEHL sheme. Datum:2026-03-17
+[Mon Mar 16 2026 10:42:00 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2026-03-19
+[Mon Mar 16 2026 10:42:00 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v ICEHL_DAT. Datum:2026-03-19
+[Mon Mar 16 2026 10:42:00 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2026-03-19
+[Mon Mar 16 2026 10:42:00 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2026-03-19
+[Mon Mar 16 2026 10:42:00 GMT+0100 (Srednjeevropski standardni čas)] Nov datum dodan v delegacije. Datum:2026-03-19

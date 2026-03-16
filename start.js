@@ -11,7 +11,7 @@ const transporter = nodemailer.createTransport({ // 'ICEObvescanje1'
 });
 let counter = 1;
 let countHour = 0;
-const min = 15;
+const min = 1;
 const sestUr = 360 / min;
 
 scheduledFunction();
@@ -29,7 +29,7 @@ function scheduledFunction() {
                 "snojta": "tadej.snoj@gmail.com",
                 // "c": "miha.bajt@gmail.com", ni plaču za 2022-23 in za 2023-24
                 "miklicgr": "gregor.miklic.sp@gmail.com", // plačano do konca 2024-25
-                "rezekgr": "gregor.rezek@gmail.com", // prinesel za sezono 2023-24, 13.1.2025 prinese sixpack za sezono 24-25
+                "rezekgr": "gregor.rezek@gmail.com", // prinesel za sezono 2023-24, 13.1.2025 prinese sixpack za sezono 24-25, za 25-26 prinesel 8.3.2026 v Zalog
                 "zrnicmi": "milan_zrnic@hotmail.com", // za 23-24 prinesel sixpacka 11.10.2024 na tekmo, 5.9.2025 plačal za sezono 24/25 in za 25/26 (2 six packa)
                 // "trilarvi": "viki@hokej.si", -- viki ni dal sixpacka za 2022-23 in za 2023-24
                 // "zgoncga": "jaka.zgonc@gmail.com", prvi mail 10.10.2022 (ni plaču za 22-23, 23-24)
@@ -44,7 +44,7 @@ function scheduledFunction() {
 
             //|Sezona  | 2024-25| 2025-26|
             // miklicgr|    DA  |   NE   |
-            // rezekgr |    DA  |   NE   |
+            // rezekgr |    DA  |   DA   |
             // zrnicmi |    DA  |   DA   |
             // bulovec |    DA  |   NE   |
             // murnikp |    -   |   NE   |
@@ -76,6 +76,22 @@ function scheduledFunction() {
                         } else {
                             console.log('Email sent: ' + info.response + "to " + i.sodnik);
                             console.log(tekme)
+                            console.log("----------------------------------")
+                        }
+                    });
+                }
+                if(i.sodnik === 'bulovecmi' || i.sodnik === 'bergantan'){
+                    const mailOptions2 = {
+                        from: 'delegacijeice@gmail.com',
+                        to: 'tadej.snoj@gmail.com',
+                        subject: `BB tekme`,
+                        html: htmlTekst
+                    };
+                    transporter.sendMail(mailOptions2, function (error, info) {
+                        if (error) {
+                            console.log(error);
+                        } else {
+                            console.log('Email sent: ker je BB dubu tekmo');
                             console.log("----------------------------------")
                         }
                     });
