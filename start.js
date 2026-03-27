@@ -11,7 +11,7 @@ const transporter = nodemailer.createTransport({ // 'ICEObvescanje1'
 });
 let counter = 1;
 let countHour = 0;
-const min = 1;
+const min = 15;
 const sestUr = 360 / min;
 
 scheduledFunction();
@@ -60,9 +60,9 @@ function scheduledFunction() {
                                 ${i.tekme.map(t => `<li>${t.liga} - ${t.datum}</li>`).join('')}
                             </ul>
                             `;
-                                            // <ul>
-                        //     ${i.tekme.map(t => `<li>${t.liga} - ${t.datum}</li>`).join('')}
-                        // </ul>
+                    // <ul>
+                    //     ${i.tekme.map(t => `<li>${t.liga} - ${t.datum}</li>`).join('')}
+                    // </ul>
 
                     const mailOptions = {
                         from: 'delegacijeice@gmail.com',
@@ -79,22 +79,23 @@ function scheduledFunction() {
                             console.log("----------------------------------")
                         }
                     });
-                }
-                if(i.sodnik === 'bulovecmi' || i.sodnik === 'bergantan'){
-                    const mailOptions2 = {
-                        from: 'delegacijeice@gmail.com',
-                        to: 'tadej.snoj@gmail.com',
-                        subject: `BB tekme`,
-                        html: htmlTekst
-                    };
-                    transporter.sendMail(mailOptions2, function (error, info) {
-                        if (error) {
-                            console.log(error);
-                        } else {
-                            console.log('Email sent: ker je BB dubu tekmo');
-                            console.log("----------------------------------")
-                        }
-                    });
+
+                    if (i.sodnik === 'bulovecmi' || i.sodnik === 'bergantan') {
+                        const mailOptions2 = {
+                            from: 'delegacijeice@gmail.com',
+                            to: 'tadej.snoj@gmail.com',
+                            subject: `BB tekme`,
+                            html: htmlTekst
+                        };
+                        transporter.sendMail(mailOptions2, function (error, info) {
+                            if (error) {
+                                console.log(error);
+                            } else {
+                                console.log('Email sent: ker je BB dubu tekmo');
+                                console.log("----------------------------------")
+                            }
+                        });
+                    }
                 }
             });
         }

@@ -511,3 +511,5 @@
 [Thu Mar 05 2026 11:29:50 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BrondiMa uspesno zamenjal CristeliMa Lokacija: Eishalle Asiago, Datum: 2026-03-07
 [Fri Mar 13 2026 10:37:25 GMT+0100 (Srednjeevropski standardni čas)] Sodnik BrondiPa uspesno zamenjal CristeliMa Lokacija: Eishalle Gröden, Datum: 2026-03-13
 [Fri Mar 13 2026 11:10:15 GMT+0100 (Srednjeevropski standardni čas)] Sodnik OfnerCh uspesno zamenjal NikolicKr Lokacija: Hala Tivoli, Datum: 2026-03-17
+[Wed Mar 25 2026 20:10:33 GMT+0100 (Central European Standard Time)] Sodnik Dummermuth-haasEl uspesno zamenjal BrondiPa Lokacija: Eishalle Sissek Zibel, Datum: 2026-03-29
+[Wed Mar 25 2026 20:10:33 GMT+0100 (Central European Standard Time)] Sodnik SeewaldJe uspesno zamenjal Dummermuth-haasEl Lokacija: Eishalle Sissek Zibel, Datum: 2026-03-29
