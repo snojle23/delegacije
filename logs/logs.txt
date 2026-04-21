@@ -513,3 +513,4 @@
 [Fri Mar 13 2026 11:10:15 GMT+0100 (Srednjeevropski standardni čas)] Sodnik OfnerCh uspesno zamenjal NikolicKr Lokacija: Hala Tivoli, Datum: 2026-03-17
 [Wed Mar 25 2026 20:10:33 GMT+0100 (Central European Standard Time)] Sodnik Dummermuth-haasEl uspesno zamenjal BrondiPa Lokacija: Eishalle Sissek Zibel, Datum: 2026-03-29
 [Wed Mar 25 2026 20:10:33 GMT+0100 (Central European Standard Time)] Sodnik SeewaldJe uspesno zamenjal Dummermuth-haasEl Lokacija: Eishalle Sissek Zibel, Datum: 2026-03-29
+[Thu Apr 16 2026 16:24:26 GMT+0200 (Central European Summer Time)] Sodnik StrimitzerDa uspesno zamenjal Dummermuth-haasEl Lokacija: Eishalle Gröden, Datum: 2026-04-18

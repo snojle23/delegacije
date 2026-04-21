@@ -657,3 +657,13 @@ Sodniku JedlickaPe se je izbrisal datum iz ICEHL sheme. Datum:2026-03-19
 [Thu Mar 26 2026 17:47:04 GMT+0100 (Central European Standard Time)] Nov datum dodan v delegacije. Datum:2026-04-05
 [Thu Mar 26 2026 17:47:04 GMT+0100 (Central European Standard Time)] Nov datum dodan v ICEHL_DAT. Datum:2026-04-05
 [Thu Mar 26 2026 17:49:04 GMT+0100 (Central European Standard Time)] Nov datum dodan v delegacije. Datum:2026-04-05
+[Mon Apr 06 2026 07:43:33 GMT+0200 (Central European Summer Time)] Nov datum dodan v delegacije. Datum:2026-04-07
+[Mon Apr 06 2026 07:43:33 GMT+0200 (Central European Summer Time)] Nov datum dodan v ICEHL_DAT. Datum:2026-04-07
+[Mon Apr 13 2026 08:18:53 GMT+0200 (Central European Summer Time)] Nov datum dodan v delegacije. Datum:2026-04-15
+[Mon Apr 13 2026 08:18:53 GMT+0200 (Central European Summer Time)] Nov datum dodan v ICEHL_DAT. Datum:2026-04-15
+[Mon Apr 13 2026 08:18:53 GMT+0200 (Central European Summer Time)] Nov datum dodan v delegacije. Datum:2026-04-17
+[Mon Apr 13 2026 08:18:53 GMT+0200 (Central European Summer Time)] Nov datum dodan v ICEHL_DAT. Datum:2026-04-17
+[Mon Apr 13 2026 08:18:53 GMT+0200 (Central European Summer Time)] Nov datum dodan v delegacije. Datum:2026-04-19
+[Mon Apr 13 2026 08:18:53 GMT+0200 (Central European Summer Time)] Nov datum dodan v ICEHL_DAT. Datum:2026-04-19
+[Mon Apr 20 2026 19:54:26 GMT+0200 (Central European Summer Time)] Nov datum dodan v delegacije. Datum:2026-04-22
+[Mon Apr 20 2026 19:54:26 GMT+0200 (Central European Summer Time)] Nov datum dodan v ICEHL_DAT. Datum:2026-04-22

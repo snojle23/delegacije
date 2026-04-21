@@ -11,7 +11,7 @@ const transporter = nodemailer.createTransport({ // 'ICEObvescanje1'
 });
 let counter = 1;
 let countHour = 0;
-const min = 15;
+const min = 30;
 const sestUr = 360 / min;
 
 scheduledFunction();
@@ -70,15 +70,15 @@ function scheduledFunction() {
                         subject: `New game AHL/ICEHL`,
                         html: htmlTekst
                     };
-                    transporter.sendMail(mailOptions, function (error, info) {
-                        if (error) {
-                            console.log(error);
-                        } else {
-                            console.log('Email sent: ' + info.response + "to " + i.sodnik);
-                            console.log(tekme)
-                            console.log("----------------------------------")
-                        }
-                    });
+                    // transporter.sendMail(mailOptions, function (error, info) {
+                    //     if (error) {
+                    //         console.log(error);
+                    //     } else {
+                    //         console.log('Email sent: ' + info.response + "to " + i.sodnik);
+                    //         console.log(tekme)
+                    //         console.log("----------------------------------")
+                    //     }
+                    // });
 
                     if (i.sodnik === 'bulovecmi' || i.sodnik === 'bergantan') {
                         const mailOptions2 = {
