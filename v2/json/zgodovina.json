@@ -1,0 +1,230 @@
+{
+  "games": {
+    "ICEHL|2026-09-18|FTC-Telekom Rink": {
+      "liga": "ICEHL",
+      "datum": "2026-09-18",
+      "ura": "18:30",
+      "lokacija": "FTC-Telekom Rink",
+      "domaci": "FTC",
+      "gosti": "OLL",
+      "status": "confirmed",
+      "assignments": {
+        "REF1": "MuzsikNo",
+        "REF2": "SabianBa",
+        "HREF1": "Peter gebeiGe",
+        "HREF2": "SmetanaLa"
+      },
+      "izbrisana": false,
+      "odigrana": false,
+      "created_at": "2026-09-18T12:44:29.929Z",
+      "updated_at": "2026-09-18T12:52:51.447Z"
+    },
+    "ICEHL|2026-09-18|Eishalle Volksgarten Salzburg": {
+      "liga": "ICEHL",
+      "datum": "2026-09-18",
+      "ura": "19:15",
+      "lokacija": "Eishalle Volksgarten Salzburg",
+      "domaci": "RBS",
+      "gosti": "KAC",
+      "status": "confirmed",
+      "assignments": {
+        "REF1": "RieckenSi",
+        "REF2": "ZacherlPa",
+        "HREF1": "OfnerCh",
+        "HREF2": "SternatCh"
+      },
+      "izbrisana": false,
+      "odigrana": false,
+      "created_at": "2026-09-18T12:44:29.929Z",
+      "updated_at": "2026-09-18T12:52:51.447Z"
+    },
+    "ICEHL|2026-09-18|Innsbruck TIWAG Arena": {
+      "liga": "ICEHL",
+      "datum": "2026-09-18",
+      "ura": "19:15",
+      "lokacija": "Innsbruck TIWAG Arena",
+      "domaci": "HCI",
+      "gosti": "MHC",
+      "status": "confirmed",
+      "assignments": {
+        "REF1": "BedynekSe",
+        "REF2": "StrimitzerDa",
+        "HREF1": "Huber rRe",
+        "HREF2": "KainbergerJu"
+      },
+      "izbrisana": false,
+      "odigrana": false,
+      "created_at": "2026-09-18T12:44:29.929Z",
+      "updated_at": "2026-09-18T12:52:51.447Z"
+    },
+    "ICEHL|2026-09-18|Ifjabb Ocskay Gábor Jégcsarnok": {
+      "liga": "ICEHL",
+      "datum": "2026-09-18",
+      "ura": "19:15",
+      "lokacija": "Ifjabb Ocskay Gábor Jégcsarnok",
+      "domaci": "AVS",
+      "gosti": "BWL",
+      "status": "confirmed",
+      "assignments": {
+        "REF1": "DurmisOt",
+        "REF2": "KovacsPe",
+        "HREF1": "FichtnerPa",
+        "HREF2": "HlavatyAl"
+      },
+      "izbrisana": false,
+      "odigrana": false,
+      "created_at": "2026-09-18T12:44:29.929Z",
+      "updated_at": "2026-09-18T12:52:51.447Z"
+    },
+    "ICEHL|2026-09-18|Feldkirch Vorarlberghalle": {
+      "liga": "ICEHL",
+      "datum": "2026-09-18",
+      "ura": "19:30",
+      "lokacija": "Feldkirch Vorarlberghalle",
+      "domaci": "PIV",
+      "gosti": "VSV",
+      "status": "confirmed",
+      "assignments": {
+        "REF1": "DivisDo",
+        "REF2": "FleischmannLu",
+        "HREF1": "HolzerTo",
+        "HREF2": "NikolicMa"
+      },
+      "izbrisana": false,
+      "odigrana": false,
+      "created_at": "2026-09-18T12:44:29.929Z",
+      "updated_at": "2026-09-18T12:52:51.447Z"
+    },
+    "ICEHL|2026-09-18|Intercable Arena Bruneck": {
+      "liga": "ICEHL",
+      "datum": "2026-09-18",
+      "ura": "19:45",
+      "lokacija": "Intercable Arena Bruneck",
+      "domaci": "HCP",
+      "gosti": "G99",
+      "status": "confirmed",
+      "assignments": {
+        "REF1": "Dummermuth-haasEl",
+        "REF2": "Jaka zgoncGa",
+        "HREF1": "NikolicKr",
+        "HREF2": "RivisFe"
+      },
+      "izbrisana": false,
+      "odigrana": false,
+      "created_at": "2026-09-18T12:44:29.929Z",
+      "updated_at": "2026-09-18T12:52:51.447Z"
+    },
+    "ICEHL|2026-09-18|Sparkasse Arena Bozen": {
+      "liga": "ICEHL",
+      "datum": "2026-09-18",
+      "ura": "19:45",
+      "lokacija": "Sparkasse Arena Bozen",
+      "domaci": "HCB",
+      "gosti": "VIC",
+      "status": "confirmed",
+      "assignments": {
+        "REF1": "PardatscherUl",
+        "REF2": "PuffWo",
+        "HREF1": "Huber aAn",
+        "HREF2": "SchauerJa"
+      },
+      "izbrisana": false,
+      "odigrana": false,
+      "created_at": "2026-09-18T12:44:29.929Z",
+      "updated_at": "2026-09-18T12:52:51.447Z"
+    }
+  },
+  "log": [
+    {
+      "timestamp": "2026-09-18T12:44:29.929Z",
+      "tip": "nova_tekma",
+      "liga": "ICEHL",
+      "datum": "2026-09-18",
+      "lokacija": "FTC-Telekom Rink",
+      "assignments": {
+        "REF1": "MuzsikNo",
+        "REF2": "SabianBa",
+        "HREF1": "Peter gebeiGe",
+        "HREF2": "SmetanaLa"
+      }
+    },
+    {
+      "timestamp": "2026-09-18T12:44:29.929Z",
+      "tip": "nova_tekma",
+      "liga": "ICEHL",
+      "datum": "2026-09-18",
+      "lokacija": "Eishalle Volksgarten Salzburg",
+      "assignments": {
+        "REF1": "RieckenSi",
+        "REF2": "ZacherlPa",
+        "HREF1": "OfnerCh",
+        "HREF2": "SternatCh"
+      }
+    },
+    {
+      "timestamp": "2026-09-18T12:44:29.929Z",
+      "tip": "nova_tekma",
+      "liga": "ICEHL",
+      "datum": "2026-09-18",
+      "lokacija": "Innsbruck TIWAG Arena",
+      "assignments": {
+        "REF1": "BedynekSe",
+        "REF2": "StrimitzerDa",
+        "HREF1": "Huber rRe",
+        "HREF2": "KainbergerJu"
+      }
+    },
+    {
+      "timestamp": "2026-09-18T12:44:29.929Z",
+      "tip": "nova_tekma",
+      "liga": "ICEHL",
+      "datum": "2026-09-18",
+      "lokacija": "Ifjabb Ocskay Gábor Jégcsarnok",
+      "assignments": {
+        "REF1": "DurmisOt",
+        "REF2": "KovacsPe",
+        "HREF1": "FichtnerPa",
+        "HREF2": "HlavatyAl"
+      }
+    },
+    {
+      "timestamp": "2026-09-18T12:44:29.929Z",
+      "tip": "nova_tekma",
+      "liga": "ICEHL",
+      "datum": "2026-09-18",
+      "lokacija": "Feldkirch Vorarlberghalle",
+      "assignments": {
+        "REF1": "DivisDo",
+        "REF2": "FleischmannLu",
+        "HREF1": "HolzerTo",
+        "HREF2": "NikolicMa"
+      }
+    },
+    {
+      "timestamp": "2026-09-18T12:44:29.929Z",
+      "tip": "nova_tekma",
+      "liga": "ICEHL",
+      "datum": "2026-09-18",
+      "lokacija": "Intercable Arena Bruneck",
+      "assignments": {
+        "REF1": "Dummermuth-haasEl",
+        "REF2": "Jaka zgoncGa",
+        "HREF1": "NikolicKr",
+        "HREF2": "RivisFe"
+      }
+    },
+    {
+      "timestamp": "2026-09-18T12:44:29.929Z",
+      "tip": "nova_tekma",
+      "liga": "ICEHL",
+      "datum": "2026-09-18",
+      "lokacija": "Sparkasse Arena Bozen",
+      "assignments": {
+        "REF1": "PardatscherUl",
+        "REF2": "PuffWo",
+        "HREF1": "Huber aAn",
+        "HREF2": "SchauerJa"
+      }
+    }
+  ]
+}
